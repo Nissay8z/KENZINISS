@@ -1,79 +1,49 @@
 import requests
 import os
-import re
 
 def generate_m3u():
-    PROXY_USER = "iagazvbg"
-    PROXY_PASS = "5is8kx1h8tn5"
+    # L'adresse interne générée par ton serveur Waifly
+    waifly_ip_interne = "172.18.0.115:8080" 
+    # Ton adresse publique Waifly
+    waifly_ip_publique = "node4.waifly.com:25177" 
     
-    proxy_list = [
-        "45.38.107.97:6014",  # UK (Celui qui marche bien)
-        "84.247.60.125:6095", # Pologne
-        "64.137.96.74:6641"   # Espagne
-    ]
-
-    url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
-    
-    headers = {
-        'User-Agent': 'VAVOO/2.6 (Linux; Android 13)',
-        'Accept': 'application/json',
-    }
-
-    channels = None
-
-    for proxy_addr in proxy_list:
-        proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{proxy_addr}"
-        proxies = {"http": proxy_url, "https": proxy_url}
-        
-        try:
-            print(f"Tentative via le proxy : {proxy_addr}...")
-            response = requests.get(url_api, headers=headers, proxies=proxies, timeout=20)
-            response.raise_for_status()
-            
-            data = response.json()
-            if isinstance(data, list) and len(data) > 0:
-                channels = data
-                print(f"✅ SUCCÈS ! {len(channels)} chaînes trouvées.")
-                break
-        except Exception as e:
-            print(f"❌ Échec avec {proxy_addr} : {e}")
-
-    if not channels:
-        print("Désolé, impossible de récupérer les chaînes.")
-        return
-
-    base_worker_url = "https://trumit-python.umittv.workers.dev" 
+    # Les pays que tu veux récupérer
+    lists_to_get = ["France.m3u8", "France_hls.m3u8", "Germany.m3u8", "United_Kingdom.m3u8"]
 
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"
     
-    count = 0
+    total_count = 0
+    
     with open(m3u_path, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for ch in channels:
-            name = ch.get("name", "Inconnu")
-            group = ch.get("group", "Général")
-            logo = ch.get("logo", "")
-            stream_url_vavoo = ch.get("url", "")
+        
+        for list_name in lists_to_get:
+            print(f"Téléchargement de {list_name} depuis Waifly...")
+            url = f"http://node4.waifly.com:25177/{list_name}"
             
-            if not stream_url_vavoo:
-                continue
+            try:
+                response = requests.get(url, timeout=30)
+                response.raise_for_status()
+                content = response.text
+                
+                # On remplace l'adresse interne par l'adresse publique pour que ta TV puisse y accéder
+                content_fixed = content.replace(waifly_ip_interne, waifly_ip_publique)
+                
+                lines = content_fixed.split('\n')
+                for line in lines:
+                    if line.startswith("#EXTM3U"):
+                        continue
+                    if line.strip():
+                        f.write(line + "\n")
+                        if line.startswith("#EXTINF"):
+                            total_count += 1
+                            
+                print(f"✅ {list_name} ajouté !")
+            except Exception as e:
+                print(f"❌ Impossible de récupérer {list_name} : {e}")
 
-            # --- LA CORRECTION EST ICI ---
-            # On cherche le nombre juste avant le .m3u8 (ex: 51258455)
-            match = re.search(r'/([^/]+)\.m3u8', stream_url_vavoo)
-            if match:
-                channel_id = match.group(1)
-            else:
-                continue # Si on ne trouve pas d'ID, on ignore la chaîne
-
-            final_url = f"{base_worker_url}/ID={channel_id}"
-
-            f.write(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
-            f.write(f"{final_url}\n")
-            count += 1
-    
-    print(f"🎉 GÉNÉRATION TERMINÉE : {count} chaînes sauvegardées dans {m3u_path}")
+    print(f"🎉 GÉNÉRATION TERMINÉE : {total_count} chaînes sauvegardées.")
 
 if __name__ == "__main__":
     generate_m3u()

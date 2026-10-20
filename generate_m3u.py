@@ -15,7 +15,7 @@ def generate_m3u():
 
     # 2. L'URL DE TON WORKER CLOUDFLARE
     # ⚠️ REMPLACE CE LIEN PAR L'URL DE TON PROPRE WORKER
-    base_worker_url = "https://ton-worker.ton-nom.workers.dev"
+    base_worker_url = "https://trumit-python.umittv.workers.dev""
 
     # 3. Écriture du nouveau fichier M3U
     os.makedirs("playlist", exist_ok=True)

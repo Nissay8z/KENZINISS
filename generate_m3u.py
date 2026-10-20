@@ -34,12 +34,7 @@ def generate_m3u():
             if isinstance(data, list) and len(data) > 0:
                 channels = data
                 print(f"✅ SUCCÈS ! {len(channels)} chaînes trouvées.")
-                # On affiche un exemple pour voir la structure
-                print(f"Exemple de données : {channels[0]}")
                 break
-            else:
-                print(f"⚠️ Liste vide reçue.")
-                
         except Exception as e:
             print(f"❌ Échec avec {proxy_addr} : {e}")
 
@@ -59,26 +54,19 @@ def generate_m3u():
             name = ch.get("name", "Inconnu")
             group = ch.get("group", "Général")
             logo = ch.get("logo", "")
-            
-            # On récupère l'URL de la chaîne
             stream_url_vavoo = ch.get("url", "")
+            
             if not stream_url_vavoo:
                 continue
 
             # --- LA CORRECTION EST ICI ---
-            # On extrait l'ID depuis l'URL (ex: .../play/123456789/index.m3u8)
-            match = re.search(r'play/([^/]+)', stream_url_vavoo)
+            # On cherche le nombre juste avant le .m3u8 (ex: 51258455)
+            match = re.search(r'/([^/]+)\.m3u8', stream_url_vavoo)
             if match:
                 channel_id = match.group(1)
             else:
-                # Si le format est bizarre, on prend l'avant-dernier bout de l'URL
-                parts = stream_url_vavoo.split('/')
-                if len(parts) >= 2:
-                    channel_id = parts[-2]
-                else:
-                    continue
+                continue # Si on ne trouve pas d'ID, on ignore la chaîne
 
-            # On construit le lien vers TON Worker
             final_url = f"{base_worker_url}/ID={channel_id}"
 
             f.write(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')

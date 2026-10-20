@@ -42,7 +42,7 @@ def generate_m3u():
         print("Désolé, impossible de récupérer les chaînes.")
         return
 
-    base_worker_url = "https://playlist-perso.yraseloued.workers.dev" 
+    base_worker_url = "https://trumit-python.umittv.workers.dev" 
 
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"

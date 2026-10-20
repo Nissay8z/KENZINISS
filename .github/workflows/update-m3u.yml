@@ -1,3 +1,32 @@
+name: Mise à jour automatique de la playlist Vavoo
+
+on:
+  schedule:
+    # Exécution toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # <--- C'EST CETTE LIGNE QUI FAIT APPARAÎTRE LE BOUTON
+
+permissions:
+  contents: write # Autorise l'Action à modifier le dépôt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Générer la playlist M3U
+        run: python generate_m3u.py
+
       - name: Committer et pousser les changements
         run: |
           git config user.name "github-actions[bot]"
@@ -6,8 +35,6 @@
           # Ne commit que s'il y a des changements
           git diff --staged --quiet || git commit -m "Mise à jour automatique de la playlist Vavoo"
           
-          # --- AJOUT DE LA LOGIQUE DE RÉCUPÉRATION ---
-          # Récupère les derniers changements du dépôt distant
+          # Récupère les derniers changements et évite l'erreur "fetch first"
           git pull --rebase origin main
-          # Pousse la modification en toute sécurité
           git push

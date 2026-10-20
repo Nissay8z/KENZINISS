@@ -1,48 +1,44 @@
 import requests
 import os
+import re
 
 def generate_m3u():
-    # --- 1. CONFIGURATION DES PROXYS WEBSHARE ---
     PROXY_USER = "iagazvbg"
     PROXY_PASS = "5is8kx1h8tn5"
     
     proxy_list = [
-        "64.137.10.153:5803", # Allemagne
-        "45.38.107.97:6014",  # UK
+        "45.38.107.97:6014",  # UK (Celui qui marche bien)
         "84.247.60.125:6095", # Pologne
+        "64.137.96.74:6641"   # Espagne
     ]
 
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
     
-    # --- 2. LES HEADERS MAGIQUES (Pour que Vavoo nous donne la liste) ---
     headers = {
         'User-Agent': 'VAVOO/2.6 (Linux; Android 13)',
         'Accept': 'application/json',
-        'Accept-Encoding': 'gzip, deflate',
-        'Connection': 'keep-alive'
     }
 
     channels = None
 
-    # --- 3. RÉCUPÉRATION ---
     for proxy_addr in proxy_list:
         proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{proxy_addr}"
         proxies = {"http": proxy_url, "https": proxy_url}
         
         try:
             print(f"Tentative via le proxy : {proxy_addr}...")
-            # On ajoute headers=headers ici
-            response = requests.get(url_api, headers=headers, proxies=proxies, timeout=15)
+            response = requests.get(url_api, headers=headers, proxies=proxies, timeout=20)
             response.raise_for_status()
             
-            # On affiche un bout de la réponse pour voir si c'est vide ou non
             data = response.json()
             if isinstance(data, list) and len(data) > 0:
                 channels = data
-                print(f"✅ SUCCÈS avec le proxy {proxy_addr} ! ({len(channels)} chaînes trouvées)")
+                print(f"✅ SUCCÈS ! {len(channels)} chaînes trouvées.")
+                # On affiche un exemple pour voir la structure
+                print(f"Exemple de données : {channels[0]}")
                 break
             else:
-                print(f"⚠️ Le proxy a répondu, mais Vavoo a renvoyé une liste vide. Début de la réponse : {response.text[:100]}")
+                print(f"⚠️ Liste vide reçue.")
                 
         except Exception as e:
             print(f"❌ Échec avec {proxy_addr} : {e}")
@@ -51,7 +47,6 @@ def generate_m3u():
         print("Désolé, impossible de récupérer les chaînes.")
         return
 
-    # --- 4. ÉCRITURE DU FICHIER M3U ---
     base_worker_url = "https://playlist-perso.yraseloued.workers.dev" 
 
     os.makedirs("playlist", exist_ok=True)
@@ -64,15 +59,30 @@ def generate_m3u():
             name = ch.get("name", "Inconnu")
             group = ch.get("group", "Général")
             logo = ch.get("logo", "")
-            channel_id = ch.get("id") 
             
-            if not channel_id:
+            # On récupère l'URL de la chaîne
+            stream_url_vavoo = ch.get("url", "")
+            if not stream_url_vavoo:
                 continue
 
-            stream_url = f"{base_worker_url}/ID={channel_id}"
+            # --- LA CORRECTION EST ICI ---
+            # On extrait l'ID depuis l'URL (ex: .../play/123456789/index.m3u8)
+            match = re.search(r'play/([^/]+)', stream_url_vavoo)
+            if match:
+                channel_id = match.group(1)
+            else:
+                # Si le format est bizarre, on prend l'avant-dernier bout de l'URL
+                parts = stream_url_vavoo.split('/')
+                if len(parts) >= 2:
+                    channel_id = parts[-2]
+                else:
+                    continue
+
+            # On construit le lien vers TON Worker
+            final_url = f"{base_worker_url}/ID={channel_id}"
 
             f.write(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
-            f.write(f"{stream_url}\n")
+            f.write(f"{final_url}\n")
             count += 1
     
     print(f"🎉 GÉNÉRATION TERMINÉE : {count} chaînes sauvegardées dans {m3u_path}")

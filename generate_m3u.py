@@ -2,8 +2,7 @@ import requests
 import os
 
 def generate_m3u():
-    # 1. Récupération du catalogue JSON de Vavoo
-    # Note : cette URL liste les chaînes, elle ne nécessite pas d'authentification.
+    # 1. Récupération du catalogue JSON de Vavoo (cette partie ne nécessite pas d'authentification)
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
     try:
         response = requests.get(url_api, timeout=30)
@@ -13,9 +12,9 @@ def generate_m3u():
         print(f"Erreur lors de la récupération de l'API : {e}")
         return
 
-    # 2. URL DE TON WORKER CLOUDFLARE
-    # ⚠️ REMPLACE CE LIEN PAR L'URL DE TON PROPRE WORKER
-    base_worker_url = "https://ton-worker.ton-nom.workers.dev"
+    # 2. URL de base pour la lecture directe (méthode "scraper")
+    # C'est ce format qui contourne le besoin d'authentification (token/addonSig).
+    base_play_url = "https://vavoo.to/play"
 
     # 3. Écriture du fichier M3U
     os.makedirs("playlist", exist_ok=True)
@@ -32,12 +31,13 @@ def generate_m3u():
             if not channel_id:
                 continue
 
-            # Construction de l'URL finale en utilisant TON Worker
-            stream_url = f"{base_worker_url}/ID={channel_id}"
+            # Construction de l'URL de lecture directe
+            # Format : https://vavoo.to/play/{ID}/index.m3u8
+            stream_url = f"{base_play_url}/{channel_id}/index.m3u8"
 
             # Ligne EXTINF avec les métadonnées
             f.write(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')
-            # On écrit l'URL vers le Worker
+            # On écrit l'URL de lecture directe
             f.write(f"{stream_url}\n")
     
     print(f"Fichier généré avec succès : {m3u_path}")

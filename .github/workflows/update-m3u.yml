@@ -1,29 +1,3 @@
-name: Mise à jour automatique de la playlist Vavoo
-
-on:
-  schedule:
-    # Exécution toutes les 6 heures (à la minute 0)
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Permet de le lancer manuellement depuis l'interface GitHub
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Récupérer le dépôt
-        uses: actions/checkout@v4
-
-      - name: Installer Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Installer les dépendances
-        run: pip install requests
-
-      - name: Générer la playlist M3U
-        run: python generate_m3u.py
-
       - name: Committer et pousser les changements
         run: |
           git config user.name "github-actions[bot]"
@@ -31,4 +5,9 @@ jobs:
           git add playlist/vavoo.m3u
           # Ne commit que s'il y a des changements
           git diff --staged --quiet || git commit -m "Mise à jour automatique de la playlist Vavoo"
+          
+          # --- AJOUT DE LA LOGIQUE DE RÉCUPÉRATION ---
+          # Récupère les derniers changements du dépôt distant
+          git pull --rebase origin main
+          # Pousse la modification en toute sécurité
           git push

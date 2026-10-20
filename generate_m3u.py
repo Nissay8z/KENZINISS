@@ -6,41 +6,54 @@ def generate_m3u():
     PROXY_USER = "iagazvbg"
     PROXY_PASS = "5is8kx1h8tn5"
     
-    # On met l'Allemagne en premier (le plus proche de la France)
     proxy_list = [
-        "64.137.10.153:5803", # Allemagne (Frankfurt) - TOP
-        "45.38.107.97:6014",  # UK (Londres)
+        "64.137.10.153:5803", # Allemagne
+        "45.38.107.97:6014",  # UK
         "84.247.60.125:6095", # Pologne
-        "64.137.96.74:6641",  # Espagne
-        "198.23.243.226:6361" # US
     ]
 
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
+    
+    # --- 2. LES HEADERS MAGIQUES (Pour que Vavoo nous donne la liste) ---
+    headers = {
+        'User-Agent': 'VAVOO/2.6 (Linux; Android 13)',
+        'Accept': 'application/json',
+        'Accept-Encoding': 'gzip, deflate',
+        'Connection': 'keep-alive'
+    }
+
     channels = None
 
-    # --- 2. RÉCUPÉRATION (On teste les proxys un par un) ---
+    # --- 3. RÉCUPÉRATION ---
     for proxy_addr in proxy_list:
         proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{proxy_addr}"
         proxies = {"http": proxy_url, "https": proxy_url}
         
         try:
-            print(f"Tentative de connexion via le proxy : {proxy_addr}...")
-            response = requests.get(url_api, proxies=proxies, timeout=15)
+            print(f"Tentative via le proxy : {proxy_addr}...")
+            # On ajoute headers=headers ici
+            response = requests.get(url_api, headers=headers, proxies=proxies, timeout=15)
             response.raise_for_status()
-            channels = response.json()
-            print(f"✅ SUCCÈS avec le proxy {proxy_addr} !")
-            break # Si ça marche, on s'arrête là
+            
+            # On affiche un bout de la réponse pour voir si c'est vide ou non
+            data = response.json()
+            if isinstance(data, list) and len(data) > 0:
+                channels = data
+                print(f"✅ SUCCÈS avec le proxy {proxy_addr} ! ({len(channels)} chaînes trouvées)")
+                break
+            else:
+                print(f"⚠️ Le proxy a répondu, mais Vavoo a renvoyé une liste vide. Début de la réponse : {response.text[:100]}")
+                
         except Exception as e:
             print(f"❌ Échec avec {proxy_addr} : {e}")
 
     if not channels:
-        print("Désolé, Vavoo a bloqué tous les proxys de la liste.")
+        print("Désolé, impossible de récupérer les chaînes.")
         return
 
-    # --- 3. URL DE TON WORKER CLOUDFLARE ---
+    # --- 4. ÉCRITURE DU FICHIER M3U ---
     base_worker_url = "https://playlist-perso.yraseloued.workers.dev" 
 
-    # --- 4. ÉCRITURE DU FICHIER M3U ---
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"
     

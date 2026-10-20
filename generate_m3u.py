@@ -1,26 +1,40 @@
 import requests
 import os
-import re
 
 def generate_m3u():
-    # --- 1. CONFIGURATION DU PROXY (Tes infos Webshare) ---
+    # --- 1. CONFIGURATION DES PROXYS WEBSHARE ---
     PROXY_USER = "iagazvbg"
     PROXY_PASS = "5is8kx1h8tn5"
-    PROXY_IP = "p.webshare.io"
-    PROXY_PORT = "80"
     
-    proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_IP}:{PROXY_PORT}"
-    proxies = {"http": proxy_url, "https": proxy_url}
+    # On met l'Allemagne en premier (le plus proche de la France)
+    proxy_list = [
+        "64.137.10.153:5803", # Allemagne (Frankfurt) - TOP
+        "45.38.107.97:6014",  # UK (Londres)
+        "84.247.60.125:6095", # Pologne
+        "64.137.96.74:6641",  # Espagne
+        "198.23.243.226:6361" # US
+    ]
 
-    # --- 2. RÉCUPÉRATION DE LA LISTE ---
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
-    try:
-        print("Connexion à Vavoo via le proxy Webshare...")
-        response = requests.get(url_api, proxies=proxies, timeout=30)
-        response.raise_for_status()
-        channels = response.json()
-    except Exception as e:
-        print(f"Erreur de récupération : {e}")
+    channels = None
+
+    # --- 2. RÉCUPÉRATION (On teste les proxys un par un) ---
+    for proxy_addr in proxy_list:
+        proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{proxy_addr}"
+        proxies = {"http": proxy_url, "https": proxy_url}
+        
+        try:
+            print(f"Tentative de connexion via le proxy : {proxy_addr}...")
+            response = requests.get(url_api, proxies=proxies, timeout=15)
+            response.raise_for_status()
+            channels = response.json()
+            print(f"✅ SUCCÈS avec le proxy {proxy_addr} !")
+            break # Si ça marche, on s'arrête là
+        except Exception as e:
+            print(f"❌ Échec avec {proxy_addr} : {e}")
+
+    if not channels:
+        print("Désolé, Vavoo a bloqué tous les proxys de la liste.")
         return
 
     # --- 3. URL DE TON WORKER CLOUDFLARE ---
@@ -48,7 +62,7 @@ def generate_m3u():
             f.write(f"{stream_url}\n")
             count += 1
     
-    print(f"✅ Succès : {count} chaînes générées dans {m3u_path}")
+    print(f"🎉 GÉNÉRATION TERMINÉE : {count} chaînes sauvegardées dans {m3u_path}")
 
 if __name__ == "__main__":
     generate_m3u()

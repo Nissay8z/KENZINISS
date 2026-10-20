@@ -12,19 +12,18 @@ def generate_m3u():
     proxy_url = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_IP}:{PROXY_PORT}"
     proxies = {"http": proxy_url, "https": proxy_url}
 
-    # --- 2. RÉCUPÉRATION DE LA LISTE (Via le proxy pour ne pas être bloqué) ---
+    # --- 2. RÉCUPÉRATION DE LA LISTE ---
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
     try:
-        print("Connexion à Vavoo via le proxy...")
+        print("Connexion à Vavoo via le proxy Webshare...")
         response = requests.get(url_api, proxies=proxies, timeout=30)
         response.raise_for_status()
         channels = response.json()
     except Exception as e:
-        print(f"Erreur de récupération (Le proxy est peut-être bloqué) : {e}")
+        print(f"Erreur de récupération : {e}")
         return
 
     # --- 3. URL DE TON WORKER CLOUDFLARE ---
-    # ⚠️ VÉRIFIE BIEN QUE C'EST TON LIEN (sans le /ID= à la fin)
     base_worker_url = "https://playlist-perso.yraseloued.workers.dev" 
 
     # --- 4. ÉCRITURE DU FICHIER M3U ---
@@ -43,7 +42,6 @@ def generate_m3u():
             if not channel_id:
                 continue
 
-            # On dirige le lien vers TON Worker Cloudflare
             stream_url = f"{base_worker_url}/ID={channel_id}"
 
             f.write(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n')

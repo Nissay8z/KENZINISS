@@ -43,7 +43,7 @@ def generate_m3u():
     
     # ⚠️ METS TON IP ICI (Ton téléphone ou ton PC)
     # Si tu testes sur ton PC, laisse "http://127.0.0.1:8080/channel/"
-    base_url = "http://127.0.0.1:8080/channel/"
+    base_url = "http://192.168.1.33:8080/channel/"
 
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"

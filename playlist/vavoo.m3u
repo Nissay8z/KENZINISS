@@ -63,6 +63,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=449294834
 https://playlist-perso.yraseloued.workers.dev/ID=2798700688
 #EXTINF:-1 tvg-name="DAZN EVENTS 2 (7)" tvg-logo="" group-title="Germany",DAZN EVENTS 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3782259264
+#EXTINF:-1 tvg-name="DELUXE MUSIC (7)" tvg-logo="" group-title="Germany",DELUXE MUSIC (7)
+https://playlist-perso.yraseloued.workers.dev/ID=263471499
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Germany",DISCOVERY CHANNEL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=760575271
 #EXTINF:-1 tvg-name="DMAX (7)" tvg-logo="" group-title="Germany",DMAX (7)
@@ -71,16 +73,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=1520100498
 https://playlist-perso.yraseloued.workers.dev/ID=1234064310
 #EXTINF:-1 tvg-name="DYN SPORT 1 (7)" tvg-logo="" group-title="Germany",DYN SPORT 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=493970639
-#EXTINF:-1 tvg-name="DYN SPORT 2 (7)" tvg-logo="" group-title="Germany",DYN SPORT 2 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1523654175
-#EXTINF:-1 tvg-name="DYN SPORT 3 (7)" tvg-logo="" group-title="Germany",DYN SPORT 3 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1739667375
+#EXTINF:-1 tvg-name="DYN SPORT 10 (7)" tvg-logo="" group-title="Germany",DYN SPORT 10 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4246322523
 #EXTINF:-1 tvg-name="DYN SPORT 4 (7)" tvg-logo="" group-title="Germany",DYN SPORT 4 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3583110079
-#EXTINF:-1 tvg-name="DYN SPORT 5 (7)" tvg-logo="" group-title="Germany",DYN SPORT 5 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3908157967
-#EXTINF:-1 tvg-name="DYN SPORT 6 (7)" tvg-logo="" group-title="Germany",DYN SPORT 6 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2941368543
+#EXTINF:-1 tvg-name="DYN SPORT 7 (7)" tvg-logo="" group-title="Germany",DYN SPORT 7 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2452722031
 #EXTINF:-1 tvg-name="DYN SPORT 8 (7)" tvg-logo="" group-title="Germany",DYN SPORT 8 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=274794174
 #EXTINF:-1 tvg-name="DYN SPORT 9 (7)" tvg-logo="" group-title="Germany",DYN SPORT 9 (7)
@@ -179,8 +177,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2289767023
 https://playlist-perso.yraseloued.workers.dev/ID=2997620179
 #EXTINF:-1 tvg-name="NRWISION (7)" tvg-logo="" group-title="Germany",NRWISION (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1499487785
-#EXTINF:-1 tvg-name="OBERLAUSITZ TV (7)" tvg-logo="" group-title="Germany",OBERLAUSITZ TV (7)
-https://playlist-perso.yraseloued.workers.dev/ID=636855243
 #EXTINF:-1 tvg-name="OBERPFALZ TV (7)" tvg-logo="" group-title="Germany",OBERPFALZ TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3088262763
 #EXTINF:-1 tvg-name="OK DESSAU (7)" tvg-logo="" group-title="Germany",OK DESSAU (7)
@@ -253,10 +249,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=3368880957
 https://playlist-perso.yraseloued.workers.dev/ID=3324699628
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 4 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 4 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4003297755
+#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 5 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 5 [LIVE DURING EVENTS ONLY] (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3766128906
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 6 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 6 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4082280569
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 7 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 7 [LIVE DURING EVENTS ONLY] (7)
-https://playlist-perso.yraseloued.workers.dev/ID=4256514216
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 8 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 8 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2721946647
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 9 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 9 [LIVE DURING EVENTS ONLY] (7)
@@ -281,8 +277,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3486356649
 https://playlist-perso.yraseloued.workers.dev/ID=1235644615
 #EXTINF:-1 tvg-name="SIXX (7)" tvg-logo="" group-title="Germany",SIXX (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4235373536
-#EXTINF:-1 tvg-name="SKY 1 (7)" tvg-logo="" group-title="Germany",SKY 1 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1751787800
 #EXTINF:-1 tvg-name="SKY ACTION (7)" tvg-logo="" group-title="Germany",SKY ACTION (7)
 https://playlist-perso.yraseloued.workers.dev/ID=173341106
 #EXTINF:-1 tvg-name="SKY ATLANTIC (7)" tvg-logo="" group-title="Germany",SKY ATLANTIC (7)
@@ -329,6 +323,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4151193631
 https://playlist-perso.yraseloued.workers.dev/ID=1274071941
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (7)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 9 HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3380878868
+#EXTINF:-1 tvg-name="SKY CINEMA 1 (7)" tvg-logo="" group-title="Germany",SKY CINEMA 1 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1279460649
 #EXTINF:-1 tvg-name="SKY CINEMA 1+ (7)" tvg-logo="" group-title="Germany",SKY CINEMA 1+ (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2735828708
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION (7)" tvg-logo="" group-title="Germany",SKY CINEMA ACTION (7)
@@ -391,8 +387,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3746417663
 https://playlist-perso.yraseloued.workers.dev/ID=1859652468
 #EXTINF:-1 tvg-name="SKY SELECT 1 BOX (7)" tvg-logo="" group-title="Germany",SKY SELECT 1 BOX (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1652281656
-#EXTINF:-1 tvg-name="SKY SELECT 10 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 10 4K (MULTIAUDIO) (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1917658583
 #EXTINF:-1 tvg-name="SKY SELECT 13 4K (MULTIAUDIO) (7)" tvg-logo="/live2/logo/156477236.png" group-title="Germany",SKY SELECT 13 4K (MULTIAUDIO) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=156477236
 #EXTINF:-1 tvg-name="SKY SELECT 14 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 14 4K (MULTIAUDIO) (7)
@@ -423,6 +417,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1870973910
 https://playlist-perso.yraseloued.workers.dev/ID=2161540407
 #EXTINF:-1 tvg-name="SKY SPORT 4 (MATCH TIME) (7)" tvg-logo="" group-title="Germany",SKY SPORT 4 (MATCH TIME) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1643673427
+#EXTINF:-1 tvg-name="SKY SPORT 5 (MATCH TIME) (7)" tvg-logo="" group-title="Germany",SKY SPORT 5 (MATCH TIME) (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2393555378
 #EXTINF:-1 tvg-name="SKY SPORT 6 (MATCH TIME) (7)" tvg-logo="" group-title="Germany",SKY SPORT 6 (MATCH TIME) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1680612560
 #EXTINF:-1 tvg-name="SKY SPORT 7 (MATCH TIME) (7)" tvg-logo="" group-title="Germany",SKY SPORT 7 (MATCH TIME) (7)
@@ -605,8 +601,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=933551170
 https://playlist-perso.yraseloued.workers.dev/ID=1938656552
 #EXTINF:-1 tvg-name="FILM BOX ARTHOUSE (7)" tvg-logo="" group-title="Albania",FILM BOX ARTHOUSE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3709985633
-#EXTINF:-1 tvg-name="FILM BOX PLUS (7)" tvg-logo="" group-title="Albania",FILM BOX PLUS (7)
-https://playlist-perso.yraseloued.workers.dev/ID=985970962
 #EXTINF:-1 tvg-name="FILM DRAME (7)" tvg-logo="" group-title="Albania",FILM DRAME (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2570164366
 #EXTINF:-1 tvg-name="FILM DY FHD (7)" tvg-logo="" group-title="Albania",FILM DY FHD (7)
@@ -845,8 +839,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=928361076
 https://playlist-perso.yraseloued.workers.dev/ID=3865243659
 #EXTINF:-1 tvg-name="TRING LIFE (7)" tvg-logo="/live2/logo/1322203707.png" group-title="Albania",TRING LIFE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1322203707
-#EXTINF:-1 tvg-name="TRING MAX (7)" tvg-logo="" group-title="Albania",TRING MAX (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1687804579
 #EXTINF:-1 tvg-name="TRING PLANET (7)" tvg-logo="/live2/logo/3187850526.png" group-title="Albania",TRING PLANET (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3187850526
 #EXTINF:-1 tvg-name="TRING SHQIP (7)" tvg-logo="/live2/logo/3032526152.png" group-title="Albania",TRING SHQIP (7)
@@ -937,8 +929,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1179697406
 https://playlist-perso.yraseloued.workers.dev/ID=2398384130
 #EXTINF:-1 tvg-name="BBC EARTH (7)" tvg-logo="" group-title="Balkans",BBC EARTH (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1561391128
-#EXTINF:-1 tvg-name="BHT 1 (7)" tvg-logo="" group-title="Balkans",BHT 1 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2942971146
 #EXTINF:-1 tvg-name="BN MUSIC (7)" tvg-logo="" group-title="Balkans",BN MUSIC (7)
 https://playlist-perso.yraseloued.workers.dev/ID=446208285
 #EXTINF:-1 tvg-name="BRAVO MUSIC (7)" tvg-logo="" group-title="Balkans",BRAVO MUSIC (7)
@@ -1049,8 +1039,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=206145844
 https://playlist-perso.yraseloued.workers.dev/ID=165468085
 #EXTINF:-1 tvg-name="HAYATOVCI (7)" tvg-logo="" group-title="Balkans",HAYATOVCI (7)
 https://playlist-perso.yraseloued.workers.dev/ID=459328591
-#EXTINF:-1 tvg-name="HBO (7)" tvg-logo="" group-title="Balkans",HBO (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2424553859
 #EXTINF:-1 tvg-name="HBO 2 (7)" tvg-logo="" group-title="Balkans",HBO 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2315061688
 #EXTINF:-1 tvg-name="HBO 3 (7)" tvg-logo="" group-title="Balkans",HBO 3 (7)
@@ -1073,8 +1061,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2426400935
 https://playlist-perso.yraseloued.workers.dev/ID=2919225623
 #EXTINF:-1 tvg-name="HRT 4 (7)" tvg-logo="" group-title="Balkans",HRT 4 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=534709511
-#EXTINF:-1 tvg-name="IDJ KIDS (7)" tvg-logo="" group-title="Balkans",IDJ KIDS (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2494427928
 #EXTINF:-1 tvg-name="IDJ TV (7)" tvg-logo="" group-title="Balkans",IDJ TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=789293011
 #EXTINF:-1 tvg-name="IZVORNA TV (7)" tvg-logo="" group-title="Balkans",IZVORNA TV (7)
@@ -1173,8 +1159,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4122781242
 https://playlist-perso.yraseloued.workers.dev/ID=4125351413
 #EXTINF:-1 tvg-name="PINK FASHION (7)" tvg-logo="" group-title="Balkans",PINK FASHION (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1375797154
-#EXTINF:-1 tvg-name="PINK FILM (7)" tvg-logo="" group-title="Balkans",PINK FILM (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1153957703
 #EXTINF:-1 tvg-name="PINK FOLK (7)" tvg-logo="" group-title="Balkans",PINK FOLK (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2824290269
 #EXTINF:-1 tvg-name="PINK FOLK 1 (7)" tvg-logo="" group-title="Balkans",PINK FOLK 1 (7)
@@ -1203,8 +1187,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2407994631
 https://playlist-perso.yraseloued.workers.dev/ID=2309986692
 #EXTINF:-1 tvg-name="PINK N ROLL (7)" tvg-logo="" group-title="Balkans",PINK N ROLL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3278309033
-#EXTINF:-1 tvg-name="PINK PEDIA (7)" tvg-logo="" group-title="Balkans",PINK PEDIA (7)
-https://playlist-perso.yraseloued.workers.dev/ID=4204456808
 #EXTINF:-1 tvg-name="PINK PLUS (7)" tvg-logo="" group-title="Balkans",PINK PLUS (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1461883644
 #EXTINF:-1 tvg-name="PINK PLUS TV (7)" tvg-logo="" group-title="Balkans",PINK PLUS TV (7)
@@ -1269,8 +1251,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1930307647
 https://playlist-perso.yraseloued.workers.dev/ID=3171935302
 #EXTINF:-1 tvg-name="RTL PASSION (7)" tvg-logo="" group-title="Balkans",RTL PASSION (7)
 https://playlist-perso.yraseloued.workers.dev/ID=370959430
-#EXTINF:-1 tvg-name="RTRS (7)" tvg-logo="" group-title="Balkans",RTRS (7)
-https://playlist-perso.yraseloued.workers.dev/ID=173136522
 #EXTINF:-1 tvg-name="RTS 1 (7)" tvg-logo="" group-title="Balkans",RTS 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3977868689
 #EXTINF:-1 tvg-name="RTS 2 (7)" tvg-logo="" group-title="Balkans",RTS 2 (7)
@@ -1511,8 +1491,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3051821190
 https://playlist-perso.yraseloued.workers.dev/ID=4156694523
 #EXTINF:-1 tvg-name="AB MOTEURS HD (7)" tvg-logo="" group-title="France",AB MOTEURS HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1047955282
-#EXTINF:-1 tvg-name="AB3 HD (7)" tvg-logo="" group-title="France",AB3 HD (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2809463847
 #EXTINF:-1 tvg-name="ACTION FHD (7)" tvg-logo="" group-title="France",ACTION FHD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3638789513
 #EXTINF:-1 tvg-name="ACTION HD (7)" tvg-logo="" group-title="France",ACTION HD (7)
@@ -1521,12 +1499,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2470227399
 https://playlist-perso.yraseloued.workers.dev/ID=817370341
 #EXTINF:-1 tvg-name="AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1545259425
-#EXTINF:-1 tvg-name="AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1392320880
 #EXTINF:-1 tvg-name="AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1957516182
-#EXTINF:-1 tvg-name="AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1768063540
 #EXTINF:-1 tvg-name="AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="/live2/logo/921329291.png" group-title="France",AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] (7)
 https://playlist-perso.yraseloued.workers.dev/ID=921329291
 #EXTINF:-1 tvg-name="ANIMAUX (7)" tvg-logo="" group-title="France",ANIMAUX (7)
@@ -1619,8 +1593,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4098717505
 https://playlist-perso.yraseloued.workers.dev/ID=3483866123
 #EXTINF:-1 tvg-name="CANAL + LIGUE 1 (7)" tvg-logo="" group-title="France",CANAL + LIGUE 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3717538119
-#EXTINF:-1 tvg-name="CANAL + SPORTS 1 HD (7)" tvg-logo="" group-title="France",CANAL + SPORTS 1 HD (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2307221187
 #EXTINF:-1 tvg-name="CANAL ALPHA (7)" tvg-logo="" group-title="France",CANAL ALPHA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3364489313
 #EXTINF:-1 tvg-name="CANAL DECALE HD (7)" tvg-logo="" group-title="France",CANAL DECALE HD (7)
@@ -1695,6 +1667,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1368400201
 https://playlist-perso.yraseloued.workers.dev/ID=1051067269
 #EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE (7)" tvg-logo="" group-title="France",CANAL+ PREMIER LEAGUE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=599931871
+#EXTINF:-1 tvg-name="CANAL+ SERIES (7)" tvg-logo="" group-title="France",CANAL+ SERIES (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4123535862
 #EXTINF:-1 tvg-name="CANAL+ SPORT (7)" tvg-logo="" group-title="France",CANAL+ SPORT (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2391290436
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360 (7)" tvg-logo="" group-title="France",CANAL+ SPORT 360 (7)
@@ -1761,12 +1735,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2309383002
 https://playlist-perso.yraseloued.workers.dev/ID=2686355607
 #EXTINF:-1 tvg-name="DAZN 1 (7)" tvg-logo="/live2/logo/3110706438.png" group-title="France",DAZN 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3110706438
-#EXTINF:-1 tvg-name="DAZN ELEVENT1 HD (7)" tvg-logo="" group-title="France",DAZN ELEVENT1 HD (7)
-https://playlist-perso.yraseloued.workers.dev/ID=106924136
 #EXTINF:-1 tvg-name="DAZN ELEVENT1. HD (7)" tvg-logo="" group-title="France",DAZN ELEVENT1. HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1676882744
 #EXTINF:-1 tvg-name="DAZN RISE (WOMEN SPORT ONLY) HD (7)" tvg-logo="" group-title="France",DAZN RISE (WOMEN SPORT ONLY) HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=718905017
+#EXTINF:-1 tvg-name="DAZN SPORT 1 FHD (7)" tvg-logo="" group-title="France",DAZN SPORT 1 FHD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4211904644
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="France",DISCOVERY CHANNEL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3404543565
 #EXTINF:-1 tvg-name="DISCOVERY FAMILY (7)" tvg-logo="" group-title="France",DISCOVERY FAMILY (7)
@@ -1859,6 +1833,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=765139465
 https://playlist-perso.yraseloued.workers.dev/ID=780950104
 #EXTINF:-1 tvg-name="GOLF+ CHANNEL FHD (7)" tvg-logo="" group-title="France",GOLF+ CHANNEL FHD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=28324561
+#EXTINF:-1 tvg-name="GONG (7)" tvg-logo="" group-title="France",GONG (7)
+https://playlist-perso.yraseloued.workers.dev/ID=109149100
 #EXTINF:-1 tvg-name="GULLI (7)" tvg-logo="" group-title="France",GULLI (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3445109521
 #EXTINF:-1 tvg-name="GULLI FHD (7)" tvg-logo="" group-title="France",GULLI FHD (7)
@@ -2009,6 +1985,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=15105325
 https://playlist-perso.yraseloued.workers.dev/ID=3914612438
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL (7)" tvg-logo="" group-title="France",PARAMOUNT CHANNEL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2088038276
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD (7)" tvg-logo="" group-title="France",PARAMOUNT CHANNEL FHD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4154938214
 #EXTINF:-1 tvg-name="PARAMOUNT DECALE FR HD (7)" tvg-logo="" group-title="France",PARAMOUNT DECALE FR HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2796671657
 #EXTINF:-1 tvg-name="PARIS PREMIERE (7)" tvg-logo="" group-title="France",PARIS PREMIERE (7)
@@ -2053,6 +2031,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1411130002
 https://playlist-perso.yraseloued.workers.dev/ID=4260391683
 #EXTINF:-1 tvg-name="RAKUTEN SERIE CRIME (7)" tvg-logo="" group-title="France",RAKUTEN SERIE CRIME (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4171934323
+#EXTINF:-1 tvg-name="RAKUTEN SPOTLIGHT FRANCE (7)" tvg-logo="" group-title="France",RAKUTEN SPOTLIGHT FRANCE (7)
+https://playlist-perso.yraseloued.workers.dev/ID=780409303
 #EXTINF:-1 tvg-name="RAKUTEN TV (7)" tvg-logo="" group-title="France",RAKUTEN TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1713644642
 #EXTINF:-1 tvg-name="RAKUTEN TV BBC DRAMA (7)" tvg-logo="" group-title="France",RAKUTEN TV BBC DRAMA (7)
@@ -2215,6 +2195,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3385549986
 https://playlist-perso.yraseloued.workers.dev/ID=549334828
 #EXTINF:-1 tvg-name="WARNER TV (7)" tvg-logo="" group-title="France",WARNER TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2978100125
+#EXTINF:-1 tvg-name="WEO TV HD (7)" tvg-logo="" group-title="France",WEO TV HD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1225648935
 #EXTINF:-1 tvg-name="DAZN EVENT 1 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2019775967
 #EXTINF:-1 tvg-name="DAZN EVENT 10 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 10 (7)
@@ -2255,8 +2237,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4146307199
 https://playlist-perso.yraseloued.workers.dev/ID=1970485166
 #EXTINF:-1 tvg-name="DAZN EVENT 9 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 9 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1209212446
-#EXTINF:-1 tvg-name="INFO SPORT HD (7)" tvg-logo="" group-title="France Sport",INFO SPORT HD (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2520651022
 #EXTINF:-1 tvg-name="LEQUIPE 21 HD (7)" tvg-logo="" group-title="France Sport",LEQUIPE 21 HD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2523971284
 #EXTINF:-1 tvg-name="LIGUE 1 FHD (7)" tvg-logo="" group-title="France Sport",LIGUE 1 FHD (7)
@@ -2319,6 +2299,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4268413992
 https://playlist-perso.yraseloued.workers.dev/ID=1251695137
 #EXTINF:-1 tvg-name="CANALE 21 EXTRA (7)" tvg-logo="" group-title="Italy",CANALE 21 EXTRA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2454558136
+#EXTINF:-1 tvg-name="CANALE 21 LAZIO (7)" tvg-logo="" group-title="Italy",CANALE 21 LAZIO (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3674488455
 #EXTINF:-1 tvg-name="CANALE 5 (7)" tvg-logo="" group-title="Italy",CANALE 5 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1101559666
 #EXTINF:-1 tvg-name="CANALE 7 (7)" tvg-logo="/live2/logo/996680722.png" group-title="Italy",CANALE 7 (7)
@@ -2559,8 +2541,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3708836688
 https://playlist-perso.yraseloued.workers.dev/ID=904571079
 #EXTINF:-1 tvg-name="RETE VENETA (7)" tvg-logo="" group-title="Italy",RETE VENETA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1118453149
-#EXTINF:-1 tvg-name="RETE VENETA (VENETO) (7)" tvg-logo="" group-title="Italy",RETE VENETA (VENETO) (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3999322464
 #EXTINF:-1 tvg-name="RSI LA 1 (7)" tvg-logo="" group-title="Italy",RSI LA 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2290395046
 #EXTINF:-1 tvg-name="RSI LA 2 (7)" tvg-logo="" group-title="Italy",RSI LA 2 (7)
@@ -2613,6 +2593,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3939513684
 https://playlist-perso.yraseloued.workers.dev/ID=3618643172
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 8 (7)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 8 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1440779061
+#EXTINF:-1 tvg-name="SKY PRIMAFILA 9 (7)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 9 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1753260677
 #EXTINF:-1 tvg-name="SKY PRIMAFILA PREMIERE 01 (7)" tvg-logo="" group-title="Italy",SKY PRIMAFILA PREMIERE 01 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2092474700
 #EXTINF:-1 tvg-name="SKY PRIMAFILA PREMIERE 02 (7)" tvg-logo="" group-title="Italy",SKY PRIMAFILA PREMIERE 02 (7)
@@ -2669,8 +2651,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3551882344
 https://playlist-perso.yraseloued.workers.dev/ID=4123851852
 #EXTINF:-1 tvg-name="TELE MIA (7)" tvg-logo="" group-title="Italy",TELE MIA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1206543036
-#EXTINF:-1 tvg-name="TELE PAVIA (7)" tvg-logo="" group-title="Italy",TELE PAVIA (7)
-https://playlist-perso.yraseloued.workers.dev/ID=593944289
 #EXTINF:-1 tvg-name="TELE PAVIA (BACKUP) (7)" tvg-logo="" group-title="Italy",TELE PAVIA (BACKUP) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2588652431
 #EXTINF:-1 tvg-name="TELE TRICOLORE (7)" tvg-logo="" group-title="Italy",TELE TRICOLORE (7)
@@ -2743,6 +2723,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=706021529
 https://playlist-perso.yraseloued.workers.dev/ID=793835474
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Netherlands",DISCOVERY SCIENCE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1106774151
+#EXTINF:-1 tvg-name="DISCOVERY WORLD (7)" tvg-logo="" group-title="Netherlands",DISCOVERY WORLD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3081891203
 #EXTINF:-1 tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Netherlands",DISNEY CHANNEL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4053879
 #EXTINF:-1 tvg-name="DISNEY XD (7)" tvg-logo="" group-title="Netherlands",DISNEY XD (7)
@@ -2755,6 +2737,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3680791301
 https://playlist-perso.yraseloued.workers.dev/ID=1397846137
 #EXTINF:-1 tvg-name="ESPN 2 (7)" tvg-logo="" group-title="Netherlands",ESPN 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=351341225
+#EXTINF:-1 tvg-name="ESPN 3 (7)" tvg-logo="" group-title="Netherlands",ESPN 3 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=697377561
 #EXTINF:-1 tvg-name="ESPN 4 (7)" tvg-logo="" group-title="Netherlands",ESPN 4 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2612133641
 #EXTINF:-1 tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="Netherlands",EUROSPORT 1 (7)
@@ -2913,10 +2897,16 @@ https://playlist-perso.yraseloued.workers.dev/ID=3150485068
 https://playlist-perso.yraseloued.workers.dev/ID=2299450931
 #EXTINF:-1 tvg-name="VIAPLAY 11 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 11 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3027173251
+#EXTINF:-1 tvg-name="VIAPLAY 12 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 12 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4090398035
+#EXTINF:-1 tvg-name="VIAPLAY 13 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 13 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3467554019
 #EXTINF:-1 tvg-name="VIAPLAY 14 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 14 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2089709811
 #EXTINF:-1 tvg-name="VIAPLAY 15 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 15 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1106139459
+#EXTINF:-1 tvg-name="VIAPLAY 16 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 16 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=105784211
 #EXTINF:-1 tvg-name="VIAPLAY 17 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 17 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=992872995
 #EXTINF:-1 tvg-name="VIAPLAY 18 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 18 (7)
@@ -2933,10 +2923,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=855280941
 https://playlist-perso.yraseloued.workers.dev/ID=1968895997
 #EXTINF:-1 tvg-name="VIAPLAY 23 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 23 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1211817549
+#EXTINF:-1 tvg-name="VIAPLAY 24 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 24 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4196008541
 #EXTINF:-1 tvg-name="VIAPLAY 25 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 25 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3346672621
 #EXTINF:-1 tvg-name="VIAPLAY 26 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 26 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2161791293
+#EXTINF:-1 tvg-name="VIAPLAY 27 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 27 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3183114381
 #EXTINF:-1 tvg-name="VIAPLAY 28 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 28 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1072361308
 #EXTINF:-1 tvg-name="VIAPLAY 29 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 29 (7)
@@ -2957,6 +2951,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=881353708
 https://playlist-perso.yraseloued.workers.dev/ID=3067671613
 #EXTINF:-1 tvg-name="VIAPLAY 9 (7)" tvg-logo="" group-title="Netherlands",VIAPLAY 9 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2344148365
+#EXTINF:-1 tvg-name="VIAPLAY F1 (MATCH TIME) (7)" tvg-logo="" group-title="Netherlands",VIAPLAY F1 (MATCH TIME) (7)
+https://playlist-perso.yraseloued.workers.dev/ID=190889111
 #EXTINF:-1 tvg-name="XITE (7)" tvg-logo="" group-title="Netherlands",XITE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2549224723
 #EXTINF:-1 tvg-name="ZIGGO DOCU (7)" tvg-logo="" group-title="Netherlands",ZIGGO DOCU (7)
@@ -3285,6 +3281,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=28404323
 https://playlist-perso.yraseloued.workers.dev/ID=2989235441
 #EXTINF:-1 tvg-name="NET COMEDY (7)" tvg-logo="" group-title="Romania",NET COMEDY (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1573283788
+#EXTINF:-1 tvg-name="NET PREMIERE (7)" tvg-logo="" group-title="Romania",NET PREMIERE (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1092728504
 #EXTINF:-1 tvg-name="NETRO (7)" tvg-logo="" group-title="Romania",NETRO (7)
 https://playlist-perso.yraseloued.workers.dev/ID=725489342
 #EXTINF:-1 tvg-name="NICK TOONS (7)" tvg-logo="" group-title="Romania",NICK TOONS (7)
@@ -3295,8 +3293,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=130908298
 https://playlist-perso.yraseloued.workers.dev/ID=3731501465
 #EXTINF:-1 tvg-name="ORANGE SPORT 3 (7)" tvg-logo="" group-title="Romania",ORANGE SPORT 3 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2762629881
-#EXTINF:-1 tvg-name="ORANGE SPORT 4 (7)" tvg-logo="" group-title="Romania",ORANGE SPORT 4 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=378191593
 #EXTINF:-1 tvg-name="ORIZONT TV (7)" tvg-logo="" group-title="Romania",ORIZONT TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2973558936
 #EXTINF:-1 tvg-name="PAPRIKA TV (7)" tvg-logo="" group-title="Romania",PAPRIKA TV (7)
@@ -3451,8 +3447,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=98281434
 https://playlist-perso.yraseloued.workers.dev/ID=3879975969
 #EXTINF:-1 tvg-name="5 KANAL (7)" tvg-logo="" group-title="Russia",5 KANAL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1583546116
-#EXTINF:-1 tvg-name="A 2 (7)" tvg-logo="" group-title="Russia",A 2 (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3433129355
 #EXTINF:-1 tvg-name="ABTO 24 (7)" tvg-logo="" group-title="Russia",ABTO 24 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1021671027
 #EXTINF:-1 tvg-name="AMC (7)" tvg-logo="" group-title="Russia",AMC (7)
@@ -3649,8 +3643,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1196499698
 https://playlist-perso.yraseloued.workers.dev/ID=3184010784
 #EXTINF:-1 tvg-name="MOYA PLANETA (7)" tvg-logo="" group-title="Russia",MOYA PLANETA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2706758733
-#EXTINF:-1 tvg-name="MTV LIVE (7)" tvg-logo="" group-title="Russia",MTV LIVE (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3870096228
 #EXTINF:-1 tvg-name="MULT TV (7)" tvg-logo="" group-title="Russia",MULT TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4162550619
 #EXTINF:-1 tvg-name="MUSIC (7)" tvg-logo="" group-title="Russia",MUSIC (7)
@@ -3755,8 +3747,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2914341648
 https://playlist-perso.yraseloued.workers.dev/ID=4160404107
 #EXTINF:-1 tvg-name="TBC (7)" tvg-logo="" group-title="Russia",TBC (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2026484172
-#EXTINF:-1 tvg-name="TELE CAFE (7)" tvg-logo="" group-title="Russia",TELE CAFE (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1561761111
 #EXTINF:-1 tvg-name="TELEPUTESHESTVYA (7)" tvg-logo="" group-title="Russia",TELEPUTESHESTVYA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1466461372
 #EXTINF:-1 tvg-name="THT 4 (7)" tvg-logo="" group-title="Russia",THT 4 (7)
@@ -3953,8 +3943,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2943974208
 https://playlist-perso.yraseloued.workers.dev/ID=3640951918
 #EXTINF:-1 tvg-name="BRT 2 (7)" tvg-logo="" group-title="Turkey",BRT 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2661613246
-#EXTINF:-1 tvg-name="CAILLOU TV (7)" tvg-logo="" group-title="Turkey",CAILLOU TV (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3626289230
 #EXTINF:-1 tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Turkey",CARTOON NETWORK (7)
 https://playlist-perso.yraseloued.workers.dev/ID=478549032
 #EXTINF:-1 tvg-name="CAY TV (7)" tvg-logo="" group-title="Turkey",CAY TV (7)
@@ -3977,6 +3965,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3079995901
 https://playlist-perso.yraseloued.workers.dev/ID=972730032
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3698852323
+#EXTINF:-1 tvg-name="DISNEY CHANNEL (7)" tvg-logo="" group-title="Turkey",DISNEY CHANNEL (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1161899432
 #EXTINF:-1 tvg-name="DISNEY JR (7)" tvg-logo="" group-title="Turkey",DISNEY JR (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3963678097
 #EXTINF:-1 tvg-name="DIZI SMART MAX (7)" tvg-logo="" group-title="Turkey",DIZI SMART MAX (7)
@@ -4267,6 +4257,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=237327525
 https://playlist-perso.yraseloued.workers.dev/ID=1233464949
 #EXTINF:-1 tvg-name="SINEVIZYON TURK 5 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 5 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4221956709
+#EXTINF:-1 tvg-name="SINEVIZYON TURK 6 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 6 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3154479285
 #EXTINF:-1 tvg-name="SINEVIZYON TURK 7 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 7 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2170921221
 #EXTINF:-1 tvg-name="SINEVIZYON TURK 9 (7)" tvg-logo="" group-title="Turkey",SINEVIZYON TURK 9 (7)
@@ -4303,6 +4295,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1528949791
 https://playlist-perso.yraseloued.workers.dev/ID=2046583925
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=478254799
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 2 HD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4151534486
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3 (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 3 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=568442751
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 3 HD (7)
@@ -4495,8 +4489,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=648656775
 https://playlist-perso.yraseloued.workers.dev/ID=3620837545
 #EXTINF:-1 tvg-name="BEIN SPORTS USA (7)" tvg-logo="" group-title="United Kingdom",BEIN SPORTS USA (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2404725296
-#EXTINF:-1 tvg-name="BLACKPOOL F.C. (7)" tvg-logo="" group-title="United Kingdom",BLACKPOOL F.C. (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1335045249
 #EXTINF:-1 tvg-name="BLOOMBERG (7)" tvg-logo="" group-title="United Kingdom",BLOOMBERG (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1154799044
 #EXTINF:-1 tvg-name="BLOOMBERG NEWS HD (7)" tvg-logo="" group-title="United Kingdom",BLOOMBERG NEWS HD (7)
@@ -4507,6 +4499,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1989568529
 https://playlist-perso.yraseloued.workers.dev/ID=543324777
 #EXTINF:-1 tvg-name="BOX NATION (7)" tvg-logo="" group-title="United Kingdom",BOX NATION (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3241634213
+#EXTINF:-1 tvg-name="BRADFORD CITY A.F.C. (7)" tvg-logo="" group-title="United Kingdom",BRADFORD CITY A.F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1258560611
 #EXTINF:-1 tvg-name="BRISTOL ROVERS F.C. (7)" tvg-logo="" group-title="United Kingdom",BRISTOL ROVERS F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3045444140
 #EXTINF:-1 tvg-name="BROMLEY FC (7)" tvg-logo="" group-title="United Kingdom",BROMLEY FC (7)
@@ -4549,12 +4543,20 @@ https://playlist-perso.yraseloued.workers.dev/ID=611001567
 https://playlist-perso.yraseloued.workers.dev/ID=3600358171
 #EXTINF:-1 tvg-name="CHAMPS MIDDLESBROUGH F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS MIDDLESBROUGH F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3922644890
+#EXTINF:-1 tvg-name="CHAMPS NORWICH CITY (7)" tvg-logo="" group-title="United Kingdom",CHAMPS NORWICH CITY (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3129746969
 #EXTINF:-1 tvg-name="CHAMPS OXFORD UNITED F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS OXFORD UNITED F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3744141080
 #EXTINF:-1 tvg-name="CHAMPS PORTSMOUTH FC (7)" tvg-logo="" group-title="United Kingdom",CHAMPS PORTSMOUTH FC (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3069626938
 #EXTINF:-1 tvg-name="CHAMPS PRESTON NORTH END F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS PRESTON NORTH END F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2094262013
+#EXTINF:-1 tvg-name="CHAMPS QUEENS PARK RANGERS F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS QUEENS PARK RANGERS F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1185663501
+#EXTINF:-1 tvg-name="CHAMPS SHEFFIELD UNITED F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS SHEFFIELD UNITED F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1033106555
+#EXTINF:-1 tvg-name="CHAMPS SHEFFIELD WEDNESDAY F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS SHEFFIELD WEDNESDAY F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1530596357
 #EXTINF:-1 tvg-name="CHAMPS SOUTHAMPTON F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS SOUTHAMPTON F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3207240559
 #EXTINF:-1 tvg-name="CHAMPS STOKE CITY (7)" tvg-logo="" group-title="United Kingdom",CHAMPS STOKE CITY (7)
@@ -4575,6 +4577,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1155012716
 https://playlist-perso.yraseloued.workers.dev/ID=4199843158
 #EXTINF:-1 tvg-name="CHESTERFIELD F.C. (7)" tvg-logo="" group-title="United Kingdom",CHESTERFIELD F.C. (7)
 https://playlist-perso.yraseloued.workers.dev/ID=731975744
+#EXTINF:-1 tvg-name="CINEEDGE MOVIES (7)" tvg-logo="" group-title="United Kingdom",CINEEDGE MOVIES (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1567425039
 #EXTINF:-1 tvg-name="CITV (7)" tvg-logo="" group-title="United Kingdom",CITV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3142520812
 #EXTINF:-1 tvg-name="CLUBLAND TV (7)" tvg-logo="" group-title="United Kingdom",CLUBLAND TV (7)
@@ -4585,6 +4589,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=57133078
 https://playlist-perso.yraseloued.workers.dev/ID=2617240602
 #EXTINF:-1 tvg-name="CNN (7)" tvg-logo="/live2/logo/191216932.png" group-title="United Kingdom",CNN (7)
 https://playlist-perso.yraseloued.workers.dev/ID=191216932
+#EXTINF:-1 tvg-name="COLCHESTER UNITED F.C. (7)" tvg-logo="" group-title="United Kingdom",COLCHESTER UNITED F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3726049440
 #EXTINF:-1 tvg-name="COLORS EUROPE (7)" tvg-logo="" group-title="United Kingdom",COLORS EUROPE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3076266170
 #EXTINF:-1 tvg-name="COMEDY CENTRAL (7)" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL (7)
@@ -4669,6 +4675,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2291495703
 https://playlist-perso.yraseloued.workers.dev/ID=3052755623
 #EXTINF:-1 tvg-name="EPL 12 (7)" tvg-logo="" group-title="United Kingdom",EPL 12 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4065665143
+#EXTINF:-1 tvg-name="EURONEWS (7)" tvg-logo="" group-title="United Kingdom",EURONEWS (7)
+https://playlist-perso.yraseloued.workers.dev/ID=184598600
 #EXTINF:-1 tvg-name="EUROSPORT 1 (7)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3618771655
 #EXTINF:-1 tvg-name="EUROSPORT 2 (7)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (7)
@@ -4713,6 +4721,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2347323001
 https://playlist-perso.yraseloued.workers.dev/ID=2742752002
 #EXTINF:-1 tvg-name="GREEK (7)" tvg-logo="" group-title="United Kingdom",GREEK (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3909925026
+#EXTINF:-1 tvg-name="GRIMSBY TOWN F.C. (7)" tvg-logo="" group-title="United Kingdom",GRIMSBY TOWN F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2913295050
 #EXTINF:-1 tvg-name="HARRISON FORD (7)" tvg-logo="" group-title="United Kingdom",HARRISON FORD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=6455430
 #EXTINF:-1 tvg-name="HELLRAISER (7)" tvg-logo="" group-title="United Kingdom",HELLRAISER (7)
@@ -4723,6 +4733,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1428129172
 https://playlist-perso.yraseloued.workers.dev/ID=3698698224
 #EXTINF:-1 tvg-name="HIGHLANDER (7)" tvg-logo="" group-title="United Kingdom",HIGHLANDER (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2880220392
+#EXTINF:-1 tvg-name="HOBBY MAKER (7)" tvg-logo="" group-title="United Kingdom",HOBBY MAKER (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1787337993
 #EXTINF:-1 tvg-name="HOSTEL (7)" tvg-logo="" group-title="United Kingdom",HOSTEL (7)
 https://playlist-perso.yraseloued.workers.dev/ID=524279969
 #EXTINF:-1 tvg-name="HOW I MET YOUR FATHER (7)" tvg-logo="" group-title="United Kingdom",HOW I MET YOUR FATHER (7)
@@ -4815,6 +4827,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1651012234
 https://playlist-perso.yraseloued.workers.dev/ID=1973360352
 #EXTINF:-1 tvg-name="LONDON LIVE (7)" tvg-logo="" group-title="United Kingdom",LONDON LIVE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3928655766
+#EXTINF:-1 tvg-name="LUTON TOWN F.C. (7)" tvg-logo="" group-title="United Kingdom",LUTON TOWN F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=257752903
 #EXTINF:-1 tvg-name="MADEA FAMILY (7)" tvg-logo="" group-title="United Kingdom",MADEA FAMILY (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3275218555
 #EXTINF:-1 tvg-name="MAGIC (7)" tvg-logo="" group-title="United Kingdom",MAGIC (7)
@@ -4881,6 +4895,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=1213470229
 https://playlist-perso.yraseloued.workers.dev/ID=1966358437
 #EXTINF:-1 tvg-name="NOW SPORTS 5 (7)" tvg-logo="" group-title="United Kingdom",NOW SPORTS 5 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=4201957893
+#EXTINF:-1 tvg-name="NOW SPORTS 6 (7)" tvg-logo="" group-title="United Kingdom",NOW SPORTS 6 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3184832725
+#EXTINF:-1 tvg-name="NOW SPORTS 7 (7)" tvg-logo="" group-title="United Kingdom",NOW SPORTS 7 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2159319397
+#EXTINF:-1 tvg-name="ORIGINALS MOVIES (7)" tvg-logo="" group-title="United Kingdom",ORIGINALS MOVIES (7)
+https://playlist-perso.yraseloued.workers.dev/ID=603095719
 #EXTINF:-1 tvg-name="PEACE TV (7)" tvg-logo="" group-title="United Kingdom",PEACE TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3513832794
 #EXTINF:-1 tvg-name="PETERBOROUGH UNITED F.C. (7)" tvg-logo="" group-title="United Kingdom",PETERBOROUGH UNITED F.C. (7)
@@ -4919,10 +4939,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=2078289011
 https://playlist-perso.yraseloued.workers.dev/ID=336631485
 #EXTINF:-1 tvg-name="RACING (7)" tvg-logo="" group-title="United Kingdom",RACING (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2161387493
+#EXTINF:-1 tvg-name="RACING POST TV HD (7)" tvg-logo="" group-title="United Kingdom",RACING POST TV HD (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2212089895
 #EXTINF:-1 tvg-name="RACING TV (7)" tvg-logo="" group-title="United Kingdom",RACING TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1245879484
-#EXTINF:-1 tvg-name="READING F.C. (7)" tvg-logo="" group-title="United Kingdom",READING F.C. (7)
-https://playlist-perso.yraseloued.workers.dev/ID=1897431162
 #EXTINF:-1 tvg-name="REALLY (7)" tvg-logo="" group-title="United Kingdom",REALLY (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1597888219
 #EXTINF:-1 tvg-name="RESIDENT ALIEN ꜱᴇƦꞮᴇ (7)" tvg-logo="" group-title="United Kingdom",RESIDENT ALIEN ꜱᴇƦꞮᴇ (7)
@@ -4947,6 +4967,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2378350036
 https://playlist-perso.yraseloued.workers.dev/ID=1049807868
 #EXTINF:-1 tvg-name="SAB TV (7)" tvg-logo="" group-title="United Kingdom",SAB TV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1113578172
+#EXTINF:-1 tvg-name="SALFORD CITY F.C. (7)" tvg-logo="" group-title="United Kingdom",SALFORD CITY F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3729887141
 #EXTINF:-1 tvg-name="SAMUEL L JACKSON (7)" tvg-logo="" group-title="United Kingdom",SAMUEL L JACKSON (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1996055165
 #EXTINF:-1 tvg-name="SEAN CONERY (7)" tvg-logo="" group-title="United Kingdom",SEAN CONERY (7)
@@ -5005,8 +5027,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3082786154
 https://playlist-perso.yraseloued.workers.dev/ID=4052383089
 #EXTINF:-1 tvg-name="SKY MAX (7)" tvg-logo="/live2/logo/1210722484.png" group-title="United Kingdom",SKY MAX (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1210722484
-#EXTINF:-1 tvg-name="SKY MOVIES HITS (7)" tvg-logo="" group-title="United Kingdom",SKY MOVIES HITS (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3918468582
 #EXTINF:-1 tvg-name="SKY NATURE (7)" tvg-logo="/live2/logo/158352552.png" group-title="United Kingdom",SKY NATURE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=158352552
 #EXTINF:-1 tvg-name="SKY NEWS (7)" tvg-logo="/live2/logo/1872744987.png" group-title="United Kingdom",SKY NEWS (7)
@@ -5051,6 +5071,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1630697524
 https://playlist-perso.yraseloued.workers.dev/ID=3876025306
 #EXTINF:-1 tvg-name="SKY SPORTS TENNIS FHD (7)" tvg-logo="/live2/logo/1270024858.png" group-title="United Kingdom",SKY SPORTS TENNIS FHD (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1270024858
+#EXTINF:-1 tvg-name="SKY SPORTS ULTRA 2 4K (EVENT ONLY) (7)" tvg-logo="" group-title="United Kingdom",SKY SPORTS ULTRA 2 4K (EVENT ONLY) (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3733790322
 #EXTINF:-1 tvg-name="SKY STORE PREMIERE 1 ᴴᴰ (7)" tvg-logo="" group-title="United Kingdom",SKY STORE PREMIERE 1 ᴴᴰ (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2637564185
 #EXTINF:-1 tvg-name="SKY STORE PREMIERE 12 ᴴᴰ (7)" tvg-logo="" group-title="United Kingdom",SKY STORE PREMIERE 12 ᴴᴰ (7)
@@ -5065,14 +5087,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2267783914
 https://playlist-perso.yraseloued.workers.dev/ID=1913367801
 #EXTINF:-1 tvg-name="SKY WITNESS (7)" tvg-logo="/live2/logo/1610780956.png" group-title="United Kingdom",SKY WITNESS (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1610780956
-#EXTINF:-1 tvg-name="SONY CHANNEL (7)" tvg-logo="/live2/logo/3024378683.png" group-title="United Kingdom",SONY CHANNEL (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3024378683
 #EXTINF:-1 tvg-name="SONY MAX 2 (7)" tvg-logo="/live2/logo/1168658294.png" group-title="United Kingdom",SONY MAX 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1168658294
 #EXTINF:-1 tvg-name="SONY SAB (7)" tvg-logo="/live2/logo/257165903.png" group-title="United Kingdom",SONY SAB (7)
 https://playlist-perso.yraseloued.workers.dev/ID=257165903
-#EXTINF:-1 tvg-name="SPFL 01 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 01 (MATCH TIME) (7)
-https://playlist-perso.yraseloued.workers.dev/ID=2022665045
+#EXTINF:-1 tvg-name="SPFL 02 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 02 (MATCH TIME) (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2450110007
 #EXTINF:-1 tvg-name="SPFL 03 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 03 (MATCH TIME) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2103115990
 #EXTINF:-1 tvg-name="SPFL 04 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 04 (MATCH TIME) (7)
@@ -5085,6 +5105,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2577490225
 https://playlist-perso.yraseloued.workers.dev/ID=1995691984
 #EXTINF:-1 tvg-name="SPFL 08 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 08 (MATCH TIME) (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2156688312
+#EXTINF:-1 tvg-name="SPFL 10 (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom",SPFL 10 (MATCH TIME) (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1077894636
 #EXTINF:-1 tvg-name="STAR TREK PICARD ꜱᴇƦꞮᴇ (7)" tvg-logo="" group-title="United Kingdom",STAR TREK PICARD ꜱᴇƦꞮᴇ (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1242160032
 #EXTINF:-1 tvg-name="STARZ TV (7)" tvg-logo="" group-title="United Kingdom",STARZ TV (7)
@@ -5105,6 +5127,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1879521194
 https://playlist-perso.yraseloued.workers.dev/ID=2472005079
 #EXTINF:-1 tvg-name="SUPERRIX MOVIES (7)" tvg-logo="" group-title="United Kingdom",SUPERRIX MOVIES (7)
 https://playlist-perso.yraseloued.workers.dev/ID=54688465
+#EXTINF:-1 tvg-name="SUPERSPORT 1 (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT 1 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=1061180402
 #EXTINF:-1 tvg-name="SUPERSPORT 2 (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT 2 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2027956514
 #EXTINF:-1 tvg-name="SUPERSPORT 3 (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT 3 (7)
@@ -5147,8 +5171,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2721727780
 https://playlist-perso.yraseloued.workers.dev/ID=270178612
 #EXTINF:-1 tvg-name="TNT SPORTS 5 (7)" tvg-logo="/live2/logo/763015300.png" group-title="United Kingdom",TNT SPORTS 5 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=763015300
-#EXTINF:-1 tvg-name="TNT SPORTS ESPN (7)" tvg-logo="" group-title="United Kingdom",TNT SPORTS ESPN (7)
-https://playlist-perso.yraseloued.workers.dev/ID=3068684871
 #EXTINF:-1 tvg-name="TOM AND JERRY (7)" tvg-logo="/live2/logo/1145209383.png" group-title="United Kingdom",TOM AND JERRY (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1145209383
 #EXTINF:-1 tvg-name="TOM HANKS (7)" tvg-logo="" group-title="United Kingdom",TOM HANKS (7)
@@ -5171,6 +5193,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4256622958
 https://playlist-perso.yraseloued.workers.dev/ID=2472057422
 #EXTINF:-1 tvg-name="VIAPLAY EVENT 1 (7)" tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 1 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=1608977213
+#EXTINF:-1 tvg-name="VIAPLAY EVENT 10 (7)" tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 10 (7)
+https://playlist-perso.yraseloued.workers.dev/ID=2934487044
 #EXTINF:-1 tvg-name="VIAPLAY EVENT 11 (7)" tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 11 (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2475200948
 #EXTINF:-1 tvg-name="VIAPLAY EVENT 12 (7)" tvg-logo="" group-title="United Kingdom",VIAPLAY EVENT 12 (7)
@@ -5215,6 +5239,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3627325112
 https://playlist-perso.yraseloued.workers.dev/ID=1496570910
 #EXTINF:-1 tvg-name="WAREHOUSE ꜱᴇƦꞮᴇ (7)" tvg-logo="" group-title="United Kingdom",WAREHOUSE ꜱᴇƦꞮᴇ (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2333166565
+#EXTINF:-1 tvg-name="WIGAN ATHLETIC F.C. (7)" tvg-logo="" group-title="United Kingdom",WIGAN ATHLETIC F.C. (7)
+https://playlist-perso.yraseloued.workers.dev/ID=4074531223
 #EXTINF:-1 tvg-name="WILL SMTH (7)" tvg-logo="" group-title="United Kingdom",WILL SMTH (7)
 https://playlist-perso.yraseloued.workers.dev/ID=2102462450
 #EXTINF:-1 tvg-name="WILLEM DAFOE (7)" tvg-logo="" group-title="United Kingdom",WILLEM DAFOE (7)
@@ -5225,6 +5251,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=626484282
 https://playlist-perso.yraseloued.workers.dev/ID=675027246
 #EXTINF:-1 tvg-name="WWE (7)" tvg-logo="" group-title="United Kingdom",WWE (7)
 https://playlist-perso.yraseloued.workers.dev/ID=3422382011
+#EXTINF:-1 tvg-name="WYCOMBE WANDERERS (7)" tvg-logo="" group-title="United Kingdom",WYCOMBE WANDERERS (7)
+https://playlist-perso.yraseloued.workers.dev/ID=3272488923
 #EXTINF:-1 tvg-name="XMASTV (7)" tvg-logo="" group-title="United Kingdom",XMASTV (7)
 https://playlist-perso.yraseloued.workers.dev/ID=260316938
 #EXTINF:-1 tvg-name="YELLOW STONE (7)" tvg-logo="" group-title="United Kingdom",YELLOW STONE (7)
@@ -5257,6 +5285,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2993796901
 https://playlist-perso.yraseloued.workers.dev/ID=1561291962
 #EXTINF:-1 tvg-name="ARD ALPHA (6)" tvg-logo="/live2/logo/3255649955.png" group-title="Germany",ARD ALPHA (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3255649955
+#EXTINF:-1 tvg-name="ARISTO TV (6)" tvg-logo="/live2/logo/914582715.png" group-title="Germany",ARISTO TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=914582715
 #EXTINF:-1 tvg-name="ARTE (6)" tvg-logo="/live2/logo/939454216.png" group-title="Germany",ARTE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=939454216
 #EXTINF:-1 tvg-name="AUGSBURG TV (6)" tvg-logo="/live2/logo/564036923.png" group-title="Germany",AUGSBURG TV (6)
@@ -5311,10 +5341,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=620564549
 https://playlist-perso.yraseloued.workers.dev/ID=750701864
 #EXTINF:-1 tvg-name="CINE MAX JURASSIC PARK (6)" tvg-logo="" group-title="Germany",CINE MAX JURASSIC PARK (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2684116845
-#EXTINF:-1 tvg-name="CINEDOME 007 (6)" tvg-logo="" group-title="Germany",CINEDOME 007 (6)
-https://playlist-perso.yraseloued.workers.dev/ID=736901547
-#EXTINF:-1 tvg-name="CINEDOME ACTION (6)" tvg-logo="" group-title="Germany",CINEDOME ACTION (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1091580590
 #EXTINF:-1 tvg-name="CINEDOME ANIMATION (6)" tvg-logo="" group-title="Germany",CINEDOME ANIMATION (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1232797460
 #EXTINF:-1 tvg-name="CINEDOME CINEMA (6)" tvg-logo="" group-title="Germany",CINEDOME CINEMA (6)
@@ -5323,30 +5349,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=898111808
 https://playlist-perso.yraseloued.workers.dev/ID=1383025134
 #EXTINF:-1 tvg-name="CINEDOME FAMILIE (6)" tvg-logo="" group-title="Germany",CINEDOME FAMILIE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4015760059
-#EXTINF:-1 tvg-name="CINEDOME FILMAX ACTION (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX ACTION (6)
-https://playlist-perso.yraseloued.workers.dev/ID=3936933132
-#EXTINF:-1 tvg-name="CINEDOME FILMAX ANIMATION (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX ANIMATION (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1191389220
 #EXTINF:-1 tvg-name="CINEDOME FILMAX ARNOLD SCHWARZENEGGER (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX ARNOLD SCHWARZENEGGER (6)
 https://playlist-perso.yraseloued.workers.dev/ID=25175066
-#EXTINF:-1 tvg-name="CINEDOME FILMAX BOLLYWOOD (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX BOLLYWOOD (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1326319080
 #EXTINF:-1 tvg-name="CINEDOME FILMAX BOLLYWOOD 2 (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX BOLLYWOOD 2 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=844772564
 #EXTINF:-1 tvg-name="CINEDOME FILMAX BRUCE WILLIS (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX BRUCE WILLIS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2174643691
-#EXTINF:-1 tvg-name="CINEDOME FILMAX CINEMA (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX CINEMA (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2654011106
-#EXTINF:-1 tvg-name="CINEDOME FILMAX COMEDY (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX COMEDY (6)
-https://playlist-perso.yraseloued.workers.dev/ID=339348736
-#EXTINF:-1 tvg-name="CINEDOME FILMAX DENZEL WASHINGTON (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX DENZEL WASHINGTON (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2660224676
-#EXTINF:-1 tvg-name="CINEDOME FILMAX FAMILY (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX FAMILY (6)
-https://playlist-perso.yraseloued.workers.dev/ID=287503823
 #EXTINF:-1 tvg-name="CINEDOME FILMAX HARRY POTTER (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX HARRY POTTER (6)
 https://playlist-perso.yraseloued.workers.dev/ID=91694108
-#EXTINF:-1 tvg-name="CINEDOME FILMAX HITS (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX HITS (6)
-https://playlist-perso.yraseloued.workers.dev/ID=631726102
 #EXTINF:-1 tvg-name="CINEDOME FILMAX HORROR (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX HORROR (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4130322146
 #EXTINF:-1 tvg-name="CINEDOME FILMAX JASON STATHAM (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX JASON STATHAM (6)
@@ -5365,14 +5375,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=489998899
 https://playlist-perso.yraseloued.workers.dev/ID=3360791325
 #EXTINF:-1 tvg-name="CINEDOME FILMAX SYLVESTER STALLONE (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX SYLVESTER STALLONE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2075303878
-#EXTINF:-1 tvg-name="CINEDOME FILMAX THE FAST & THE FURIOUS (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX THE FAST & THE FURIOUS (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2940153825
 #EXTINF:-1 tvg-name="CINEDOME FILMAX TOM CRUISE (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX TOM CRUISE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3302097478
 #EXTINF:-1 tvg-name="CINEDOME FILMAX TOMMY LEE JONES (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX TOMMY LEE JONES (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1423109274
-#EXTINF:-1 tvg-name="CINEDOME FILMAX WILL SMITH (6)" tvg-logo="" group-title="Germany",CINEDOME FILMAX WILL SMITH (6)
-https://playlist-perso.yraseloued.workers.dev/ID=3193816439
 #EXTINF:-1 tvg-name="CINEDOME HITS (6)" tvg-logo="" group-title="Germany",CINEDOME HITS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4187926917
 #EXTINF:-1 tvg-name="CINEDOME HORROR (6)" tvg-logo="" group-title="Germany",CINEDOME HORROR (6)
@@ -5387,16 +5393,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=100496654
 https://playlist-perso.yraseloued.workers.dev/ID=142183730
 #EXTINF:-1 tvg-name="CRIME+ INVESTIGATION (6)" tvg-logo="/live2/logo/4240478721.png" group-title="Germany",CRIME+ INVESTIGATION (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4240478721
-#EXTINF:-1 tvg-name="CRIME+ INVESTIGATION [SAT] [] (6)" tvg-logo="/live2/logo/1473598898.png" group-title="Germany",CRIME+ INVESTIGATION [SAT] [] (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1473598898
 #EXTINF:-1 tvg-name="CROTV (6)" tvg-logo="/live2/logo/1966968276.png" group-title="Germany",CROTV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1966968276
 #EXTINF:-1 tvg-name="CURIOSITY CHANNEL (6)" tvg-logo="/live2/logo/2946869110.png" group-title="Germany",CURIOSITY CHANNEL (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2946869110
 #EXTINF:-1 tvg-name="DABEITV (6)" tvg-logo="/live2/logo/1805776893.png" group-title="Germany",DABEITV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1805776893
-#EXTINF:-1 tvg-name="DAS ERSTE (6)" tvg-logo="/live2/logo/2814908252.png" group-title="Germany",DAS ERSTE (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2814908252
 #EXTINF:-1 tvg-name="DAS ERSTE [SAT] [] (6)" tvg-logo="/live2/logo/2595606142.png" group-title="Germany",DAS ERSTE [SAT] [] (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2595606142
 #EXTINF:-1 tvg-name="DAZN 1 BAR (6)" tvg-logo="/live2/logo/535114214.png" group-title="Germany",DAZN 1 BAR (6)
@@ -5445,8 +5447,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2903428367
 https://playlist-perso.yraseloued.workers.dev/ID=2680111188
 #EXTINF:-1 tvg-name="DYN EVENT INFO CHANNEL [] (6)" tvg-logo="" group-title="Germany",DYN EVENT INFO CHANNEL [] (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2110172001
-#EXTINF:-1 tvg-name="DYN SPORT 1 (6)" tvg-logo="" group-title="Germany",DYN SPORT 1 (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2947459557
+#EXTINF:-1 tvg-name="DYN SPORT 10 (6)" tvg-logo="" group-title="Germany",DYN SPORT 10 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1053421622
 #EXTINF:-1 tvg-name="DYN SPORT 11 (6)" tvg-logo="" group-title="Germany",DYN SPORT 11 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=61462918
 #EXTINF:-1 tvg-name="DYN SPORT 12 (6)" tvg-logo="" group-title="Germany",DYN SPORT 12 (6)
@@ -5497,8 +5499,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4007165023
 https://playlist-perso.yraseloued.workers.dev/ID=2975640481
 #EXTINF:-1 tvg-name="EURONEWS (6)" tvg-logo="/live2/logo/3301562165.png" group-title="Germany",EURONEWS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3301562165
-#EXTINF:-1 tvg-name="EUROSPORT 1 (6)" tvg-logo="/live2/logo/1222315896.png" group-title="Germany",EUROSPORT 1 (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1222315896
 #EXTINF:-1 tvg-name="EUROSPORT 2 (6)" tvg-logo="/live2/logo/259749288.png" group-title="Germany",EUROSPORT 2 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=259749288
 #EXTINF:-1 tvg-name="FASHIONTV (6)" tvg-logo="" group-title="Germany",FASHIONTV (6)
@@ -5545,10 +5545,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2939506713
 https://playlist-perso.yraseloued.workers.dev/ID=482977403
 #EXTINF:-1 tvg-name="HISTORY (6)" tvg-logo="/live2/logo/1310655423.png" group-title="Germany",HISTORY (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1310655423
-#EXTINF:-1 tvg-name="HISTORY [SAT] [] (6)" tvg-logo="/live2/logo/1053833984.png" group-title="Germany",HISTORY [SAT] [] (6)
-https://playlist-perso.yraseloued.workers.dev/ID=1053833984
+#EXTINF:-1 tvg-name="HR FERNSEHEN (6)" tvg-logo="/live2/logo/866580164.png" group-title="Germany",HR FERNSEHEN (6)
+https://playlist-perso.yraseloued.workers.dev/ID=866580164
 #EXTINF:-1 tvg-name="HSE (6)" tvg-logo="/live2/logo/1901642755.png" group-title="Germany",HSE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1901642755
+#EXTINF:-1 tvg-name="HSE EXTRA (6)" tvg-logo="/live2/logo/3970741463.png" group-title="Germany",HSE EXTRA (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3970741463
 #EXTINF:-1 tvg-name="HSE TREND (6)" tvg-logo="/live2/logo/3146392775.png" group-title="Germany",HSE TREND (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3146392775
 #EXTINF:-1 tvg-name="ISTUFF (6)" tvg-logo="" group-title="Germany",ISTUFF (6)
@@ -5613,6 +5615,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3890301374
 https://playlist-perso.yraseloued.workers.dev/ID=2335883109
 #EXTINF:-1 tvg-name="MAGENTA SPORT 20 (6)" tvg-logo="/live2/logo/3545622272.png" group-title="Germany",MAGENTA SPORT 20 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3545622272
+#EXTINF:-1 tvg-name="MAGENTA SPORT 3 (6)" tvg-logo="/live2/logo/3059390165.png" group-title="Germany",MAGENTA SPORT 3 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3059390165
 #EXTINF:-1 tvg-name="MAGENTA SPORT 4 (6)" tvg-logo="/live2/logo/75123397.png" group-title="Germany",MAGENTA SPORT 4 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=75123397
 #EXTINF:-1 tvg-name="MAGENTA SPORT 5 (6)" tvg-logo="/live2/logo/958030709.png" group-title="Germany",MAGENTA SPORT 5 (6)
@@ -5687,8 +5691,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2498016177
 https://playlist-perso.yraseloued.workers.dev/ID=380904544
 #EXTINF:-1 tvg-name="MYTEAMTV 9 (6)" tvg-logo="" group-title="Germany",MYTEAMTV 9 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=735317456
+#EXTINF:-1 tvg-name="MÜNCHEN TV (6)" tvg-logo="/live2/logo/1640371259.png" group-title="Germany",MÜNCHEN TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1640371259
 #EXTINF:-1 tvg-name="N-TV (6)" tvg-logo="/live2/logo/3552489524.png" group-title="Germany",N-TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3552489524
+#EXTINF:-1 tvg-name="N24 DOKU (6)" tvg-logo="/live2/logo/1567866372.png" group-title="Germany",N24 DOKU (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1567866372
 #EXTINF:-1 tvg-name="NAT GEO (6)" tvg-logo="/live2/logo/999974349.png" group-title="Germany",NAT GEO (6)
 https://playlist-perso.yraseloued.workers.dev/ID=999974349
 #EXTINF:-1 tvg-name="NAT GEO WILD (6)" tvg-logo="/live2/logo/3501325497.png" group-title="Germany",NAT GEO WILD (6)
@@ -5713,6 +5721,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=855045177
 https://playlist-perso.yraseloued.workers.dev/ID=2741142705
 #EXTINF:-1 tvg-name="NOA 4 NORDERSTEDT (6)" tvg-logo="/live2/logo/1749202311.png" group-title="Germany",NOA 4 NORDERSTEDT (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1749202311
+#EXTINF:-1 tvg-name="NOW GLOBAL (6)" tvg-logo="" group-title="Germany",NOW GLOBAL (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1341520738
 #EXTINF:-1 tvg-name="NRWISION (6)" tvg-logo="/live2/logo/1589135677.png" group-title="Germany",NRWISION (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1589135677
 #EXTINF:-1 tvg-name="OBERPFALZ TV (6)" tvg-logo="/live2/logo/2076404486.png" group-title="Germany",OBERPFALZ TV (6)
@@ -5721,6 +5731,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2076404486
 https://playlist-perso.yraseloued.workers.dev/ID=1027321034
 #EXTINF:-1 tvg-name="OFFENER KANAL MAGDEBURG (6)" tvg-logo="/live2/logo/934282597.png" group-title="Germany",OFFENER KANAL MAGDEBURG (6)
 https://playlist-perso.yraseloued.workers.dev/ID=934282597
+#EXTINF:-1 tvg-name="OK 54 (6)" tvg-logo="/live2/logo/2908327966.png" group-title="Germany",OK 54 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2908327966
 #EXTINF:-1 tvg-name="OK DESSAU (6)" tvg-logo="" group-title="Germany",OK DESSAU (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3937129554
 #EXTINF:-1 tvg-name="OK FLENSBURG (6)" tvg-logo="" group-title="Germany",OK FLENSBURG (6)
@@ -5895,6 +5907,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1065842008
 https://playlist-perso.yraseloued.workers.dev/ID=2376575304
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 5 (6)" tvg-logo="/live2/logo/2965864696.png" group-title="Germany",RTL+ SPORT EVENT 5 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2965864696
+#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 6 (6)" tvg-logo="/live2/logo/4150786600.png" group-title="Germany",RTL+ SPORT EVENT 6 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=4150786600
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 7 (6)" tvg-logo="/live2/logo/3389510552.png" group-title="Germany",RTL+ SPORT EVENT 7 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3389510552
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 8 (6)" tvg-logo="/live2/logo/1213678665.png" group-title="Germany",RTL+ SPORT EVENT 8 (6)
@@ -6043,6 +6057,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4064931426
 https://playlist-perso.yraseloued.workers.dev/ID=2558892777
 #EXTINF:-1 tvg-name="SKY HITS (6)" tvg-logo="" group-title="Germany",SKY HITS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=655217723
+#EXTINF:-1 tvg-name="SKY KRIMI (6)" tvg-logo="/live2/logo/2355208571.png" group-title="Germany",SKY KRIMI (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2355208571
 #EXTINF:-1 tvg-name="SKY NATURE (6)" tvg-logo="/live2/logo/2979356473.png" group-title="Germany",SKY NATURE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2979356473
 #EXTINF:-1 tvg-name="SKY NOSTALGIE (6)" tvg-logo="" group-title="Germany",SKY NOSTALGIE (6)
@@ -6181,6 +6197,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1779435258
 https://playlist-perso.yraseloued.workers.dev/ID=4228913346
 #EXTINF:-1 tvg-name="STINGRAY ICONCERTS (6)" tvg-logo="" group-title="Germany",STINGRAY ICONCERTS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3433481620
+#EXTINF:-1 tvg-name="STUDIO 47 (6)" tvg-logo="" group-title="Germany",STUDIO 47 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2639454934
 #EXTINF:-1 tvg-name="SWR 3 VISUAL RADIO (6)" tvg-logo="" group-title="Germany",SWR 3 VISUAL RADIO (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2498388166
 #EXTINF:-1 tvg-name="SWR DASDING 90.8 (6)" tvg-logo="" group-title="Germany",SWR DASDING 90.8 (6)
@@ -6283,6 +6301,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=502933258
 https://playlist-perso.yraseloued.workers.dev/ID=3560060644
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" tvg-logo="/live2/logo/1629878879.png" group-title="Albania",24 KITCHEN (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1629878879
+#EXTINF:-1 tvg-name="4+SHQIP (6)" tvg-logo="" group-title="Albania",4+SHQIP (6)
+https://playlist-perso.yraseloued.workers.dev/ID=489423289
 #EXTINF:-1 tvg-name="A2 CNN (6)" tvg-logo="" group-title="Albania",A2 CNN (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3630529072
 #EXTINF:-1 tvg-name="A2 NEWS (6)" tvg-logo="" group-title="Albania",A2 NEWS (6)
@@ -6369,8 +6389,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2724030116
 https://playlist-perso.yraseloued.workers.dev/ID=3246587993
 #EXTINF:-1 tvg-name="BESA TV (6)" tvg-logo="/live2/logo/2714601883.png" group-title="Albania",BESA TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2714601883
-#EXTINF:-1 tvg-name="BIG BROTHER 1 (6)" tvg-logo="/live2/logo/2744217815.png" group-title="Albania",BIG BROTHER 1 (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2744217815
 #EXTINF:-1 tvg-name="BIG BROTHER 2 (6)" tvg-logo="/live2/logo/3828419079.png" group-title="Albania",BIG BROTHER 2 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3828419079
 #EXTINF:-1 tvg-name="BIG BROTHER 2 KS (6)" tvg-logo="/live2/logo/242611137.png" group-title="Albania",BIG BROTHER 2 KS (6)
@@ -6705,6 +6723,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=545817739
 https://playlist-perso.yraseloued.workers.dev/ID=893628028
 #EXTINF:-1 tvg-name="ILLYRIAN KIDS TOMI JERRY (6)" tvg-logo="" group-title="Albania",ILLYRIAN KIDS TOMI JERRY (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3201621050
+#EXTINF:-1 tvg-name="ILLYRIAN NETFLIX AKSION (6)" tvg-logo="" group-title="Albania",ILLYRIAN NETFLIX AKSION (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3032855494
 #EXTINF:-1 tvg-name="ILLYRIAN NETFLIX AVENTURE (6)" tvg-logo="" group-title="Albania",ILLYRIAN NETFLIX AVENTURE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2046603388
 #EXTINF:-1 tvg-name="ILLYRIAN NETFLIX LUFT (6)" tvg-logo="" group-title="Albania",ILLYRIAN NETFLIX LUFT (6)
@@ -7475,6 +7495,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=830593592
 https://playlist-perso.yraseloued.workers.dev/ID=1664213939
 #EXTINF:-1 tvg-name="STORYCHANNEL TV (6)" tvg-logo="/live2/logo/2056819505.png" group-title="Arabia",STORYCHANNEL TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2056819505
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL (6)" tvg-logo="/live2/logo/455844791.png" group-title="Arabia",STUDIO UNIVERSAL (6)
+https://playlist-perso.yraseloued.workers.dev/ID=455844791
 #EXTINF:-1 tvg-name="SYFY (6)" tvg-logo="/live2/logo/3247080697.png" group-title="Arabia",SYFY (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3247080697
 #EXTINF:-1 tvg-name="T5 SATELITAL (6)" tvg-logo="/live2/logo/2411433288.png" group-title="Arabia",T5 SATELITAL (6)
@@ -8053,8 +8075,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=348467693
 https://playlist-perso.yraseloued.workers.dev/ID=805571294
 #EXTINF:-1 tvg-name="NOVA NEWS (6)" tvg-logo="/live2/logo/2550224292.png" group-title="Bulgaria",NOVA NEWS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2550224292
-#EXTINF:-1 tvg-name="NOVA SPORT (6)" tvg-logo="/live2/logo/2771280932.png" group-title="Bulgaria",NOVA SPORT (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2771280932
 #EXTINF:-1 tvg-name="NOVA TV (6)" tvg-logo="/live2/logo/2261886020.png" group-title="Bulgaria",NOVA TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2261886020
 #EXTINF:-1 tvg-name="ON AIR (6)" tvg-logo="/live2/logo/640626773.png" group-title="Bulgaria",ON AIR (6)
@@ -8407,8 +8427,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2538067817
 https://playlist-perso.yraseloued.workers.dev/ID=1572961311
 #EXTINF:-1 tvg-name="BFM BUSINESS (6)" tvg-logo="/live2/logo/1945266328.png" group-title="France",BFM BUSINESS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1945266328
-#EXTINF:-1 tvg-name="BFM LILLE TV (6)" tvg-logo="" group-title="France",BFM LILLE TV (6)
-https://playlist-perso.yraseloued.workers.dev/ID=4078744188
 #EXTINF:-1 tvg-name="BFM LYON (6)" tvg-logo="" group-title="France",BFM LYON (6)
 https://playlist-perso.yraseloued.workers.dev/ID=458435235
 #EXTINF:-1 tvg-name="BFM TV (6)" tvg-logo="/live2/logo/2878138955.png" group-title="France",BFM TV (6)
@@ -8481,8 +8499,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1839597702
 https://playlist-perso.yraseloued.workers.dev/ID=2558095112
 #EXTINF:-1 tvg-name="CANAL+ BOX OFFICE (6)" tvg-logo="/live2/logo/3655983806.png" group-title="France",CANAL+ BOX OFFICE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3655983806
-#EXTINF:-1 tvg-name="CANAL+ CINEMA (6)" tvg-logo="/live2/logo/3980730104.png" group-title="France",CANAL+ CINEMA (6)
-https://playlist-perso.yraseloued.workers.dev/ID=3980730104
 #EXTINF:-1 tvg-name="CANAL+ DECALE (6)" tvg-logo="/live2/logo/3090919986.png" group-title="France",CANAL+ DECALE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3090919986
 #EXTINF:-1 tvg-name="CANAL+ DOCS (6)" tvg-logo="/live2/logo/1161602732.png" group-title="France",CANAL+ DOCS (6)
@@ -8519,6 +8535,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3470317665
 https://playlist-perso.yraseloued.workers.dev/ID=898021432
 #EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE (6)" tvg-logo="/live2/logo/128077399.png" group-title="France",CANAL+ PREMIER LEAGUE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=128077399
+#EXTINF:-1 tvg-name="CANAL+ SERIES (6)" tvg-logo="/live2/logo/907568283.png" group-title="France",CANAL+ SERIES (6)
+https://playlist-perso.yraseloued.workers.dev/ID=907568283
 #EXTINF:-1 tvg-name="CANAL+ SPORT (6)" tvg-logo="/live2/logo/1012399982.png" group-title="France",CANAL+ SPORT (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1012399982
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360 (6)" tvg-logo="/live2/logo/3411759213.png" group-title="France",CANAL+ SPORT 360 (6)
@@ -8533,6 +8551,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1870288222
 https://playlist-perso.yraseloued.workers.dev/ID=3761938686
 #EXTINF:-1 tvg-name="CANALPLAY 16 (6)" tvg-logo="" group-title="France",CANALPLAY 16 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2811943470
+#EXTINF:-1 tvg-name="CANALPLAY 18 (6)" tvg-logo="" group-title="France",CANALPLAY 18 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=413819983
 #EXTINF:-1 tvg-name="CANNES LERINS TV (6)" tvg-logo="" group-title="France",CANNES LERINS TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3135149550
 #EXTINF:-1 tvg-name="CARTOON NETWORK (6)" tvg-logo="/live2/logo/2786303319.png" group-title="France",CARTOON NETWORK (6)
@@ -8623,6 +8643,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2993145353
 https://playlist-perso.yraseloued.workers.dev/ID=1059112849
 #EXTINF:-1 tvg-name="FILMRISE SÉRIES FRANCE (6)" tvg-logo="" group-title="France",FILMRISE SÉRIES FRANCE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4257492120
+#EXTINF:-1 tvg-name="FILMRISE Z NATION (6)" tvg-logo="" group-title="France",FILMRISE Z NATION (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1270042615
 #EXTINF:-1 tvg-name="FOOT+ (6)" tvg-logo="/live2/logo/1975426357.png" group-title="France",FOOT+ (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1975426357
 #EXTINF:-1 tvg-name="FRANCE 2 (6)" tvg-logo="/live2/logo/876169338.png" group-title="France",FRANCE 2 (6)
@@ -8669,6 +8691,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2863072722
 https://playlist-perso.yraseloued.workers.dev/ID=3583190910
 #EXTINF:-1 tvg-name="J ONE (6)" tvg-logo="/live2/logo/504247527.png" group-title="France",J ONE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=504247527
+#EXTINF:-1 tvg-name="JOURNAL DU GOLF (6)" tvg-logo="" group-title="France",JOURNAL DU GOLF (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3590054219
 #EXTINF:-1 tvg-name="JUSTE POUR RIRE (6)" tvg-logo="/live2/logo/41325045.png" group-title="France",JUSTE POUR RIRE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=41325045
 #EXTINF:-1 tvg-name="L EQUIPE LIVE (6)" tvg-logo="/live2/logo/3921402326.png" group-title="France",L EQUIPE LIVE (6)
@@ -8747,6 +8771,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1294969347
 https://playlist-perso.yraseloued.workers.dev/ID=938473827
 #EXTINF:-1 tvg-name="MUSEUM (6)" tvg-logo="/live2/logo/2736388639.png" group-title="France",MUSEUM (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2736388639
+#EXTINF:-1 tvg-name="MYZEN TV (6)" tvg-logo="/live2/logo/2233165627.png" group-title="France",MYZEN TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2233165627
 #EXTINF:-1 tvg-name="NAT GEO (6)" tvg-logo="/live2/logo/1341169782.png" group-title="France",NAT GEO (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1341169782
 #EXTINF:-1 tvg-name="NAT GEO WILD (6)" tvg-logo="/live2/logo/4163250572.png" group-title="France",NAT GEO WILD (6)
@@ -8869,6 +8895,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1295523815
 https://playlist-perso.yraseloued.workers.dev/ID=1484327785
 #EXTINF:-1 tvg-name="TF 1 SERIES FILMS (6)" tvg-logo="/live2/logo/1517845231.png" group-title="France",TF 1 SERIES FILMS (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1517845231
+#EXTINF:-1 tvg-name="TF 1 ULTRA 4K (6)" tvg-logo="" group-title="France",TF 1 ULTRA 4K (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3967134627
 #EXTINF:-1 tvg-name="TFX (6)" tvg-logo="/live2/logo/1752232020.png" group-title="France",TFX (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1752232020
 #EXTINF:-1 tvg-name="TIJI (6)" tvg-logo="/live2/logo/3472686258.png" group-title="France",TIJI (6)
@@ -9177,6 +9205,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=203130779
 https://playlist-perso.yraseloued.workers.dev/ID=3471319012
 #EXTINF:-1 tvg-name="PADRE PIO TV (6)" tvg-logo="/live2/logo/435016866.png" group-title="Italy",PADRE PIO TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=435016866
+#EXTINF:-1 tvg-name="PAROLE DI VITA (6)" tvg-logo="/live2/logo/1727695336.png" group-title="Italy",PAROLE DI VITA (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1727695336
 #EXTINF:-1 tvg-name="PEER TV ALTO ADIGE (6)" tvg-logo="" group-title="Italy",PEER TV ALTO ADIGE (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1789522005
 #EXTINF:-1 tvg-name="PEOPLE ARE AWESOME (6)" tvg-logo="" group-title="Italy",PEOPLE ARE AWESOME (6)
@@ -9257,6 +9287,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3351863213
 https://playlist-perso.yraseloued.workers.dev/ID=3692927513
 #EXTINF:-1 tvg-name="RETE TV ITALIA (6)" tvg-logo="/live2/logo/4131055018.png" group-title="Italy",RETE TV ITALIA (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4131055018
+#EXTINF:-1 tvg-name="RETE VENETA (6)" tvg-logo="/live2/logo/1085172353.png" group-title="Italy",RETE VENETA (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1085172353
 #EXTINF:-1 tvg-name="RETEBIELLA TV (6)" tvg-logo="/live2/logo/109447913.png" group-title="Italy",RETEBIELLA TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=109447913
 #EXTINF:-1 tvg-name="RMC 101 (6)" tvg-logo="/live2/logo/2209352147.png" group-title="Italy",RMC 101 (6)
@@ -9311,6 +9343,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=354961873
 https://playlist-perso.yraseloued.workers.dev/ID=464281981
 #EXTINF:-1 tvg-name="SKY INVESTIGATION (6)" tvg-logo="/live2/logo/1968640789.png" group-title="Italy",SKY INVESTIGATION (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1968640789
+#EXTINF:-1 tvg-name="SKY PRIMAFILA 1 (6)" tvg-logo="/live2/logo/1944682394.png" group-title="Italy",SKY PRIMAFILA 1 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1944682394
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 10 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 10 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4272937805
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 11 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 11 (6)
@@ -9455,6 +9489,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=386765643
 https://playlist-perso.yraseloued.workers.dev/ID=2521763009
 #EXTINF:-1 tvg-name="TELETUTTO (6)" tvg-logo="/live2/logo/3271666551.png" group-title="Italy",TELETUTTO (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3271666551
+#EXTINF:-1 tvg-name="TG NORBA 24 (6)" tvg-logo="/live2/logo/3379729817.png" group-title="Italy",TG NORBA 24 (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3379729817
 #EXTINF:-1 tvg-name="TGCOM 24 (6)" tvg-logo="/live2/logo/2418148449.png" group-title="Italy",TGCOM 24 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2418148449
 #EXTINF:-1 tvg-name="TOP CALCIO 24 (6)" tvg-logo="/live2/logo/3835549326.png" group-title="Italy",TOP CALCIO 24 (6)
@@ -9489,8 +9525,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2791781421
 https://playlist-perso.yraseloued.workers.dev/ID=1249978054
 #EXTINF:-1 tvg-name="VIDEOSTAR TV (6)" tvg-logo="/live2/logo/2499488584.png" group-title="Italy",VIDEOSTAR TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2499488584
+#EXTINF:-1 tvg-name="VIDEOTOLENTINO (6)" tvg-logo="/live2/logo/2015312510.png" group-title="Italy",VIDEOTOLENTINO (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2015312510
 #EXTINF:-1 tvg-name="YU-GI-OH! ITALY (6)" tvg-logo="" group-title="Italy",YU-GI-OH! ITALY (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2849811027
+#EXTINF:-1 tvg-name="ÈTV MARCHE (6)" tvg-logo="/live2/logo/3069499316.png" group-title="Italy",ÈTV MARCHE (6)
+https://playlist-perso.yraseloued.workers.dev/ID=3069499316
 #EXTINF:-1 tvg-name="ÈTV RETE 7 (6)" tvg-logo="/live2/logo/4290207480.png" group-title="Italy",ÈTV RETE 7 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4290207480
 #EXTINF:-1 tvg-name="100% (6)" tvg-logo="/live2/logo/740890222.png" group-title="Netherlands",100% (6)
@@ -10155,12 +10195,16 @@ https://playlist-perso.yraseloued.workers.dev/ID=3866572238
 https://playlist-perso.yraseloued.workers.dev/ID=2715242270
 #EXTINF:-1 tvg-name="SPORT KLUB (6)" tvg-logo="/live2/logo/1618047268.png" group-title="Poland",SPORT KLUB (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1618047268
+#EXTINF:-1 tvg-name="SPORTOWA TV (6)" tvg-logo="" group-title="Poland",SPORTOWA TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1591065190
 #EXTINF:-1 tvg-name="STARS TV (6)" tvg-logo="/live2/logo/4113862971.png" group-title="Poland",STARS TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4113862971
 #EXTINF:-1 tvg-name="STOPKLATKA TV (6)" tvg-logo="/live2/logo/52562107.png" group-title="Poland",STOPKLATKA TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=52562107
 #EXTINF:-1 tvg-name="STUDIOMED TV (6)" tvg-logo="/live2/logo/2289661580.png" group-title="Poland",STUDIOMED TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2289661580
+#EXTINF:-1 tvg-name="SUNDANCE TV (6)" tvg-logo="/live2/logo/2713738146.png" group-title="Poland",SUNDANCE TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=2713738146
 #EXTINF:-1 tvg-name="SUPER EXPRESS TV (6)" tvg-logo="" group-title="Poland",SUPER EXPRESS TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1279805679
 #EXTINF:-1 tvg-name="SUPER POLSAT (6)" tvg-logo="/live2/logo/3067191309.png" group-title="Poland",SUPER POLSAT (6)
@@ -10789,6 +10833,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2970833245
 https://playlist-perso.yraseloued.workers.dev/ID=1757152742
 #EXTINF:-1 tvg-name="CRIME DISTRICT (6)" tvg-logo="/live2/logo/4175356411.png" group-title="Spain",CRIME DISTRICT (6)
 https://playlist-perso.yraseloued.workers.dev/ID=4175356411
+#EXTINF:-1 tvg-name="CUATRO (6)" tvg-logo="/live2/logo/1590334161.png" group-title="Spain",CUATRO (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1590334161
 #EXTINF:-1 tvg-name="CULTURA 24 TV (6)" tvg-logo="/live2/logo/3509056761.png" group-title="Spain",CULTURA 24 TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3509056761
 #EXTINF:-1 tvg-name="D KISS (6)" tvg-logo="/live2/logo/4289152978.png" group-title="Spain",D KISS (6)
@@ -11209,6 +11255,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2793254316
 https://playlist-perso.yraseloued.workers.dev/ID=3789412220
 #EXTINF:-1 tvg-name="BRTV (6)" tvg-logo="/live2/logo/134086061.png" group-title="Turkey",BRTV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=134086061
+#EXTINF:-1 tvg-name="CAILLOU (6)" tvg-logo="/live2/logo/4136709820.png" group-title="Turkey",CAILLOU (6)
+https://playlist-perso.yraseloued.workers.dev/ID=4136709820
 #EXTINF:-1 tvg-name="CAN TV (6)" tvg-logo="/live2/logo/3900702315.png" group-title="Turkey",CAN TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3900702315
 #EXTINF:-1 tvg-name="CARTOON NETWORK (6)" tvg-logo="/live2/logo/1696573723.png" group-title="Turkey",CARTOON NETWORK (6)
@@ -11271,6 +11319,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=414950309
 https://playlist-perso.yraseloued.workers.dev/ID=1201456793
 #EXTINF:-1 tvg-name="ENO ANIMASYON (6)" tvg-logo="" group-title="Turkey",ENO ANIMASYON (6)
 https://playlist-perso.yraseloued.workers.dev/ID=659694487
+#EXTINF:-1 tvg-name="ENO WESTERN (6)" tvg-logo="" group-title="Turkey",ENO WESTERN (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1329952795
 #EXTINF:-1 tvg-name="ERCIS TV (6)" tvg-logo="/live2/logo/2901457550.png" group-title="Turkey",ERCIS TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2901457550
 #EXTINF:-1 tvg-name="ERTV (6)" tvg-logo="/live2/logo/221836468.png" group-title="Turkey",ERTV (6)
@@ -11363,8 +11413,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=847659673
 https://playlist-perso.yraseloued.workers.dev/ID=221540542
 #EXTINF:-1 tvg-name="KARDELEN TV (6)" tvg-logo="/live2/logo/1270110607.png" group-title="Turkey",KARDELEN TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1270110607
-#EXTINF:-1 tvg-name="KAY TV (6)" tvg-logo="" group-title="Turkey",KAY TV (6)
-https://playlist-perso.yraseloued.workers.dev/ID=2379646637
 #EXTINF:-1 tvg-name="KENT TÜRK (6)" tvg-logo="/live2/logo/3962582829.png" group-title="Turkey",KENT TÜRK (6)
 https://playlist-perso.yraseloued.workers.dev/ID=3962582829
 #EXTINF:-1 tvg-name="KIBRIS GENÇ TV (6)" tvg-logo="/live2/logo/3115477419.png" group-title="Turkey",KIBRIS GENÇ TV (6)
@@ -11381,6 +11429,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=862610701
 https://playlist-perso.yraseloued.workers.dev/ID=578380861
 #EXTINF:-1 tvg-name="KOZA TV (6)" tvg-logo="/live2/logo/1047804470.png" group-title="Turkey",KOZA TV (6)
 https://playlist-perso.yraseloued.workers.dev/ID=1047804470
+#EXTINF:-1 tvg-name="KRAL TV (6)" tvg-logo="/live2/logo/1505032467.png" group-title="Turkey",KRAL TV (6)
+https://playlist-perso.yraseloued.workers.dev/ID=1505032467
 #EXTINF:-1 tvg-name="KRT (6)" tvg-logo="/live2/logo/331685130.png" group-title="Turkey",KRT (6)
 https://playlist-perso.yraseloued.workers.dev/ID=331685130
 #EXTINF:-1 tvg-name="KUDÜS TV (6)" tvg-logo="/live2/logo/3035951797.png" group-title="Turkey",KUDÜS TV (6)
@@ -11609,6 +11659,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2753787815
 https://playlist-perso.yraseloued.workers.dev/ID=1718429323
 #EXTINF:-1 tvg-name="TIVI 6 (6)" tvg-logo="/live2/logo/774168016.png" group-title="Turkey",TIVI 6 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=774168016
+#EXTINF:-1 tvg-name="TIVI TÜRK (6)" tvg-logo="/live2/logo/702157954.png" group-title="Turkey",TIVI TÜRK (6)
+https://playlist-perso.yraseloued.workers.dev/ID=702157954
 #EXTINF:-1 tvg-name="TIVIBU SPOR 1 (6)" tvg-logo="/live2/logo/2565972338.png" group-title="Turkey",TIVIBU SPOR 1 (6)
 https://playlist-perso.yraseloued.workers.dev/ID=2565972338
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 (6)" tvg-logo="/live2/logo/3746683810.png" group-title="Turkey",TIVIBU SPOR 2 (6)
@@ -11727,8 +11779,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2746922057
 https://playlist-perso.yraseloued.workers.dev/ID=2938852936
 #EXTINF:-1 tvg-name="AMAZON PR ME SPORT (1)" tvg-logo="" group-title="Germany",AMAZON PR ME SPORT (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1048451198
-#EXTINF:-1 tvg-name="AMAZON PRIME HD (1)" tvg-logo="" group-title="Germany",AMAZON PRIME HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3648815838
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Germany",ANIMAL PLANET HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2440347370
 #EXTINF:-1 tvg-name="ANIXE (1)" tvg-logo="" group-title="Germany",ANIXE (1)
@@ -11749,6 +11799,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3464278105
 https://playlist-perso.yraseloued.workers.dev/ID=1352525316
 #EXTINF:-1 tvg-name="ATV 2 (1)" tvg-logo="" group-title="Germany",ATV 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=389913812
+#EXTINF:-1 tvg-name="ATV HEVC (1)" tvg-logo="" group-title="Germany",ATV HEVC (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1774205926
 #EXTINF:-1 tvg-name="AUTO MOTO SPORT HD (1)" tvg-logo="" group-title="Germany",AUTO MOTO SPORT HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=777757543
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT HD (1)" tvg-logo="" group-title="Germany",AUTO MOTOR SPORT HD (1)
@@ -11799,8 +11851,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1135050852
 https://playlist-perso.yraseloued.workers.dev/ID=2183749540
 #EXTINF:-1 tvg-name="BLUETV BOLLYWOOD ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV BOLLYWOOD ʜᴅ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1996843166
-#EXTINF:-1 tvg-name="BLUETV DOKU ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV DOKU ʜᴅ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1314250328
 #EXTINF:-1 tvg-name="BLUETV DRAMA ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV DRAMA ʜᴅ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3248359584
 #EXTINF:-1 tvg-name="BLUETV FAMILIE 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV FAMILIE 1 ʜᴅ (1)
@@ -11831,6 +11881,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=238647737
 https://playlist-perso.yraseloued.workers.dev/ID=2482888149
 #EXTINF:-1 tvg-name="BOOMERANG (1)" tvg-logo="" group-title="Germany",BOOMERANG (1)
 https://playlist-perso.yraseloued.workers.dev/ID=248401354
+#EXTINF:-1 tvg-name="BOOMERANG (BACKUP 2) (1)" tvg-logo="" group-title="Germany",BOOMERANG (BACKUP 2) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=325322989
 #EXTINF:-1 tvg-name="BOOMERANG (BACKUP 3) (1)" tvg-logo="" group-title="Germany",BOOMERANG (BACKUP 3) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3627604808
 #EXTINF:-1 tvg-name="BOOMERANG (BACKUP) (1)" tvg-logo="" group-title="Germany",BOOMERANG (BACKUP) (1)
@@ -11865,6 +11917,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=925867503
 https://playlist-perso.yraseloued.workers.dev/ID=44085489
 #EXTINF:-1 tvg-name="COMEDY CENTRAL HD+ (1)" tvg-logo="" group-title="Germany",COMEDY CENTRAL HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2210053837
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HEVC (1)" tvg-logo="" group-title="Germany",COMEDY CENTRAL HEVC (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4008133421
 #EXTINF:-1 tvg-name="CRIME + INVESTIGATION HD+ (1)" tvg-logo="" group-title="Germany",CRIME + INVESTIGATION HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1346022487
 #EXTINF:-1 tvg-name="CRIME INVESTIGATION (1)" tvg-logo="" group-title="Germany",CRIME INVESTIGATION (1)
@@ -11929,8 +11983,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1775092266
 https://playlist-perso.yraseloued.workers.dev/ID=162211919
 #EXTINF:-1 tvg-name="DAZN 2 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",DAZN 2 HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=976962274
-#EXTINF:-1 tvg-name="DAZN 3 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 3 (MATCH TIME) HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=832542472
 #EXTINF:-1 tvg-name="DAZN 4 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 4 (MATCH TIME) HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1484263760
 #EXTINF:-1 tvg-name="DAZN 5 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 5 (MATCH TIME) HD (1)
@@ -11959,8 +12011,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1937718710
 https://playlist-perso.yraseloued.workers.dev/ID=3218423080
 #EXTINF:-1 tvg-name="DAZN EVENT 14 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 14 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3037738033
-#EXTINF:-1 tvg-name="DAZN EVENT 15 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 15 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2042246319
 #EXTINF:-1 tvg-name="DAZN EVENT 16 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 16 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4147458892
 #EXTINF:-1 tvg-name="DAZN EVENT 17 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 17 HD (1)
@@ -11981,10 +12031,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=2298716540
 https://playlist-perso.yraseloued.workers.dev/ID=1344517072
 #EXTINF:-1 tvg-name="DAZN EVENT 9 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 9 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2626270030
-#EXTINF:-1 tvg-name="DAZN LFC TV HD (1)" tvg-logo="" group-title="Germany",DAZN LFC TV HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2833035201
 #EXTINF:-1 tvg-name="DAZN MBL HD (1)" tvg-logo="" group-title="Germany",DAZN MBL HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1476666167
+#EXTINF:-1 tvg-name="DAZN NBA HD (1)" tvg-logo="" group-title="Germany",DAZN NBA HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=674663909
 #EXTINF:-1 tvg-name="DAZN NFL NETWORK HD (1)" tvg-logo="" group-title="Germany",DAZN NFL NETWORK HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=201738756
 #EXTINF:-1 tvg-name="DAZN SPORT 1 HD (1)" tvg-logo="" group-title="Germany",DAZN SPORT 1 HD (1)
@@ -11997,12 +12047,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2980952434
 https://playlist-perso.yraseloued.workers.dev/ID=2468771114
 #EXTINF:-1 tvg-name="DAZN SPORTDIGITAL HD (1)" tvg-logo="" group-title="Germany",DAZN SPORTDIGITAL HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3654985152
-#EXTINF:-1 tvg-name="DB LIGA 1 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 1 FHD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=300144653
 #EXTINF:-1 tvg-name="DB LIGA 1 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 1 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=544779527
-#EXTINF:-1 tvg-name="DB LIGA 1 HD+ (1)" tvg-logo="" group-title="Germany",DB LIGA 1 HD+ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=763134903
+#EXTINF:-1 tvg-name="DB LIGA 10 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 10 FHD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1262698795
+#EXTINF:-1 tvg-name="DB LIGA 10 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 10 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2235470073
 #EXTINF:-1 tvg-name="DB LIGA 2 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 2 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=678356168
 #EXTINF:-1 tvg-name="DB LIGA 2 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 2 HD (1)
@@ -12011,8 +12061,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2935466724
 https://playlist-perso.yraseloued.workers.dev/ID=1058402443
 #EXTINF:-1 tvg-name="DB LIGA 3 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 3 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1650305658
-#EXTINF:-1 tvg-name="DB LIGA 4 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 4 FHD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1534369090
 #EXTINF:-1 tvg-name="DB LIGA 4 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 4 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1754833763
 #EXTINF:-1 tvg-name="DB LIGA 5 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 5 FHD (1)
@@ -12033,6 +12081,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3175116374
 https://playlist-perso.yraseloued.workers.dev/ID=1060615724
 #EXTINF:-1 tvg-name="DB LIGA 9 FHD (1)" tvg-logo="" group-title="Germany",DB LIGA 9 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2856024597
+#EXTINF:-1 tvg-name="DB LIGA 9 HD (1)" tvg-logo="" group-title="Germany",DB LIGA 9 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4087199410
 #EXTINF:-1 tvg-name="DELUXE MUSIC (1)" tvg-logo="" group-title="Germany",DELUXE MUSIC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2185652870
 #EXTINF:-1 tvg-name="DELUXE MUSIC HD (1)" tvg-logo="" group-title="Germany",DELUXE MUSIC HD (1)
@@ -12069,6 +12119,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=464420214
 https://playlist-perso.yraseloued.workers.dev/ID=2761218044
 #EXTINF:-1 tvg-name="DISCOVERY HD+ (BACKUP) (1)" tvg-logo="" group-title="Germany",DISCOVERY HD+ (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2519756759
+#EXTINF:-1 tvg-name="DISCOVERY HEVC (1)" tvg-logo="" group-title="Germany",DISCOVERY HEVC (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3206442366
 #EXTINF:-1 tvg-name="DISCOVERY RAW (1)" tvg-logo="" group-title="Germany",DISCOVERY RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=198543361
 #EXTINF:-1 tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="Germany",DISNEY CHANNEL (1)
@@ -12079,8 +12131,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1044005113
 https://playlist-perso.yraseloued.workers.dev/ID=169693574
 #EXTINF:-1 tvg-name="DISNEY CHANNEL RAW (1)" tvg-logo="" group-title="Germany",DISNEY CHANNEL RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3626385852
-#EXTINF:-1 tvg-name="DISNEY CINEMAGIC (1)" tvg-logo="" group-title="Germany",DISNEY CINEMAGIC (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2117081170
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (BACKUP 2) (1)" tvg-logo="" group-title="Germany",DISNEY JUNIOR (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3313774694
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (BACKUP) (1)" tvg-logo="" group-title="Germany",DISNEY JUNIOR (BACKUP) (1)
@@ -12105,8 +12155,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2148882379
 https://playlist-perso.yraseloued.workers.dev/ID=1964743431
 #EXTINF:-1 tvg-name="DR RAMASJANG (1)" tvg-logo="" group-title="Germany",DR RAMASJANG (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1249122834
-#EXTINF:-1 tvg-name="DR1 (1)" tvg-logo="" group-title="Germany",DR1 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3097586562
 #EXTINF:-1 tvg-name="DR2 (1)" tvg-logo="" group-title="Germany",DR2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4278260050
 #EXTINF:-1 tvg-name="DW (1)" tvg-logo="" group-title="Germany",DW (1)
@@ -12147,8 +12195,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2902524590
 https://playlist-perso.yraseloued.workers.dev/ID=3936450686
 #EXTINF:-1 tvg-name="DYN SPORTS 7 (1)" tvg-logo="" group-title="Germany",DYN SPORTS 7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3619770830
-#EXTINF:-1 tvg-name="DYN SPORTS 8 (1)" tvg-logo="" group-title="Germany",DYN SPORTS 8 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1435616799
 #EXTINF:-1 tvg-name="DYN SPORTS 9 (1)" tvg-logo="" group-title="Germany",DYN SPORTS 9 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1760685999
 #EXTINF:-1 tvg-name="E! ENTERTAINM. HEVC (1)" tvg-logo="" group-title="Germany",E! ENTERTAINM. HEVC (1)
@@ -12187,6 +12233,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4158235798
 https://playlist-perso.yraseloued.workers.dev/ID=2092513
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=731796873
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP 2) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2876480347
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (BACKUP 3) (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP 3) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1613711614
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP) (1)
@@ -12211,6 +12259,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3279539799
 https://playlist-perso.yraseloued.workers.dev/ID=622250285
 #EXTINF:-1 tvg-name="EUROSPORT 2 HD+ (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=519763885
+#EXTINF:-1 tvg-name="EUROSPORT 2 HEVC (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HEVC (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2747818556
 #EXTINF:-1 tvg-name="EUROSPORT 2 RAW (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2981865552
 #EXTINF:-1 tvg-name="EUROSPORT 2 XTRA HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD (1)
@@ -12233,14 +12283,18 @@ https://playlist-perso.yraseloued.workers.dev/ID=2682197388
 https://playlist-perso.yraseloued.workers.dev/ID=2730441788
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 14 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 14 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=278913068
+#EXTINF:-1 tvg-name="EUROSPORT 360 HD 15 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 15 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=771738012
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 16 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 16 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1784656716
+#EXTINF:-1 tvg-name="EUROSPORT 360 HD 2 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 2 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1414847611
+#EXTINF:-1 tvg-name="EUROSPORT 360 HD 3 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 3 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1765078475
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 4 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 4 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3675531739
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 5 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 5 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3866361963
-#EXTINF:-1 tvg-name="EUROSPORT 360 HD 6 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 6 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2715056827
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 7 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2629063435
 #EXTINF:-1 tvg-name="EUROSPORT 360 HD 8 (1)" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 8 (1)
@@ -12267,8 +12321,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=555457828
 https://playlist-perso.yraseloued.workers.dev/ID=477869204
 #EXTINF:-1 tvg-name="FIX & FOXI (1)" tvg-logo="" group-title="Germany",FIX & FOXI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3410740798
-#EXTINF:-1 tvg-name="FIX&FOXI (1)" tvg-logo="" group-title="Germany",FIX&FOXI (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3567855153
 #EXTINF:-1 tvg-name="FOX HD (1)" tvg-logo="" group-title="Germany",FOX HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1518951988
 #EXTINF:-1 tvg-name="FOX HD (BACKUP) (1)" tvg-logo="" group-title="Germany",FOX HD (BACKUP) (1)
@@ -12317,8 +12369,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4013755273
 https://playlist-perso.yraseloued.workers.dev/ID=3390760460
 #EXTINF:-1 tvg-name="HISTORY HD+ (1)" tvg-logo="" group-title="Germany",HISTORY HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=666069046
-#EXTINF:-1 tvg-name="HISTORY HEVC (1)" tvg-logo="" group-title="Germany",HISTORY HEVC (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3291242863
 #EXTINF:-1 tvg-name="HISTORY RAW (1)" tvg-logo="" group-title="Germany",HISTORY RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2297575371
 #EXTINF:-1 tvg-name="HR (1)" tvg-logo="" group-title="Germany",HR (1)
@@ -12327,6 +12377,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=180120911
 https://playlist-perso.yraseloued.workers.dev/ID=1583736075
 #EXTINF:-1 tvg-name="HR-FERNSEHEN HD (BACKUP) (1)" tvg-logo="" group-title="Germany",HR-FERNSEHEN HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3578764950
+#EXTINF:-1 tvg-name="HSE 24 TV (1)" tvg-logo="" group-title="Germany",HSE 24 TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2877260651
 #EXTINF:-1 tvg-name="HSE24 EXTRA (1)" tvg-logo="" group-title="Germany",HSE24 EXTRA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4231462316
 #EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY (1)" tvg-logo="" group-title="Germany",ID INVESTIGATION DISCOVERY (1)
@@ -12339,8 +12391,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3586356557
 https://playlist-perso.yraseloued.workers.dev/ID=122376869
 #EXTINF:-1 tvg-name="JUNIOR (1)" tvg-logo="" group-title="Germany",JUNIOR (1)
 https://playlist-perso.yraseloued.workers.dev/ID=788796757
-#EXTINF:-1 tvg-name="JUNIOR (BACKUP) (1)" tvg-logo="" group-title="Germany",JUNIOR (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2097907981
 #EXTINF:-1 tvg-name="JUNIOR HD (1)" tvg-logo="" group-title="Germany",JUNIOR HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1402056834
 #EXTINF:-1 tvg-name="K-TV (1)" tvg-logo="" group-title="Germany",K-TV (1)
@@ -12509,6 +12559,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1587310395
 https://playlist-perso.yraseloued.workers.dev/ID=3821257483
 #EXTINF:-1 tvg-name="MR. BEAN (1)" tvg-logo="" group-title="Germany",MR. BEAN (1)
 https://playlist-perso.yraseloued.workers.dev/ID=375558930
+#EXTINF:-1 tvg-name="MS SPORT HD (1)" tvg-logo="" group-title="Germany",MS SPORT HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1124061192
 #EXTINF:-1 tvg-name="MTV (1)" tvg-logo="" group-title="Germany",MTV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3497158161
 #EXTINF:-1 tvg-name="MTV (BACKUP) (1)" tvg-logo="" group-title="Germany",MTV (BACKUP) (1)
@@ -12803,8 +12855,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3548335857
 https://playlist-perso.yraseloued.workers.dev/ID=2795142238
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 4 (BACKUP) (1)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 4 (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3065177137
-#EXTINF:-1 tvg-name="RTL+ SPORT EVENT 5 (BACKUP) (1)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 5 (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=733807943
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 6 (1)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 6 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3696897854
 #EXTINF:-1 tvg-name="RTL+ SPORT EVENT 6 (BACKUP) (1)" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 6 (BACKUP) (1)
@@ -12837,6 +12887,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4242909772
 https://playlist-perso.yraseloued.workers.dev/ID=2659830919
 #EXTINF:-1 tvg-name="S. SPORT 11 FHD (1)" tvg-logo="" group-title="Germany",S. SPORT 11 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3953049103
+#EXTINF:-1 tvg-name="S. SPORT 11 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 11 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1378077721
 #EXTINF:-1 tvg-name="S. SPORT 2 FHD (1)" tvg-logo="" group-title="Germany",S. SPORT 2 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=869906614
 #EXTINF:-1 tvg-name="S. SPORT 2 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 2 HD (1)
@@ -12957,8 +13009,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3689801660
 https://playlist-perso.yraseloued.workers.dev/ID=2482473496
 #EXTINF:-1 tvg-name="SKY 1 HD (1)" tvg-logo="" group-title="Germany",SKY 1 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2760602887
-#EXTINF:-1 tvg-name="SKY 1 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY 1 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4218240582
+#EXTINF:-1 tvg-name="SKY 1 HD+ (1)" tvg-logo="" group-title="Germany",SKY 1 HD+ (1)
+https://playlist-perso.yraseloued.workers.dev/ID=771256431
 #EXTINF:-1 tvg-name="SKY 1 HD+ (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY 1 HD+ (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2953419832
 #EXTINF:-1 tvg-name="SKY 1 RAW (1)" tvg-logo="" group-title="Germany",SKY 1 RAW (1)
@@ -13125,8 +13177,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2486975913
 https://playlist-perso.yraseloued.workers.dev/ID=2584751289
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1032745969
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3793586623
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD+ (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=18838973
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 RAW (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 RAW (1)
@@ -13155,14 +13205,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=2158494406
 https://playlist-perso.yraseloued.workers.dev/ID=18168168
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=178643918
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4037225133
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD+ (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4031812330
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 RAW (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1595002135
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 9 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3451861494
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 9 HD (BACKUP) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1996874222
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD+ (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 9 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3878389417
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 RAW (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 9 RAW (1)
@@ -13189,16 +13239,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=1854447542
 https://playlist-perso.yraseloued.workers.dev/ID=4183661289
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=728399524
-#EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF HD+ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1779919359
-#EXTINF:-1 tvg-name="SKY CINEMA BEST OF HEVC (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF HEVC (1)
-https://playlist-perso.yraseloued.workers.dev/ID=651804538
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF RAW (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3310761474
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS (1)" tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3175728367
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=185991845
+#EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD+ (1)
+https://playlist-perso.yraseloued.workers.dev/ID=361705436
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION (1)" tvg-logo="" group-title="Germany",SKY CINEMA EMOTION (1)
 https://playlist-perso.yraseloued.workers.dev/ID=750680993
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY (1)" tvg-logo="" group-title="Germany",SKY CINEMA FAMILY (1)
@@ -13225,6 +13273,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3965128200
 https://playlist-perso.yraseloued.workers.dev/ID=491492893
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 HEVC (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1606366206
+#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 RAW (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 RAW (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2137134603
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3458716000
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN HD+ (1)
@@ -13257,6 +13307,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2843465399
 https://playlist-perso.yraseloued.workers.dev/ID=2337929760
 #EXTINF:-1 tvg-name="SKY COMEDY HD (1)" tvg-logo="" group-title="Germany",SKY COMEDY HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3449280759
+#EXTINF:-1 tvg-name="SKY COMEDY HD RAW (1)" tvg-logo="" group-title="Germany",SKY COMEDY HD RAW (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1977732328
 #EXTINF:-1 tvg-name="SKY COMEDY HEVC (1)" tvg-logo="" group-title="Germany",SKY COMEDY HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1783272659
 #EXTINF:-1 tvg-name="SKY CRIME HD (1)" tvg-logo="" group-title="Germany",SKY CRIME HD (1)
@@ -13281,6 +13333,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4154732080
 https://playlist-perso.yraseloued.workers.dev/ID=4218539630
 #EXTINF:-1 tvg-name="SKY FORMULA 1 UHD (1)" tvg-logo="" group-title="Germany",SKY FORMULA 1 UHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1935707841
+#EXTINF:-1 tvg-name="SKY FUN (1)" tvg-logo="" group-title="Germany",SKY FUN (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2592120252
 #EXTINF:-1 tvg-name="SKY JUNIOR (1)" tvg-logo="" group-title="Germany",SKY JUNIOR (1)
 https://playlist-perso.yraseloued.workers.dev/ID=446346560
 #EXTINF:-1 tvg-name="SKY KRIMI HD (1)" tvg-logo="" group-title="Germany",SKY KRIMI HD (1)
@@ -13361,6 +13415,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3545918392
 https://playlist-perso.yraseloued.workers.dev/ID=3485784838
 #EXTINF:-1 tvg-name="SKY SELECT PROGRAMM BERSICHT (1)" tvg-logo="" group-title="Germany",SKY SELECT PROGRAMM BERSICHT (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2777266633
+#EXTINF:-1 tvg-name="SKY SERIEN & SHOWS FHD (1)" tvg-logo="" group-title="Germany",SKY SERIEN & SHOWS FHD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=313699292
 #EXTINF:-1 tvg-name="SKY SERIEN & SHOWS HD (1)" tvg-logo="" group-title="Germany",SKY SERIEN & SHOWS HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3353964677
 #EXTINF:-1 tvg-name="SKY SERIEN&SHOWS HD+ (1)" tvg-logo="" group-title="Germany",SKY SERIEN&SHOWS HD+ (1)
@@ -13411,6 +13467,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2997904321
 https://playlist-perso.yraseloued.workers.dev/ID=21354757
 #EXTINF:-1 tvg-name="SKY SPORT 4 HD (1)" tvg-logo="" group-title="Germany",SKY SPORT 4 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1505326936
+#EXTINF:-1 tvg-name="SKY SPORT 4 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 4 HD (BACKUP) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2186479904
 #EXTINF:-1 tvg-name="SKY SPORT 4 HD+ (1)" tvg-logo="" group-title="Germany",SKY SPORT 4 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3604024840
 #EXTINF:-1 tvg-name="SKY SPORT 5 (1)" tvg-logo="" group-title="Germany",SKY SPORT 5 (1)
@@ -13435,8 +13493,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3610669243
 https://playlist-perso.yraseloued.workers.dev/ID=3519632036
 #EXTINF:-1 tvg-name="SKY SPORT 7 HD+ (1)" tvg-logo="" group-title="Germany",SKY SPORT 7 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4015796941
-#EXTINF:-1 tvg-name="SKY SPORT 8 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 8 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=390816113
+#EXTINF:-1 tvg-name="SKY SPORT 8 HD (1)" tvg-logo="" group-title="Germany",SKY SPORT 8 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=236347927
 #EXTINF:-1 tvg-name="SKY SPORT 9 HD (1)" tvg-logo="" group-title="Germany",SKY SPORT 9 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3267125897
 #EXTINF:-1 tvg-name="SKY SPORT 9 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 9 HD (BACKUP) (1)
@@ -13489,8 +13547,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2649186974
 https://playlist-perso.yraseloued.workers.dev/ID=2534839650
 #EXTINF:-1 tvg-name="SKY SPORT NEWS HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",SKY SPORT NEWS HD (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2332872870
-#EXTINF:-1 tvg-name="SKY SPORT NEWS HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT NEWS HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1656274227
 #EXTINF:-1 tvg-name="SKY SPORT NEWS HEVC (1)" tvg-logo="" group-title="Germany",SKY SPORT NEWS HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1846644000
 #EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE HD (1)" tvg-logo="" group-title="Germany",SKY SPORT PREMIER LEAGUE HD (1)
@@ -13549,8 +13605,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1772933088
 https://playlist-perso.yraseloued.workers.dev/ID=2964128740
 #EXTINF:-1 tvg-name="SPIEGEL TV WISSEN HD (1)" tvg-logo="" group-title="Germany",SPIEGEL TV WISSEN HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2094185132
-#EXTINF:-1 tvg-name="SPONGEBOB HD (1)" tvg-logo="" group-title="Germany",SPONGEBOB HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2520302204
+#EXTINF:-1 tvg-name="SPORT DIGITAL FHD (1)" tvg-logo="" group-title="Germany",SPORT DIGITAL FHD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=312645496
 #EXTINF:-1 tvg-name="SPORT DIGITAL HD (1)" tvg-logo="" group-title="Germany",SPORT DIGITAL HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3621115013
 #EXTINF:-1 tvg-name="SPORT DIGITAL HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SPORT DIGITAL HD (BACKUP) (1)
@@ -13655,8 +13711,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1034743174
 https://playlist-perso.yraseloued.workers.dev/ID=2047645526
 #EXTINF:-1 tvg-name="SPORTDEUTSCHLAND EVENT 7 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1198309094
-#EXTINF:-1 tvg-name="SPORTDEUTSCHLAND EVENT 8 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 8 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3309054263
 #EXTINF:-1 tvg-name="SPORTDEUTSCHLAND EVENT 9 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 9 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4166779015
 #EXTINF:-1 tvg-name="SPORTDIGITAL FUSBALL HD (1)" tvg-logo="" group-title="Germany",SPORTDIGITAL FUSBALL HD (1)
@@ -13815,8 +13869,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4096804646
 https://playlist-perso.yraseloued.workers.dev/ID=3712417544
 #EXTINF:-1 tvg-name="TV3 PULS (1)" tvg-logo="" group-title="Germany",TV3 PULS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2566182864
-#EXTINF:-1 tvg-name="TV3 SPORT (1)" tvg-logo="" group-title="Germany",TV3 SPORT (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3307783229
 #EXTINF:-1 tvg-name="TV3+ HD (1)" tvg-logo="" group-title="Germany",TV3+ HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3897746736
 #EXTINF:-1 tvg-name="UNIVERSAL TV HD (1)" tvg-logo="" group-title="Germany",UNIVERSAL TV HD (1)
@@ -13829,6 +13881,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3611544303
 https://playlist-perso.yraseloued.workers.dev/ID=2013435154
 #EXTINF:-1 tvg-name="V FILM ACTION (1)" tvg-logo="" group-title="Germany",V FILM ACTION (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2279462690
+#EXTINF:-1 tvg-name="V FILM FAMILY (1)" tvg-logo="" group-title="Germany",V FILM FAMILY (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2086139873
 #EXTINF:-1 tvg-name="V FILM HITS (1)" tvg-logo="" group-title="Germany",V FILM HITS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3959207547
 #EXTINF:-1 tvg-name="V FILM PREMIERE (1)" tvg-logo="" group-title="Germany",V FILM PREMIERE (1)
@@ -13917,6 +13971,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3118937743
 https://playlist-perso.yraseloued.workers.dev/ID=3464894270
 #EXTINF:-1 tvg-name="WELT/N24 SD (1)" tvg-logo="/live2/logo/2024985069.png" group-title="Germany",WELT/N24 SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2024985069
+#EXTINF:-1 tvg-name="WORLD POKER TOUR (1)" tvg-logo="" group-title="Germany",WORLD POKER TOUR (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2954521895
 #EXTINF:-1 tvg-name="WWE HD (1)" tvg-logo="" group-title="Germany",WWE HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1648586865
 #EXTINF:-1 tvg-name="XITE HD (1)" tvg-logo="" group-title="Germany",XITE HD (1)
@@ -13991,6 +14047,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4104386390
 https://playlist-perso.yraseloued.workers.dev/ID=2550632094
 #EXTINF:-1 tvg-name="BIG BROTHER 1 (1)" tvg-logo="" group-title="Albania",BIG BROTHER 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2757997483
+#EXTINF:-1 tvg-name="BIG BROTHER 2 (1)" tvg-logo="" group-title="Albania",BIG BROTHER 2 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3821259131
 #EXTINF:-1 tvg-name="CUFO TV (1)" tvg-logo="" group-title="Albania",CUFO TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=249881603
 #EXTINF:-1 tvg-name="CUFO2 TV (1)" tvg-logo="" group-title="Albania",CUFO2 TV (1)
@@ -14009,6 +14067,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=112491378
 https://playlist-perso.yraseloued.workers.dev/ID=1341499575
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Albania",EUROSPORT 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=932736266
+#EXTINF:-1 tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Albania",EUROSPORT 2 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1882724314
 #EXTINF:-1 tvg-name="EXPLORER HISTORI (1)" tvg-logo="" group-title="Albania",EXPLORER HISTORI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4241397723
 #EXTINF:-1 tvg-name="EXPLORER NATYRA (1)" tvg-logo="" group-title="Albania",EXPLORER NATYRA (1)
@@ -14065,8 +14125,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3031879705
 https://playlist-perso.yraseloued.workers.dev/ID=955004834
 #EXTINF:-1 tvg-name="JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (1)" tvg-logo="" group-title="Albania",JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3957914671
-#EXTINF:-1 tvg-name="JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (BACKUP) (1)" tvg-logo="" group-title="Albania",JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3395317453
 #EXTINF:-1 tvg-name="JAZEERA MUBASHER (FHD) (1)" tvg-logo="" group-title="Albania",JAZEERA MUBASHER (FHD) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=314704738
 #EXTINF:-1 tvg-name="JAZEERA MUBASHER (FHD) (BACKUP) (1)" tvg-logo="" group-title="Albania",JAZEERA MUBASHER (FHD) (BACKUP) (1)
@@ -14157,6 +14215,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3461777583
 https://playlist-perso.yraseloued.workers.dev/ID=602542137
 #EXTINF:-1 tvg-name="RAYYAN AL QADEEM (FHD) (1)" tvg-logo="" group-title="Albania",RAYYAN AL QADEEM (FHD) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2877898180
+#EXTINF:-1 tvg-name="RROKUM TV (1)" tvg-logo="" group-title="Albania",RROKUM TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1335753847
 #EXTINF:-1 tvg-name="RROKUM TV HD (1)" tvg-logo="" group-title="Albania",RROKUM TV HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1849114921
 #EXTINF:-1 tvg-name="RTK 1 (1)" tvg-logo="" group-title="Albania",RTK 1 (1)
@@ -14367,8 +14427,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3811837368
 https://playlist-perso.yraseloued.workers.dev/ID=609422302
 #EXTINF:-1 tvg-name="5ARG: V CORRIENTES (1)" tvg-logo="" group-title="Arabia",5ARG: V CORRIENTES (1)
 https://playlist-perso.yraseloued.workers.dev/ID=286026097
-#EXTINF:-1 tvg-name="A1 JORDAN (1)" tvg-logo="" group-title="Arabia",A1 JORDAN (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1123778687
 #EXTINF:-1 tvg-name="ABU DHABI DRAMA (1)" tvg-logo="" group-title="Arabia",ABU DHABI DRAMA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=392730275
 #EXTINF:-1 tvg-name="ABU DHABI SPORT ASIA 1 (1)" tvg-logo="" group-title="Arabia",ABU DHABI SPORT ASIA 1 (1)
@@ -14433,8 +14491,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3208303251
 https://playlist-perso.yraseloued.workers.dev/ID=1394267374
 #EXTINF:-1 tvg-name="AL ASSEMA (1)" tvg-logo="" group-title="Arabia",AL ASSEMA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3578074743
-#EXTINF:-1 tvg-name="AL EKHBARIYA (BACKUP) (1)" tvg-logo="" group-title="Arabia",AL EKHBARIYA (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1587019556
 #EXTINF:-1 tvg-name="AL EMARAT (1)" tvg-logo="" group-title="Arabia",AL EMARAT (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4220085105
 #EXTINF:-1 tvg-name="AL FAJR 1 HD (1)" tvg-logo="" group-title="Arabia",AL FAJR 1 HD (1)
@@ -14547,8 +14603,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=63482805
 https://playlist-perso.yraseloued.workers.dev/ID=2094230433
 #EXTINF:-1 tvg-name="AL-ANBAR (1)" tvg-logo="" group-title="Arabia",AL-ANBAR (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2232445384
-#EXTINF:-1 tvg-name="AL-FADY TV (FHD) [NOT 24/7] (1)" tvg-logo="" group-title="Arabia",AL-FADY TV (FHD) [NOT 24/7] (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2485060672
 #EXTINF:-1 tvg-name="AL-JAWADAIN TV (FHD) [NOT 24/7] (1)" tvg-logo="" group-title="Arabia",AL-JAWADAIN TV (FHD) [NOT 24/7] (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2120586187
 #EXTINF:-1 tvg-name="AL-KHALIJ TV (1)" tvg-logo="" group-title="Arabia",AL-KHALIJ TV (1)
@@ -14561,12 +14615,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=647801832
 https://playlist-perso.yraseloued.workers.dev/ID=1338306287
 #EXTINF:-1 tvg-name="ALARABY 2 TV (FHD) (1)" tvg-logo="" group-title="Arabia",ALARABY 2 TV (FHD) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4211973210
-#EXTINF:-1 tvg-name="ALARABY TV (FHD) (1)" tvg-logo="" group-title="Arabia",ALARABY TV (FHD) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2421008256
-#EXTINF:-1 tvg-name="ALBAEENAH IRAQ (1)" tvg-logo="" group-title="Arabia",ALBAEENAH IRAQ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2484780131
-#EXTINF:-1 tvg-name="ALERTH ALNABAWI CHANNEL (576P) (1)" tvg-logo="" group-title="Arabia",ALERTH ALNABAWI CHANNEL (576P) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2933686104
 #EXTINF:-1 tvg-name="ALFA CINEMA 1 (1)" tvg-logo="" group-title="Arabia",ALFA CINEMA 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3167389462
 #EXTINF:-1 tvg-name="ALFA CINEMA 2 (1)" tvg-logo="" group-title="Arabia",ALFA CINEMA 2 (1)
@@ -14765,8 +14813,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=931504443
 https://playlist-perso.yraseloued.workers.dev/ID=569196140
 #EXTINF:-1 tvg-name="AZAHARES RADIO MULTIMEDIA (1)" tvg-logo="" group-title="Arabia",AZAHARES RADIO MULTIMEDIA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3365621965
-#EXTINF:-1 tvg-name="AZHARI (1)" tvg-logo="" group-title="Arabia",AZHARI (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3966209327
 #EXTINF:-1 tvg-name="B4U AFLAM (1)" tvg-logo="" group-title="Arabia",B4U AFLAM (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1784553821
 #EXTINF:-1 tvg-name="B4U PLUS (1)" tvg-logo="" group-title="Arabia",B4U PLUS (1)
@@ -14935,8 +14981,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3914011783
 https://playlist-perso.yraseloued.workers.dev/ID=83187634
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 PREMIUM 1080 LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM 1080 LOCAL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3487656179
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 PREMIUM 1MB (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM 1MB (1)
-https://playlist-perso.yraseloued.workers.dev/ID=908164763
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 PREMIUM 4K H265 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM 4K H265 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=849681587
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 PREMIUM HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM HEVC (1)
@@ -14945,8 +14989,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1697037782
 https://playlist-perso.yraseloued.workers.dev/ID=1582724745
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 PREMIUM SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1914867451
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 SD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3918535515
 #EXTINF:-1 tvg-name="BEIN SPORTS 10 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 10 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=512081022
 #EXTINF:-1 tvg-name="BEIN SPORTS 10 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 10 HD (1)
@@ -14991,8 +15033,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2550120923
 https://playlist-perso.yraseloued.workers.dev/ID=1706763551
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 PREMIUM 4K H265 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 PREMIUM 4K H265 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1237032528
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 PREMIUM HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 PREMIUM HEVC (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2409652404
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 PREMIUM LOW (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 PREMIUM LOW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=231484685
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 PREMIUM SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 PREMIUM SD (1)
@@ -15009,18 +15049,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=953732566
 https://playlist-perso.yraseloued.workers.dev/ID=3265588862
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD (BACKUP 2) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HD (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1511910780
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD (BACKUP 3) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HD (BACKUP 3) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2436972249
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=853493341
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HD LOCAL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2604364616
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1337011579
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HQ (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 HQ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1789195916
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM (1)
-https://playlist-perso.yraseloued.workers.dev/ID=807438699
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=715497010
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM 1080 LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM 1080 LOCAL (1)
@@ -15031,8 +15065,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3793612380
 https://playlist-perso.yraseloued.workers.dev/ID=3596688846
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1626527317
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM LOW (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM LOW (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2322261582
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 PREMIUM SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 PREMIUM SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4118981528
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 3 SD (1)
@@ -15079,14 +15111,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=1843008929
 https://playlist-perso.yraseloued.workers.dev/ID=4016213476
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=671061500
-#EXTINF:-1 tvg-name="BEIN SPORTS 6 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 FHD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1917814937
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2319769626
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 HD (BACKUP 2) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HD (BACKUP 2) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1687642310
-#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HD (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3329338065
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 HD LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HD LOCAL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=530062629
 #EXTINF:-1 tvg-name="BEIN SPORTS 6 HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HEVC (1)
@@ -15137,8 +15165,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1486077362
 https://playlist-perso.yraseloued.workers.dev/ID=4217694788
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2630530373
-#EXTINF:-1 tvg-name="BEIN SPORTS AFC 1 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 1 FHD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1258183245
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC 1 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 1 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3813994680
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC 1 HEVC (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 1 HEVC (1)
@@ -15167,6 +15193,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2708600773
 https://playlist-perso.yraseloued.workers.dev/ID=753635613
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC 3 SD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 3 SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3361736093
+#EXTINF:-1 tvg-name="BEIN SPORTS AFC 3 ULTRA 4K (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 3 ULTRA 4K (1)
+https://playlist-perso.yraseloued.workers.dev/ID=672328865
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC 4 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 4 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3208957414
 #EXTINF:-1 tvg-name="BEIN SPORTS AFC 5 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS AFC 5 (1)
@@ -15201,8 +15229,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2219342131
 https://playlist-perso.yraseloued.workers.dev/ID=3106427011
 #EXTINF:-1 tvg-name="BEIN SPORTS FHD 4 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 4 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=185109651
-#EXTINF:-1 tvg-name="BEIN SPORTS FHD 6 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 6 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1908989939
+#EXTINF:-1 tvg-name="BEIN SPORTS FHD 5 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 5 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=912827683
 #EXTINF:-1 tvg-name="BEIN SPORTS FHD 7 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1286141507
 #EXTINF:-1 tvg-name="BEIN SPORTS FRENCH 1 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FRENCH 1 (1)
@@ -15211,6 +15239,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2481320680
 https://playlist-perso.yraseloued.workers.dev/ID=3561326648
 #EXTINF:-1 tvg-name="BEIN SPORTS FRENCH HD1 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FRENCH HD1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1847624602
+#EXTINF:-1 tvg-name="BEIN SPORTS FRENCH HD2 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FRENCH HD2 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=696318282
 #EXTINF:-1 tvg-name="BEIN SPORTS GLOBAL HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS GLOBAL HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1084564613
 #EXTINF:-1 tvg-name="BEIN SPORTS HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS HD (1)
@@ -15229,8 +15259,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=228948002
 https://playlist-perso.yraseloued.workers.dev/ID=4063953608
 #EXTINF:-1 tvg-name="BEIN SPORTS PREMIUM 2 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS PREMIUM 2 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=875054311
-#EXTINF:-1 tvg-name="BEIN SPORTS PREMIUM 2 HD LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS PREMIUM 2 HD LOCAL (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2388272915
 #EXTINF:-1 tvg-name="BEIN SPORTS PREMIUM 3 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS PREMIUM 3 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=592662692
 #EXTINF:-1 tvg-name="BEIN SPORTS PREMIUM 3 HD LOCAL (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS PREMIUM 3 HD LOCAL (1)
@@ -15275,8 +15303,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2069132959
 https://playlist-perso.yraseloued.workers.dev/ID=1724108284
 #EXTINF:-1 tvg-name="BELQEES (1)" tvg-logo="" group-title="Arabia",BELQEES (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1779179803
-#EXTINF:-1 tvg-name="BK: [EG] ON SPORT 1 (1)" tvg-logo="" group-title="Arabia",BK: [EG] ON SPORT 1 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2378785549
 #EXTINF:-1 tvg-name="BK: [EG] ON SPORT 2 (1)" tvg-logo="" group-title="Arabia",BK: [EG] ON SPORT 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3395885533
 #EXTINF:-1 tvg-name="BK: [EG] SADA ELBALAD DRAMA (1)" tvg-logo="" group-title="Arabia",BK: [EG] SADA ELBALAD DRAMA (1)
@@ -15411,6 +15437,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2790826241
 https://playlist-perso.yraseloued.workers.dev/ID=3522863520
 #EXTINF:-1 tvg-name="CHACRA ARG: V (1)" tvg-logo="" group-title="Arabia",CHACRA ARG: V (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3065325693
+#EXTINF:-1 tvg-name="CHADA TV (1)" tvg-logo="/live2/logo/992763884.png" group-title="Arabia",CHADA TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=992763884
 #EXTINF:-1 tvg-name="CHADA TV (720P) (1)" tvg-logo="" group-title="Arabia",CHADA TV (720P) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2950399749
 #EXTINF:-1 tvg-name="CHARITYTV (FHD) [NOT 24/7] (1)" tvg-logo="" group-title="Arabia",CHARITYTV (FHD) [NOT 24/7] (1)
@@ -15565,6 +15593,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=363789532
 https://playlist-perso.yraseloued.workers.dev/ID=2688738498
 #EXTINF:-1 tvg-name="FOX CRIME (1)" tvg-logo="" group-title="Arabia",FOX CRIME (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4146499708
+#EXTINF:-1 tvg-name="FOX LIFE HD (1)" tvg-logo="" group-title="Arabia",FOX LIFE HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2127932400
+#EXTINF:-1 tvg-name="FOX SPORTS 3 (1)" tvg-logo="" group-title="Arabia",FOX SPORTS 3 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=525206510
 #EXTINF:-1 tvg-name="FOX SPORTS PREMIUM (1)" tvg-logo="" group-title="Arabia",FOX SPORTS PREMIUM (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3201385363
 #EXTINF:-1 tvg-name="FR HD (1)" tvg-logo="" group-title="Arabia",FR HD (1)
@@ -15599,8 +15631,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1867139025
 https://playlist-perso.yraseloued.workers.dev/ID=4059896998
 #EXTINF:-1 tvg-name="HBO POP (1)" tvg-logo="" group-title="Arabia",HBO POP (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3772065266
-#EXTINF:-1 tvg-name="HBO XTREME (1)" tvg-logo="/live2/logo/1785753469.png" group-title="Arabia",HBO XTREME (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1785753469
 #EXTINF:-1 tvg-name="HBO+ (1)" tvg-logo="" group-title="Arabia",HBO+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3905475464
 #EXTINF:-1 tvg-name="HD الدوري الايطالي (1)" tvg-logo="" group-title="Arabia",HD الدوري الايطالي (1)
@@ -15791,8 +15821,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3527031053
 https://playlist-perso.yraseloued.workers.dev/ID=3022016590
 #EXTINF:-1 tvg-name="MAJESTIC ARABIC BOXOFFICE 2 (1)" tvg-logo="/live2/logo/4085263006.png" group-title="Arabia",MAJESTIC ARABIC BOXOFFICE 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4085263006
-#EXTINF:-1 tvg-name="MAJESTIC HOLLYWOOD 1 (1)" tvg-logo="/live2/logo/2461267143.png" group-title="Arabia",MAJESTIC HOLLYWOOD 1 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2461267143
 #EXTINF:-1 tvg-name="MAJESTIC HOLLYWOOD 2 (1)" tvg-logo="/live2/logo/3574828567.png" group-title="Arabia",MAJESTIC HOLLYWOOD 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3574828567
 #EXTINF:-1 tvg-name="MAJESTIC HOLLYWOOD 3 (1)" tvg-logo="/live2/logo/3899893671.png" group-title="Arabia",MAJESTIC HOLLYWOOD 3 (1)
@@ -15857,6 +15885,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=4236463705
 https://playlist-perso.yraseloued.workers.dev/ID=2711218384
 #EXTINF:-1 tvg-name="MBC DRAMA KSA (FHD) (1)" tvg-logo="" group-title="Arabia",MBC DRAMA KSA (FHD) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3587731742
+#EXTINF:-1 tvg-name="MBC DRAMA USA (FHD) (1)" tvg-logo="" group-title="Arabia",MBC DRAMA USA (FHD) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2604260212
 #EXTINF:-1 tvg-name="MBC FM (FHD) (1)" tvg-logo="/live2/logo/3336266821.png" group-title="Arabia",MBC FM (FHD) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3336266821
 #EXTINF:-1 tvg-name="MBC IRAQ (1)" tvg-logo="" group-title="Arabia",MBC IRAQ (1)
@@ -15983,6 +16013,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2596172321
 https://playlist-perso.yraseloued.workers.dev/ID=3203319196
 #EXTINF:-1 tvg-name="NAT GEO HD (1)" tvg-logo="/live2/logo/1819374107.png" group-title="Arabia",NAT GEO HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1819374107
+#EXTINF:-1 tvg-name="NAT GEO WILD (1)" tvg-logo="/live2/logo/3704911677.png" group-title="Arabia",NAT GEO WILD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3704911677
 #EXTINF:-1 tvg-name="NAT GEO WILD (BACKUP) (1)" tvg-logo="" group-title="Arabia",NAT GEO WILD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=817587589
 #EXTINF:-1 tvg-name="NEARG: ARG: V (1)" tvg-logo="" group-title="Arabia",NEARG: ARG: V (1)
@@ -16131,8 +16163,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3792727025
 https://playlist-perso.yraseloued.workers.dev/ID=1143356430
 #EXTINF:-1 tvg-name="RADIO ALBALAD TV (720P) (1)" tvg-logo="" group-title="Arabia",RADIO ALBALAD TV (720P) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1608748066
-#EXTINF:-1 tvg-name="RADIO ALKUL TV (FHD) [NOT 24/7] (1)" tvg-logo="" group-title="Arabia",RADIO ALKUL TV (FHD) [NOT 24/7] (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3816917186
 #EXTINF:-1 tvg-name="RADIO ARG: V NEUQU N (1)" tvg-logo="" group-title="Arabia",RADIO ARG: V NEUQU N (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2328721468
 #EXTINF:-1 tvg-name="RADIO FANN JORDAN: CITY VIEW (180P) [NOT 24/7] (1)" tvg-logo="" group-title="Arabia",RADIO FANN JORDAN: CITY VIEW (180P) [NOT 24/7] (1)
@@ -16285,8 +16315,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1176547457
 https://playlist-perso.yraseloued.workers.dev/ID=2216694019
 #EXTINF:-1 tvg-name="SNIPERS ARABIC 2 (1)" tvg-logo="/live2/logo/3279973331.png" group-title="Arabia",SNIPERS ARABIC 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3279973331
-#EXTINF:-1 tvg-name="SNIPERS ARABIC 3 (1)" tvg-logo="/live2/logo/4276109923.png" group-title="Arabia",SNIPERS ARABIC 3 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4276109923
 #EXTINF:-1 tvg-name="SNIPERS BOLYWOOD 1 (1)" tvg-logo="/live2/logo/4106648516.png" group-title="Arabia",SNIPERS BOLYWOOD 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4106648516
 #EXTINF:-1 tvg-name="SNIPERS BOLYWOOD 2 (1)" tvg-logo="/live2/logo/3009806612.png" group-title="Arabia",SNIPERS BOLYWOOD 2 (1)
@@ -16329,6 +16357,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3897008803
 https://playlist-perso.yraseloued.workers.dev/ID=2951207027
 #EXTINF:-1 tvg-name="SNIPERS MASRAH 3 (1)" tvg-logo="" group-title="Arabia",SNIPERS MASRAH 3 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2458382787
+#EXTINF:-1 tvg-name="SNIPERS MR BEAN (1)" tvg-logo="/live2/logo/310966371.png" group-title="Arabia",SNIPERS MR BEAN (1)
+https://playlist-perso.yraseloued.workers.dev/ID=310966371
 #EXTINF:-1 tvg-name="SNIPERS NETFLIX 2 (1)" tvg-logo="" group-title="Arabia",SNIPERS NETFLIX 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=44426657
 #EXTINF:-1 tvg-name="SNIPERS NETFLIX 3 (1)" tvg-logo="" group-title="Arabia",SNIPERS NETFLIX 3 (1)
@@ -16363,6 +16393,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1467474025
 https://playlist-perso.yraseloued.workers.dev/ID=2151947006
 #EXTINF:-1 tvg-name="SPACE (1)" tvg-logo="" group-title="Arabia",SPACE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3525474500
+#EXTINF:-1 tvg-name="SPACETOON (1)" tvg-logo="" group-title="Arabia",SPACETOON (1)
+https://playlist-perso.yraseloued.workers.dev/ID=592733992
 #EXTINF:-1 tvg-name="SPACETOON (576P) (1)" tvg-logo="" group-title="Arabia",SPACETOON (576P) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=644447995
 #EXTINF:-1 tvg-name="SPACETOON (FHD) (1)" tvg-logo="" group-title="Arabia",SPACETOON (FHD) (1)
@@ -16557,8 +16589,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3694181
 https://playlist-perso.yraseloued.workers.dev/ID=1201153205
 #EXTINF:-1 tvg-name="[KSA] KSA SSC 7 (1)" tvg-logo="" group-title="Arabia",[KSA] KSA SSC 7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2063076613
-#EXTINF:-1 tvg-name="[SHM*] JORDAN 7 STARS (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN 7 STARS (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1799382362
+#EXTINF:-1 tvg-name="[SHM*] JORDAN A1 (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN A1 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3540534477
 #EXTINF:-1 tvg-name="[SHM*] JORDAN AGHANI (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN AGHANI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3937346107
 #EXTINF:-1 tvg-name="[SHM*] JORDAN AL HAQIQA (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN AL HAQIQA (1)
@@ -16571,8 +16603,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=158996496
 https://playlist-perso.yraseloued.workers.dev/ID=2064444791
 #EXTINF:-1 tvg-name="[SHM*] JORDAN BAITY TV (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN BAITY TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3980183377
-#EXTINF:-1 tvg-name="[SHM*] JORDAN JOSAT (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN JOSAT (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2875680907
 #EXTINF:-1 tvg-name="[SHM*] JORDAN KAIFA (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN KAIFA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3745350960
 #EXTINF:-1 tvg-name="[SHM*] JORDAN ROYA TV (1)" tvg-logo="" group-title="Arabia",[SHM*] JORDAN ROYA TV (1)
@@ -16583,14 +16613,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=732117417
 https://playlist-perso.yraseloued.workers.dev/ID=2869001400
 #EXTINF:-1 tvg-name="[SPO] ABU DHABI SPORTS 1 HD (1)" tvg-logo="" group-title="Arabia",[SPO] ABU DHABI SPORTS 1 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3729559690
-#EXTINF:-1 tvg-name="[SPO] ABU DHABI SPORTS 2 HD (1)" tvg-logo="" group-title="Arabia",[SPO] ABU DHABI SPORTS 2 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1354995561
 #EXTINF:-1 tvg-name="[SPO] ABU DHABI SPORTS 3 HD (1)" tvg-logo="" group-title="Arabia",[SPO] ABU DHABI SPORTS 3 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2624165879
 #EXTINF:-1 tvg-name="[SPO] ABU DHABI SPORTS 4 HD (1)" tvg-logo="" group-title="Arabia",[SPO] ABU DHABI SPORTS 4 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2527895278
 #EXTINF:-1 tvg-name="[SPO] AL KASS SPORTS 1 (1)" tvg-logo="" group-title="Arabia",[SPO] AL KASS SPORTS 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=802414655
+#EXTINF:-1 tvg-name="[SPO] AL KASS SPORTS 2 (1)" tvg-logo="" group-title="Arabia",[SPO] AL KASS SPORTS 2 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1752406767
 #EXTINF:-1 tvg-name="[SPO] AL KASS SPORTS 3 (1)" tvg-logo="" group-title="Arabia",[SPO] AL KASS SPORTS 3 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1427354463
 #EXTINF:-1 tvg-name="[SPO] AL KASS SPORTS 4 (1)" tvg-logo="" group-title="Arabia",[SPO] AL KASS SPORTS 4 (1)
@@ -16611,6 +16641,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=281382692
 https://playlist-perso.yraseloued.workers.dev/ID=765830804
 #EXTINF:-1 tvg-name="[SPO] SAUDI SPORT KSA 4 (1)" tvg-logo="" group-title="Arabia",[SPO] SAUDI SPORT KSA 4 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2676324996
+#EXTINF:-1 tvg-name="♥QU♥ MOROCCO ♥PA♥ (1)" tvg-logo="" group-title="Arabia",♥QU♥ MOROCCO ♥PA♥ (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1973649955
 #EXTINF:-1 tvg-name="AMC (1)" tvg-logo="" group-title="Balkans",AMC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2245194560
 #EXTINF:-1 tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="Balkans",ANIMAL PLANET (1)
@@ -16819,16 +16851,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=2586954330
 https://playlist-perso.yraseloued.workers.dev/ID=941418393
 #EXTINF:-1 tvg-name="AMAZON PRIME 5 HD (1)" tvg-logo="" group-title="France",AMAZON PRIME 5 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1453050564
-#EXTINF:-1 tvg-name="AMAZON PRIME 5 HD+ (1)" tvg-logo="" group-title="France",AMAZON PRIME 5 HD+ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=795341786
 #EXTINF:-1 tvg-name="AMAZON PRIME 6 HD (1)" tvg-logo="" group-title="France",AMAZON PRIME 6 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3625241895
 #EXTINF:-1 tvg-name="AMAZON PRIME 6 HD+ (1)" tvg-logo="" group-title="France",AMAZON PRIME 6 HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=384487199
-#EXTINF:-1 tvg-name="AMAZON PRIME 7 HD (1)" tvg-logo="" group-title="France",AMAZON PRIME 7 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=348048825
-#EXTINF:-1 tvg-name="AMAZON PRIME 7 HD+ (1)" tvg-logo="" group-title="France",AMAZON PRIME 7 HD+ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=26336092
 #EXTINF:-1 tvg-name="AMAZON PRIME 8 HD (1)" tvg-logo="" group-title="France",AMAZON PRIME 8 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3449741077
 #EXTINF:-1 tvg-name="AMAZON PRIME 8 HD+ (1)" tvg-logo="" group-title="France",AMAZON PRIME 8 HD+ (1)
@@ -17135,14 +17161,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=1355611634
 https://playlist-perso.yraseloued.workers.dev/ID=187118252
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 3 SD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 3 SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1647755508
+#EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 4 FHD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 FHD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=883789883
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 4 HD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=31603637
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 4 SD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 4 SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1760807405
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 5 FHD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=601261176
-#EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 5 HD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3444063019
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 5 SD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2757347699
 #EXTINF:-1 tvg-name="DAZN LIGUE 1 LIVE 6 FHD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 6 FHD (1)
@@ -17267,10 +17293,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4210722253
 https://playlist-perso.yraseloued.workers.dev/ID=2481682325
 #EXTINF:-1 tvg-name="MCM TOP HD (1)" tvg-logo="" group-title="France",MCM TOP HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2396179096
-#EXTINF:-1 tvg-name="MCM TOP SD (1)" tvg-logo="" group-title="France",MCM TOP SD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3888330944
-#EXTINF:-1 tvg-name="MELODY HD (1)" tvg-logo="" group-title="France",MELODY HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2214657581
 #EXTINF:-1 tvg-name="MELODY SD (1)" tvg-logo="" group-title="France",MELODY SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3977317493
 #EXTINF:-1 tvg-name="MEZZO HD (1)" tvg-logo="" group-title="France",MEZZO HD (1)
@@ -17285,6 +17307,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=601190127
 https://playlist-perso.yraseloued.workers.dev/ID=619748021
 #EXTINF:-1 tvg-name="MOTOSPORT TV (1)" tvg-logo="" group-title="France",MOTOSPORT TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2301665918
+#EXTINF:-1 tvg-name="MTV HITS HD (1)" tvg-logo="" group-title="France",MTV HITS HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=535554945
 #EXTINF:-1 tvg-name="MTV HITS SD (1)" tvg-logo="" group-title="France",MTV HITS SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1996102105
 #EXTINF:-1 tvg-name="MULTISPORTS 1 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 1 HD (1)
@@ -17295,6 +17319,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2621368057
 https://playlist-perso.yraseloued.workers.dev/ID=1351935591
 #EXTINF:-1 tvg-name="MULTISPORTS 4 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 4 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1515319166
+#EXTINF:-1 tvg-name="MULTISPORTS 5 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 5 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2533093344
 #EXTINF:-1 tvg-name="MY CUISINE (1)" tvg-logo="" group-title="France",MY CUISINE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2550219127
 #EXTINF:-1 tvg-name="NATIONAL GEO WILD (1)" tvg-logo="" group-title="France",NATIONAL GEO WILD (1)
@@ -17311,10 +17337,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3199219011
 https://playlist-perso.yraseloued.workers.dev/ID=3260291200
 #EXTINF:-1 tvg-name="NICKELODEON TEEN (1)" tvg-logo="" group-title="France",NICKELODEON TEEN (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2578758168
-#EXTINF:-1 tvg-name="NRJ 12 (1)" tvg-logo="" group-title="France",NRJ 12 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4195100803
-#EXTINF:-1 tvg-name="NRJ HITS HD (1)" tvg-logo="" group-title="France",NRJ HITS HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3639203183
 #EXTINF:-1 tvg-name="NRJ HITS SD (1)" tvg-logo="" group-title="France",NRJ HITS SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2985830199
 #EXTINF:-1 tvg-name="OCS CITY (1)" tvg-logo="" group-title="France",OCS CITY (1)
@@ -17331,6 +17353,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3110963573
 https://playlist-perso.yraseloued.workers.dev/ID=2215485637
 #EXTINF:-1 tvg-name="OCS GEANET (1)" tvg-logo="" group-title="France",OCS GEANET (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1690567411
+#EXTINF:-1 tvg-name="OL TV (1)" tvg-logo="" group-title="France",OL TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2587733896
 #EXTINF:-1 tvg-name="ORANGE FRANCEBOX 1 (1)" tvg-logo="" group-title="France",ORANGE FRANCEBOX 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1816761243
 #EXTINF:-1 tvg-name="ORANGE FRANCEBOX 2 (1)" tvg-logo="" group-title="France",ORANGE FRANCEBOX 2 (1)
@@ -17357,6 +17381,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1485094105
 https://playlist-perso.yraseloued.workers.dev/ID=1068998242
 #EXTINF:-1 tvg-name="POLAR (1)" tvg-logo="" group-title="France",POLAR (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2370188978
+#EXTINF:-1 tvg-name="RFM TV HD (1)" tvg-logo="" group-title="France",RFM TV HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4100689874
 #EXTINF:-1 tvg-name="RFM TV SD (1)" tvg-logo="" group-title="France",RFM TV SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2642050442
 #EXTINF:-1 tvg-name="RMC SPORT 1 (1)" tvg-logo="" group-title="France",RMC SPORT 1 (1)
@@ -17419,6 +17445,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=823062093
 https://playlist-perso.yraseloued.workers.dev/ID=3212962222
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 5 HD (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 5 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3452571558
+#EXTINF:-1 tvg-name="RMC SPORT LIVE 5 HD (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 5 HD (BACKUP) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4171564526
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 6 HD (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 6 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1128597573
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 6 HD (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 6 HD (BACKUP) (1)
@@ -17427,12 +17455,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=2873056874
 https://playlist-perso.yraseloued.workers.dev/ID=2414807259
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 7 HD (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 7 HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=748262697
-#EXTINF:-1 tvg-name="RMC SPORT LIVE 8 HD (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 8 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1456413303
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 8 HD (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 8 HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3927680764
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 9 HD (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 9 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2590317289
+#EXTINF:-1 tvg-name="RMC SPORT LIVE 9 HD (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT LIVE 9 HD (BACKUP) (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1841130943
 #EXTINF:-1 tvg-name="RMC SPORT NEWS FHD (1)" tvg-logo="" group-title="France",RMC SPORT NEWS FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=179745605
 #EXTINF:-1 tvg-name="RMC SPORT NEWS HD (1)" tvg-logo="" group-title="France",RMC SPORT NEWS HD (1)
@@ -17443,8 +17471,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2241286879
 https://playlist-perso.yraseloued.workers.dev/ID=1830664956
 #EXTINF:-1 tvg-name="SERIE CLUB (1)" tvg-logo="" group-title="France",SERIE CLUB (1)
 https://playlist-perso.yraseloued.workers.dev/ID=328726150
-#EXTINF:-1 tvg-name="SPORT EN FRANCE (1)" tvg-logo="" group-title="France",SPORT EN FRANCE (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2793894290
 #EXTINF:-1 tvg-name="SPORT EN FRANCE FHD (1)" tvg-logo="" group-title="France",SPORT EN FRANCE FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2899051504
 #EXTINF:-1 tvg-name="SYFY (1)" tvg-logo="" group-title="France",SYFY (1)
@@ -17487,8 +17513,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=142003077
 https://playlist-perso.yraseloued.workers.dev/ID=1043321365
 #EXTINF:-1 tvg-name="4FUN.TV (1)" tvg-logo="" group-title="Poland",4FUN.TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=524579377
-#EXTINF:-1 tvg-name="ACTIVE FAMILY (1)" tvg-logo="" group-title="Poland",ACTIVE FAMILY (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2855812815
 #EXTINF:-1 tvg-name="ALE KINO HD (1)" tvg-logo="" group-title="Poland",ALE KINO HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=886061076
 #EXTINF:-1 tvg-name="AMC (1)" tvg-logo="" group-title="Poland",AMC (1)
@@ -17543,6 +17567,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=327312955
 https://playlist-perso.yraseloued.workers.dev/ID=1881505779
 #EXTINF:-1 tvg-name="CANAL+ SPORT 2 (1)" tvg-logo="" group-title="Poland",CANAL+ SPORT 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4180342329
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 (1)" tvg-logo="" group-title="Poland",CANAL+ SPORT 3 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3293241225
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4 (1)" tvg-logo="" group-title="Poland",CANAL+ SPORT 4 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1986659225
 #EXTINF:-1 tvg-name="CBS EUROPA HD (1)" tvg-logo="" group-title="Poland",CBS EUROPA HD (1)
@@ -17727,8 +17753,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3673566291
 https://playlist-perso.yraseloued.workers.dev/ID=1479873275
 #EXTINF:-1 tvg-name="NSPORT (1)" tvg-logo="" group-title="Poland",NSPORT (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3439028847
-#EXTINF:-1 tvg-name="NSPORT+ (1)" tvg-logo="" group-title="Poland",NSPORT+ (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1861871898
 #EXTINF:-1 tvg-name="PLANETE HD (1)" tvg-logo="" group-title="Poland",PLANETE HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=992745062
 #EXTINF:-1 tvg-name="POLO TV (1)" tvg-logo="" group-title="Poland",POLO TV (1)
@@ -17805,8 +17829,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=471123342
 https://playlist-perso.yraseloued.workers.dev/ID=2937050383
 #EXTINF:-1 tvg-name="SCIFI HD (1)" tvg-logo="" group-title="Poland",SCIFI HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2845384359
-#EXTINF:-1 tvg-name="SPORT KLUB (1)" tvg-logo="" group-title="Poland",SPORT KLUB (1)
-https://playlist-perso.yraseloued.workers.dev/ID=681181639
 #EXTINF:-1 tvg-name="SPORTKLUB HD (1)" tvg-logo="" group-title="Poland",SPORTKLUB HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2627011267
 #EXTINF:-1 tvg-name="STARS.TV (1)" tvg-logo="" group-title="Poland",STARS.TV (1)
@@ -17979,8 +18001,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3195314998
 https://playlist-perso.yraseloued.workers.dev/ID=1985937235
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 5 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1075134364
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 6 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3466213503
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (BACKUP) (1)" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 6 HD (BACKUP) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1783116785
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Portugal",EUROSPORT 1 (1)
@@ -18153,8 +18173,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3101553820
 https://playlist-perso.yraseloued.workers.dev/ID=2164586665
 #EXTINF:-1 tvg-name="VH1 (1)" tvg-logo="" group-title="Portugal",VH1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1260407014
-#EXTINF:-1 tvg-name="A 7 TV (1)" tvg-logo="" group-title="Romania",A 7 TV (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2832106599
 #EXTINF:-1 tvg-name="AMC (1)" tvg-logo="" group-title="Romania",AMC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3466104099
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Romania",ANIMAL PLANET HD (1)
@@ -18227,6 +18245,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2260051152
 https://playlist-perso.yraseloued.workers.dev/ID=4124538275
 #EXTINF:-1 tvg-name="DIGI WORLD HD (1)" tvg-logo="" group-title="Romania",DIGI WORLD HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2785971469
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1866716904
 #EXTINF:-1 tvg-name="DISCOVERY HD SHOWCASE (1)" tvg-logo="" group-title="Romania",DISCOVERY HD SHOWCASE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2323251357
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD (1)" tvg-logo="" group-title="Romania",DISCOVERY SCIENCE HD (1)
@@ -18283,6 +18303,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=77363700
 https://playlist-perso.yraseloued.workers.dev/ID=3648880441
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC HD (1)" tvg-logo="" group-title="Romania",NATIONAL GEOGRAFIC HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2785556162
+#EXTINF:-1 tvg-name="NATIONAL TV (1)" tvg-logo="" group-title="Romania",NATIONAL TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1152291023
 #EXTINF:-1 tvg-name="NICK JR. (1)" tvg-logo="" group-title="Romania",NICK JR. (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3580885142
 #EXTINF:-1 tvg-name="NICKELODEON HD (1)" tvg-logo="" group-title="Romania",NICKELODEON HD (1)
@@ -18305,6 +18327,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1478995347
 https://playlist-perso.yraseloued.workers.dev/ID=3723098333
 #EXTINF:-1 tvg-name="TARAF TV (1)" tvg-logo="" group-title="Romania",TARAF TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4067987074
+#EXTINF:-1 tvg-name="TELEKOM SPORT 1 HD (1)" tvg-logo="" group-title="Romania",TELEKOM SPORT 1 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4136539779
 #EXTINF:-1 tvg-name="TELEKOM SPORT 2 HD (1)" tvg-logo="" group-title="Romania",TELEKOM SPORT 2 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2013368672
 #EXTINF:-1 tvg-name="TELEKOM SPORT 3 HD (1)" tvg-logo="" group-title="Romania",TELEKOM SPORT 3 HD (1)
@@ -18341,6 +18365,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=885844520
 https://playlist-perso.yraseloued.workers.dev/ID=1091733503
 #EXTINF:-1 tvg-name="365 ДНЕЙ ТВ (1)" tvg-logo="" group-title="Russia",365 ДНЕЙ ТВ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2815985947
+#EXTINF:-1 tvg-name="8 КАНАЛ (1)" tvg-logo="" group-title="Russia",8 КАНАЛ (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2111492302
 #EXTINF:-1 tvg-name="A1 (1)" tvg-logo="" group-title="Russia",A1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2544875073
 #EXTINF:-1 tvg-name="A2 (1)" tvg-logo="" group-title="Russia",A2 (1)
@@ -18421,6 +18447,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2092512741
 https://playlist-perso.yraseloued.workers.dev/ID=1255037843
 #EXTINF:-1 tvg-name="JIMJAM (1)" tvg-logo="" group-title="Russia",JIMJAM (1)
 https://playlist-perso.yraseloued.workers.dev/ID=360992079
+#EXTINF:-1 tvg-name="KHL (1)" tvg-logo="" group-title="Russia",KHL (1)
+https://playlist-perso.yraseloued.workers.dev/ID=289085459
 #EXTINF:-1 tvg-name="KHL PRIME (1)" tvg-logo="" group-title="Russia",KHL PRIME (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4045527153
 #EXTINF:-1 tvg-name="LEOMAX24 (1)" tvg-logo="" group-title="Russia",LEOMAX24 (1)
@@ -18555,6 +18583,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=561888144
 https://playlist-perso.yraseloued.workers.dev/ID=2809722704
 #EXTINF:-1 tvg-name="КВН ТВ (1)" tvg-logo="" group-title="Russia",КВН ТВ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=646612816
+#EXTINF:-1 tvg-name="КИНО ТВ (1)" tvg-logo="" group-title="Russia",КИНО ТВ (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2442441826
 #EXTINF:-1 tvg-name="КИНОКОМЕДИЯ (1)" tvg-logo="" group-title="Russia",КИНОКОМЕДИЯ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2972783943
 #EXTINF:-1 tvg-name="КИНОМИКС (1)" tvg-logo="" group-title="Russia",КИНОМИКС (1)
@@ -18819,8 +18849,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4194733823
 https://playlist-perso.yraseloued.workers.dev/ID=3547398786
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD (1)" tvg-logo="" group-title="Spain",DISNEY CHANNEL HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1113196758
-#EXTINF:-1 tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Spain",DISNEY JUNIOR (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4130868041
 #EXTINF:-1 tvg-name="DIVINITY (1)" tvg-logo="" group-title="Spain",DIVINITY (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4187786300
 #EXTINF:-1 tvg-name="DKISS (1)" tvg-logo="" group-title="Spain",DKISS (1)
@@ -18833,8 +18861,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2423006885
 https://playlist-perso.yraseloued.workers.dev/ID=1364676535
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Spain",EUROSPORT 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3620494453
-#EXTINF:-1 tvg-name="EUROSPORT 2 (BACKUP) (1)" tvg-logo="" group-title="Spain",EUROSPORT 2 (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3474692336
 #EXTINF:-1 tvg-name="FDF (1)" tvg-logo="" group-title="Spain",FDF (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2622585831
 #EXTINF:-1 tvg-name="FOX HD (1)" tvg-logo="" group-title="Spain",FOX HD (1)
@@ -18877,6 +18903,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3864398596
 https://playlist-perso.yraseloued.workers.dev/ID=270716645
 #EXTINF:-1 tvg-name="M.GOLF HD (1)" tvg-logo="" group-title="Spain",M.GOLF HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=428774689
+#EXTINF:-1 tvg-name="M.LIGA DE CAMPEONES HD (1)" tvg-logo="" group-title="Spain",M.LIGA DE CAMPEONES HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2726712057
 #EXTINF:-1 tvg-name="MEGA (1)" tvg-logo="" group-title="Spain",MEGA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1846141874
 #EXTINF:-1 tvg-name="MOVISTAR ACCI©N HD (1)" tvg-logo="" group-title="Spain",MOVISTAR ACCI©N HD (1)
@@ -18903,10 +18931,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=2652614938
 https://playlist-perso.yraseloued.workers.dev/ID=1969674121
 #EXTINF:-1 tvg-name="MOVISTAR LA LIGA 2 (1)" tvg-logo="" group-title="Spain",MOVISTAR LA LIGA 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=851881305
-#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 3 (1)" tvg-logo="" group-title="Spain",MOVISTAR LA LIGA 3 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=262571241
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES (1)" tvg-logo="" group-title="Spain",MOVISTAR LIGA DE CAMPEONES (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1275784434
 #EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)" tvg-logo="" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1079960250
 #EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)" tvg-logo="" group-title="Spain",MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)
@@ -18991,6 +19015,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1064954896
 https://playlist-perso.yraseloued.workers.dev/ID=1771137539
 #EXTINF:-1 tvg-name="4K TR: A2 HD (1)" tvg-logo="" group-title="Turkey",4K TR: A2 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2019055277
+#EXTINF:-1 tvg-name="4K TR: AK T TV HD (1)" tvg-logo="" group-title="Turkey",4K TR: AK T TV HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3445585687
 #EXTINF:-1 tvg-name="4K TR: ATV HD (1)" tvg-logo="" group-title="Turkey",4K TR: ATV HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2325261286
 #EXTINF:-1 tvg-name="4K TR: BABYTV (1)" tvg-logo="" group-title="Turkey",4K TR: BABYTV (1)
@@ -19187,8 +19213,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1289576145
 https://playlist-perso.yraseloued.workers.dev/ID=1905749779
 #EXTINF:-1 tvg-name="A2 TV SD (1)" tvg-logo="/live2/logo/1835847966.png" group-title="Turkey",A2 TV SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1835847966
-#EXTINF:-1 tvg-name="ADA TV (1)" tvg-logo="" group-title="Turkey",ADA TV (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4225961715
 #EXTINF:-1 tvg-name="ADANA TV (1)" tvg-logo="" group-title="Turkey",ADANA TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=225124967
 #EXTINF:-1 tvg-name="ADIYAMAN MERCAN TV (1)" tvg-logo="" group-title="Turkey",ADIYAMAN MERCAN TV (1)
@@ -19217,8 +19241,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3913298991
 https://playlist-perso.yraseloued.workers.dev/ID=727427437
 #EXTINF:-1 tvg-name="ANIMAUX (1)" tvg-logo="" group-title="Turkey",ANIMAUX (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2103702130
-#EXTINF:-1 tvg-name="ANKARA T RKIYEM TV (1)" tvg-logo="" group-title="Turkey",ANKARA T RKIYEM TV (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1443355363
 #EXTINF:-1 tvg-name="ANLIURFA KANAL URFA (1)" tvg-logo="" group-title="Turkey",ANLIURFA KANAL URFA (1)
 https://playlist-perso.yraseloued.workers.dev/ID=754868351
 #EXTINF:-1 tvg-name="ANTALYA KANAL V (1)" tvg-logo="" group-title="Turkey",ANTALYA KANAL V (1)
@@ -19247,8 +19269,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=154080342
 https://playlist-perso.yraseloued.workers.dev/ID=4096569454
 #EXTINF:-1 tvg-name="BABY TV HD (1)" tvg-logo="" group-title="Turkey",BABY TV HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2751658995
-#EXTINF:-1 tvg-name="BAHA (1)" tvg-logo="" group-title="Turkey",BAHA (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1044947667
 #EXTINF:-1 tvg-name="BARBIE ANIMATION 2 HD (1)" tvg-logo="" group-title="Turkey",BARBIE ANIMATION 2 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=280573123
 #EXTINF:-1 tvg-name="BBC EARTH HD (1)" tvg-logo="" group-title="Turkey",BBC EARTH HD (1)
@@ -19327,6 +19347,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=143239535
 https://playlist-perso.yraseloued.workers.dev/ID=4008602928
 #EXTINF:-1 tvg-name="BEST ANIMASYON (1)" tvg-logo="" group-title="Turkey",BEST ANIMASYON (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1822425118
+#EXTINF:-1 tvg-name="BEST BILIMKURGU (1)" tvg-logo="" group-title="Turkey",BEST BILIMKURGU (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1566323467
 #EXTINF:-1 tvg-name="BEST DRAM (1)" tvg-logo="" group-title="Turkey",BEST DRAM (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4099015608
 #EXTINF:-1 tvg-name="BEST FM T RK E POP (1)" tvg-logo="" group-title="Turkey",BEST FM T RK E POP (1)
@@ -19337,6 +19359,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=422848187
 https://playlist-perso.yraseloued.workers.dev/ID=1967516305
 #EXTINF:-1 tvg-name="BEST KOMEDI (1)" tvg-logo="" group-title="Turkey",BEST KOMEDI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1723326598
+#EXTINF:-1 tvg-name="BEST KORKU (1)" tvg-logo="" group-title="Turkey",BEST KORKU (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2298271695
 #EXTINF:-1 tvg-name="BEST LOCA 1 (1)" tvg-logo="" group-title="Turkey",BEST LOCA 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1063857052
 #EXTINF:-1 tvg-name="BEST LOCA 2 (1)" tvg-logo="" group-title="Turkey",BEST LOCA 2 (1)
@@ -19353,6 +19377,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3719894741
 https://playlist-perso.yraseloued.workers.dev/ID=3772333925
 #EXTINF:-1 tvg-name="BEST SAVAS (1)" tvg-logo="" group-title="Turkey",BEST SAVAS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1358616385
+#EXTINF:-1 tvg-name="BEST TURK (1)" tvg-logo="" group-title="Turkey",BEST TURK (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1196198280
 #EXTINF:-1 tvg-name="BEST WESTERN (1)" tvg-logo="" group-title="Turkey",BEST WESTERN (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1324126222
 #EXTINF:-1 tvg-name="BEST YESILCAM (1)" tvg-logo="" group-title="Turkey",BEST YESILCAM (1)
@@ -19373,6 +19399,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2224047651
 https://playlist-perso.yraseloued.workers.dev/ID=236989031
 #EXTINF:-1 tvg-name="BLOOMBERG HT HD+ SD (1)" tvg-logo="" group-title="Turkey",BLOOMBERG HT HD+ SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2563486225
+#EXTINF:-1 tvg-name="BLOOMBERGHT HD (1)" tvg-logo="/live2/logo/858568307.png" group-title="Turkey",BLOOMBERGHT HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=858568307
 #EXTINF:-1 tvg-name="BLOOMBERGHT RAW (1)" tvg-logo="" group-title="Turkey",BLOOMBERGHT RAW (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3578150260
 #EXTINF:-1 tvg-name="BONUS MASAL DIYARI (1)" tvg-logo="" group-title="Turkey",BONUS MASAL DIYARI (1)
@@ -19465,8 +19493,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=1514643536
 https://playlist-perso.yraseloued.workers.dev/ID=3968360733
 #EXTINF:-1 tvg-name="DREAM BEIN OFFICE 1 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2759159211
-#EXTINF:-1 tvg-name="DREAM BEIN OFFICE 10 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 10 (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3853043495
 #EXTINF:-1 tvg-name="DREAM BEIN OFFICE 2 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3822393211
 #EXTINF:-1 tvg-name="DREAM BEIN OFFICE 3 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 3 (1)
@@ -19579,6 +19605,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1159078202
 https://playlist-perso.yraseloued.workers.dev/ID=3597878428
 #EXTINF:-1 tvg-name="FB TV (1)" tvg-logo="/live2/logo/2512340558.png" group-title="Turkey",FB TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2512340558
+#EXTINF:-1 tvg-name="FERDI TAYFUR (1)" tvg-logo="" group-title="Turkey",FERDI TAYFUR (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2308263834
 #EXTINF:-1 tvg-name="FIX CINEMA ACTION (1)" tvg-logo="" group-title="Turkey",FIX CINEMA ACTION (1)
 https://playlist-perso.yraseloued.workers.dev/ID=140294889
 #EXTINF:-1 tvg-name="FIX CINEMA BILM KURGU (1)" tvg-logo="" group-title="Turkey",FIX CINEMA BILM KURGU (1)
@@ -19603,8 +19631,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=4110861662
 https://playlist-perso.yraseloued.workers.dev/ID=2027331096
 #EXTINF:-1 tvg-name="FM TV (1)" tvg-logo="" group-title="Turkey",FM TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1285510370
-#EXTINF:-1 tvg-name="FMTV (1)" tvg-logo="" group-title="Turkey",FMTV (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3681963823
 #EXTINF:-1 tvg-name="FOX CRIME HEVC (1)" tvg-logo="" group-title="Turkey",FOX CRIME HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3150381038
 #EXTINF:-1 tvg-name="GAZIANTEP GRT TV (1)" tvg-logo="" group-title="Turkey",GAZIANTEP GRT TV (1)
@@ -19765,12 +19791,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=1078222172
 https://playlist-perso.yraseloued.workers.dev/ID=2387238073
 #EXTINF:-1 tvg-name="MALATYA ERTV (1)" tvg-logo="" group-title="Turkey",MALATYA ERTV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4062866760
-#EXTINF:-1 tvg-name="MAM EBU HANIFE (1)" tvg-logo="" group-title="Turkey",MAM EBU HANIFE (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1986235183
 #EXTINF:-1 tvg-name="MASAL TV (1)" tvg-logo="" group-title="Turkey",MASAL TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=517032049
 #EXTINF:-1 tvg-name="MAVI KARADENIZ (1)" tvg-logo="" group-title="Turkey",MAVI KARADENIZ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3854689350
+#EXTINF:-1 tvg-name="MBAT FM ARABESK (1)" tvg-logo="" group-title="Turkey",MBAT FM ARABESK (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2719293629
 #EXTINF:-1 tvg-name="MELTEM TV (1)" tvg-logo="" group-title="Turkey",MELTEM TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3628846585
 #EXTINF:-1 tvg-name="MERSIN EL TV (1)" tvg-logo="" group-title="Turkey",MERSIN EL TV (1)
@@ -19877,8 +19903,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=460410710
 https://playlist-perso.yraseloued.workers.dev/ID=3269372326
 #EXTINF:-1 tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="/live2/logo/1507829436.png" group-title="Turkey",S SPORT+4 MAC SAATI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1507829436
-#EXTINF:-1 tvg-name="S SPORT+5 MAC SAATI (1)" tvg-logo="/live2/logo/3760487764.png" group-title="Turkey",S SPORT+5 MAC SAATI (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3760487764
 #EXTINF:-1 tvg-name="S ZC SZC TV (1)" tvg-logo="" group-title="Turkey",S ZC SZC TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2466905700
 #EXTINF:-1 tvg-name="S-SPORT 1 UHD (1)" tvg-logo="/live2/logo/3531762195.png" group-title="Turkey",S-SPORT 1 UHD (1)
@@ -19897,6 +19921,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3276709239
 https://playlist-perso.yraseloued.workers.dev/ID=2058700447
 #EXTINF:-1 tvg-name="S-SPORT PLUS FHD (1)" tvg-logo="" group-title="Turkey",S-SPORT PLUS FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4036046219
+#EXTINF:-1 tvg-name="S-SPORT+1 MAC SAATI (1)" tvg-logo="/live2/logo/2559756791.png" group-title="Turkey",S-SPORT+1 MAC SAATI (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2559756791
 #EXTINF:-1 tvg-name="S-SPORT+2 MAC SAATI (1)" tvg-logo="/live2/logo/2314183566.png" group-title="Turkey",S-SPORT+2 MAC SAATI (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2314183566
 #EXTINF:-1 tvg-name="S-SPORTS 1 SD (1)" tvg-logo="/live2/logo/320290523.png" group-title="Turkey",S-SPORTS 1 SD (1)
@@ -19937,6 +19963,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3435723325
 https://playlist-perso.yraseloued.workers.dev/ID=1112014302
 #EXTINF:-1 tvg-name="SALON 7 HD (1)" tvg-logo="" group-title="Turkey",SALON 7 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2397961536
+#EXTINF:-1 tvg-name="SALON 8 HD (1)" tvg-logo="" group-title="Turkey",SALON 8 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1473114092
 #EXTINF:-1 tvg-name="SALON 9 HD (1)" tvg-logo="" group-title="Turkey",SALON 9 HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2607279986
 #EXTINF:-1 tvg-name="SAT 7 TURK (1)" tvg-logo="" group-title="Turkey",SAT 7 TURK (1)
@@ -19975,16 +20003,14 @@ https://playlist-perso.yraseloued.workers.dev/ID=1553288763
 https://playlist-perso.yraseloued.workers.dev/ID=383348303
 #EXTINF:-1 tvg-name="SIVAS (1)" tvg-logo="" group-title="Turkey",SIVAS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=985769071
+#EXTINF:-1 tvg-name="SIVAS VIZYON 58 TV (1)" tvg-logo="" group-title="Turkey",SIVAS VIZYON 58 TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=716793106
 #EXTINF:-1 tvg-name="SLOW KARADENIZ (1)" tvg-logo="" group-title="Turkey",SLOW KARADENIZ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1388101311
 #EXTINF:-1 tvg-name="SMART COCUK HD (1)" tvg-logo="" group-title="Turkey",SMART COCUK HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=813574895
-#EXTINF:-1 tvg-name="SONER ARICA (1)" tvg-logo="" group-title="Turkey",SONER ARICA (1)
-https://playlist-perso.yraseloued.workers.dev/ID=625665056
 #EXTINF:-1 tvg-name="SOZCU SZC TV SD (1)" tvg-logo="" group-title="Turkey",SOZCU SZC TV SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1098172953
-#EXTINF:-1 tvg-name="SPOR SMART 2 HD (1)" tvg-logo="/live2/logo/2726496671.png" group-title="Turkey",SPOR SMART 2 HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2726496671
 #EXTINF:-1 tvg-name="SPOR SMART FHD (1)" tvg-logo="/live2/logo/3763931520.png" group-title="Turkey",SPOR SMART FHD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3763931520
 #EXTINF:-1 tvg-name="SPOR SMART HD (1)" tvg-logo="/live2/logo/1313563350.png" group-title="Turkey",SPOR SMART HD (1)
@@ -20095,8 +20121,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=3146429334
 https://playlist-perso.yraseloued.workers.dev/ID=3281641786
 #EXTINF:-1 tvg-name="TOM & JERRY (1)" tvg-logo="" group-title="Turkey",TOM & JERRY (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4100185659
-#EXTINF:-1 tvg-name="TRABZON HABER 61 TV HD (1)" tvg-logo="" group-title="Turkey",TRABZON HABER 61 TV HD (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1840643644
 #EXTINF:-1 tvg-name="TRT 1 4K (1)" tvg-logo="" group-title="Turkey",TRT 1 4K (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3059837792
 #EXTINF:-1 tvg-name="TRT 1 FHD (1)" tvg-logo="/live2/logo/406666682.png" group-title="Turkey",TRT 1 FHD (1)
@@ -20165,6 +20189,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3769488982
 https://playlist-perso.yraseloued.workers.dev/ID=504009173
 #EXTINF:-1 tvg-name="TV 100 HEVC (1)" tvg-logo="" group-title="Turkey",TV 100 HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3271096410
+#EXTINF:-1 tvg-name="TV 52 (1)" tvg-logo="" group-title="Turkey",TV 52 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1080172058
 #EXTINF:-1 tvg-name="TV 8 HD (H265) (1)" tvg-logo="/live2/logo/3298026270.png" group-title="Turkey",TV 8 HD (H265) (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3298026270
 #EXTINF:-1 tvg-name="TV 8 HEVC (1)" tvg-logo="/live2/logo/1662562034.png" group-title="Turkey",TV 8 HEVC (1)
@@ -20207,22 +20233,22 @@ https://playlist-perso.yraseloued.workers.dev/ID=88860008
 https://playlist-perso.yraseloued.workers.dev/ID=3830648039
 #EXTINF:-1 tvg-name="ULTRA IMBD (1)" tvg-logo="" group-title="Turkey",ULTRA IMBD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1566446122
-#EXTINF:-1 tvg-name="ULTRA KEMAL SUNAL (1)" tvg-logo="" group-title="Turkey",ULTRA KEMAL SUNAL (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3174342016
-#EXTINF:-1 tvg-name="ULTRA KOMEDI (1)" tvg-logo="" group-title="Turkey",ULTRA KOMEDI (1)
-https://playlist-perso.yraseloued.workers.dev/ID=3537946048
 #EXTINF:-1 tvg-name="ULTRA KORKU (1)" tvg-logo="" group-title="Turkey",ULTRA KORKU (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3563562547
-#EXTINF:-1 tvg-name="ULTRA TURK (1)" tvg-logo="" group-title="Turkey",ULTRA TURK (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1868001587
 #EXTINF:-1 tvg-name="ULUSAL KANAL (1)" tvg-logo="" group-title="Turkey",ULUSAL KANAL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1910048817
 #EXTINF:-1 tvg-name="ULUSAL KANAL SD (1)" tvg-logo="" group-title="Turkey",ULUSAL KANAL SD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1917903629
+#EXTINF:-1 tvg-name="VATAN TV (1)" tvg-logo="" group-title="Turkey",VATAN TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3282181511
 #EXTINF:-1 tvg-name="VIASAT HISTORY HD+ (1)" tvg-logo="" group-title="Turkey",VIASAT HISTORY HD+ (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3480468962
 #EXTINF:-1 tvg-name="VIASAT HISTORY HEVC (1)" tvg-logo="" group-title="Turkey",VIASAT HISTORY HEVC (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1165670263
+#EXTINF:-1 tvg-name="VIZYON 58 (1)" tvg-logo="" group-title="Turkey",VIZYON 58 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3275326615
+#EXTINF:-1 tvg-name="WM TV WOMAN KADIN (1)" tvg-logo="" group-title="Turkey",WM TV WOMAN KADIN (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3259520726
 #EXTINF:-1 tvg-name="X NOSTALJI T RK E KLASIK (1)" tvg-logo="" group-title="Turkey",X NOSTALJI T RK E KLASIK (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1767757052
 #EXTINF:-1 tvg-name="YABAN TV HD (1)" tvg-logo="" group-title="Turkey",YABAN TV HD (1)
@@ -20265,6 +20291,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3331268047
 https://playlist-perso.yraseloued.workers.dev/ID=3806225604
 #EXTINF:-1 tvg-name="AL JAZEERA HD (1)" tvg-logo="/live2/logo/1505679638.png" group-title="United Kingdom",AL JAZEERA HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1505679638
+#EXTINF:-1 tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="United Kingdom",ANIMAL PLANET (1)
+https://playlist-perso.yraseloued.workers.dev/ID=4014675700
 #EXTINF:-1 tvg-name="ARIRANG TV HD (1)" tvg-logo="" group-title="United Kingdom",ARIRANG TV HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2607054907
 #EXTINF:-1 tvg-name="ARISE NEWS (1)" tvg-logo="" group-title="United Kingdom",ARISE NEWS (1)
@@ -20283,8 +20311,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=578027428
 https://playlist-perso.yraseloued.workers.dev/ID=283404811
 #EXTINF:-1 tvg-name="BBC ONE EAST E (1)" tvg-logo="" group-title="United Kingdom",BBC ONE EAST E (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3049102539
-#EXTINF:-1 tvg-name="BBC ONE EAST W (1)" tvg-logo="" group-title="United Kingdom",BBC ONE EAST W (1)
-https://playlist-perso.yraseloued.workers.dev/ID=2946324521
 #EXTINF:-1 tvg-name="BBC ONE LONDON (1)" tvg-logo="" group-title="United Kingdom",BBC ONE LONDON (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2407028793
 #EXTINF:-1 tvg-name="BBC ONE SCOTHD (1)" tvg-logo="" group-title="United Kingdom",BBC ONE SCOTHD (1)
@@ -20297,10 +20323,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=4070424102
 https://playlist-perso.yraseloued.workers.dev/ID=2380669060
 #EXTINF:-1 tvg-name="BBC ONE WEST (1)" tvg-logo="" group-title="United Kingdom",BBC ONE WEST (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1174226171
-#EXTINF:-1 tvg-name="BBC ONE YK&LI (1)" tvg-logo="" group-title="United Kingdom",BBC ONE YK&LI (1)
-https://playlist-perso.yraseloued.workers.dev/ID=4135398046
 #EXTINF:-1 tvg-name="BBC PARLIAMENT (1)" tvg-logo="" group-title="United Kingdom",BBC PARLIAMENT (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1568621853
+#EXTINF:-1 tvg-name="BBC RB 1 (1)" tvg-logo="/live2/logo/1552216115.png" group-title="United Kingdom",BBC RB 1 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1552216115
 #EXTINF:-1 tvg-name="BBC THREE (1)" tvg-logo="" group-title="United Kingdom",BBC THREE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=589867492
 #EXTINF:-1 tvg-name="BBC TWO (1)" tvg-logo="" group-title="United Kingdom",BBC TWO (1)
@@ -20367,6 +20393,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2864300246
 https://playlist-perso.yraseloued.workers.dev/ID=359514189
 #EXTINF:-1 tvg-name="CBS REALITY (1)" tvg-logo="" group-title="United Kingdom",CBS REALITY (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2958912738
+#EXTINF:-1 tvg-name="CBS REALITY+1 (1)" tvg-logo="" group-title="United Kingdom",CBS REALITY+1 (1)
+https://playlist-perso.yraseloued.workers.dev/ID=53141148
 #EXTINF:-1 tvg-name="CELEBRATION TV (1)" tvg-logo="" group-title="United Kingdom",CELEBRATION TV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3405837852
 #EXTINF:-1 tvg-name="CHANNEL 4 (1)" tvg-logo="/live2/logo/2320136249.png" group-title="United Kingdom",CHANNEL 4 (1)
@@ -20391,6 +20419,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2157823161
 https://playlist-perso.yraseloued.workers.dev/ID=2047021340
 #EXTINF:-1 tvg-name="CNN (1)" tvg-logo="/live2/logo/1962567354.png" group-title="United Kingdom",CNN (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1962567354
+#EXTINF:-1 tvg-name="CRAFT EXTRA (1)" tvg-logo="" group-title="United Kingdom",CRAFT EXTRA (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1065165581
 #EXTINF:-1 tvg-name="DAVE (1)" tvg-logo="/live2/logo/2918383207.png" group-title="United Kingdom",DAVE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2918383207
 #EXTINF:-1 tvg-name="DAVE JA VU (1)" tvg-logo="/live2/logo/3707933162.png" group-title="United Kingdom",DAVE JA VU (1)
@@ -20407,6 +20437,10 @@ https://playlist-perso.yraseloued.workers.dev/ID=1151638913
 https://playlist-perso.yraseloued.workers.dev/ID=3654944975
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (1)" tvg-logo="" group-title="United Kingdom",DISCOVERY SCIENCE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2621642644
+#EXTINF:-1 tvg-name="DISCOVERY SHED (1)" tvg-logo="" group-title="United Kingdom",DISCOVERY SHED (1)
+https://playlist-perso.yraseloued.workers.dev/ID=1086852791
+#EXTINF:-1 tvg-name="DISCOVERY TURBO (1)" tvg-logo="/live2/logo/2100320635.png" group-title="United Kingdom",DISCOVERY TURBO (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2100320635
 #EXTINF:-1 tvg-name="DISNEY CHANNEL (1)" tvg-logo="" group-title="United Kingdom",DISNEY CHANNEL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2707576374
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="United Kingdom",DISNEY JUNIOR (1)
@@ -20445,6 +20479,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=1491864479
 https://playlist-perso.yraseloued.workers.dev/ID=2909580639
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2290804722
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2737624792
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3475676450
 #EXTINF:-1 tvg-name="EUROSPORT 2 HD (1)" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 HD (1)
@@ -20467,6 +20503,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3296524850
 https://playlist-perso.yraseloued.workers.dev/ID=4149663881
 #EXTINF:-1 tvg-name="GEO NEWS (1)" tvg-logo="" group-title="United Kingdom",GEO NEWS (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3964039568
+#EXTINF:-1 tvg-name="GOOD NEWS TV (1)" tvg-logo="" group-title="United Kingdom",GOOD NEWS TV (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3541080321
 #EXTINF:-1 tvg-name="GREAT! CLASS+1 (1)" tvg-logo="" group-title="United Kingdom",GREAT! CLASS+1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3366704125
 #EXTINF:-1 tvg-name="GREAT! CLASSIC (1)" tvg-logo="" group-title="United Kingdom",GREAT! CLASSIC (1)
@@ -20601,6 +20639,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2478771195
 https://playlist-perso.yraseloued.workers.dev/ID=2328339096
 #EXTINF:-1 tvg-name="PICK+1 (1)" tvg-logo="" group-title="United Kingdom",PICK+1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2854656717
+#EXTINF:-1 tvg-name="PITAARA (1)" tvg-logo="/live2/logo/2097333485.png" group-title="United Kingdom",PITAARA (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2097333485
 #EXTINF:-1 tvg-name="PLANET EARTH 2 24/7 (1)" tvg-logo="" group-title="United Kingdom",PLANET EARTH 2 24/7 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=327703488
 #EXTINF:-1 tvg-name="PLANET ROCK (1)" tvg-logo="" group-title="United Kingdom",PLANET ROCK (1)
@@ -20609,8 +20649,6 @@ https://playlist-perso.yraseloued.workers.dev/ID=826945096
 https://playlist-perso.yraseloued.workers.dev/ID=910170799
 #EXTINF:-1 tvg-name="POP MAX (1)" tvg-logo="" group-title="United Kingdom",POP MAX (1)
 https://playlist-perso.yraseloued.workers.dev/ID=514042417
-#EXTINF:-1 tvg-name="POP MAX (BACKUP) (1)" tvg-logo="" group-title="United Kingdom",POP MAX (BACKUP) (1)
-https://playlist-perso.yraseloued.workers.dev/ID=1048093766
 #EXTINF:-1 tvg-name="POP MAX+1 (1)" tvg-logo="" group-title="United Kingdom",POP MAX+1 (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3677913403
 #EXTINF:-1 tvg-name="POP+1 (1)" tvg-logo="" group-title="United Kingdom",POP+1 (1)
@@ -20647,6 +20685,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=2713202476
 https://playlist-perso.yraseloued.workers.dev/ID=1091375202
 #EXTINF:-1 tvg-name="SANSKAR (1)" tvg-logo="" group-title="United Kingdom",SANSKAR (1)
 https://playlist-perso.yraseloued.workers.dev/ID=4130725512
+#EXTINF:-1 tvg-name="SHOWCASE (1)" tvg-logo="" group-title="United Kingdom",SHOWCASE (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2809484798
 #EXTINF:-1 tvg-name="SIKH CHANNEL (1)" tvg-logo="" group-title="United Kingdom",SIKH CHANNEL (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2142746905
 #EXTINF:-1 tvg-name="SKY ARTS (1)" tvg-logo="/live2/logo/1716764664.png" group-title="United Kingdom",SKY ARTS (1)
@@ -20757,6 +20797,8 @@ https://playlist-perso.yraseloued.workers.dev/ID=3791194058
 https://playlist-perso.yraseloued.workers.dev/ID=505852403
 #EXTINF:-1 tvg-name="SYFY HD (1)" tvg-logo="/live2/logo/2840234673.png" group-title="United Kingdom",SYFY HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2840234673
+#EXTINF:-1 tvg-name="TALKINGPICTURES (1)" tvg-logo="" group-title="United Kingdom",TALKINGPICTURES (1)
+https://playlist-perso.yraseloued.workers.dev/ID=212211045
 #EXTINF:-1 tvg-name="THANE (1)" tvg-logo="" group-title="United Kingdom",THANE (1)
 https://playlist-perso.yraseloued.workers.dev/ID=1030793801
 #EXTINF:-1 tvg-name="THATS TV GOLD (1)" tvg-logo="" group-title="United Kingdom",THATS TV GOLD (1)
@@ -20781,6 +20823,12 @@ https://playlist-perso.yraseloued.workers.dev/ID=3604478810
 https://playlist-perso.yraseloued.workers.dev/ID=2866215027
 #EXTINF:-1 tvg-name="UTV (1)" tvg-logo="" group-title="United Kingdom",UTV (1)
 https://playlist-perso.yraseloued.workers.dev/ID=2183738096
+#EXTINF:-1 tvg-name="UTV HD (1)" tvg-logo="" group-title="United Kingdom",UTV HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=322486708
+#EXTINF:-1 tvg-name="WION HD (1)" tvg-logo="/live2/logo/3839948466.png" group-title="United Kingdom",WION HD (1)
+https://playlist-perso.yraseloued.workers.dev/ID=3839948466
+#EXTINF:-1 tvg-name="WRN EUROPE (1)" tvg-logo="" group-title="United Kingdom",WRN EUROPE (1)
+https://playlist-perso.yraseloued.workers.dev/ID=2555371518
 #EXTINF:-1 tvg-name="WWE HD (1)" tvg-logo="" group-title="United Kingdom",WWE HD (1)
 https://playlist-perso.yraseloued.workers.dev/ID=3698596740
 #EXTINF:-1 tvg-name="YESTERDAY (1)" tvg-logo="" group-title="United Kingdom",YESTERDAY (1)

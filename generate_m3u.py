@@ -60,8 +60,8 @@ def main():
 
     print("3. Génération du fichier M3U...")
     
-    # ⚠️ METS L'IP DE TON TÉLÉPHONE ICI (ex: 192.168.1.25)
-    base_url = "http://192.168.1.25:8080/channel/"
+    # ⚠️ TON IP EST ICI
+    base_url = "http://192.168.1.33:8080/channel/"
 
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"
@@ -85,7 +85,7 @@ def main():
                 f.write(f"{final_url}\n")
                 count += 1
     
-    print(f"🎉 TERMINÉ : {count} chaînes générées.")
+    print(f"🎉 TERMINÉ : {count} chaînes générées dans la playlist.")
 
 if __name__ == "__main__":
     main()

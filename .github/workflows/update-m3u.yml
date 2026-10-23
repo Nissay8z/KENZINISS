@@ -10,6 +10,11 @@ on:
       - "generate_m3u.py"
       - ".github/workflows/update-m3u.yml"
       - "requirements.txt"
+  pull_request:
+    paths:
+      - "generate_m3u.py"
+      - ".github/workflows/update-m3u.yml"
+      - "requirements.txt"
 
 permissions:
   contents: write
@@ -24,23 +29,27 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
+
+      - name: Validate generator syntax
+        run: python -m py_compile generate_m3u.py
 
       - uses: actions/setup-python@v5
+        if: github.event_name != 'pull_request'
         with:
           python-version: "3.11"
           cache: pip
           cache-dependency-path: requirements.txt
 
       - name: Install dependencies
+        if: github.event_name != 'pull_request'
         run: pip install -r requirements.txt
 
       - name: Download public M3Us and generate master
+        if: github.event_name != 'pull_request'
         run: python generate_m3u.py
 
       - name: Commit refreshed master M3U
+        if: github.event_name != 'pull_request'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

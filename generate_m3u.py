@@ -31,11 +31,30 @@ def attribute(extinf: str, key: str) -> str:
     return next((value for value in match.groups() if value is not None), "").strip()
 
 
+def title_separator(extinf: str) -> int:
+    """Find the title separator comma, ignoring commas inside quoted attributes."""
+    quote = None
+    escaped = False
+    for index, char in enumerate(extinf):
+        if quote is not None:
+            if escaped:
+                escaped = False
+            elif char == chr(92):
+                escaped = True
+            elif char == quote:
+                quote = None
+        elif char in (chr(34), chr(39)):
+            quote = char
+        elif char == ",":
+            return index
+    return -1
+
+
 def set_attribute(extinf: str, key: str, value: str) -> str:
     """Add a missing attribute before the channel-name comma."""
     if attribute(extinf, key):
         return extinf
-    comma = extinf.rfind(",")
+    comma = title_separator(extinf)
     metadata = extinf if comma < 0 else extinf[:comma]
     title = "" if comma < 0 else extinf[comma:]
     safe_value = value.replace("\\", "\\\\").replace('"', '\\"')

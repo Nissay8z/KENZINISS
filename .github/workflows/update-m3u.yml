@@ -1,10 +1,17 @@
 name: Générateur M3U Automatique
+
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'generate_m3u.py'
+      - '.github/workflows/update-m3u.yml'
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,11 +21,13 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - run: python generate_m3u.py
-      - run: |
+      - name: Générer la playlist VAVOO depuis MediaHubMX
+        run: python generate_m3u.py
+      - name: Publier la playlist générée
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add playlist/vavoo.m3u
-          git diff --staged --quiet || git commit -m "Mise a jour auto via proxy"
+          git diff --staged --quiet || git commit -m "Mise à jour automatique de la playlist VAVOO"
           git pull --rebase origin main
           git push

@@ -36,7 +36,16 @@ USER_AGENT = "VAVOO/2.6"
 MEDIAHUB_USER_AGENT = "MediaHubMX/2"
 MAX_PAGES = 300
 REQUEST_TIMEOUT = (15, 30)
-OUTPUT = Path("playlist/vavoo.m3u")
+# Five entries are exposed in Shamel's native Playlist screen.
+# The four mirror files share this catalog format; VavooProvider itself chooses
+# a working MediaHubMX base URL at resolution time.
+OUTPUTS = {
+    "KENZINISS VAVOO": Path("playlist/vavoo.m3u"),
+    "VAVOO · vavoo.to": Path("playlist/vavoo-vavoo-to.m3u"),
+    "VAVOO · kool.to": Path("playlist/vavoo-kool-to.m3u"),
+    "VAVOO · vavoo.top": Path("playlist/vavoo-vavoo-top.m3u"),
+    "VAVOO · vavoo.net": Path("playlist/vavoo-vavoo-net.m3u"),
+}
 
 session = requests.Session()
 session.headers.update(
@@ -306,11 +315,13 @@ def main() -> None:
     catalog = fetch_catalog(signature)
     lines = build_playlist(catalog)
 
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    temporary = OUTPUT.with_suffix(OUTPUT.suffix + ".tmp")
-    temporary.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    temporary.replace(OUTPUT)
-    print(f"Playlist générée : {OUTPUT} ({len(lines) - 1} lignes de contenu)")
+    payload = "\n".join(lines) + "\n"
+    for label, output in OUTPUTS.items():
+        output.parent.mkdir(parents=True, exist_ok=True)
+        temporary = output.with_suffix(output.suffix + ".tmp")
+        temporary.write_text(payload, encoding="utf-8")
+        temporary.replace(output)
+        print(f"Playlist générée : {label} -> {output} ({len(lines) - 1} lignes de contenu)")
 
 
 if __name__ == "__main__":

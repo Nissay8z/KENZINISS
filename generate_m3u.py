@@ -1,43 +1,25 @@
 import requests
 import os
 import re
-import random
 
 def generate_m3u():
-    # 1. Récupération des proxys
-    proxy_url = "https://raw.githubusercontent.com/Nissay8z/KENZINISS/main/valid_proxies.txt"
-    try:
-        res = requests.get(proxy_url, timeout=10)
-        proxys = [p.strip() for p in res.text.splitlines() if p.strip()]
-        random.shuffle(proxys)
-    except Exception as e:
-        print(f"Erreur proxys : {e}")
-        return
-
-    headers = {'User-Agent': 'VAVOO/2.6 (Linux; Android 13)', 'Accept': 'application/json'}
+    # L'API publique de Vavoo (pas besoin de token pour le catalogue)
     url_api = "https://www2.vavoo.to/live2/index?countries=all&output=json"
-    channels = None
-    proxy_valide = None
-
-    # 2. Test des proxys
-    for proxy in proxys[:15]:
-        proxies = {"http": f"http://{proxy}", "https": f"http://{proxy}"}
-        try:
-            print(f"Test du proxy {proxy}...")
-            response = requests.get(url_api, headers=headers, proxies=proxies, timeout=10)
-            if response.status_code == 200:
-                channels = response.json()
-                proxy_valide = proxy
-                print(f"✅ Proxy validé : {proxy}")
-                break
-        except Exception:
-            continue
-
-    if not channels:
-        print("❌ Aucun proxy n'a fonctionné.")
+    
+    print("⏳ Téléchargement direct du catalogue depuis Vavoo...")
+    
+    try:
+        # On utilise un User-Agent de navigateur classique pour éviter d'être bloqué
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+        response = requests.get(url_api, headers=headers, timeout=30)
+        response.raise_for_status()
+        channels = response.json()
+        print(f"✅ {len(channels)} chaînes récupérées !")
+    except Exception as e:
+        print(f"❌ Erreur de téléchargement : {e}")
         return
 
-    # 3. Écriture du fichier M3U (Format IPTV complet)
+    # Création du fichier M3U
     os.makedirs("playlist", exist_ok=True)
     m3u_path = "playlist/vavoo.m3u"
     
@@ -46,26 +28,26 @@ def generate_m3u():
         f.write("#EXTM3U\n")
         for ch in channels:
             name = ch.get("name", "Inconnu")
-            # C'est ici que Vavoo stocke le pays (ex: "France", "Germany")
+            # Le pays est dans le champ "group" de Vavoo
             country = ch.get("group", "Général") 
             logo = ch.get("logo", "")
             stream_url_vavoo = ch.get("url", "")
             
             if not stream_url_vavoo: continue
 
-            # On extrait l'ID de la chaîne
+            # Extraction de l'ID de la chaîne
             match = re.search(r'/([^/]+)\.m3u8', stream_url_vavoo)
             if match:
                 channel_id = match.group(1)
-                # L'URL locale que ton appli Android va intercepter
+                # L'URL que ton application Android va reconnaître
                 final_url = f"vavoo://{channel_id}"
                 
-                # On écrit TOUTES les infos : Pays, Logo, Nom, et ID
-                f.write(f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{country}" tvg-country="{country}",{name}\n')
+                # On écrit le pays dans group-title
+                f.write(f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{country}",{name}\n')
                 f.write(f"{final_url}\n")
                 count += 1
     
-    print(f"🎉 Succès : {count} chaînes générées avec les catégories de pays !")
+    print(f"🎉 TERMINÉ : {count} chaînes avec pays générées dans {m3u_path}")
 
 if __name__ == "__main__":
     generate_m3u()

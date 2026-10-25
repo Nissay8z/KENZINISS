@@ -415,6 +415,8 @@ vavoo://1850150870
 vavoo://1395074662
 #EXTINF:-1 tvg-id="3586832779" tvg-name="ART SPORT 1 (6)" tvg-logo="/live2/logo/3586832779.png" group-title="Albania",ART SPORT 1 (6)
 vavoo://3586832779
+#EXTINF:-1 tvg-id="2456470363" tvg-name="ART SPORT 2 (6)" tvg-logo="/live2/logo/2456470363.png" group-title="Albania",ART SPORT 2 (6)
+vavoo://2456470363
 #EXTINF:-1 tvg-id="2936728299" tvg-name="ART SPORT 3 (6)" tvg-logo="/live2/logo/2936728299.png" group-title="Albania",ART SPORT 3 (6)
 vavoo://2936728299
 #EXTINF:-1 tvg-id="541728587" tvg-name="ART SPORT 5 (6)" tvg-logo="/live2/logo/541728587.png" group-title="Albania",ART SPORT 5 (6)
@@ -1241,8 +1243,6 @@ vavoo://1882724314
 vavoo://4241397723
 #EXTINF:-1 tvg-id="4260907450" tvg-name="EXPLORER NATYRA (1)" tvg-logo="" group-title="Albania",EXPLORER NATYRA (1)
 vavoo://4260907450
-#EXTINF:-1 tvg-id="2464110909" tvg-name="EXPLORER SHKENCE (1)" tvg-logo="" group-title="Albania",EXPLORER SHKENCE (1)
-vavoo://2464110909
 #EXTINF:-1 tvg-id="2325392178" tvg-name="FAMILY HD (1)" tvg-logo="" group-title="Albania",FAMILY HD (1)
 vavoo://2325392178
 #EXTINF:-1 tvg-id="892299779" tvg-name="FILM AKSION HD (1)" tvg-logo="" group-title="Albania",FILM AKSION HD (1)
@@ -1589,8 +1589,6 @@ vavoo://4237397671
 vavoo://679045453
 #EXTINF:-1 tvg-id="4232995421" tvg-name="AL JAZEERA EN (6)" tvg-logo="/live2/logo/4232995421.png" group-title="Arabia",AL JAZEERA EN (6)
 vavoo://4232995421
-#EXTINF:-1 tvg-id="2121445979" tvg-name="AL JAZEERA MUBASHER (6)" tvg-logo="/live2/logo/2121445979.png" group-title="Arabia",AL JAZEERA MUBASHER (6)
-vavoo://2121445979
 #EXTINF:-1 tvg-id="1009259775" tvg-name="AL KALEMA TV (6)" tvg-logo="/live2/logo/1009259775.png" group-title="Arabia",AL KALEMA TV (6)
 vavoo://1009259775
 #EXTINF:-1 tvg-id="2525365753" tvg-name="AL KHALIJ TV (6)" tvg-logo="/live2/logo/2525365753.png" group-title="Arabia",AL KHALIJ TV (6)
@@ -1793,8 +1791,6 @@ vavoo://581574210
 vavoo://1544538923
 #EXTINF:-1 tvg-id="1634722459" tvg-name="ESPN 3 (6)" tvg-logo="/live2/logo/1634722459.png" group-title="Arabia",ESPN 3 (6)
 vavoo://1634722459
-#EXTINF:-1 tvg-id="2308100427" tvg-name="ESPN EXTRA (6)" tvg-logo="/live2/logo/2308100427.png" group-title="Arabia",ESPN EXTRA (6)
-vavoo://2308100427
 #EXTINF:-1 tvg-id="4092535633" tvg-name="ESPN PREMIUM (6)" tvg-logo="" group-title="Arabia",ESPN PREMIUM (6)
 vavoo://4092535633
 #EXTINF:-1 tvg-id="2434473889" tvg-name="EUROPA EUROPA (6)" tvg-logo="/live2/logo/2434473889.png" group-title="Arabia",EUROPA EUROPA (6)
@@ -2027,8 +2023,6 @@ vavoo://3811837368
 vavoo://609422302
 #EXTINF:-1 tvg-id="286026097" tvg-name="5ARG: V CORRIENTES (1)" tvg-logo="" group-title="Arabia",5ARG: V CORRIENTES (1)
 vavoo://286026097
-#EXTINF:-1 tvg-id="1123778687" tvg-name="A1 JORDAN (1)" tvg-logo="" group-title="Arabia",A1 JORDAN (1)
-vavoo://1123778687
 #EXTINF:-1 tvg-id="392730275" tvg-name="ABU DHABI DRAMA (1)" tvg-logo="" group-title="Arabia",ABU DHABI DRAMA (1)
 vavoo://392730275
 #EXTINF:-1 tvg-id="3742208214" tvg-name="ABU DHABI SPORT ASIA 1 (1)" tvg-logo="" group-title="Arabia",ABU DHABI SPORT ASIA 1 (1)
@@ -2497,8 +2491,6 @@ vavoo://1154749699
 vavoo://3953646530
 #EXTINF:-1 tvg-id="1857296786" tvg-name="BEIN FOX HD (1)" tvg-logo="" group-title="Arabia",BEIN FOX HD (1)
 vavoo://1857296786
-#EXTINF:-1 tvg-id="1373620609" tvg-name="BEIN FOX LIFE (1)" tvg-logo="" group-title="Arabia",BEIN FOX LIFE (1)
-vavoo://1373620609
 #EXTINF:-1 tvg-id="2782009723" tvg-name="BEIN FOX MOVIES ACTION HD (1)" tvg-logo="" group-title="Arabia",BEIN FOX MOVIES ACTION HD (1)
 vavoo://2782009723
 #EXTINF:-1 tvg-id="2933030661" tvg-name="BEIN FOX MOVIES FAMILY HD (1)" tvg-logo="" group-title="Arabia",BEIN FOX MOVIES FAMILY HD (1)
@@ -2565,8 +2557,6 @@ vavoo://231090364
 vavoo://1564627444
 #EXTINF:-1 tvg-id="1110589244" tvg-name="BEIN SPORTS 1 (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 (BACKUP) (1)
 vavoo://1110589244
-#EXTINF:-1 tvg-id="372172112" tvg-name="BEIN SPORTS 1 FHD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 FHD (1)
-vavoo://372172112
 #EXTINF:-1 tvg-id="2155997443" tvg-name="BEIN SPORTS 1 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HD (1)
 vavoo://2155997443
 #EXTINF:-1 tvg-id="782887821" tvg-name="BEIN SPORTS 1 HD (BACKUP 2) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HD (BACKUP 2) (1)
@@ -2613,8 +2603,6 @@ vavoo://451029796
 vavoo://1045633767
 #EXTINF:-1 tvg-id="235859680" tvg-name="BEIN SPORTS 2 HD (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (1)
 vavoo://235859680
-#EXTINF:-1 tvg-id="2382327076" tvg-name="BEIN SPORTS 2 HD (BACKUP 2) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (BACKUP 2) (1)
-vavoo://2382327076
 #EXTINF:-1 tvg-id="1185136257" tvg-name="BEIN SPORTS 2 HD (BACKUP 3) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (BACKUP 3) (1)
 vavoo://1185136257
 #EXTINF:-1 tvg-id="3044642078" tvg-name="BEIN SPORTS 2 HD (BACKUP) (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS 2 HD (BACKUP) (1)
@@ -2843,8 +2831,6 @@ vavoo://3106427011
 vavoo://185109651
 #EXTINF:-1 tvg-id="912827683" tvg-name="BEIN SPORTS FHD 5 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 5 (1)
 vavoo://912827683
-#EXTINF:-1 tvg-id="1908989939" tvg-name="BEIN SPORTS FHD 6 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 6 (1)
-vavoo://1908989939
 #EXTINF:-1 tvg-id="1286141507" tvg-name="BEIN SPORTS FHD 7 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 7 (1)
 vavoo://1286141507
 #EXTINF:-1 tvg-id="2481320680" tvg-name="BEIN SPORTS FRENCH 1 (1)" tvg-logo="" group-title="Arabia",BEIN SPORTS FRENCH 1 (1)
@@ -3771,6 +3757,8 @@ vavoo://2146745835
 vavoo://757840255
 #EXTINF:-1 tvg-id="1096952828" tvg-name="QATAR TODAY (1)" tvg-logo="" group-title="Arabia",QATAR TODAY (1)
 vavoo://1096952828
+#EXTINF:-1 tvg-id="3792727025" tvg-name="QATAR TV HD (1)" tvg-logo="" group-title="Arabia",QATAR TV HD (1)
+vavoo://3792727025
 #EXTINF:-1 tvg-id="1143356430" tvg-name="QUIERO MUSICA EN MI IDIOMA (1)" tvg-logo="" group-title="Arabia",QUIERO MUSICA EN MI IDIOMA (1)
 vavoo://1143356430
 #EXTINF:-1 tvg-id="1608748066" tvg-name="RADIO ALBALAD TV (720P) (1)" tvg-logo="" group-title="Arabia",RADIO ALBALAD TV (720P) (1)
@@ -3961,8 +3949,6 @@ vavoo://3643476453
 vavoo://4069421066
 #EXTINF:-1 tvg-id="3039693530" tvg-name="SNIPERS ISLAM 2 (1)" tvg-logo="" group-title="Arabia",SNIPERS ISLAM 2 (1)
 vavoo://3039693530
-#EXTINF:-1 tvg-id="2056603750" tvg-name="SNIPERS KIDS 1 (1)" tvg-logo="/live2/logo/2056603750.png" group-title="Arabia",SNIPERS KIDS 1 (1)
-vavoo://2056603750
 #EXTINF:-1 tvg-id="1026896566" tvg-name="SNIPERS KIDS 2 (1)" tvg-logo="/live2/logo/1026896566.png" group-title="Arabia",SNIPERS KIDS 2 (1)
 vavoo://1026896566
 #EXTINF:-1 tvg-id="3897008803" tvg-name="SNIPERS MASRAH 1 (1)" tvg-logo="" group-title="Arabia",SNIPERS MASRAH 1 (1)
@@ -4319,6 +4305,8 @@ vavoo://1585801720
 vavoo://1675968584
 #EXTINF:-1 tvg-id="608516760" tvg-name="CINE+ SELECT 6 (7)" tvg-logo="" group-title="Balkans",CINE+ SELECT 6 (7)
 vavoo://608516760
+#EXTINF:-1 tvg-id="421860136" tvg-name="CINE+ SELECT 7 (7)" tvg-logo="" group-title="Balkans",CINE+ SELECT 7 (7)
+vavoo://421860136
 #EXTINF:-1 tvg-id="2786438473" tvg-name="CINE+ SELECT 9 (7)" tvg-logo="" group-title="Balkans",CINE+ SELECT 9 (7)
 vavoo://2786438473
 #EXTINF:-1 tvg-id="3863662541" tvg-name="CINEMA TV BH (7)" tvg-logo="" group-title="Balkans",CINEMA TV BH (7)
@@ -4411,8 +4399,6 @@ vavoo://165468085
 vavoo://459328591
 #EXTINF:-1 tvg-id="2424553859" tvg-name="HBO (7)" tvg-logo="" group-title="Balkans",HBO (7)
 vavoo://2424553859
-#EXTINF:-1 tvg-id="2315061688" tvg-name="HBO 2 (7)" tvg-logo="" group-title="Balkans",HBO 2 (7)
-vavoo://2315061688
 #EXTINF:-1 tvg-id="3030196232" tvg-name="HBO 3 (7)" tvg-logo="" group-title="Balkans",HBO 3 (7)
 vavoo://3030196232
 #EXTINF:-1 tvg-id="2946833751" tvg-name="HGTV (7)" tvg-logo="" group-title="Balkans",HGTV (7)
@@ -4715,8 +4701,6 @@ vavoo://1025852629
 vavoo://2399508677
 #EXTINF:-1 tvg-id="587942529" tvg-name="24 KITCHEN (6)" tvg-logo="/live2/logo/587942529.png" group-title="Balkans",24 KITCHEN (6)
 vavoo://587942529
-#EXTINF:-1 tvg-id="3645291205" tvg-name="ADRIATIC SPORT 1 (6)" tvg-logo="" group-title="Balkans",ADRIATIC SPORT 1 (6)
-vavoo://3645291205
 #EXTINF:-1 tvg-id="2665922581" tvg-name="ADRIATIC SPORT 2 (6)" tvg-logo="" group-title="Balkans",ADRIATIC SPORT 2 (6)
 vavoo://2665922581
 #EXTINF:-1 tvg-id="2743527845" tvg-name="ADRIATIC SPORT 3 (6)" tvg-logo="" group-title="Balkans",ADRIATIC SPORT 3 (6)
@@ -4753,8 +4737,6 @@ vavoo://4233589405
 vavoo://3876516998
 #EXTINF:-1 tvg-id="1099487210" tvg-name="AXN SPIN (6)" tvg-logo="/live2/logo/1099487210.png" group-title="Balkans",AXN SPIN (6)
 vavoo://1099487210
-#EXTINF:-1 tvg-id="3166119033" tvg-name="BABY TV (6)" tvg-logo="/live2/logo/3166119033.png" group-title="Balkans",BABY TV (6)
-vavoo://3166119033
 #EXTINF:-1 tvg-id="1595188996" tvg-name="BBC EARTH (6)" tvg-logo="/live2/logo/1595188996.png" group-title="Balkans",BBC EARTH (6)
 vavoo://1595188996
 #EXTINF:-1 tvg-id="3265703113" tvg-name="BHT 1 (6)" tvg-logo="/live2/logo/3265703113.png" group-title="Balkans",BHT 1 (6)
@@ -5365,6 +5347,8 @@ vavoo://3788101792
 vavoo://299373377
 #EXTINF:-1 tvg-id="3429908435" tvg-name="BABY TV (6)" tvg-logo="/live2/logo/3429908435.png" group-title="Bulgaria",BABY TV (6)
 vavoo://3429908435
+#EXTINF:-1 tvg-id="1063393777" tvg-name="BALKANIKA MUSIC TV (6)" tvg-logo="/live2/logo/1063393777.png" group-title="Bulgaria",BALKANIKA MUSIC TV (6)
+vavoo://1063393777
 #EXTINF:-1 tvg-id="1918230108" tvg-name="BG MUSIC CHANNEL (6)" tvg-logo="/live2/logo/1918230108.png" group-title="Bulgaria",BG MUSIC CHANNEL (6)
 vavoo://1918230108
 #EXTINF:-1 tvg-id="3418660084" tvg-name="BNT 2 (6)" tvg-logo="/live2/logo/3418660084.png" group-title="Bulgaria",BNT 2 (6)
@@ -5793,8 +5777,6 @@ vavoo://817370341
 vavoo://1545259425
 #EXTINF:-1 tvg-id="1957516182" tvg-name="AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] (7)
 vavoo://1957516182
-#EXTINF:-1 tvg-id="1736796901" tvg-name="AMAZON PRIME 6 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 6 [LIVE DURING EVENTS ONLY] (7)
-vavoo://1736796901
 #EXTINF:-1 tvg-id="1768063540" tvg-name="AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] (7)
 vavoo://1768063540
 #EXTINF:-1 tvg-id="921329291" tvg-name="AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="/live2/logo/921329291.png" group-title="France",AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] (7)
@@ -5967,6 +5949,8 @@ vavoo://4012587463
 vavoo://2737270354
 #EXTINF:-1 tvg-id="2755354291" tvg-name="CINE+ FAMIZ (7)" tvg-logo="" group-title="France",CINE+ FAMIZ (7)
 vavoo://2755354291
+#EXTINF:-1 tvg-id="2704150133" tvg-name="CINE+ FAMIZ FHD (7)" tvg-logo="" group-title="France",CINE+ FAMIZ FHD (7)
+vavoo://2704150133
 #EXTINF:-1 tvg-id="2182084046" tvg-name="CINE+ FAMIZ HD (7)" tvg-logo="" group-title="France",CINE+ FAMIZ HD (7)
 vavoo://2182084046
 #EXTINF:-1 tvg-id="438122160" tvg-name="CINE+ FRISSON (7)" tvg-logo="" group-title="France",CINE+ FRISSON (7)
@@ -6051,8 +6035,6 @@ vavoo://894137760
 vavoo://2271979952
 #EXTINF:-1 tvg-id="3121315840" tvg-name="EUROSPORT 360 5 (7)" tvg-logo="" group-title="France",EUROSPORT 360 5 (7)
 vavoo://3121315840
-#EXTINF:-1 tvg-id="4255906512" tvg-name="EUROSPORT 360 6 (7)" tvg-logo="" group-title="France",EUROSPORT 360 6 (7)
-vavoo://4255906512
 #EXTINF:-1 tvg-id="1117471921" tvg-name="EUROSPORT 360 8 (7)" tvg-logo="" group-title="France",EUROSPORT 360 8 (7)
 vavoo://1117471921
 #EXTINF:-1 tvg-id="1037335952" tvg-name="FASHION TV FHD (7)" tvg-logo="" group-title="France",FASHION TV FHD (7)
@@ -6255,8 +6237,6 @@ vavoo://1411130002
 vavoo://4260391683
 #EXTINF:-1 tvg-id="4171934323" tvg-name="RAKUTEN SERIE CRIME (7)" tvg-logo="" group-title="France",RAKUTEN SERIE CRIME (7)
 vavoo://4171934323
-#EXTINF:-1 tvg-id="780409303" tvg-name="RAKUTEN SPOTLIGHT FRANCE (7)" tvg-logo="" group-title="France",RAKUTEN SPOTLIGHT FRANCE (7)
-vavoo://780409303
 #EXTINF:-1 tvg-id="1713644642" tvg-name="RAKUTEN TV (7)" tvg-logo="" group-title="France",RAKUTEN TV (7)
 vavoo://1713644642
 #EXTINF:-1 tvg-id="1390548733" tvg-name="RAKUTEN TV ANIME DIGITAL NETWORK (7)" tvg-logo="" group-title="France",RAKUTEN TV ANIME DIGITAL NETWORK (7)
@@ -6449,8 +6429,6 @@ vavoo://4250355899
 vavoo://3224854795
 #EXTINF:-1 tvg-id="2274827227" tvg-name="BEIN SPORTS MAX 6 (6)" tvg-logo="/live2/logo/2274827227.png" group-title="France",BEIN SPORTS MAX 6 (6)
 vavoo://2274827227
-#EXTINF:-1 tvg-id="3136762475" tvg-name="BEIN SPORTS MAX 7 (6)" tvg-logo="/live2/logo/3136762475.png" group-title="France",BEIN SPORTS MAX 7 (6)
-vavoo://3136762475
 #EXTINF:-1 tvg-id="950511034" tvg-name="BEIN SPORTS MAX 8 (6)" tvg-logo="/live2/logo/950511034.png" group-title="France",BEIN SPORTS MAX 8 (6)
 vavoo://950511034
 #EXTINF:-1 tvg-id="96963594" tvg-name="BEIN SPORTS MAX 9 (6)" tvg-logo="/live2/logo/96963594.png" group-title="France",BEIN SPORTS MAX 9 (6)
@@ -6517,8 +6495,6 @@ vavoo://857063640
 vavoo://3488639675
 #EXTINF:-1 tvg-id="962706596" tvg-name="CANAL PLAY 1 (6)" tvg-logo="" group-title="France",CANAL PLAY 1 (6)
 vavoo://962706596
-#EXTINF:-1 tvg-id="1065635365" tvg-name="CANAL PLAY 10 (6)" tvg-logo="" group-title="France",CANAL PLAY 10 (6)
-vavoo://1065635365
 #EXTINF:-1 tvg-id="2126628468" tvg-name="CANAL PLAY 2 (6)" tvg-logo="" group-title="France",CANAL PLAY 2 (6)
 vavoo://2126628468
 #EXTINF:-1 tvg-id="1134686148" tvg-name="CANAL PLAY 3 (6)" tvg-logo="" group-title="France",CANAL PLAY 3 (6)
@@ -6675,6 +6651,8 @@ vavoo://888429508
 vavoo://1092400111
 #EXTINF:-1 tvg-id="453891919" tvg-name="DISCOVERY WORLD (6)" tvg-logo="/live2/logo/453891919.png" group-title="France",DISCOVERY WORLD (6)
 vavoo://453891919
+#EXTINF:-1 tvg-id="3093319007" tvg-name="E! (6)" tvg-logo="/live2/logo/3093319007.png" group-title="France",E! (6)
+vavoo://3093319007
 #EXTINF:-1 tvg-id="1790602638" tvg-name="EQUIDIA (6)" tvg-logo="/live2/logo/1790602638.png" group-title="France",EQUIDIA (6)
 vavoo://1790602638
 #EXTINF:-1 tvg-id="3637667969" tvg-name="EQUIDIA PRO (6)" tvg-logo="/live2/logo/3637667969.png" group-title="France",EQUIDIA PRO (6)
@@ -6747,8 +6725,6 @@ vavoo://179881422
 vavoo://1208469795
 #EXTINF:-1 tvg-id="2863072722" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="/live2/logo/2863072722.png" group-title="France",INVESTIGATION DISCOVERY (6)
 vavoo://2863072722
-#EXTINF:-1 tvg-id="504247527" tvg-name="J ONE (6)" tvg-logo="/live2/logo/504247527.png" group-title="France",J ONE (6)
-vavoo://504247527
 #EXTINF:-1 tvg-id="3590054219" tvg-name="JOURNAL DU GOLF (6)" tvg-logo="" group-title="France",JOURNAL DU GOLF (6)
 vavoo://3590054219
 #EXTINF:-1 tvg-id="41325045" tvg-name="JUSTE POUR RIRE (6)" tvg-logo="/live2/logo/41325045.png" group-title="France",JUSTE POUR RIRE (6)
@@ -6779,8 +6755,8 @@ vavoo://1125463136
 vavoo://2121604560
 #EXTINF:-1 tvg-id="3428172224" tvg-name="LIGUE1+ 4 (6)" tvg-logo="" group-title="France",LIGUE1+ 4 (6)
 vavoo://3428172224
-#EXTINF:-1 tvg-id="3063255712" tvg-name="LIGUE1+ 6 (6)" tvg-logo="" group-title="France",LIGUE1+ 6 (6)
-vavoo://3063255712
+#EXTINF:-1 tvg-id="2348137232" tvg-name="LIGUE1+ 7 (6)" tvg-logo="" group-title="France",LIGUE1+ 7 (6)
+vavoo://2348137232
 #EXTINF:-1 tvg-id="885327217" tvg-name="LIGUE1+ 9 (6)" tvg-logo="" group-title="France",LIGUE1+ 9 (6)
 vavoo://885327217
 #EXTINF:-1 tvg-id="1842988845" tvg-name="LN 24 (6)" tvg-logo="/live2/logo/1842988845.png" group-title="France",LN 24 (6)
@@ -7113,6 +7089,8 @@ vavoo://3625241895
 vavoo://384487199
 #EXTINF:-1 tvg-id="348048825" tvg-name="AMAZON PRIME 7 HD (1)" tvg-logo="" group-title="France",AMAZON PRIME 7 HD (1)
 vavoo://348048825
+#EXTINF:-1 tvg-id="3727168653" tvg-name="AMAZON PRIME 8 HD+ (1)" tvg-logo="" group-title="France",AMAZON PRIME 8 HD+ (1)
+vavoo://3727168653
 #EXTINF:-1 tvg-id="1553062354" tvg-name="ANIMAUX (1)" tvg-logo="" group-title="France",ANIMAUX (1)
 vavoo://1553062354
 #EXTINF:-1 tvg-id="2852509052" tvg-name="ARTE (1)" tvg-logo="" group-title="France",ARTE (1)
@@ -7437,6 +7415,8 @@ vavoo://3866938894
 vavoo://3533267759
 #EXTINF:-1 tvg-id="1447898874" tvg-name="DAZN LIGUE 1 LIVE 8 HD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 8 HD (1)
 vavoo://1447898874
+#EXTINF:-1 tvg-id="1063050402" tvg-name="DAZN LIGUE 1 LIVE 8 SD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 8 SD (1)
+vavoo://1063050402
 #EXTINF:-1 tvg-id="3319953260" tvg-name="DAZN LIGUE 1 LIVE 9 FHD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 9 FHD (1)
 vavoo://3319953260
 #EXTINF:-1 tvg-id="2598841956" tvg-name="DAZN LIGUE 1 LIVE 9 HD (1)" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 9 HD (1)
@@ -7545,6 +7525,8 @@ vavoo://2481682325
 vavoo://3888330944
 #EXTINF:-1 tvg-id="2214657581" tvg-name="MELODY HD (1)" tvg-logo="" group-title="France",MELODY HD (1)
 vavoo://2214657581
+#EXTINF:-1 tvg-id="3977317493" tvg-name="MELODY SD (1)" tvg-logo="" group-title="France",MELODY SD (1)
+vavoo://3977317493
 #EXTINF:-1 tvg-id="1254399159" tvg-name="MEZZO HD (1)" tvg-logo="" group-title="France",MEZZO HD (1)
 vavoo://1254399159
 #EXTINF:-1 tvg-id="1071808933" tvg-name="MEZZO LIVE HD (1)" tvg-logo="" group-title="France",MEZZO LIVE HD (1)
@@ -7757,8 +7739,8 @@ vavoo://128046615
 vavoo://3383548329
 #EXTINF:-1 tvg-id="2019775967" tvg-name="DAZN EVENT 1 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 1 (7)
 vavoo://2019775967
-#EXTINF:-1 tvg-id="3771449102" tvg-name="DAZN EVENT 10 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 10 (7)
-vavoo://3771449102
+#EXTINF:-1 tvg-id="3719009982" tvg-name="DAZN EVENT 11 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 11 (7)
+vavoo://3719009982
 #EXTINF:-1 tvg-id="2584472686" tvg-name="DAZN EVENT 12 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 12 (7)
 vavoo://2584472686
 #EXTINF:-1 tvg-id="2808858078" tvg-name="DAZN EVENT 13 (7)" tvg-logo="" group-title="France Sport",DAZN EVENT 13 (7)
@@ -7813,8 +7795,6 @@ vavoo://536784294
 vavoo://142981605
 #EXTINF:-1 tvg-id="822641952" tvg-name="LIGUE 6 FHD (7)" tvg-logo="" group-title="France Sport",LIGUE 6 FHD (7)
 vavoo://822641952
-#EXTINF:-1 tvg-id="645108067" tvg-name="LIGUE 7 FHD (7)" tvg-logo="" group-title="France Sport",LIGUE 7 FHD (7)
-vavoo://645108067
 #EXTINF:-1 tvg-id="4004596465" tvg-name="LIGUE 9 FHD (7)" tvg-logo="" group-title="France Sport",LIGUE 9 FHD (7)
 vavoo://4004596465
 #EXTINF:-1 tvg-id="51258455" tvg-name="1.2.3 TV (7)" tvg-logo="" group-title="Germany",1.2.3 TV (7)
@@ -8145,8 +8125,6 @@ vavoo://29738879
 vavoo://3507019421
 #EXTINF:-1 tvg-id="1845022262" tvg-name="SKY CINEMA PREMIEREN +24 (7)" tvg-logo="/live2/logo/1845022262.png" group-title="Germany",SKY CINEMA PREMIEREN +24 (7)
 vavoo://1845022262
-#EXTINF:-1 tvg-id="1743038820" tvg-name="SKY CINEMA PREMIEREN 24 (7)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN 24 (7)
-vavoo://1743038820
 #EXTINF:-1 tvg-id="1141836536" tvg-name="SKY CINEMA SPECIAL (7)" tvg-logo="" group-title="Germany",SKY CINEMA SPECIAL (7)
 vavoo://1141836536
 #EXTINF:-1 tvg-id="2389046887" tvg-name="SKY KRIMI (7)" tvg-logo="" group-title="Germany",SKY KRIMI (7)
@@ -8175,6 +8153,8 @@ vavoo://2472035537
 vavoo://209897295
 #EXTINF:-1 tvg-id="1083656289" tvg-name="SKY SELECT 08 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 08 4K (MULTIAUDIO) (7)
 vavoo://1083656289
+#EXTINF:-1 tvg-id="3746417663" tvg-name="SKY SELECT 09 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 09 4K (MULTIAUDIO) (7)
+vavoo://3746417663
 #EXTINF:-1 tvg-id="1859652468" tvg-name="SKY SELECT 1 (7)" tvg-logo="" group-title="Germany",SKY SELECT 1 (7)
 vavoo://1859652468
 #EXTINF:-1 tvg-id="1652281656" tvg-name="SKY SELECT 1 BOX (7)" tvg-logo="" group-title="Germany",SKY SELECT 1 BOX (7)
@@ -8505,6 +8485,8 @@ vavoo://445127386
 vavoo://182141234
 #EXTINF:-1 tvg-id="1474536713" tvg-name="DAZN BAR 1 [] (6)" tvg-logo="/live2/logo/1474536713.png" group-title="Germany",DAZN BAR 1 [] (6)
 vavoo://1474536713
+#EXTINF:-1 tvg-id="3647775466" tvg-name="DAZN BAR 2 [] (6)" tvg-logo="/live2/logo/3647775466.png" group-title="Germany",DAZN BAR 2 [] (6)
+vavoo://3647775466
 #EXTINF:-1 tvg-id="4126886267" tvg-name="DAZN EVENT INFO (6)" tvg-logo="" group-title="Germany",DAZN EVENT INFO (6)
 vavoo://4126886267
 #EXTINF:-1 tvg-id="4044798259" tvg-name="DAZN FAST+ (6)" tvg-logo="/live2/logo/4044798259.png" group-title="Germany",DAZN FAST+ (6)
@@ -8529,6 +8511,8 @@ vavoo://125188829
 vavoo://3429108966
 #EXTINF:-1 tvg-id="3831613688" tvg-name="DELUXE RAP (6)" tvg-logo="/live2/logo/3831613688.png" group-title="Germany",DELUXE RAP (6)
 vavoo://3831613688
+#EXTINF:-1 tvg-id="2805962577" tvg-name="DELUXE RAP [SAT] [] (6)" tvg-logo="/live2/logo/2805962577.png" group-title="Germany",DELUXE RAP [SAT] [] (6)
+vavoo://2805962577
 #EXTINF:-1 tvg-id="3942368657" tvg-name="DELUXE ROCK [SAT] [] (6)" tvg-logo="/live2/logo/3942368657.png" group-title="Germany",DELUXE ROCK [SAT] [] (6)
 vavoo://3942368657
 #EXTINF:-1 tvg-id="2195479735" tvg-name="DEUTSCHES MUSIK FERNSEHEN (6)" tvg-logo="/live2/logo/2195479735.png" group-title="Germany",DEUTSCHES MUSIK FERNSEHEN (6)
@@ -8619,8 +8603,6 @@ vavoo://3301562165
 vavoo://952420598
 #EXTINF:-1 tvg-id="1222315896" tvg-name="EUROSPORT 1 (6)" tvg-logo="/live2/logo/1222315896.png" group-title="Germany",EUROSPORT 1 (6)
 vavoo://1222315896
-#EXTINF:-1 tvg-id="259749288" tvg-name="EUROSPORT 2 (6)" tvg-logo="/live2/logo/259749288.png" group-title="Germany",EUROSPORT 2 (6)
-vavoo://259749288
 #EXTINF:-1 tvg-id="627515681" tvg-name="FASHIONTV (6)" tvg-logo="" group-title="Germany",FASHIONTV (6)
 vavoo://627515681
 #EXTINF:-1 tvg-id="1014819477" tvg-name="FC BAYERN (6)" tvg-logo="/live2/logo/1014819477.png" group-title="Germany",FC BAYERN (6)
@@ -8633,6 +8615,8 @@ vavoo://807825411
 vavoo://3087933134
 #EXTINF:-1 tvg-id="1288161498" tvg-name="FOLX (6)" tvg-logo="/live2/logo/1288161498.png" group-title="Germany",FOLX (6)
 vavoo://1288161498
+#EXTINF:-1 tvg-id="3439537805" tvg-name="FOX (6)" tvg-logo="" group-title="Germany",FOX (6)
+vavoo://3439537805
 #EXTINF:-1 tvg-id="3139985846" tvg-name="FRANKEN FERNSEHEN (6)" tvg-logo="/live2/logo/3139985846.png" group-title="Germany",FRANKEN FERNSEHEN (6)
 vavoo://3139985846
 #EXTINF:-1 tvg-id="2761231087" tvg-name="FRANKEN PLUS (6)" tvg-logo="/live2/logo/2761231087.png" group-title="Germany",FRANKEN PLUS (6)
@@ -8785,6 +8769,8 @@ vavoo://222766523
 vavoo://4007821298
 #EXTINF:-1 tvg-id="3960344458" tvg-name="LG 305 SONY ONE THRILLER TV (6)" tvg-logo="" group-title="Germany",LG 305 SONY ONE THRILLER TV (6)
 vavoo://3960344458
+#EXTINF:-1 tvg-id="2684399197" tvg-name="LG 306 SONY ONE COMEDY TV (6)" tvg-logo="" group-title="Germany",LG 306 SONY ONE COMEDY TV (6)
+vavoo://2684399197
 #EXTINF:-1 tvg-id="1364652805" tvg-name="LG 307 SONY ONE BEST OF (6)" tvg-logo="" group-title="Germany",LG 307 SONY ONE BEST OF (6)
 vavoo://1364652805
 #EXTINF:-1 tvg-id="3078277168" tvg-name="LG 310 FILMRISE SERIEN (6)" tvg-logo="" group-title="Germany",LG 310 FILMRISE SERIEN (6)
@@ -8805,6 +8791,8 @@ vavoo://3829262292
 vavoo://3837071555
 #EXTINF:-1 tvg-id="1068342251" tvg-name="LG 331 THE BIONIC WOMAN (6)" tvg-logo="" group-title="Germany",LG 331 THE BIONIC WOMAN (6)
 vavoo://1068342251
+#EXTINF:-1 tvg-id="3061135319" tvg-name="LG 332 ARD PLUS LINDEN STRASSE (6)" tvg-logo="" group-title="Germany",LG 332 ARD PLUS LINDEN STRASSE (6)
+vavoo://3061135319
 #EXTINF:-1 tvg-id="2382862441" tvg-name="LG 333 ARD PLUS KRIMI (6)" tvg-logo="" group-title="Germany",LG 333 ARD PLUS KRIMI (6)
 vavoo://2382862441
 #EXTINF:-1 tvg-id="2391716869" tvg-name="LG 335 EINE HIMMLISCHE FAMILIE (6)" tvg-logo="" group-title="Germany",LG 335 EINE HIMMLISCHE FAMILIE (6)
@@ -8841,6 +8829,8 @@ vavoo://4090003379
 vavoo://1907479629
 #EXTINF:-1 tvg-id="3070621914" tvg-name="LG 409 SPEED VISION (6)" tvg-logo="" group-title="Germany",LG 409 SPEED VISION (6)
 vavoo://3070621914
+#EXTINF:-1 tvg-id="4089961145" tvg-name="LG 410 MYSPASS COMEDY & SHOWS (6)" tvg-logo="" group-title="Germany",LG 410 MYSPASS COMEDY & SHOWS (6)
+vavoo://4089961145
 #EXTINF:-1 tvg-id="3695996192" tvg-name="LG 412 IST DOCH NUR SPASS GAGS (6)" tvg-logo="" group-title="Germany",LG 412 IST DOCH NUR SPASS GAGS (6)
 vavoo://3695996192
 #EXTINF:-1 tvg-id="3868921262" tvg-name="LG 416 BEST OF STANDUP COMEDY (6)" tvg-logo="" group-title="Germany",LG 416 BEST OF STANDUP COMEDY (6)
@@ -8861,6 +8851,8 @@ vavoo://318985018
 vavoo://1072875610
 #EXTINF:-1 tvg-id="1860680914" tvg-name="LG 526 MADE IN CHELSEA (6)" tvg-logo="" group-title="Germany",LG 526 MADE IN CHELSEA (6)
 vavoo://1860680914
+#EXTINF:-1 tvg-id="4237455321" tvg-name="LG 528 BIG BROTHER (6)" tvg-logo="" group-title="Germany",LG 528 BIG BROTHER (6)
+vavoo://4237455321
 #EXTINF:-1 tvg-id="808676287" tvg-name="LG 530 HELLS KITCHEN (6)" tvg-logo="" group-title="Germany",LG 530 HELLS KITCHEN (6)
 vavoo://808676287
 #EXTINF:-1 tvg-id="3145919680" tvg-name="LG 531 TOP CHEF (6)" tvg-logo="" group-title="Germany",LG 531 TOP CHEF (6)
@@ -8877,6 +8869,8 @@ vavoo://1869034371
 vavoo://1362857016
 #EXTINF:-1 tvg-id="2738295266" tvg-name="LG 615 TRAVEL XP (6)" tvg-logo="" group-title="Germany",LG 615 TRAVEL XP (6)
 vavoo://2738295266
+#EXTINF:-1 tvg-id="1503005560" tvg-name="LG 616 GOUSA TV (6)" tvg-logo="" group-title="Germany",LG 616 GOUSA TV (6)
+vavoo://1503005560
 #EXTINF:-1 tvg-id="76160432" tvg-name="LG 620 BBC FOOD (6)" tvg-logo="" group-title="Germany",LG 620 BBC FOOD (6)
 vavoo://76160432
 #EXTINF:-1 tvg-id="675516971" tvg-name="LG 622 JUST COOKING (6)" tvg-logo="" group-title="Germany",LG 622 JUST COOKING (6)
@@ -8923,8 +8917,6 @@ vavoo://4181806681
 vavoo://983351517
 #EXTINF:-1 tvg-id="3774481307" tvg-name="LG 712 WORLD OF FREE SPORTS (6)" tvg-logo="" group-title="Germany",LG 712 WORLD OF FREE SPORTS (6)
 vavoo://3774481307
-#EXTINF:-1 tvg-id="2609943336" tvg-name="LG 713 MORE THAN SPORTS TV (6)" tvg-logo="" group-title="Germany",LG 713 MORE THAN SPORTS TV (6)
-vavoo://2609943336
 #EXTINF:-1 tvg-id="1404445224" tvg-name="LG 716 TENNIS CHANNEL DEUTSCHLAND (6)" tvg-logo="" group-title="Germany",LG 716 TENNIS CHANNEL DEUTSCHLAND (6)
 vavoo://1404445224
 #EXTINF:-1 tvg-id="1881694464" tvg-name="LG 726 MTRSPT 1 (6)" tvg-logo="" group-title="Germany",LG 726 MTRSPT 1 (6)
@@ -8967,6 +8959,8 @@ vavoo://1099230891
 vavoo://3935221219
 #EXTINF:-1 tvg-id="1296073638" tvg-name="LG 943 YU GI OH (6)" tvg-logo="" group-title="Germany",LG 943 YU GI OH (6)
 vavoo://1296073638
+#EXTINF:-1 tvg-id="4182429660" tvg-name="LG 944 AVATAR (6)" tvg-logo="" group-title="Germany",LG 944 AVATAR (6)
+vavoo://4182429660
 #EXTINF:-1 tvg-id="2456600415" tvg-name="LG 945 PLUTO TV ANIME (6)" tvg-logo="" group-title="Germany",LG 945 PLUTO TV ANIME (6)
 vavoo://2456600415
 #EXTINF:-1 tvg-id="2696188470" tvg-name="LG 955 STINGRAY HIT LIST (6)" tvg-logo="" group-title="Germany",LG 955 STINGRAY HIT LIST (6)
@@ -9017,6 +9011,8 @@ vavoo://2013362980
 vavoo://910551457
 #EXTINF:-1 tvg-id="3766052727" tvg-name="LG 986 MOCONOMY WIRTSCHAFT UND FINANZEN INFOTAINMENT (6)" tvg-logo="" group-title="Germany",LG 986 MOCONOMY WIRTSCHAFT UND FINANZEN INFOTAINMENT (6)
 vavoo://3766052727
+#EXTINF:-1 tvg-id="3688927017" tvg-name="LG 987 BLOOMBERG ORIGINALS (6)" tvg-logo="" group-title="Germany",LG 987 BLOOMBERG ORIGINALS (6)
+vavoo://3688927017
 #EXTINF:-1 tvg-id="114806800" tvg-name="LG 988 BLOOMBERG TV+ (6)" tvg-logo="" group-title="Germany",LG 988 BLOOMBERG TV+ (6)
 vavoo://114806800
 #EXTINF:-1 tvg-id="2004008916" tvg-name="LG 989 NBC NEWS NOW (6)" tvg-logo="" group-title="Germany",LG 989 NBC NEWS NOW (6)
@@ -9091,6 +9087,8 @@ vavoo://689098675
 vavoo://3050571507
 #EXTINF:-1 tvg-id="180197729" tvg-name="MORE THAN SPORTS TV (6)" tvg-logo="/live2/logo/180197729.png" group-title="Germany",MORE THAN SPORTS TV (6)
 vavoo://180197729
+#EXTINF:-1 tvg-id="925259" tvg-name="MOTORVISION TV (6)" tvg-logo="/live2/logo/925259.png" group-title="Germany",MOTORVISION TV (6)
+vavoo://925259
 #EXTINF:-1 tvg-id="590533231" tvg-name="MOTORVISION [SAT] [] (6)" tvg-logo="/live2/logo/590533231.png" group-title="Germany",MOTORVISION [SAT] [] (6)
 vavoo://590533231
 #EXTINF:-1 tvg-id="2881146903" tvg-name="MOVIEDOME (6)" tvg-logo="" group-title="Germany",MOVIEDOME (6)
@@ -9151,8 +9149,6 @@ vavoo://3501325497
 vavoo://2009079880
 #EXTINF:-1 tvg-id="10515081" tvg-name="NDR FERNSEHEN (6)" tvg-logo="/live2/logo/10515081.png" group-title="Germany",NDR FERNSEHEN (6)
 vavoo://10515081
-#EXTINF:-1 tvg-id="3564160163" tvg-name="NICK JUNIOR (6)" tvg-logo="/live2/logo/3564160163.png" group-title="Germany",NICK JUNIOR (6)
-vavoo://3564160163
 #EXTINF:-1 tvg-id="164492376" tvg-name="NICK.JR. [SAT] [] (6)" tvg-logo="/live2/logo/164492376.png" group-title="Germany",NICK.JR. [SAT] [] (6)
 vavoo://164492376
 #EXTINF:-1 tvg-id="846416462" tvg-name="NICKELODEON (6)" tvg-logo="/live2/logo/846416462.png" group-title="Germany",NICKELODEON (6)
@@ -9217,6 +9213,8 @@ vavoo://1713001419
 vavoo://196602824
 #EXTINF:-1 tvg-id="84414999" tvg-name="ONE 1 MUSIC TV (6)" tvg-logo="/live2/logo/84414999.png" group-title="Germany",ONE 1 MUSIC TV (6)
 vavoo://84414999
+#EXTINF:-1 tvg-id="1019025775" tvg-name="ONE TERRA (6)" tvg-logo="/live2/logo/1019025775.png" group-title="Germany",ONE TERRA (6)
+vavoo://1019025775
 #EXTINF:-1 tvg-id="3174096793" tvg-name="ORF 1 (6)" tvg-logo="/live2/logo/3174096793.png" group-title="Germany",ORF 1 (6)
 vavoo://3174096793
 #EXTINF:-1 tvg-id="4203783497" tvg-name="ORF 2 (6)" tvg-logo="/live2/logo/4203783497.png" group-title="Germany",ORF 2 (6)
@@ -9225,6 +9223,8 @@ vavoo://4203783497
 vavoo://3354430713
 #EXTINF:-1 tvg-id="3440003439" tvg-name="ORF SPORT+ (6)" tvg-logo="/live2/logo/3440003439.png" group-title="Germany",ORF SPORT+ (6)
 vavoo://3440003439
+#EXTINF:-1 tvg-id="4193046475" tvg-name="OTVA (6)" tvg-logo="" group-title="Germany",OTVA (6)
+vavoo://4193046475
 #EXTINF:-1 tvg-id="1943803084" tvg-name="OUT TV (6)" tvg-logo="/live2/logo/1943803084.png" group-title="Germany",OUT TV (6)
 vavoo://1943803084
 #EXTINF:-1 tvg-id="3316507594" tvg-name="PARANORMAL (6)" tvg-logo="" group-title="Germany",PARANORMAL (6)
@@ -9315,8 +9315,12 @@ vavoo://2684081118
 vavoo://1566086517
 #EXTINF:-1 tvg-id="2698399676" tvg-name="RIVER MONSTERS (6)" tvg-logo="" group-title="Germany",RIVER MONSTERS (6)
 vavoo://2698399676
+#EXTINF:-1 tvg-id="1243507734" tvg-name="RNF (6)" tvg-logo="/live2/logo/1243507734.png" group-title="Germany",RNF (6)
+vavoo://1243507734
 #EXTINF:-1 tvg-id="3012392266" tvg-name="ROCK ANTENNE (6)" tvg-logo="/live2/logo/3012392266.png" group-title="Germany",ROCK ANTENNE (6)
 vavoo://3012392266
+#EXTINF:-1 tvg-id="1642220347" tvg-name="ROCKY CHANNEL (6)" tvg-logo="" group-title="Germany",ROCKY CHANNEL (6)
+vavoo://1642220347
 #EXTINF:-1 tvg-id="2747900754" tvg-name="ROMANCE TV (6)" tvg-logo="/live2/logo/2747900754.png" group-title="Germany",ROMANCE TV (6)
 vavoo://2747900754
 #EXTINF:-1 tvg-id="1367409060" tvg-name="RT DE (6)" tvg-logo="/live2/logo/1367409060.png" group-title="Germany",RT DE (6)
@@ -9343,8 +9347,6 @@ vavoo://1414581667
 vavoo://1572144716
 #EXTINF:-1 tvg-id="2877582637" tvg-name="RTL ZWEI (6)" tvg-logo="/live2/logo/2877582637.png" group-title="Germany",RTL ZWEI (6)
 vavoo://2877582637
-#EXTINF:-1 tvg-id="3236641903" tvg-name="RTL ZWEI SAT [] (6)" tvg-logo="/live2/logo/3236641903.png" group-title="Germany",RTL ZWEI SAT [] (6)
-vavoo://3236641903
 #EXTINF:-1 tvg-id="1872602400" tvg-name="RTL+ (6)" tvg-logo="/live2/logo/1872602400.png" group-title="Germany",RTL+ (6)
 vavoo://1872602400
 #EXTINF:-1 tvg-id="19944766" tvg-name="RTL+ EVENT 3 [] (6)" tvg-logo="/live2/logo/19944766.png" group-title="Germany",RTL+ EVENT 3 [] (6)
@@ -9445,10 +9447,6 @@ vavoo://1940254837
 vavoo://2981061970
 #EXTINF:-1 tvg-id="204441399" tvg-name="SKY BOX PREMIEREN 1 (6)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 1 (6)
 vavoo://204441399
-#EXTINF:-1 tvg-id="1267727847" tvg-name="SKY BOX PREMIEREN 2 (6)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 2 (6)
-vavoo://1267727847
-#EXTINF:-1 tvg-id="1995428951" tvg-name="SKY BOX PREMIEREN 3 (6)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 3 (6)
-vavoo://1995428951
 #EXTINF:-1 tvg-id="3301902407" tvg-name="SKY BOX PREMIEREN 4 (6)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 4 (6)
 vavoo://3301902407
 #EXTINF:-1 tvg-id="4189004279" tvg-name="SKY BOX PREMIEREN 5 (6)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 5 (6)
@@ -9513,8 +9511,6 @@ vavoo://363251895
 vavoo://1506084946
 #EXTINF:-1 tvg-id="62442537" tvg-name="SKY CINEMA CLASSICS (6)" tvg-logo="/live2/logo/62442537.png" group-title="Germany",SKY CINEMA CLASSICS (6)
 vavoo://62442537
-#EXTINF:-1 tvg-id="353608061" tvg-name="SKY CINEMA CLASSICS [SAT] [] (6)" tvg-logo="/live2/logo/353608061.png" group-title="Germany",SKY CINEMA CLASSICS [SAT] [] (6)
-vavoo://353608061
 #EXTINF:-1 tvg-id="126070455" tvg-name="SKY CINEMA EMOTION (6)" tvg-logo="" group-title="Germany",SKY CINEMA EMOTION (6)
 vavoo://126070455
 #EXTINF:-1 tvg-id="2615245916" tvg-name="SKY CINEMA FAMILY (6)" tvg-logo="/live2/logo/2615245916.png" group-title="Germany",SKY CINEMA FAMILY (6)
@@ -9583,6 +9579,8 @@ vavoo://320196857
 vavoo://3620214137
 #EXTINF:-1 tvg-id="1709754729" tvg-name="SKY SELECT 4 (6)" tvg-logo="/live2/logo/1709754729.png" group-title="Germany",SKY SELECT 4 (6)
 vavoo://1709754729
+#EXTINF:-1 tvg-id="3018854180" tvg-name="SKY SELECT 4 [4K] [] (6)" tvg-logo="/live2/logo/3018854180.png" group-title="Germany",SKY SELECT 4 [4K] [] (6)
+vavoo://3018854180
 #EXTINF:-1 tvg-id="1485365465" tvg-name="SKY SELECT 5 (6)" tvg-logo="/live2/logo/1485365465.png" group-title="Germany",SKY SELECT 5 (6)
 vavoo://1485365465
 #EXTINF:-1 tvg-id="1852233377" tvg-name="SKY SELECT 5 [4K] [] (6)" tvg-logo="/live2/logo/1852233377.png" group-title="Germany",SKY SELECT 5 [4K] [] (6)
@@ -9595,6 +9593,8 @@ vavoo://3551312495
 vavoo://575189945
 #EXTINF:-1 tvg-id="2685936744" tvg-name="SKY SELECT 8 (6)" tvg-logo="/live2/logo/2685936744.png" group-title="Germany",SKY SELECT 8 (6)
 vavoo://2685936744
+#EXTINF:-1 tvg-id="692762335" tvg-name="SKY SELECT 8 [4K] [] (6)" tvg-logo="/live2/logo/692762335.png" group-title="Germany",SKY SELECT 8 [4K] [] (6)
+vavoo://692762335
 #EXTINF:-1 tvg-id="2641890776" tvg-name="SKY SELECT 9 (6)" tvg-logo="/live2/logo/2641890776.png" group-title="Germany",SKY SELECT 9 (6)
 vavoo://2641890776
 #EXTINF:-1 tvg-id="1694858291" tvg-name="SKY SELECT PREMIERE 10 (6)" tvg-logo="" group-title="Germany",SKY SELECT PREMIERE 10 (6)
@@ -9623,8 +9623,6 @@ vavoo://873142600
 vavoo://2164599872
 #EXTINF:-1 tvg-id="3147780323" tvg-name="SKY SHOWCASE (6)" tvg-logo="/live2/logo/3147780323.png" group-title="Germany",SKY SHOWCASE (6)
 vavoo://3147780323
-#EXTINF:-1 tvg-id="3159760671" tvg-name="SKY SHOWCASE [SAT] [] (6)" tvg-logo="/live2/logo/3159760671.png" group-title="Germany",SKY SHOWCASE [SAT] [] (6)
-vavoo://3159760671
 #EXTINF:-1 tvg-id="1046831603" tvg-name="SKY SPORT 1 (6)" tvg-logo="/live2/logo/1046831603.png" group-title="Germany",SKY SPORT 1 (6)
 vavoo://1046831603
 #EXTINF:-1 tvg-id="3615682161" tvg-name="SKY SPORT 1 [SAT] [] (6)" tvg-logo="/live2/logo/3615682161.png" group-title="Germany",SKY SPORT 1 [SAT] [] (6)
@@ -9815,8 +9813,6 @@ vavoo://640709849
 vavoo://4027035620
 #EXTINF:-1 tvg-id="640496589" tvg-name="WDR FERNSEHEN BIELEFELD (6)" tvg-logo="" group-title="Germany",WDR FERNSEHEN BIELEFELD (6)
 vavoo://640496589
-#EXTINF:-1 tvg-id="4063058230" tvg-name="WDR FERNSEHEN BONN (6)" tvg-logo="" group-title="Germany",WDR FERNSEHEN BONN (6)
-vavoo://4063058230
 #EXTINF:-1 tvg-id="317792582" tvg-name="WDR FERNSEHEN DORTMUND (6)" tvg-logo="" group-title="Germany",WDR FERNSEHEN DORTMUND (6)
 vavoo://317792582
 #EXTINF:-1 tvg-id="252903491" tvg-name="WDR FERNSEHEN DUISBURG (6)" tvg-logo="" group-title="Germany",WDR FERNSEHEN DUISBURG (6)
@@ -10087,6 +10083,8 @@ vavoo://1775092266
 vavoo://162211919
 #EXTINF:-1 tvg-id="976962274" tvg-name="DAZN 2 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",DAZN 2 HD (BACKUP) (1)
 vavoo://976962274
+#EXTINF:-1 tvg-id="832542472" tvg-name="DAZN 3 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 3 (MATCH TIME) HD (1)
+vavoo://832542472
 #EXTINF:-1 tvg-id="1484263760" tvg-name="DAZN 4 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 4 (MATCH TIME) HD (1)
 vavoo://1484263760
 #EXTINF:-1 tvg-id="3349320398" tvg-name="DAZN 5 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 5 (MATCH TIME) HD (1)
@@ -10137,8 +10135,6 @@ vavoo://2298716540
 vavoo://1344517072
 #EXTINF:-1 tvg-id="2626270030" tvg-name="DAZN EVENT 9 HD (1)" tvg-logo="" group-title="Germany",DAZN EVENT 9 HD (1)
 vavoo://2626270030
-#EXTINF:-1 tvg-id="2833035201" tvg-name="DAZN LFC TV HD (1)" tvg-logo="" group-title="Germany",DAZN LFC TV HD (1)
-vavoo://2833035201
 #EXTINF:-1 tvg-id="1476666167" tvg-name="DAZN MBL HD (1)" tvg-logo="" group-title="Germany",DAZN MBL HD (1)
 vavoo://1476666167
 #EXTINF:-1 tvg-id="674663909" tvg-name="DAZN NBA HD (1)" tvg-logo="" group-title="Germany",DAZN NBA HD (1)
@@ -10217,8 +10213,8 @@ vavoo://3888741155
 vavoo://364770966
 #EXTINF:-1 tvg-id="3690248614" tvg-name="DEUTSCHE SPORT (1)" tvg-logo="" group-title="Germany",DEUTSCHE SPORT (1)
 vavoo://3690248614
-#EXTINF:-1 tvg-id="3246643161" tvg-name="DEUTSCHES MUSIK FERNSEHEN (1)" tvg-logo="" group-title="Germany",DEUTSCHES MUSIK FERNSEHEN (1)
-vavoo://3246643161
+#EXTINF:-1 tvg-id="413489055" tvg-name="DIE ABENTEUER DES JUNGEN MARCO POLO (1)" tvg-logo="" group-title="Germany",DIE ABENTEUER DES JUNGEN MARCO POLO (1)
+vavoo://413489055
 #EXTINF:-1 tvg-id="3051100732" tvg-name="DISCOVERY (1)" tvg-logo="" group-title="Germany",DISCOVERY (1)
 vavoo://3051100732
 #EXTINF:-1 tvg-id="3099080474" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Germany",DISCOVERY CHANNEL HD (1)
@@ -10373,8 +10369,6 @@ vavoo://577088535
 vavoo://2769375850
 #EXTINF:-1 tvg-id="136650226" tvg-name="EUROSPORT 2 HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD (BACKUP 2) (1)
 vavoo://136650226
-#EXTINF:-1 tvg-id="3279539799" tvg-name="EUROSPORT 2 HD (BACKUP 3) (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD (BACKUP 3) (1)
-vavoo://3279539799
 #EXTINF:-1 tvg-id="622250285" tvg-name="EUROSPORT 2 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD (BACKUP) (1)
 vavoo://622250285
 #EXTINF:-1 tvg-id="519763885" tvg-name="EUROSPORT 2 HD+ (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 HD+ (1)
@@ -10503,8 +10497,6 @@ vavoo://4202971985
 vavoo://2335594854
 #EXTINF:-1 tvg-id="3586356557" tvg-name="JUKEBOX (1)" tvg-logo="" group-title="Germany",JUKEBOX (1)
 vavoo://3586356557
-#EXTINF:-1 tvg-id="122376869" tvg-name="JUKEBOX (BACKUP) (1)" tvg-logo="" group-title="Germany",JUKEBOX (BACKUP) (1)
-vavoo://122376869
 #EXTINF:-1 tvg-id="788796757" tvg-name="JUNIOR (1)" tvg-logo="" group-title="Germany",JUNIOR (1)
 vavoo://788796757
 #EXTINF:-1 tvg-id="1402056834" tvg-name="JUNIOR HD (1)" tvg-logo="" group-title="Germany",JUNIOR HD (1)
@@ -10685,8 +10677,8 @@ vavoo://235122639
 vavoo://2254834664
 #EXTINF:-1 tvg-id="2784325436" tvg-name="N-TV HD (1)" tvg-logo="/live2/logo/2784325436.png" group-title="Germany",N-TV HD (1)
 vavoo://2784325436
-#EXTINF:-1 tvg-id="2633164625" tvg-name="N-TV HD+ (1)" tvg-logo="/live2/logo/2633164625.png" group-title="Germany",N-TV HD+ (1)
-vavoo://2633164625
+#EXTINF:-1 tvg-id="3447272825" tvg-name="N-TV HD (BACKUP) (1)" tvg-logo="" group-title="Germany",N-TV HD (BACKUP) (1)
+vavoo://3447272825
 #EXTINF:-1 tvg-id="867416236" tvg-name="N-TV RAW (1)" tvg-logo="" group-title="Germany",N-TV RAW (1)
 vavoo://867416236
 #EXTINF:-1 tvg-id="960731050" tvg-name="N24 DOCU (1)" tvg-logo="" group-title="Germany",N24 DOCU (1)
@@ -11025,8 +11017,6 @@ vavoo://2312024953
 vavoo://2978752107
 #EXTINF:-1 tvg-id="1164227559" tvg-name="S. SPORT 9 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 9 HD (1)
 vavoo://1164227559
-#EXTINF:-1 tvg-id="119323253" tvg-name="S. SPORT GOLF FHD (1)" tvg-logo="" group-title="Germany",S. SPORT GOLF FHD (1)
-vavoo://119323253
 #EXTINF:-1 tvg-id="3017117912" tvg-name="S. SPORT GOLF HD (1)" tvg-logo="" group-title="Germany",S. SPORT GOLF HD (1)
 vavoo://3017117912
 #EXTINF:-1 tvg-id="1418511445" tvg-name="S. SPORT LIGA UHD (1)" tvg-logo="" group-title="Germany",S. SPORT LIGA UHD (1)
@@ -11169,8 +11159,6 @@ vavoo://332496845
 vavoo://2640214062
 #EXTINF:-1 tvg-id="1374976176" tvg-name="SKY BOX PREMIEREN 13 HD (1)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 13 HD (1)
 vavoo://1374976176
-#EXTINF:-1 tvg-id="1529967017" tvg-name="SKY BOX PREMIEREN 14 HD (1)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 14 HD (1)
-vavoo://1529967017
 #EXTINF:-1 tvg-id="2543546679" tvg-name="SKY BOX PREMIEREN 15 HD (1)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 15 HD (1)
 vavoo://2543546679
 #EXTINF:-1 tvg-id="420771540" tvg-name="SKY BOX PREMIEREN 16 HD (1)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 16 HD (1)
@@ -11197,6 +11185,8 @@ vavoo://1787631072
 vavoo://2787579262
 #EXTINF:-1 tvg-id="2131167186" tvg-name="SKY BOX PREMIEREN 8 HD (1)" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 8 HD (1)
 vavoo://2131167186
+#EXTINF:-1 tvg-id="607841075" tvg-name="SKY BOX SCI-FI HD (1)" tvg-logo="" group-title="Germany",SKY BOX SCI-FI HD (1)
+vavoo://607841075
 #EXTINF:-1 tvg-id="2077545130" tvg-name="SKY BOX THRILLER HD (1)" tvg-logo="" group-title="Germany",SKY BOX THRILLER HD (1)
 vavoo://2077545130
 #EXTINF:-1 tvg-id="50330410" tvg-name="SKY BOX WESTERN HD (1)" tvg-logo="" group-title="Germany",SKY BOX WESTERN HD (1)
@@ -11289,8 +11279,6 @@ vavoo://2158494406
 vavoo://18168168
 #EXTINF:-1 tvg-id="178643918" tvg-name="SKY BUNDESLIGA 8 HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (BACKUP 2) (1)
 vavoo://178643918
-#EXTINF:-1 tvg-id="4037225133" tvg-name="SKY BUNDESLIGA 8 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (BACKUP) (1)
-vavoo://4037225133
 #EXTINF:-1 tvg-id="4031812330" tvg-name="SKY BUNDESLIGA 8 HD+ (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD+ (1)
 vavoo://4031812330
 #EXTINF:-1 tvg-id="1595002135" tvg-name="SKY BUNDESLIGA 8 RAW (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 RAW (1)
@@ -11359,6 +11347,8 @@ vavoo://2077331655
 vavoo://3965128200
 #EXTINF:-1 tvg-id="491492893" tvg-name="SKY CINEMA PREMIEREN +24 HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 HD (1)
 vavoo://491492893
+#EXTINF:-1 tvg-id="1606366206" tvg-name="SKY CINEMA PREMIEREN +24 HEVC (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 HEVC (1)
+vavoo://1606366206
 #EXTINF:-1 tvg-id="2137134603" tvg-name="SKY CINEMA PREMIEREN +24 RAW (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 RAW (1)
 vavoo://2137134603
 #EXTINF:-1 tvg-id="3458716000" tvg-name="SKY CINEMA PREMIEREN HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN HD (1)
@@ -11421,6 +11411,8 @@ vavoo://1935707841
 vavoo://2592120252
 #EXTINF:-1 tvg-id="446346560" tvg-name="SKY JUNIOR (1)" tvg-logo="" group-title="Germany",SKY JUNIOR (1)
 vavoo://446346560
+#EXTINF:-1 tvg-id="1869613335" tvg-name="SKY KRIMI HD (1)" tvg-logo="" group-title="Germany",SKY KRIMI HD (1)
+vavoo://1869613335
 #EXTINF:-1 tvg-id="3692671393" tvg-name="SKY KRIMI HD (BACKUP 2) (1)" tvg-logo="" group-title="Germany",SKY KRIMI HD (BACKUP 2) (1)
 vavoo://3692671393
 #EXTINF:-1 tvg-id="2969860284" tvg-name="SKY KRIMI HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY KRIMI HD (BACKUP) (1)
@@ -11451,6 +11443,8 @@ vavoo://91673989
 vavoo://4101674354
 #EXTINF:-1 tvg-id="1513183896" tvg-name="SKY REPLAY HEVC (1)" tvg-logo="" group-title="Germany",SKY REPLAY HEVC (1)
 vavoo://1513183896
+#EXTINF:-1 tvg-id="1289476621" tvg-name="SKY REPLAY RAW (FOX) (1)" tvg-logo="" group-title="Germany",SKY REPLAY RAW (FOX) (1)
+vavoo://1289476621
 #EXTINF:-1 tvg-id="283510209" tvg-name="SKY SELECT (1)" tvg-logo="" group-title="Germany",SKY SELECT (1)
 vavoo://283510209
 #EXTINF:-1 tvg-id="471974067" tvg-name="SKY SELECT 1 HD (1)" tvg-logo="" group-title="Germany",SKY SELECT 1 HD (1)
@@ -11531,6 +11525,8 @@ vavoo://627555880
 vavoo://2781575042
 #EXTINF:-1 tvg-id="144862949" tvg-name="SKY SPORT 2 HEVC (1)" tvg-logo="" group-title="Germany",SKY SPORT 2 HEVC (1)
 vavoo://144862949
+#EXTINF:-1 tvg-id="176826495" tvg-name="SKY SPORT 2 RAW (1)" tvg-logo="" group-title="Germany",SKY SPORT 2 RAW (1)
+vavoo://176826495
 #EXTINF:-1 tvg-id="1400667713" tvg-name="SKY SPORT 3 HD (1)" tvg-logo="" group-title="Germany",SKY SPORT 3 HD (1)
 vavoo://1400667713
 #EXTINF:-1 tvg-id="2730587499" tvg-name="SKY SPORT 3 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 3 HD (BACKUP) (1)
@@ -11569,6 +11565,8 @@ vavoo://4015796941
 vavoo://236347927
 #EXTINF:-1 tvg-id="390816113" tvg-name="SKY SPORT 8 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 8 HD (BACKUP) (1)
 vavoo://390816113
+#EXTINF:-1 tvg-id="3267125897" tvg-name="SKY SPORT 9 HD (1)" tvg-logo="" group-title="Germany",SKY SPORT 9 HD (1)
+vavoo://3267125897
 #EXTINF:-1 tvg-id="2431494706" tvg-name="SKY SPORT 9 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SKY SPORT 9 HD (BACKUP) (1)
 vavoo://2431494706
 #EXTINF:-1 tvg-id="2946846655" tvg-name="SKY SPORT AUSTRIA 1 (1)" tvg-logo="" group-title="Germany",SKY SPORT AUSTRIA 1 (1)
@@ -11705,8 +11703,6 @@ vavoo://3670271178
 vavoo://1720056409
 #EXTINF:-1 tvg-id="3784074367" tvg-name="SPORT1+ FHD (1)" tvg-logo="" group-title="Germany",SPORT1+ FHD (1)
 vavoo://3784074367
-#EXTINF:-1 tvg-id="1079483287" tvg-name="SPORT1+ HD (1)" tvg-logo="" group-title="Germany",SPORT1+ HD (1)
-vavoo://1079483287
 #EXTINF:-1 tvg-id="1175747470" tvg-name="SPORT1+ HD (BACKUP) (1)" tvg-logo="" group-title="Germany",SPORT1+ HD (BACKUP) (1)
 vavoo://1175747470
 #EXTINF:-1 tvg-id="3709026245" tvg-name="SPORT1+ HD+ (1)" tvg-logo="" group-title="Germany",SPORT1+ HD+ (1)
@@ -11765,6 +11761,8 @@ vavoo://1272416383
 vavoo://209187503
 #EXTINF:-1 tvg-id="823647007" tvg-name="SPORTDEUTSCHLAND EVENT 33 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 33 (1)
 vavoo://823647007
+#EXTINF:-1 tvg-id="2201421583" tvg-name="SPORTDEUTSCHLAND EVENT 34 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 34 (1)
+vavoo://2201421583
 #EXTINF:-1 tvg-id="3193384639" tvg-name="SPORTDEUTSCHLAND EVENT 35 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 35 (1)
 vavoo://3193384639
 #EXTINF:-1 tvg-id="4193735791" tvg-name="SPORTDEUTSCHLAND EVENT 36 (1)" tvg-logo="" group-title="Germany",SPORTDEUTSCHLAND EVENT 36 (1)
@@ -11979,6 +11977,8 @@ vavoo://3348767017
 vavoo://754018564
 #EXTINF:-1 tvg-id="1393508151" tvg-name="VH1 CLASSIC (BACKUP) (1)" tvg-logo="" group-title="Germany",VH1 CLASSIC (BACKUP) (1)
 vavoo://1393508151
+#EXTINF:-1 tvg-id="918974764" tvg-name="VIASAT HISTORY (1)" tvg-logo="" group-title="Germany",VIASAT HISTORY (1)
+vavoo://918974764
 #EXTINF:-1 tvg-id="770027360" tvg-name="VIASAT NATURE (1)" tvg-logo="" group-title="Germany",VIASAT NATURE (1)
 vavoo://770027360
 #EXTINF:-1 tvg-id="1670046236" tvg-name="VOX (1)" tvg-logo="" group-title="Germany",VOX (1)
@@ -12673,8 +12673,6 @@ vavoo://639406775
 vavoo://3168132911
 #EXTINF:-1 tvg-id="2294009196" tvg-name="RTM TV (6)" tvg-logo="/live2/logo/2294009196.png" group-title="Italy",RTM TV (6)
 vavoo://2294009196
-#EXTINF:-1 tvg-id="4136045815" tvg-name="RTP (RETE TELEVISIVA) (6)" tvg-logo="/live2/logo/4136045815.png" group-title="Italy",RTP (RETE TELEVISIVA) (6)
-vavoo://4136045815
 #EXTINF:-1 tvg-id="3799362189" tvg-name="RTTR (6)" tvg-logo="/live2/logo/3799362189.png" group-title="Italy",RTTR (6)
 vavoo://3799362189
 #EXTINF:-1 tvg-id="968665235" tvg-name="SAN MARINO RTV (6)" tvg-logo="/live2/logo/968665235.png" group-title="Italy",SAN MARINO RTV (6)
@@ -12695,8 +12693,6 @@ vavoo://1235530177
 vavoo://1228534500
 #EXTINF:-1 tvg-id="415795144" tvg-name="SKY CINEMA FAMILY (6)" tvg-logo="/live2/logo/415795144.png" group-title="Italy",SKY CINEMA FAMILY (6)
 vavoo://415795144
-#EXTINF:-1 tvg-id="2890008905" tvg-name="SKY CINEMA ROMANCE (6)" tvg-logo="/live2/logo/2890008905.png" group-title="Italy",SKY CINEMA ROMANCE (6)
-vavoo://2890008905
 #EXTINF:-1 tvg-id="2451443049" tvg-name="SKY CINEMA STORIES (6)" tvg-logo="" group-title="Italy",SKY CINEMA STORIES (6)
 vavoo://2451443049
 #EXTINF:-1 tvg-id="1820997555" tvg-name="SKY CINEMA SUSPENSE (6)" tvg-logo="/live2/logo/1820997555.png" group-title="Italy",SKY CINEMA SUSPENSE (6)
@@ -12705,8 +12701,6 @@ vavoo://1820997555
 vavoo://2872151911
 #EXTINF:-1 tvg-id="2236517134" tvg-name="SKY CINEMA UNO +24 (6)" tvg-logo="" group-title="Italy",SKY CINEMA UNO +24 (6)
 vavoo://2236517134
-#EXTINF:-1 tvg-id="354961873" tvg-name="SKY CRIME (6)" tvg-logo="/live2/logo/354961873.png" group-title="Italy",SKY CRIME (6)
-vavoo://354961873
 #EXTINF:-1 tvg-id="464281981" tvg-name="SKY DOCUMENTARIES (6)" tvg-logo="" group-title="Italy",SKY DOCUMENTARIES (6)
 vavoo://464281981
 #EXTINF:-1 tvg-id="1968640789" tvg-name="SKY INVESTIGATION (6)" tvg-logo="/live2/logo/1968640789.png" group-title="Italy",SKY INVESTIGATION (6)
@@ -12767,8 +12761,6 @@ vavoo://2100771782
 vavoo://210669162
 #EXTINF:-1 tvg-id="3376031355" tvg-name="SKY TG 24 (6)" tvg-logo="/live2/logo/3376031355.png" group-title="Italy",SKY TG 24 (6)
 vavoo://3376031355
-#EXTINF:-1 tvg-id="2130523218" tvg-name="SKY UNO (6)" tvg-logo="/live2/logo/2130523218.png" group-title="Italy",SKY UNO (6)
-vavoo://2130523218
 #EXTINF:-1 tvg-id="2873793231" tvg-name="SKYSHOWTIME 1 (6)" tvg-logo="/live2/logo/2873793231.png" group-title="Italy",SKYSHOWTIME 1 (6)
 vavoo://2873793231
 #EXTINF:-1 tvg-id="3342849313" tvg-name="SPORTITALIA PLUS (6)" tvg-logo="/live2/logo/3342849313.png" group-title="Italy",SPORTITALIA PLUS (6)
@@ -13225,6 +13217,8 @@ vavoo://3422335766
 vavoo://3503957951
 #EXTINF:-1 tvg-id="3946902235" tvg-name="BBC BRIT POLSKA (6)" tvg-logo="/live2/logo/3946902235.png" group-title="Poland",BBC BRIT POLSKA (6)
 vavoo://3946902235
+#EXTINF:-1 tvg-id="1539172891" tvg-name="BBC EARTH (6)" tvg-logo="/live2/logo/1539172891.png" group-title="Poland",BBC EARTH (6)
+vavoo://1539172891
 #EXTINF:-1 tvg-id="163612496" tvg-name="BBC FIRST (6)" tvg-logo="/live2/logo/163612496.png" group-title="Poland",BBC FIRST (6)
 vavoo://163612496
 #EXTINF:-1 tvg-id="520666681" tvg-name="BBC LIFESTYLE (6)" tvg-logo="/live2/logo/520666681.png" group-title="Poland",BBC LIFESTYLE (6)
@@ -13395,8 +13389,6 @@ vavoo://132683279
 vavoo://3625034813
 #EXTINF:-1 tvg-id="2052040645" tvg-name="INULTRA UHD (6)" tvg-logo="/live2/logo/2052040645.png" group-title="Poland",INULTRA UHD (6)
 vavoo://2052040645
-#EXTINF:-1 tvg-id="2790585591" tvg-name="INVESTIGATION DISCOVERY (6)" tvg-logo="/live2/logo/2790585591.png" group-title="Poland",INVESTIGATION DISCOVERY (6)
-vavoo://2790585591
 #EXTINF:-1 tvg-id="2371007314" tvg-name="JIMJAM POLSAT (6)" tvg-logo="/live2/logo/2371007314.png" group-title="Poland",JIMJAM POLSAT (6)
 vavoo://2371007314
 #EXTINF:-1 tvg-id="188680603" tvg-name="JUNIOR MUSIC (6)" tvg-logo="" group-title="Poland",JUNIOR MUSIC (6)
@@ -13561,8 +13553,6 @@ vavoo://2289661580
 vavoo://2713738146
 #EXTINF:-1 tvg-id="1279805679" tvg-name="SUPER EXPRESS TV (6)" tvg-logo="" group-title="Poland",SUPER EXPRESS TV (6)
 vavoo://1279805679
-#EXTINF:-1 tvg-id="3067191309" tvg-name="SUPER POLSAT (6)" tvg-logo="/live2/logo/3067191309.png" group-title="Poland",SUPER POLSAT (6)
-vavoo://3067191309
 #EXTINF:-1 tvg-id="2355710582" tvg-name="SUPERSTACJA (6)" tvg-logo="/live2/logo/2355710582.png" group-title="Poland",SUPERSTACJA (6)
 vavoo://2355710582
 #EXTINF:-1 tvg-id="472124960" tvg-name="SZLAGIER (6)" tvg-logo="/live2/logo/472124960.png" group-title="Poland",SZLAGIER (6)
@@ -13791,6 +13781,8 @@ vavoo://1986659225
 vavoo://819040084
 #EXTINF:-1 tvg-id="3350461588" tvg-name="CBS EUROPA HD (1)" tvg-logo="" group-title="Poland",CBS EUROPA HD (1)
 vavoo://3350461588
+#EXTINF:-1 tvg-id="1267459745" tvg-name="CBS REALITY HD (1)" tvg-logo="" group-title="Poland",CBS REALITY HD (1)
+vavoo://1267459745
 #EXTINF:-1 tvg-id="995858220" tvg-name="CI POLSAT HD (1)" tvg-logo="" group-title="Poland",CI POLSAT HD (1)
 vavoo://995858220
 #EXTINF:-1 tvg-id="1474710776" tvg-name="CINEMAX 2 HD (1)" tvg-logo="" group-title="Poland",CINEMAX 2 HD (1)
@@ -14137,6 +14129,8 @@ vavoo://1726372340
 vavoo://1972183649
 #EXTINF:-1 tvg-id="3972324290" tvg-name="ALMA LUSA (6)" tvg-logo="/live2/logo/3972324290.png" group-title="Portugal",ALMA LUSA (6)
 vavoo://3972324290
+#EXTINF:-1 tvg-id="2341819341" tvg-name="AMC (6)" tvg-logo="/live2/logo/2341819341.png" group-title="Portugal",AMC (6)
+vavoo://2341819341
 #EXTINF:-1 tvg-id="1676049953" tvg-name="AMC BREAK (6)" tvg-logo="" group-title="Portugal",AMC BREAK (6)
 vavoo://1676049953
 #EXTINF:-1 tvg-id="2077195788" tvg-name="AMC CRIME (6)" tvg-logo="" group-title="Portugal",AMC CRIME (6)
@@ -14591,6 +14585,8 @@ vavoo://2958694111
 vavoo://2447945475
 #EXTINF:-1 tvg-id="3753231864" tvg-name="PFC (BACKUP) (1)" tvg-logo="" group-title="Portugal",PFC (BACKUP) (1)
 vavoo://3753231864
+#EXTINF:-1 tvg-id="1862087663" tvg-name="PORTO CANAL (1)" tvg-logo="" group-title="Portugal",PORTO CANAL (1)
+vavoo://1862087663
 #EXTINF:-1 tvg-id="2864320028" tvg-name="PORTO CANAL (BACKUP) (1)" tvg-logo="" group-title="Portugal",PORTO CANAL (BACKUP) (1)
 vavoo://2864320028
 #EXTINF:-1 tvg-id="1394401047" tvg-name="RTP 1 HD (1)" tvg-logo="" group-title="Portugal",RTP 1 HD (1)
@@ -14879,6 +14875,8 @@ vavoo://3112950329
 vavoo://97535420
 #EXTINF:-1 tvg-id="2530234158" tvg-name="TNT MUSIC (7)" tvg-logo="" group-title="Russia",TNT MUSIC (7)
 vavoo://2530234158
+#EXTINF:-1 tvg-id="1140356951" tvg-name=".BLACK (1)" tvg-logo="" group-title="Russia",.BLACK (1)
+vavoo://1140356951
 #EXTINF:-1 tvg-id="2721165060" tvg-name=".RED HD (1)" tvg-logo="" group-title="Russia",.RED HD (1)
 vavoo://2721165060
 #EXTINF:-1 tvg-id="885844520" tvg-name=".SCI‑FI (1)" tvg-logo="" group-title="Russia",.SCI‑FI (1)
@@ -15353,6 +15351,8 @@ vavoo://521393455
 vavoo://3960890034
 #EXTINF:-1 tvg-id="1358849039" tvg-name="ATRESERIES (A3 SERIES) (6)" tvg-logo="/live2/logo/1358849039.png" group-title="Spain",ATRESERIES (A3 SERIES) (6)
 vavoo://1358849039
+#EXTINF:-1 tvg-id="4238619703" tvg-name="AXN (6)" tvg-logo="/live2/logo/4238619703.png" group-title="Spain",AXN (6)
+vavoo://4238619703
 #EXTINF:-1 tvg-id="2493319111" tvg-name="AXN MOVIES (6)" tvg-logo="/live2/logo/2493319111.png" group-title="Spain",AXN MOVIES (6)
 vavoo://2493319111
 #EXTINF:-1 tvg-id="3312673778" tvg-name="AXN WHITE (6)" tvg-logo="/live2/logo/3312673778.png" group-title="Spain",AXN WHITE (6)
@@ -15705,8 +15705,6 @@ vavoo://977226543
 vavoo://1024256819
 #EXTINF:-1 tvg-id="3401999066" tvg-name="TELEDEPORTE (6)" tvg-logo="/live2/logo/3401999066.png" group-title="Spain",TELEDEPORTE (6)
 vavoo://3401999066
-#EXTINF:-1 tvg-id="2123930014" tvg-name="TELEMADRID (6)" tvg-logo="/live2/logo/2123930014.png" group-title="Spain",TELEMADRID (6)
-vavoo://2123930014
 #EXTINF:-1 tvg-id="4203821286" tvg-name="TELEMOTRIL (6)" tvg-logo="" group-title="Spain",TELEMOTRIL (6)
 vavoo://4203821286
 #EXTINF:-1 tvg-id="456282400" tvg-name="TELETICINO (6)" tvg-logo="" group-title="Spain",TELETICINO (6)
@@ -15851,8 +15849,6 @@ vavoo://4205258144
 vavoo://2193702924
 #EXTINF:-1 tvg-id="2673626663" tvg-name="LA 1 HD (1)" tvg-logo="" group-title="Spain",LA 1 HD (1)
 vavoo://2673626663
-#EXTINF:-1 tvg-id="109394788" tvg-name="LA LIGA TV BAR HD (1)" tvg-logo="" group-title="Spain",LA LIGA TV BAR HD (1)
-vavoo://109394788
 #EXTINF:-1 tvg-id="3923153097" tvg-name="LA LIGA TV HD (1)" tvg-logo="" group-title="Spain",LA LIGA TV HD (1)
 vavoo://3923153097
 #EXTINF:-1 tvg-id="238901671" tvg-name="LA SEXTA HD (1)" tvg-logo="" group-title="Spain",LA SEXTA HD (1)
@@ -17067,6 +17063,8 @@ vavoo://3762421108
 vavoo://1514643536
 #EXTINF:-1 tvg-id="3968360733" tvg-name="DREAM ANIMASYON (1)" tvg-logo="" group-title="Turkey",DREAM ANIMASYON (1)
 vavoo://3968360733
+#EXTINF:-1 tvg-id="2759159211" tvg-name="DREAM BEIN OFFICE 1 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 1 (1)
+vavoo://2759159211
 #EXTINF:-1 tvg-id="3853043495" tvg-name="DREAM BEIN OFFICE 10 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 10 (1)
 vavoo://3853043495
 #EXTINF:-1 tvg-id="3822393211" tvg-name="DREAM BEIN OFFICE 2 (1)" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 2 (1)
@@ -17163,8 +17161,6 @@ vavoo://1208369995
 vavoo://3333902867
 #EXTINF:-1 tvg-id="1091403912" tvg-name="EXXEN TV SPOR 1 FEED (1)" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 FEED (1)
 vavoo://1091403912
-#EXTINF:-1 tvg-id="3814925371" tvg-name="EXXEN TV SPOR 1 UHD (1)" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 UHD (1)
-vavoo://3814925371
 #EXTINF:-1 tvg-id="3377046146" tvg-name="EXXEN TV SPOR 2 HD (1)" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 HD (1)
 vavoo://3377046146
 #EXTINF:-1 tvg-id="3673037054" tvg-name="EXXEN TV SPOR 2 UHD (1)" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 UHD (1)
@@ -18053,8 +18049,6 @@ vavoo://3018021932
 vavoo://3464376944
 #EXTINF:-1 tvg-id="470818901" tvg-name="BBC ONE (7)" tvg-logo="" group-title="United Kingdom",BBC ONE (7)
 vavoo://470818901
-#EXTINF:-1 tvg-id="845214812" tvg-name="BBC ONE HD (7)" tvg-logo="" group-title="United Kingdom",BBC ONE HD (7)
-vavoo://845214812
 #EXTINF:-1 tvg-id="1627378305" tvg-name="BBC ONE NI HD (7)" tvg-logo="" group-title="United Kingdom",BBC ONE NI HD (7)
 vavoo://1627378305
 #EXTINF:-1 tvg-id="3876363641" tvg-name="BBC PARLIAMENT (7)" tvg-logo="" group-title="United Kingdom",BBC PARLIAMENT (7)
@@ -18173,6 +18167,8 @@ vavoo://3719801642
 vavoo://2466401133
 #EXTINF:-1 tvg-id="343761723" tvg-name="CHAMPS COVENTRY CITY (7)" tvg-logo="" group-title="United Kingdom",CHAMPS COVENTRY CITY (7)
 vavoo://343761723
+#EXTINF:-1 tvg-id="1098865295" tvg-name="CHAMPS DERBY COUNTY (7)" tvg-logo="" group-title="United Kingdom",CHAMPS DERBY COUNTY (7)
+vavoo://1098865295
 #EXTINF:-1 tvg-id="2252293417" tvg-name="CHAMPS HULL CITY (7)" tvg-logo="" group-title="United Kingdom",CHAMPS HULL CITY (7)
 vavoo://2252293417
 #EXTINF:-1 tvg-id="611001567" tvg-name="CHAMPS IPSWICH TOWN F.C. (7)" tvg-logo="" group-title="United Kingdom",CHAMPS IPSWICH TOWN F.C. (7)
@@ -18291,8 +18287,6 @@ vavoo://2449536426
 vavoo://4182066520
 #EXTINF:-1 tvg-id="2850951087" tvg-name="DMAX (7)" tvg-logo="" group-title="United Kingdom",DMAX (7)
 vavoo://2850951087
-#EXTINF:-1 tvg-id="3257591193" tvg-name="DMAX HD (7)" tvg-logo="" group-title="United Kingdom",DMAX HD (7)
-vavoo://3257591193
 #EXTINF:-1 tvg-id="1057873095" tvg-name="DOCUMENTARY 1 (7)" tvg-logo="" group-title="United Kingdom",DOCUMENTARY 1 (7)
 vavoo://1057873095
 #EXTINF:-1 tvg-id="4091562449" tvg-name="DOCUMENTARY 10 (7)" tvg-logo="" group-title="United Kingdom",DOCUMENTARY 10 (7)
@@ -18349,6 +18343,8 @@ vavoo://3899631659
 vavoo://1941564275
 #EXTINF:-1 tvg-id="1322894019" tvg-name="EPL 09 (7)" tvg-logo="" group-title="United Kingdom",EPL 09 (7)
 vavoo://1322894019
+#EXTINF:-1 tvg-id="2291495703" tvg-name="EPL 10 (7)" tvg-logo="" group-title="United Kingdom",EPL 10 (7)
+vavoo://2291495703
 #EXTINF:-1 tvg-id="3052755623" tvg-name="EPL 11 (7)" tvg-logo="" group-title="United Kingdom",EPL 11 (7)
 vavoo://3052755623
 #EXTINF:-1 tvg-id="4065665143" tvg-name="EPL 12 (7)" tvg-logo="" group-title="United Kingdom",EPL 12 (7)
@@ -18383,8 +18379,6 @@ vavoo://4267240195
 vavoo://4115804897
 #EXTINF:-1 tvg-id="4149449071" tvg-name="FOOD NETWORK (7)" tvg-logo="" group-title="United Kingdom",FOOD NETWORK (7)
 vavoo://4149449071
-#EXTINF:-1 tvg-id="160897826" tvg-name="FOOD NETWORK HD (7)" tvg-logo="" group-title="United Kingdom",FOOD NETWORK HD (7)
-vavoo://160897826
 #EXTINF:-1 tvg-id="2107712260" tvg-name="FOX (7)" tvg-logo="" group-title="United Kingdom",FOX (7)
 vavoo://2107712260
 #EXTINF:-1 tvg-id="2755612747" tvg-name="FOX NEWS (7)" tvg-logo="" group-title="United Kingdom",FOX NEWS (7)
@@ -18585,6 +18579,8 @@ vavoo://2904184817
 vavoo://1972216056
 #EXTINF:-1 tvg-id="2606654597" tvg-name="NICKTOONS (7)" tvg-logo="" group-title="United Kingdom",NICKTOONS (7)
 vavoo://2606654597
+#EXTINF:-1 tvg-id="2984760165" tvg-name="NICKTOONS (BACKUP) (7)" tvg-logo="" group-title="United Kingdom",NICKTOONS (BACKUP) (7)
+vavoo://2984760165
 #EXTINF:-1 tvg-id="373042080" tvg-name="NICOLAS CAGE (7)" tvg-logo="" group-title="United Kingdom",NICOLAS CAGE (7)
 vavoo://373042080
 #EXTINF:-1 tvg-id="786635207" tvg-name="NORTHAMPTON TOWN F.C. (7)" tvg-logo="" group-title="United Kingdom",NORTHAMPTON TOWN F.C. (7)
@@ -18817,14 +18813,10 @@ vavoo://2248266767
 vavoo://2945721791
 #EXTINF:-1 tvg-id="1689132265" tvg-name="SKY SPORTS FOOTBALL [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="United Kingdom",SKY SPORTS FOOTBALL [LIVE DURING EVENTS ONLY] (7)
 vavoo://1689132265
-#EXTINF:-1 tvg-id="2897042207" tvg-name="SKY SPORTS GOLF (7)" tvg-logo="/live2/logo/2897042207.png" group-title="United Kingdom",SKY SPORTS GOLF (7)
-vavoo://2897042207
 #EXTINF:-1 tvg-id="3229984982" tvg-name="SKY SPORTS GOLF (MATCH TIME) (7)" tvg-logo="/live2/logo/3229984982.png" group-title="United Kingdom",SKY SPORTS GOLF (MATCH TIME) (7)
 vavoo://3229984982
 #EXTINF:-1 tvg-id="674277627" tvg-name="SKY SPORTS MAIN EVENT (7)" tvg-logo="/live2/logo/674277627.png" group-title="United Kingdom",SKY SPORTS MAIN EVENT (7)
 vavoo://674277627
-#EXTINF:-1 tvg-id="3814248249" tvg-name="SKY SPORTS MAIN EVENT (BACKUP) (7)" tvg-logo="/live2/logo/3814248249.png" group-title="United Kingdom",SKY SPORTS MAIN EVENT (BACKUP) (7)
-vavoo://3814248249
 #EXTINF:-1 tvg-id="699577993" tvg-name="SKY SPORTS MAIN EVENT HD (7)" tvg-logo="/live2/logo/699577993.png" group-title="United Kingdom",SKY SPORTS MAIN EVENT HD (7)
 vavoo://699577993
 #EXTINF:-1 tvg-id="3733612719" tvg-name="SKY SPORTS MIX (7)" tvg-logo="/live2/logo/3733612719.png" group-title="United Kingdom",SKY SPORTS MIX (7)
@@ -18941,6 +18933,8 @@ vavoo://54688465
 vavoo://1061180402
 #EXTINF:-1 tvg-id="2027956514" tvg-name="SUPERSPORT 2 (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT 2 (7)
 vavoo://2027956514
+#EXTINF:-1 tvg-id="1166016658" tvg-name="SUPERSPORT 3 (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT 3 (7)
+vavoo://1166016658
 #EXTINF:-1 tvg-id="2895277713" tvg-name="SUPERSPORT ACTION (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT ACTION (7)
 vavoo://2895277713
 #EXTINF:-1 tvg-id="2008969526" tvg-name="SUPERSPORT GOLF (7)" tvg-logo="" group-title="United Kingdom",SUPERSPORT GOLF (7)
@@ -19105,8 +19099,6 @@ vavoo://4022654243
 vavoo://265784057
 #EXTINF:-1 tvg-id="2466243336" tvg-name="92 NEWS (1)" tvg-logo="" group-title="United Kingdom",92 NEWS (1)
 vavoo://2466243336
-#EXTINF:-1 tvg-id="3636946399" tvg-name="ABSOLUTE (1)" tvg-logo="" group-title="United Kingdom",ABSOLUTE (1)
-vavoo://3636946399
 #EXTINF:-1 tvg-id="3331268047" tvg-name="AHLEBAIT TV (1)" tvg-logo="" group-title="United Kingdom",AHLEBAIT TV (1)
 vavoo://3331268047
 #EXTINF:-1 tvg-id="3806225604" tvg-name="AHLULBAYT TV (1)" tvg-logo="" group-title="United Kingdom",AHLULBAYT TV (1)
@@ -19351,8 +19343,6 @@ vavoo://199057555
 vavoo://2158910006
 #EXTINF:-1 tvg-id="3821652790" tvg-name="HORROR CHANNEL (BACKUP) (1)" tvg-logo="" group-title="United Kingdom",HORROR CHANNEL (BACKUP) (1)
 vavoo://3821652790
-#EXTINF:-1 tvg-id="3432303713" tvg-name="ID CRIME INVESTIGATION (1)" tvg-logo="" group-title="United Kingdom",ID CRIME INVESTIGATION (1)
-vavoo://3432303713
 #EXTINF:-1 tvg-id="1712754518" tvg-name="IDEAL EXTRA (1)" tvg-logo="" group-title="United Kingdom",IDEAL EXTRA (1)
 vavoo://1712754518
 #EXTINF:-1 tvg-id="1008690180" tvg-name="INSPIRATION TV (1)" tvg-logo="" group-title="United Kingdom",INSPIRATION TV (1)
@@ -19585,6 +19575,8 @@ vavoo://1104967001
 vavoo://1694085323
 #EXTINF:-1 tvg-id="3026248510" tvg-name="SKY SPORTS MIX HD (1)" tvg-logo="" group-title="United Kingdom",SKY SPORTS MIX HD (1)
 vavoo://3026248510
+#EXTINF:-1 tvg-id="3459381373" tvg-name="SKY SPORTS NEWS (1)" tvg-logo="/live2/logo/3459381373.png" group-title="United Kingdom",SKY SPORTS NEWS (1)
+vavoo://3459381373
 #EXTINF:-1 tvg-id="3635211961" tvg-name="SKY SPORTS NEWS HD (1)" tvg-logo="" group-title="United Kingdom",SKY SPORTS NEWS HD (1)
 vavoo://3635211961
 #EXTINF:-1 tvg-id="824650177" tvg-name="SKY SPORTS NFL (1)" tvg-logo="/live2/logo/824650177.png" group-title="United Kingdom",SKY SPORTS NFL (1)

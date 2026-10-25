@@ -239,19 +239,20 @@ def safe_attribute(value: object) -> str:
 
 
 def channel_group(item: dict) -> str:
+    # Preserve the original VAVOO group label (France, Arabia, Balkans, etc.).
+    # If it has a subcategory separator, keep only the country/group prefix.
     group = str(item.get("group") or "").strip()
+    group_label = extract_country(group)
+    if group_label and group_label.lower() not in {"default", "vavoo live"}:
+        return group_label
+
     country = str(
         item.get("country")
         or item.get("countryName")
         or item.get("country_name")
         or ""
     ).strip()
-    if not country:
-        country = extract_country(group)
-    # Keep existing VAVOO group labels such as France, Arabia, Balkans, etc.
-    if not country or country.lower() == "default":
-        country = extract_country(group)
-    return country if country and country.lower() != "default" else (group or "Inconnu")
+    return country if country else (group or "Inconnu")
 
 
 def build_playlist(items: list[dict]) -> list[str]:
@@ -289,7 +290,12 @@ def build_playlist(items: list[dict]) -> list[str]:
         )
         lines.append(f"vavoo://{channel_id}")
 
+    from collections import Counter
+    groups = Counter(group for group, _name, _id, _logo in entries)
     print(f"Chaînes écrites: {len(entries)}; ignorées sans ID lisible: {skipped_no_id}.")
+    print("Groupes VAVOO détectés: " + ", ".join(
+        f"{name} ({count})" for name, count in groups.most_common(20)
+    ))
     return lines
 
 

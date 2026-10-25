@@ -10,6 +10,8 @@ from __future__ import annotations
 
 import json
 import platform
+import re
+import unicodedata
 import sys
 import uuid
 from pathlib import Path
@@ -258,12 +260,64 @@ def channel_group(item: dict) -> str:
     return country if country and country.lower() not in {"default", "vavoo live"} else "Autres"
 
 
+def strip_internal_variant(name: str) -> str:
+    """Remove VAVOO's technical .c/.s/.b suffix from the displayed station name."""
+    return re.sub(r"\\s+\\.[csb]$", "", (name or "").strip(), flags=re.IGNORECASE).strip()
+
+
+def canonical_channel_name(name: str) -> str:
+    """Normalize obvious stream variants but never remove the country/group key."""
+    value = strip_internal_variant(name)
+    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    value = value.casefold()
+    value = re.sub(r"\\b(full\\s*hd|uhd|fhd|2160p|1440p|1080p|720p|576p|480p|4320p|2160|1080|720|4k|8k|hevc|h\\.?265|h\\.?264|hd|sd)\\b", " ", value)
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    return " ".join(value.split())
+
+
+def quality_score(name: str) -> int:
+    """Use explicit quality tokens only; the upstream catalog provides no bitrate field."""
+    value = (name or "").casefold().replace("_", " ")
+    if re.search(r"\\b(8k|4320p|uhd|2160p|2160)\\b", value):
+        return 90
+    if re.search(r"\\b(4k)\\b", value):
+        return 88
+    if re.search(r"\\b(full\\s*hd|fhd|1080p|1080)\\b", value):
+        return 78
+    if re.search(r"\\b(hd|720p|720)\\b", value):
+        return 62
+    if re.search(r"\\b(576p|480p|sd)\\b", value):
+        return 35
+    return 50
+
+
+def candidate_rank(entry: tuple[str, str, str, str]) -> tuple:
+    group, name, channel_id, logo = entry
+    # Explicit resolution wins first, a usable logo is the next tie-breaker.
+    # If the catalog does not expose quality metadata, choose a stable deterministic
+    # candidate rather than claiming an unverified bitrate/stream-health result.
+    suffix = bool(re.search(r"\\s+\\.[csb]$", name, flags=re.IGNORECASE))
+    return (
+        quality_score(name),
+        1 if logo.strip() else 0,
+        0 if suffix else 1,
+        -len(name),
+        name.casefold(),
+        channel_id,
+    )
+
+
 def build_playlist(items: list[dict]) -> list[str]:
-    entries: list[tuple[str, str, str, str]] = []
+    # Keep a best candidate for each (exact group, normalized station name).
+    # Variants go into a separate "Doublons" category instead of being mixed with
+    # the preferred version in France, France Sport, Arabia, etc.
+    winners: dict[tuple[str, str], tuple[str, str, str, str]] = {}
+    alternatives: list[tuple[str, str, str, str]] = []
     skipped_no_id = 0
+    duplicate_count = 0
 
     for item in items:
-        name = str(item.get("name") or "Chaîne VAVOO").strip()
+        raw_name = str(item.get("name") or "Chaîne VAVOO").strip()
         source_url = str(item.get("url") or "").strip()
         channel_id = extract_stream_id(source_url)
         if not channel_id:
@@ -272,9 +326,48 @@ def build_playlist(items: list[dict]) -> list[str]:
 
         group = channel_group(item)
         logo = str(item.get("logo") or "").strip()
-        entries.append((group, name, channel_id, logo))
+        entry = (group, raw_name, channel_id, logo)
+        key = (group.casefold(), canonical_channel_name(raw_name))
+        if not key[1]:
+            key = (group.casefold(), raw_name.casefold())
 
-    entries.sort(key=lambda row: (row[0].casefold(), row[1].casefold()))
+        previous = winners.get(key)
+        if previous is None:
+            winners[key] = entry
+            continue
+        if previous[2] == channel_id:
+            # Same upstream stream repeated in the catalog; do not create an
+            # alternative row that would open the exact same ID.
+            continue
+
+        duplicate_count += 1
+        if candidate_rank(entry) > candidate_rank(previous):
+            alternatives.append(previous)
+            winners[key] = entry
+        else:
+            alternatives.append(entry)
+
+    primary: list[tuple[str, str, str, str]] = []
+    for group, name, channel_id, logo in winners.values():
+        # Strip only the provider's internal suffix, retaining real HD/4K labels.
+        primary.append((group, strip_internal_variant(name), channel_id, logo))
+
+    drawer: list[tuple[str, str, str, str]] = []
+    seen_alternative_ids: set[str] = set()
+    for original_group, name, channel_id, logo in alternatives:
+        if channel_id in seen_alternative_ids:
+            continue
+        seen_alternative_ids.add(channel_id)
+        drawer.append(("Doublons", f"{name} — {original_group}", channel_id, logo))
+
+    entries = primary + drawer
+    # Put the alternative drawer last in category order; keep all other groups intact.
+    entries.sort(key=lambda row: (
+        1 if row[0].casefold() == "doublons" else 0,
+        row[0].casefold(),
+        row[1].casefold(),
+        row[2],
+    ))
     if not entries:
         raise RuntimeError(
             "Aucune chaîne n'a fourni un ID reconnaissable dans son URL catalogue. "
@@ -295,11 +388,15 @@ def build_playlist(items: list[dict]) -> list[str]:
 
     from collections import Counter
     groups = Counter(group for group, _name, _id, _logo in entries)
-    print(f"Chaînes écrites: {len(entries)}; ignorées sans ID lisible: {skipped_no_id}.")
-    print("Groupes VAVOO détectés: " + ", ".join(
-        f"{name} ({count})" for name, count in groups.most_common(20)
+    print(
+        f"Chaînes principales: {len(primary)}; alternatives dans Doublons: {len(drawer)}; "
+        f"doublons détectés: {duplicate_count}; IDs invalides ignorés: {skipped_no_id}."
+    )
+    print("Groupes M3U: " + ", ".join(
+        f"{name} ({count})" for name, count in groups.most_common(30)
     ))
     return lines
+
 
 
 def main() -> None:

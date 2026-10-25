@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate playlist/vavoo.m3u using the same MediaHubMX catalog/signature flow
-as tv.nisskenzi.moroccotv.VavooProvider.
+Generate four domain-named VAVOO M3U lists using MediaHubMX.
 
 Each playlist URL is vavoo://<upstream-id>. The matching Android resolver
 rebuilds https://vavoo.to/vavoo-iptv/play/<upstream-id> before calling
@@ -36,15 +35,12 @@ USER_AGENT = "VAVOO/2.6"
 MEDIAHUB_USER_AGENT = "MediaHubMX/2"
 MAX_PAGES = 300
 REQUEST_TIMEOUT = (15, 30)
-# Five entries are exposed in Shamel's native Playlist screen.
-# The four mirror files share this catalog format; VavooProvider itself chooses
-# a working MediaHubMX base URL at resolution time.
+# Exactly four entries are exposed in Shamel's Playlist screen.
 OUTPUTS = {
-    "KENZINISS VAVOO": Path("playlist/vavoo.m3u"),
-    "VAVOO · vavoo.to": Path("playlist/vavoo-vavoo-to.m3u"),
-    "VAVOO · kool.to": Path("playlist/vavoo-kool-to.m3u"),
-    "VAVOO · vavoo.top": Path("playlist/vavoo-vavoo-top.m3u"),
-    "VAVOO · vavoo.net": Path("playlist/vavoo-vavoo-net.m3u"),
+    "vavoo.to": Path("playlist/vavoo-to.m3u"),
+    "kool.to": Path("playlist/kool-to.m3u"),
+    "vavoo.top": Path("playlist/vavoo-top.m3u"),
+    "vavoo.net": Path("playlist/vavoo-net.m3u"),
 }
 
 session = requests.Session()
@@ -248,12 +244,10 @@ def safe_attribute(value: object) -> str:
 
 
 def channel_group(item: dict) -> str:
-    # Preserve the original VAVOO group label (France, Arabia, Balkans, etc.).
-    # If it has a subcategory separator, keep only the country/group prefix.
+    # Preserve each exact MediaHubMX group string. Never merge France Sport into France.
     group = str(item.get("group") or "").strip()
-    group_label = extract_country(group)
-    if group_label and group_label.lower() not in {"default", "vavoo live"}:
-        return group_label
+    if group and group.lower() not in {"default", "vavoo live"}:
+        return group
 
     country = str(
         item.get("country")
@@ -261,7 +255,7 @@ def channel_group(item: dict) -> str:
         or item.get("country_name")
         or ""
     ).strip()
-    return country if country else (group or "Inconnu")
+    return country if country and country.lower() not in {"default", "vavoo live"} else "Autres"
 
 
 def build_playlist(items: list[dict]) -> list[str]:

@@ -49,6 +49,8 @@ vavoo://15371369400fd52f22b409
 vavoo://4043346710c3027e68137a
 #EXTINF:-1 tvg-id="967928593624dbdac5878" tvg-name="ANIMAL PLANET .c" tvg-logo="https://logo.huhu.to/logo?c=967928593.png" group-title="Albania",ANIMAL PLANET .c
 vavoo://967928593624dbdac5878
+#EXTINF:-1 tvg-id="32250266855890fe21db3b" tvg-name="ANIMAL PLANET HD .b" tvg-logo="" group-title="Albania",ANIMAL PLANET HD .b
+vavoo://32250266855890fe21db3b
 #EXTINF:-1 tvg-id="252035959e47b484b5c9e" tvg-name="ANTENA TV SHKODER .c" tvg-logo="" group-title="Albania",ANTENA TV SHKODER .c
 vavoo://252035959e47b484b5c9e
 #EXTINF:-1 tvg-id="963000117881e2f997fc6" tvg-name="APOLLON TV .c" tvg-logo="https://logo.huhu.to/logo?c=963000117.png" group-title="Albania",APOLLON TV .c
@@ -97,8 +99,6 @@ vavoo://2936728299a11bd06b7520
 vavoo://5005086093bc311eab62a
 #EXTINF:-1 tvg-id="1021517242a3b48940b21" tvg-name="ART SPORT 3 HD .b" tvg-logo="" group-title="Albania",ART SPORT 3 HD .b
 vavoo://1021517242a3b48940b21
-#EXTINF:-1 tvg-id="489305851a0b47f379f6f" tvg-name="ART SPORT 4 .c" tvg-logo="https://logo.huhu.to/logo?c=489305851.png" group-title="Albania",ART SPORT 4 .c
-vavoo://489305851a0b47f379f6f
 #EXTINF:-1 tvg-id="541728587dc0abc5d5ed5" tvg-name="ART SPORT 5 .c" tvg-logo="https://logo.huhu.to/logo?c=541728587.png" group-title="Albania",ART SPORT 5 .c
 vavoo://541728587dc0abc5d5ed5
 #EXTINF:-1 tvg-id="188403960264ebaa45ffe" tvg-name="ARTA .s" tvg-logo="" group-title="Albania",ARTA .s
@@ -201,6 +201,8 @@ vavoo://4062397535e7f961b97223
 vavoo://347179890667927281ef4e
 #EXTINF:-1 tvg-id="345663662878474653e76b" tvg-name="D FILMA24 FAMILY .c" tvg-logo="" group-title="Albania",D FILMA24 FAMILY .c
 vavoo://345663662878474653e76b
+#EXTINF:-1 tvg-id="41114479210682042926bb" tvg-name="D FILMA24 FANTASHKENCE .c" tvg-logo="" group-title="Albania",D FILMA24 FANTASHKENCE .c
+vavoo://41114479210682042926bb
 #EXTINF:-1 tvg-id="3271632909799f6b695f3c" tvg-name="D FILMA24 GJERMAN .c" tvg-logo="" group-title="Albania",D FILMA24 GJERMAN .c
 vavoo://3271632909799f6b695f3c
 #EXTINF:-1 tvg-id="68821554581a3c5b42a56" tvg-name="D FILMA24 HORROR .c" tvg-logo="" group-title="Albania",D FILMA24 HORROR .c
@@ -243,6 +245,8 @@ vavoo://1519381746a74ec2249388
 vavoo://2933891353d6d695bc9c16
 #EXTINF:-1 tvg-id="40312777688f4ed97ccbb5" tvg-name="DARK HINDI .c" tvg-logo="" group-title="Albania",DARK HINDI .c
 vavoo://40312777688f4ed97ccbb5
+#EXTINF:-1 tvg-id="1563242813452eb7937cb2" tvg-name="DARK HITET SHQIP .c" tvg-logo="" group-title="Albania",DARK HITET SHQIP .c
+vavoo://1563242813452eb7937cb2
 #EXTINF:-1 tvg-id="3603187173e56ef907df0c" tvg-name="DARK INSTRUMENTALE INT .c" tvg-logo="" group-title="Albania",DARK INSTRUMENTALE INT .c
 vavoo://3603187173e56ef907df0c
 #EXTINF:-1 tvg-id="303709741898b336da0631" tvg-name="DARK KAFENEJA JONE .c" tvg-logo="" group-title="Albania",DARK KAFENEJA JONE .c
@@ -285,6 +289,8 @@ vavoo://38035380927964759dcbee
 vavoo://2879292858ee8b9983e3e9
 #EXTINF:-1 tvg-id="394495822732a445338d05" tvg-name="DARK STUPCAT SKEÇE .c" tvg-logo="" group-title="Albania",DARK STUPCAT SKEÇE .c
 vavoo://394495822732a445338d05
+#EXTINF:-1 tvg-id="1612565654e657540cac56" tvg-name="DARK TALLAVA .c" tvg-logo="" group-title="Albania",DARK TALLAVA .c
+vavoo://1612565654e657540cac56
 #EXTINF:-1 tvg-id="2519753927cc3ec279e6d3" tvg-name="DARK UJQIT .c" tvg-logo="" group-title="Albania",DARK UJQIT .c
 vavoo://2519753927cc3ec279e6d3
 #EXTINF:-1 tvg-id="3859453486510a4a9d474e" tvg-name="DASMA .c" tvg-logo="" group-title="Albania",DASMA .c
@@ -603,6 +609,8 @@ vavoo://243890868226f4f27ef15a
 vavoo://360701589813e5d944859d
 #EXTINF:-1 tvg-id="3953039466dc5224aea998" tvg-name="HS SHQIP CINEMA 7 .c" tvg-logo="" group-title="Albania",HS SHQIP CINEMA 7 .c
 vavoo://3953039466dc5224aea998
+#EXTINF:-1 tvg-id="1775112123518b2b56abf4" tvg-name="HS SHQIP CINEMA 8 .c" tvg-logo="" group-title="Albania",HS SHQIP CINEMA 8 .c
+vavoo://1775112123518b2b56abf4
 #EXTINF:-1 tvg-id="1420699147cc1f9460650a" tvg-name="HS SHQIP CINEMA 9 .c" tvg-logo="" group-title="Albania",HS SHQIP CINEMA 9 .c
 vavoo://1420699147cc1f9460650a
 #EXTINF:-1 tvg-id="14862539644ef045604c10" tvg-name="HS TALLAVA .c" tvg-logo="" group-title="Albania",HS TALLAVA .c
@@ -777,8 +785,6 @@ vavoo://2038668692039ce313e127
 vavoo://34881420726494fd865b45
 #EXTINF:-1 tvg-id="87812266ed236f48df7b" tvg-name="KUJTESA SPORT 1 .c" tvg-logo="https://logo.huhu.to/logo?c=87812266.png" group-title="Albania",KUJTESA SPORT 1 .c
 vavoo://87812266ed236f48df7b
-#EXTINF:-1 tvg-id="44068915006c7ddd336ff" tvg-name="KUJTESA SPORT 2 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Albania",KUJTESA SPORT 2 [LIVE DURING EVENTS ONLY] .s
-vavoo://44068915006c7ddd336ff
 #EXTINF:-1 tvg-id="21472040427c9724e7d024" tvg-name="KUJTESA SPORT 3 .c" tvg-logo="https://logo.huhu.to/logo?c=2147204042.png" group-title="Albania",KUJTESA SPORT 3 .c
 vavoo://21472040427c9724e7d024
 #EXTINF:-1 tvg-id="34626180753ab5edf33e2" tvg-name="KUJTESA SPORT 3 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Albania",KUJTESA SPORT 3 [LIVE DURING EVENTS ONLY] .s
@@ -1189,18 +1195,20 @@ vavoo://39103662908725aa615594
 vavoo://16104039579f7dc4b73ed7
 #EXTINF:-1 tvg-id="36852436ec8e12b5ddb2" tvg-name="SUPER SPORT 1 .b" tvg-logo="" group-title="Albania",SUPER SPORT 1 .b
 vavoo://36852436ec8e12b5ddb2
+#EXTINF:-1 tvg-id="785975158121e63098ac9" tvg-name="SUPER SPORT 1 .s" tvg-logo="" group-title="Albania",SUPER SPORT 1 .s
+vavoo://785975158121e63098ac9
 #EXTINF:-1 tvg-id="597554606f9324a9fc76e" tvg-name="SUPER SPORT 2 (BACKUP) .b" tvg-logo="" group-title="Albania",SUPER SPORT 2 (BACKUP) .b
 vavoo://597554606f9324a9fc76e
 #EXTINF:-1 tvg-id="11672064042926c8efc93c" tvg-name="SUPER SPORT 2 .b" tvg-logo="" group-title="Albania",SUPER SPORT 2 .b
 vavoo://11672064042926c8efc93c
-#EXTINF:-1 tvg-id="17695697023734903ed653" tvg-name="SUPER SPORT 2 .s" tvg-logo="" group-title="Albania",SUPER SPORT 2 .s
-vavoo://17695697023734903ed653
 #EXTINF:-1 tvg-id="1298893472050ff515f829" tvg-name="SUPER SPORT 2 HD .b" tvg-logo="" group-title="Albania",SUPER SPORT 2 HD .b
 vavoo://1298893472050ff515f829
 #EXTINF:-1 tvg-id="31972446325c701a89ba1e" tvg-name="SUPER SPORT 3 (BACKUP) .b" tvg-logo="" group-title="Albania",SUPER SPORT 3 (BACKUP) .b
 vavoo://31972446325c701a89ba1e
 #EXTINF:-1 tvg-id="202912606848e0bdae6757" tvg-name="SUPER SPORT 3 .b" tvg-logo="" group-title="Albania",SUPER SPORT 3 .b
 vavoo://202912606848e0bdae6757
+#EXTINF:-1 tvg-id="1410946070685497277789" tvg-name="SUPER SPORT 3 .s" tvg-logo="" group-title="Albania",SUPER SPORT 3 .s
+vavoo://1410946070685497277789
 #EXTINF:-1 tvg-id="217694470225a0087a2d3b" tvg-name="SUPER SPORT 3 HD .b" tvg-logo="" group-title="Albania",SUPER SPORT 3 HD .b
 vavoo://217694470225a0087a2d3b
 #EXTINF:-1 tvg-id="3402816932a29e1411a666" tvg-name="SUPER SPORT 4 .b" tvg-logo="" group-title="Albania",SUPER SPORT 4 .b
@@ -1527,8 +1535,6 @@ vavoo://3644697654d83585180baa
 vavoo://4074320383ea2204eaea83
 #EXTINF:-1 tvg-id="1641803616e24d2391cba9" tvg-name="X FILMA 24 .s" tvg-logo="" group-title="Albania",X FILMA 24 .s
 vavoo://1641803616e24d2391cba9
-#EXTINF:-1 tvg-id="672540565bfa64aac2082" tvg-name="X PREMIUM 1 HD .b" tvg-logo="" group-title="Albania",X PREMIUM 1 HD .b
-vavoo://672540565bfa64aac2082
 #EXTINF:-1 tvg-id="2795053174a259207cc238" tvg-name="X PREMIUM 2 HD .b" tvg-logo="" group-title="Albania",X PREMIUM 2 HD .b
 vavoo://2795053174a259207cc238
 #EXTINF:-1 tvg-id="1781735656ca391f3713fd" tvg-name="X PREMIUM 3 HD .b" tvg-logo="" group-title="Albania",X PREMIUM 3 HD .b
@@ -1575,8 +1581,6 @@ vavoo://32107591587df7e27ff8c8
 vavoo://31133426360e6557fa73cc
 #EXTINF:-1 tvg-id="37222020695e135fdd7a47" tvg-name="[GLF] OMAN 4 SPORT .b" tvg-logo="" group-title="Arabia",[GLF] OMAN 4 SPORT .b
 vavoo://37222020695e135fdd7a47
-#EXTINF:-1 tvg-id="4122540197307a5b855ccd" tvg-name="[KSA] KSA SSC 1 .b" tvg-logo="" group-title="Arabia",[KSA] KSA SSC 1 .b
-vavoo://4122540197307a5b855ccd
 #EXTINF:-1 tvg-id="298795070961b44e39dcb9" tvg-name="[KSA] KSA SSC 2 .b" tvg-logo="" group-title="Arabia",[KSA] KSA SSC 2 .b
 vavoo://298795070961b44e39dcb9
 #EXTINF:-1 tvg-id="2407050181284894a539c9" tvg-name="[KSA] KSA SSC 3 .b" tvg-logo="" group-title="Arabia",[KSA] KSA SSC 3 .b
@@ -1793,8 +1797,6 @@ vavoo://4981141716db5d4e81309
 vavoo://8233936171f8e3e44bd67
 #EXTINF:-1 tvg-id="3523698763e66e7a12ada4" tvg-name="AL NAHAR .b" tvg-logo="https://logo.huhu.to/logo?c=3523698763.png" group-title="Arabia",AL NAHAR .b
 vavoo://3523698763e66e7a12ada4
-#EXTINF:-1 tvg-id="260775208874fc7b37fe41" tvg-name="AL NAHAR DRAMA (BACKUP) .b" tvg-logo="https://logo.huhu.to/logo?c=2607752088.png" group-title="Arabia",AL NAHAR DRAMA (BACKUP) .b
-vavoo://260775208874fc7b37fe41
 #EXTINF:-1 tvg-id="1776910885d42b68062b68" tvg-name="AL NAS .b" tvg-logo="" group-title="Arabia",AL NAS .b
 vavoo://1776910885d42b68062b68
 #EXTINF:-1 tvg-id="14359412789ec7802ce30f" tvg-name="AL ONS TV MAROC .b" tvg-logo="" group-title="Arabia",AL ONS TV MAROC .b
@@ -2013,8 +2015,6 @@ vavoo://3734777916306965bfebc1
 vavoo://3108431077d34764c434d1
 #EXTINF:-1 tvg-id="2298741299e1c77bd0336a" tvg-name="ARGENTINÍSIMA SATELITAL .c" tvg-logo="https://logo.huhu.to/logo?c=2298741299.png" group-title="Arabia",ARGENTINÍSIMA SATELITAL .c
 vavoo://2298741299e1c77bd0336a
-#EXTINF:-1 tvg-id="205190391b3593e9e4ebf" tvg-name="ARRABIAA .b" tvg-logo="https://logo.huhu.to/logo?c=205190391.png" group-title="Arabia",ARRABIAA .b
-vavoo://205190391b3593e9e4ebf
 #EXTINF:-1 tvg-id="32205467675846106353b5" tvg-name="ARRIADIA MOURITANIA .b" tvg-logo="" group-title="Arabia",ARRIADIA MOURITANIA .b
 vavoo://32205467675846106353b5
 #EXTINF:-1 tvg-id="405401808eafbd4eca18e" tvg-name="ARRYADIA .b" tvg-logo="" group-title="Arabia",ARRYADIA .b
@@ -2251,14 +2251,14 @@ vavoo://38736912909aee2653bf8d
 vavoo://2155997443db0cd170b3af
 #EXTINF:-1 tvg-id="6796047213f34bf43a384" tvg-name="BEIN SPORTS 1 HQ .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 HQ .b
 vavoo://6796047213f34bf43a384
-#EXTINF:-1 tvg-id="14036661078cfa18a20b4e" tvg-name="BEIN SPORTS 1 PREMIEM .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIEM .b
-vavoo://14036661078cfa18a20b4e
 #EXTINF:-1 tvg-id="391401178348a7559b8232" tvg-name="BEIN SPORTS 1 PREMIUM (BACKUP 2) .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM (BACKUP 2) .b
 vavoo://391401178348a7559b8232
 #EXTINF:-1 tvg-id="83187634a6eb2ae478cc" tvg-name="BEIN SPORTS 1 PREMIUM (BACKUP) .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM (BACKUP) .b
 vavoo://83187634a6eb2ae478cc
 #EXTINF:-1 tvg-id="13503191367afd5c3725c4" tvg-name="BEIN SPORTS 1 PREMIUM .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM .b
 vavoo://13503191367afd5c3725c4
+#EXTINF:-1 tvg-id="348765617908a2a75872e0" tvg-name="BEIN SPORTS 1 PREMIUM 1080 LOCAL .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM 1080 LOCAL .b
+vavoo://348765617908a2a75872e0
 #EXTINF:-1 tvg-id="90816476357bc66fcc366" tvg-name="BEIN SPORTS 1 PREMIUM 1MB .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM 1MB .b
 vavoo://90816476357bc66fcc366
 #EXTINF:-1 tvg-id="1697037782ecb54b61c541" tvg-name="BEIN SPORTS 1 PREMIUM HEVC .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 1 PREMIUM HEVC .b
@@ -2373,8 +2373,6 @@ vavoo://427759040887e505f44dc9
 vavoo://1617035157d46c866787fb
 #EXTINF:-1 tvg-id="27084772474fea8c401983" tvg-name="BEIN SPORTS 4 SD .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 4 SD .b
 vavoo://27084772474fea8c401983
-#EXTINF:-1 tvg-id="15371264397d63be77ddf7" tvg-name="BEIN SPORTS 5 (BACKUP) .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 5 (BACKUP) .b
-vavoo://15371264397d63be77ddf7
 #EXTINF:-1 tvg-id="2831349556ef2c39a0d8e7" tvg-name="BEIN SPORTS 5 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 5 .b
 vavoo://2831349556ef2c39a0d8e7
 #EXTINF:-1 tvg-id="1271051356bd403600a7ac" tvg-name="BEIN SPORTS 5 FHD .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 5 FHD .b
@@ -2399,6 +2397,10 @@ vavoo://671061500d0abaef6757b
 vavoo://671061500d0abaef6757b
 #EXTINF:-1 tvg-id="4016213476cf1ce9bbf23f" tvg-name="BEIN SPORTS 6 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 .b
 vavoo://4016213476cf1ce9bbf23f
+#EXTINF:-1 tvg-id="4016213476cf1ce9bbf23f" tvg-name="BEIN SPORTS 6 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 .b
+vavoo://4016213476cf1ce9bbf23f
+#EXTINF:-1 tvg-id="19178149379643ba8f3a27" tvg-name="BEIN SPORTS 6 FHD .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 FHD .b
+vavoo://19178149379643ba8f3a27
 #EXTINF:-1 tvg-id="19178149379643ba8f3a27" tvg-name="BEIN SPORTS 6 FHD .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 FHD .b
 vavoo://19178149379643ba8f3a27
 #EXTINF:-1 tvg-id="16876423100a4d4c219759" tvg-name="BEIN SPORTS 6 HD (BACKUP 2) .b" tvg-logo="" group-title="Arabia",BEIN SPORTS 6 HD (BACKUP 2) .b
@@ -2511,8 +2513,6 @@ vavoo://1558693346ac462acbc451
 vavoo://496638848dc9701ca2a8c
 #EXTINF:-1 tvg-id="1513775440602e6bba17a4" tvg-name="BEIN SPORTS ENGLISH HD2 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS ENGLISH HD2 .b
 vavoo://1513775440602e6bba17a4
-#EXTINF:-1 tvg-id="17339701444a1c5d2e8a32" tvg-name="BEIN SPORTS ENGLISH HD3 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS ENGLISH HD3 .b
-vavoo://17339701444a1c5d2e8a32
 #EXTINF:-1 tvg-id="31531895369530148e9b42" tvg-name="BEIN SPORTS EXTRA 2 FHD .b" tvg-logo="" group-title="Arabia",BEIN SPORTS EXTRA 2 FHD .b
 vavoo://31531895369530148e9b42
 #EXTINF:-1 tvg-id="32867624675f208f2d1593" tvg-name="BEIN SPORTS FHD 1 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 1 .b
@@ -2521,8 +2521,6 @@ vavoo://32867624675f208f2d1593
 vavoo://2219342131467eeea39c16
 #EXTINF:-1 tvg-id="310642701152c096693a7b" tvg-name="BEIN SPORTS FHD 3 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 3 .b
 vavoo://310642701152c096693a7b
-#EXTINF:-1 tvg-id="185109651f5f00d9b39d1" tvg-name="BEIN SPORTS FHD 4 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 4 .b
-vavoo://185109651f5f00d9b39d1
 #EXTINF:-1 tvg-id="912827683cce3a4aeba70" tvg-name="BEIN SPORTS FHD 5 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 5 .b
 vavoo://912827683cce3a4aeba70
 #EXTINF:-1 tvg-id="19089899395e9d9f3ee0f5" tvg-name="BEIN SPORTS FHD 6 .b" tvg-logo="" group-title="Arabia",BEIN SPORTS FHD 6 .b
@@ -2663,8 +2661,6 @@ vavoo://3461255939d61d353b387c
 vavoo://3431490813546057309238
 #EXTINF:-1 tvg-id="37480470129412cfde3db0" tvg-name="CANAL 13 LA RIOJA .c" tvg-logo="https://logo.huhu.to/logo?c=3748047012.png" group-title="Arabia",CANAL 13 LA RIOJA .c
 vavoo://37480470129412cfde3db0
-#EXTINF:-1 tvg-id="173872721a39cd6ea0d62" tvg-name="CANAL 2 DE USHUAIA .b" tvg-logo="https://logo.huhu.to/logo?c=173872721.png" group-title="Arabia",CANAL 2 DE USHUAIA .b
-vavoo://173872721a39cd6ea0d62
 #EXTINF:-1 tvg-id="139195636703337fca1fb8" tvg-name="CANAL 2 DE USHUAIA .c" tvg-logo="" group-title="Arabia",CANAL 2 DE USHUAIA .c
 vavoo://139195636703337fca1fb8
 #EXTINF:-1 tvg-id="24341643c4ddd69a52d0" tvg-name="CANAL 2 MISIONES .b" tvg-logo="" group-title="Arabia",CANAL 2 MISIONES .b
@@ -3601,10 +3597,6 @@ vavoo://23550880083328989c5b4c
 vavoo://2329109035fc356e83730
 #EXTINF:-1 tvg-id="29411364185b98dc8e1074" tvg-name="NILE NEWS .b" tvg-logo="" group-title="Arabia",NILE NEWS .b
 vavoo://29411364185b98dc8e1074
-#EXTINF:-1 tvg-id="395605120805f5cb8bfef9" tvg-name="NILE SPORT .b" tvg-logo="" group-title="Arabia",NILE SPORT .b
-vavoo://395605120805f5cb8bfef9
-#EXTINF:-1 tvg-id="13664370246963fb8acfe2" tvg-name="NOGOUM FM TV .b" tvg-logo="" group-title="Arabia",NOGOUM FM TV .b
-vavoo://13664370246963fb8acfe2
 #EXTINF:-1 tvg-id="35452634553d1c89780079" tvg-name="NOGOUMFMTV (672P) [NOT 24/7] .b" tvg-logo="" group-title="Arabia",NOGOUMFMTV (672P) [NOT 24/7] .b
 vavoo://35452634553d1c89780079
 #EXTINF:-1 tvg-id="1444059361b3ca834101af" tvg-name="NOOR AL SHAM .b" tvg-logo="" group-title="Arabia",NOOR AL SHAM .b
@@ -4335,6 +4327,8 @@ vavoo://1595188996878efb3cd1f8
 vavoo://156139112874e38be70787
 #EXTINF:-1 tvg-id="3265703113697fd73b46b4" tvg-name="BHT 1 .c" tvg-logo="https://logo.huhu.to/logo?c=3265703113.png" group-title="Balkans",BHT 1 .c
 vavoo://3265703113697fd73b46b4
+#EXTINF:-1 tvg-id="29429711468362269d686e" tvg-name="BHT 1 .s" tvg-logo="" group-title="Balkans",BHT 1 .s
+vavoo://29429711468362269d686e
 #EXTINF:-1 tvg-id="15458637276d90d80c390b" tvg-name="BN .c" tvg-logo="https://logo.huhu.to/logo?c=1545863727.png" group-title="Balkans",BN .c
 vavoo://15458637276d90d80c390b
 #EXTINF:-1 tvg-id="4907699299f6a947f3061" tvg-name="BN MUSIC .c" tvg-logo="https://logo.huhu.to/logo?c=490769929.png" group-title="Balkans",BN MUSIC .c
@@ -4607,6 +4601,8 @@ vavoo://426023763a8b1d841a486
 vavoo://459328591dd7ca73b5b6c
 #EXTINF:-1 tvg-id="3988502808bff61640d55f" tvg-name="HBO .c" tvg-logo="https://logo.huhu.to/logo?c=3988502808.png" group-title="Balkans",HBO .c
 vavoo://3988502808bff61640d55f
+#EXTINF:-1 tvg-id="2424553859ae5f624e7ea5" tvg-name="HBO .s" tvg-logo="" group-title="Balkans",HBO .s
+vavoo://2424553859ae5f624e7ea5
 #EXTINF:-1 tvg-id="38284514511eb3b5d1d4a8" tvg-name="HBO 2 .c" tvg-logo="https://logo.huhu.to/logo?c=3828451451.png" group-title="Balkans",HBO 2 .c
 vavoo://38284514511eb3b5d1d4a8
 #EXTINF:-1 tvg-id="23150616886df6dcf74b43" tvg-name="HBO 2 .s" tvg-logo="" group-title="Balkans",HBO 2 .s
@@ -4725,6 +4721,8 @@ vavoo://126558667636057bdc4ebd
 vavoo://23083357945587ee994dfe
 #EXTINF:-1 tvg-id="6956079603096a2e7a474" tvg-name="MTV IGMAN .c" tvg-logo="https://logo.huhu.to/logo?c=695607960.png" group-title="Balkans",MTV IGMAN .c
 vavoo://6956079603096a2e7a474
+#EXTINF:-1 tvg-id="243810847895c8fb7aca2" tvg-name="MY TV .c" tvg-logo="" group-title="Balkans",MY TV .c
+vavoo://243810847895c8fb7aca2
 #EXTINF:-1 tvg-id="134877729080b41c2e8b10" tvg-name="N1 .c" tvg-logo="https://logo.huhu.to/logo?c=1348777290.png" group-title="Balkans",N1 .c
 vavoo://134877729080b41c2e8b10
 #EXTINF:-1 tvg-id="282601847492b9bef6c11c" tvg-name="N1 SRB .s" tvg-logo="" group-title="Balkans",N1 SRB .s
@@ -4799,6 +4797,10 @@ vavoo://109704644981092d98042
 vavoo://3378858921ef0df7a2a672
 #EXTINF:-1 tvg-id="1266026394aad2b141e7fb" tvg-name="PINK ACTION .b" tvg-logo="" group-title="Balkans",PINK ACTION .b
 vavoo://1266026394aad2b141e7fb
+#EXTINF:-1 tvg-id="2333021344470c58491150" tvg-name="PINK BH .c" tvg-logo="https://logo.huhu.to/logo?c=2333021344.png" group-title="Balkans",PINK BH .c
+vavoo://2333021344470c58491150
+#EXTINF:-1 tvg-id="18584216914c57c99ce1e0" tvg-name="PINK BRAVO .b" tvg-logo="" group-title="Balkans",PINK BRAVO .b
+vavoo://18584216914c57c99ce1e0
 #EXTINF:-1 tvg-id="366694651455ae069dfcf" tvg-name="PINK CLASSIC .b" tvg-logo="" group-title="Balkans",PINK CLASSIC .b
 vavoo://366694651455ae069dfcf
 #EXTINF:-1 tvg-id="2552855542087699d858dc" tvg-name="PINK CLASSIC .s" tvg-logo="" group-title="Balkans",PINK CLASSIC .s
@@ -4979,8 +4981,6 @@ vavoo://37095943075b8175a2a72
 vavoo://41348491747c01c630f0f3
 #EXTINF:-1 tvg-id="1731365222f5a5b980491" tvg-name="RTRS .s" tvg-logo="" group-title="Balkans",RTRS .s
 vavoo://1731365222f5a5b980491
-#EXTINF:-1 tvg-id="9285170336cd1c9d46678" tvg-name="RTRS PLUS .c" tvg-logo="https://logo.huhu.to/logo?c=928517033.png" group-title="Balkans",RTRS PLUS .c
-vavoo://9285170336cd1c9d46678
 #EXTINF:-1 tvg-id="40060161671cba7a23396b" tvg-name="RTRS TV .c" tvg-logo="https://logo.huhu.to/logo?c=4006016167.png" group-title="Balkans",RTRS TV .c
 vavoo://40060161671cba7a23396b
 #EXTINF:-1 tvg-id="3977868689d54dc8291065" tvg-name="RTS 1 .s" tvg-logo="" group-title="Balkans",RTS 1 .s
@@ -5053,6 +5053,8 @@ vavoo://23764060eb3add43672a
 vavoo://1052273473034e8baa4dc9
 #EXTINF:-1 tvg-id="1889144097ee099099e6aa" tvg-name="SPORT KLUB 4 .c" tvg-logo="https://logo.huhu.to/logo?c=1889144097.png" group-title="Balkans",SPORT KLUB 4 .c
 vavoo://1889144097ee099099e6aa
+#EXTINF:-1 tvg-id="130823899378e407220306" tvg-name="SPORT KLUB 5 .c" tvg-logo="https://logo.huhu.to/logo?c=1308238993.png" group-title="Balkans",SPORT KLUB 5 .c
+vavoo://130823899378e407220306
 #EXTINF:-1 tvg-id="926578673d81f3fae6577" tvg-name="SPORT KLUB 7 .c" tvg-logo="" group-title="Balkans",SPORT KLUB 7 .c
 vavoo://926578673d81f3fae6577
 #EXTINF:-1 tvg-id="30436802889bfdd23a8db9" tvg-name="SPORT KLUB 8 .c" tvg-logo="" group-title="Balkans",SPORT KLUB 8 .c
@@ -5393,8 +5395,14 @@ vavoo://320132024071a15e918b2
 vavoo://3986995045e1feb55fc18c
 #EXTINF:-1 tvg-id="7794181203207056fcb9f" tvg-name="MAX SPORT 3 .s" tvg-logo="" group-title="Bulgaria",MAX SPORT 3 .s
 vavoo://7794181203207056fcb9f
+#EXTINF:-1 tvg-id="7794181203207056fcb9f" tvg-name="MAX SPORT 3 .s" tvg-logo="" group-title="Bulgaria",MAX SPORT 3 .s
+vavoo://7794181203207056fcb9f
 #EXTINF:-1 tvg-id="16025137812e4441ca9a42" tvg-name="MAX SPORT 4 .c" tvg-logo="https://logo.huhu.to/logo?c=1602513781.png" group-title="Bulgaria",MAX SPORT 4 .c
 vavoo://16025137812e4441ca9a42
+#EXTINF:-1 tvg-id="16025137812e4441ca9a42" tvg-name="MAX SPORT 4 .c" tvg-logo="https://logo.huhu.to/logo?c=1602513781.png" group-title="Bulgaria",MAX SPORT 4 .c
+vavoo://16025137812e4441ca9a42
+#EXTINF:-1 tvg-id="2622760472c0ff0ad56afe" tvg-name="MAX SPORT 4 .s" tvg-logo="" group-title="Bulgaria",MAX SPORT 4 .s
+vavoo://2622760472c0ff0ad56afe
 #EXTINF:-1 tvg-id="2622760472c0ff0ad56afe" tvg-name="MAX SPORT 4 .s" tvg-logo="" group-title="Bulgaria",MAX SPORT 4 .s
 vavoo://2622760472c0ff0ad56afe
 #EXTINF:-1 tvg-id="208410082883f1ebd92b7d" tvg-name="MOVIE STAR .c" tvg-logo="https://logo.huhu.to/logo?c=2084100828.png" group-title="Bulgaria",MOVIE STAR .c
@@ -5525,8 +5533,6 @@ vavoo://3458882662de530f0f13e8
 vavoo://3608745038db6ba3236deb
 #EXTINF:-1 tvg-id="2696386398b455736fa420" tvg-name="CINEMAX 2 .c" tvg-logo="https://logo.huhu.to/logo?c=2696386398.png" group-title="Croatia",CINEMAX 2 .c
 vavoo://2696386398b455736fa420
-#EXTINF:-1 tvg-id="2874980355e477b0b6daa2" tvg-name="CINESTAR FANTASY .c" tvg-logo="https://logo.huhu.to/logo?c=2874980355.png" group-title="Croatia",CINESTAR FANTASY .c
-vavoo://2874980355e477b0b6daa2
 #EXTINF:-1 tvg-id="3160661843e8281218b3ea" tvg-name="CINESTAR TV 1 .c" tvg-logo="https://logo.huhu.to/logo?c=3160661843.png" group-title="Croatia",CINESTAR TV 1 .c
 vavoo://3160661843e8281218b3ea
 #EXTINF:-1 tvg-id="3549681904df7dea1bdffb" tvg-name="CINESTAR TV ACTION .c" tvg-logo="https://logo.huhu.to/logo?c=3549681904.png" group-title="Croatia",CINESTAR TV ACTION .c
@@ -5627,8 +5633,6 @@ vavoo://5140321185e475f0e36b3
 vavoo://3565824619aacc0ed95cb4
 #EXTINF:-1 tvg-id="3892802551ee9ece2232da" tvg-name="MREZA ZAGREB .c" tvg-logo="https://logo.huhu.to/logo?c=3892802551.png" group-title="Croatia",MREZA ZAGREB .c
 vavoo://3892802551ee9ece2232da
-#EXTINF:-1 tvg-id="34046621273c019fa4a765" tvg-name="N1 .c" tvg-logo="https://logo.huhu.to/logo?c=3404662127.png" group-title="Croatia",N1 .c
-vavoo://34046621273c019fa4a765
 #EXTINF:-1 tvg-id="113443872779408f3fffd0" tvg-name="NAT GEO .c" tvg-logo="https://logo.huhu.to/logo?c=1134438727.png" group-title="Croatia",NAT GEO .c
 vavoo://113443872779408f3fffd0
 #EXTINF:-1 tvg-id="408769862319016a91343e" tvg-name="NICKELODEON .c" tvg-logo="https://logo.huhu.to/logo?c=4087698623.png" group-title="Croatia",NICKELODEON .c
@@ -5733,8 +5737,6 @@ vavoo://3310959922c9c7628ee636
 vavoo://858101181ed0263e7f2bc
 #EXTINF:-1 tvg-id="3160257084b52daa956c6b" tvg-name="6TER .c" tvg-logo="https://logo.huhu.to/logo?c=3160257084.png" group-title="France",6TER .c
 vavoo://3160257084b52daa956c6b
-#EXTINF:-1 tvg-id="42396595075411bf41b9be" tvg-name="6TER FHD .b" tvg-logo="" group-title="France",6TER FHD .b
-vavoo://42396595075411bf41b9be
 #EXTINF:-1 tvg-id="2645506972c0b334de74af" tvg-name="6TER FHD .s" tvg-logo="" group-title="France",6TER FHD .s
 vavoo://2645506972c0b334de74af
 #EXTINF:-1 tvg-id="20591965178419d6a4d773" tvg-name="A LA CARTE 1 HD .b" tvg-logo="" group-title="France",A LA CARTE 1 HD .b
@@ -5783,6 +5785,8 @@ vavoo://3279565173fcafc23af7af
 vavoo://17658736402a7360a48901
 #EXTINF:-1 tvg-id="594965518e7c95c9c8814" tvg-name="A+ .s" tvg-logo="" group-title="France",A+ .s
 vavoo://594965518e7c95c9c8814
+#EXTINF:-1 tvg-id="3112924315d0d16438637b" tvg-name="A+ IVOIRE .c" tvg-logo="https://logo.huhu.to/logo?c=3112924315.png" group-title="France",A+ IVOIRE .c
+vavoo://3112924315d0d16438637b
 #EXTINF:-1 tvg-id="31931360153dcc0bec85fa" tvg-name="A+ IVOIRE .s" tvg-logo="" group-title="France",A+ IVOIRE .s
 vavoo://31931360153dcc0bec85fa
 #EXTINF:-1 tvg-id="2701753448d4e4f9826315" tvg-name="A12 TV .c" tvg-logo="https://logo.huhu.to/logo?c=2701753448.png" group-title="France",A12 TV .c
@@ -5845,12 +5849,16 @@ vavoo://1736796901974167c58544
 vavoo://36252418955c743cdbc9a2
 #EXTINF:-1 tvg-id="3844871996d251721d919" tvg-name="AMAZON PRIME 6 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 6 HD+ .b
 vavoo://3844871996d251721d919
+#EXTINF:-1 tvg-id="348048825acd0661c7838" tvg-name="AMAZON PRIME 7 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 7 HD .b
+vavoo://348048825acd0661c7838
 #EXTINF:-1 tvg-id="263360924ffceb5ba8d5" tvg-name="AMAZON PRIME 7 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 7 HD+ .b
 vavoo://263360924ffceb5ba8d5
 #EXTINF:-1 tvg-id="921329291c49ec1552b55" tvg-name="AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] .s" tvg-logo="https://logo.huhu.to/logo?c=921329291.png" group-title="France",AMAZON PRIME 8 [LIVE DURING EVENTS ONLY] .s
 vavoo://921329291c49ec1552b55
 #EXTINF:-1 tvg-id="3449741077ec58c502a8cc" tvg-name="AMAZON PRIME 8 HD .b" tvg-logo="" group-title="France",AMAZON PRIME 8 HD .b
 vavoo://3449741077ec58c502a8cc
+#EXTINF:-1 tvg-id="3727168653ec22aa96caae" tvg-name="AMAZON PRIME 8 HD+ .b" tvg-logo="" group-title="France",AMAZON PRIME 8 HD+ .b
+vavoo://3727168653ec22aa96caae
 #EXTINF:-1 tvg-id="3768452719c92630e07899" tvg-name="ANGERS TELE .c" tvg-logo="" group-title="France",ANGERS TELE .c
 vavoo://3768452719c92630e07899
 #EXTINF:-1 tvg-id="155306235421d782ab66e0" tvg-name="ANIMAUX .b" tvg-logo="" group-title="France",ANIMAUX .b
@@ -5869,6 +5877,8 @@ vavoo://621108426057f0edcfe9d
 vavoo://1110040958c161c4e38ce9
 #EXTINF:-1 tvg-id="1808973403875ca98b3144" tvg-name="AUTOMOTO LA CHAINE FHD .s" tvg-logo="" group-title="France",AUTOMOTO LA CHAINE FHD .s
 vavoo://1808973403875ca98b3144
+#EXTINF:-1 tvg-id="3259290967839a9f6093c9" tvg-name="BABY TV .c" tvg-logo="https://logo.huhu.to/logo?c=3259290967.png" group-title="France",BABY TV .c
+vavoo://3259290967839a9f6093c9
 #EXTINF:-1 tvg-id="3350752421fa0626c31fcf" tvg-name="BABY TV FHD .s" tvg-logo="" group-title="France",BABY TV FHD .s
 vavoo://3350752421fa0626c31fcf
 #EXTINF:-1 tvg-id="6878199526fa8255d573" tvg-name="BBC DRAMA .c" tvg-logo="https://logo.huhu.to/logo?c=68781995.png" group-title="France",BBC DRAMA .c
@@ -5989,12 +5999,6 @@ vavoo://96963594a9e24bfa368c
 vavoo://403006729160dfcdedc53f
 #EXTINF:-1 tvg-id="35745447496310ad38622d" tvg-name="BEIN SPORTS MAX 9 HD .b" tvg-logo="" group-title="France",BEIN SPORTS MAX 9 HD .b
 vavoo://35745447496310ad38622d
-#EXTINF:-1 tvg-id="2584606877de3d57849bfc" tvg-name="BERBERE TELEVISION .s" tvg-logo="" group-title="France",BERBERE TELEVISION .s
-vavoo://2584606877de3d57849bfc
-#EXTINF:-1 tvg-id="231427138530d853b7b449" tvg-name="BERBERE TV .c" tvg-logo="https://logo.huhu.to/logo?c=2314271385.png" group-title="France",BERBERE TV .c
-vavoo://231427138530d853b7b449
-#EXTINF:-1 tvg-id="23469580569c84f2583f0e" tvg-name="BERBERE TV MUSIC .c" tvg-logo="" group-title="France",BERBERE TV MUSIC .c
-vavoo://23469580569c84f2583f0e
 #EXTINF:-1 tvg-id="2773425176d26a7b9ff5da" tvg-name="BET .b" tvg-logo="" group-title="France",BET .b
 vavoo://2773425176d26a7b9ff5da
 #EXTINF:-1 tvg-id="79028379122444aafa3e1" tvg-name="BET .c" tvg-logo="https://logo.huhu.to/logo?c=790283791.png" group-title="France",BET .c
@@ -6083,8 +6087,6 @@ vavoo://635278573a8856a6b670
 vavoo://975685108da00cade90db
 #EXTINF:-1 tvg-id="40987175059c8809b916ad" tvg-name="C8 HD .s" tvg-logo="" group-title="France",C8 HD .s
 vavoo://40987175059c8809b916ad
-#EXTINF:-1 tvg-id="469192959058de47686b4" tvg-name="CA: CANAL D .b" tvg-logo="" group-title="France",CA: CANAL D .b
-vavoo://469192959058de47686b4
 #EXTINF:-1 tvg-id="2911032154d1687bab9d50" tvg-name="CA: PRISE .b" tvg-logo="https://logo.huhu.to/logo?c=2911032154.png" group-title="France",CA: PRISE .b
 vavoo://2911032154d1687bab9d50
 #EXTINF:-1 tvg-id="12111441279eb7043ed4d9" tvg-name="CA: SUPER ECRAN 1 .b" tvg-logo="https://logo.huhu.to/logo?c=1211144127.png" group-title="France",CA: SUPER ECRAN 1 .b
@@ -6119,8 +6121,6 @@ vavoo://3466693410f8a9881cd54d
 vavoo://962706596a08821c1ddcf
 #EXTINF:-1 tvg-id="2103148163669e817162e5" tvg-name="CANAL PLAY 1 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 1 FHD .s
 vavoo://2103148163669e817162e5
-#EXTINF:-1 tvg-id="1065635365126462fe145a" tvg-name="CANAL PLAY 10 .c" tvg-logo="" group-title="France",CANAL PLAY 10 .c
-vavoo://1065635365126462fe145a
 #EXTINF:-1 tvg-id="3350560308f1ae9b7a6c6" tvg-name="CANAL PLAY 10 FHD .s" tvg-logo="" group-title="France",CANAL PLAY 10 FHD .s
 vavoo://3350560308f1ae9b7a6c6
 #EXTINF:-1 tvg-id="32414215608c53bcad328c" tvg-name="CANAL PLAY 11 .s" tvg-logo="" group-title="France",CANAL PLAY 11 .s
@@ -6213,8 +6213,6 @@ vavoo://2898387495718e66ec3be
 vavoo://9740778764179b9c92456
 #EXTINF:-1 tvg-id="1199637350be10be08cffa" tvg-name="CANAL+ CINEMA OUEST HD .b" tvg-logo="" group-title="France",CANAL+ CINEMA OUEST HD .b
 vavoo://1199637350be10be08cffa
-#EXTINF:-1 tvg-id="3602737855a4e6ebf3fc10" tvg-name="CANAL+ CINEMAS 4K .b" tvg-logo="" group-title="France",CANAL+ CINEMAS 4K .b
-vavoo://3602737855a4e6ebf3fc10
 #EXTINF:-1 tvg-id="238104318bc0332836492" tvg-name="CANAL+ CINEMAS FHD .b" tvg-logo="" group-title="France",CANAL+ CINEMAS FHD .b
 vavoo://238104318bc0332836492
 #EXTINF:-1 tvg-id="671953108443817005992" tvg-name="CANAL+ CINEMAS HD .b" tvg-logo="" group-title="France",CANAL+ CINEMAS HD .b
@@ -6555,6 +6553,8 @@ vavoo://14475552621137c5bc01ea
 vavoo://23093830022ad7b1e5ece4
 #EXTINF:-1 tvg-id="1366669684cd972192a3c0" tvg-name="COMEDY CENTRAL .c" tvg-logo="https://logo.huhu.to/logo?c=1366669684.png" group-title="France",COMEDY CENTRAL .c
 vavoo://1366669684cd972192a3c0
+#EXTINF:-1 tvg-id="236492318925aad2d21a30" tvg-name="CRIME DISTRICT .b" tvg-logo="" group-title="France",CRIME DISTRICT .b
+vavoo://236492318925aad2d21a30
 #EXTINF:-1 tvg-id="233249952949b217798c9e" tvg-name="CRIME DISTRICT .c" tvg-logo="https://logo.huhu.to/logo?c=2332499529.png" group-title="France",CRIME DISTRICT .c
 vavoo://233249952949b217798c9e
 #EXTINF:-1 tvg-id="26863556070010417e6d9d" tvg-name="CRIME DISTRICT .s" tvg-logo="" group-title="France",CRIME DISTRICT .s
@@ -6597,6 +6597,8 @@ vavoo://316036377d0f4479c8be
 vavoo://17608074059653cd1476e8
 #EXTINF:-1 tvg-id="601261176576330c20654" tvg-name="DAZN LIGUE 1 LIVE 5 FHD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 FHD .b
 vavoo://601261176576330c20654
+#EXTINF:-1 tvg-id="34440630190bbcd61d7dd1" tvg-name="DAZN LIGUE 1 LIVE 5 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 HD .b
+vavoo://34440630190bbcd61d7dd1
 #EXTINF:-1 tvg-id="34440630190bbcd61d7dd1" tvg-name="DAZN LIGUE 1 LIVE 5 HD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 HD .b
 vavoo://34440630190bbcd61d7dd1
 #EXTINF:-1 tvg-id="2757347699d552162c7f0b" tvg-name="DAZN LIGUE 1 LIVE 5 SD .b" tvg-logo="" group-title="France",DAZN LIGUE 1 LIVE 5 SD .b
@@ -6947,8 +6949,6 @@ vavoo://11254631361208c3647512
 vavoo://21216045608ae11fd23710
 #EXTINF:-1 tvg-id="3428172224f84d84ebb353" tvg-name="LIGUE1+ 4 .c" tvg-logo="" group-title="France",LIGUE1+ 4 .c
 vavoo://3428172224f84d84ebb353
-#EXTINF:-1 tvg-id="306325571283fda5cf139e" tvg-name="LIGUE1+ 6 .c" tvg-logo="" group-title="France",LIGUE1+ 6 .c
-vavoo://306325571283fda5cf139e
 #EXTINF:-1 tvg-id="234813723277960bc7b415" tvg-name="LIGUE1+ 7 .c" tvg-logo="" group-title="France",LIGUE1+ 7 .c
 vavoo://234813723277960bc7b415
 #EXTINF:-1 tvg-id="885327217eb9c4c7d9231" tvg-name="LIGUE1+ 9 .c" tvg-logo="" group-title="France",LIGUE1+ 9 .c
@@ -7313,8 +7313,6 @@ vavoo://900020958ca3417971536
 vavoo://33232854427a118c6c6127
 #EXTINF:-1 tvg-id="4171934323030b0eb6a709" tvg-name="RAKUTEN SERIE CRIME .s" tvg-logo="" group-title="France",RAKUTEN SERIE CRIME .s
 vavoo://4171934323030b0eb6a709
-#EXTINF:-1 tvg-id="780409303783a097bff06" tvg-name="RAKUTEN SPOTLIGHT FRANCE .s" tvg-logo="" group-title="France",RAKUTEN SPOTLIGHT FRANCE .s
-vavoo://780409303783a097bff06
 #EXTINF:-1 tvg-id="1713644642ee0b52d2a1eb" tvg-name="RAKUTEN TV .s" tvg-logo="" group-title="France",RAKUTEN TV .s
 vavoo://1713644642ee0b52d2a1eb
 #EXTINF:-1 tvg-id="16554237659ea6362a9e50" tvg-name="RAKUTEN TV ALERTE COBRA .c" tvg-logo="" group-title="France",RAKUTEN TV ALERTE COBRA .c
@@ -7373,8 +7371,6 @@ vavoo://26877445960b0387b6b8e5
 vavoo://38852199726fa0c900bb0d
 #EXTINF:-1 tvg-id="3673418036295f31622f35" tvg-name="RMC SPORT 17 .s" tvg-logo="" group-title="France",RMC SPORT 17 .s
 vavoo://3673418036295f31622f35
-#EXTINF:-1 tvg-id="148710986146a036ede5c4" tvg-name="RMC SPORT 18 .s" tvg-logo="" group-title="France",RMC SPORT 18 .s
-vavoo://148710986146a036ede5c4
 #EXTINF:-1 tvg-id="335631470dc3241eb383f" tvg-name="RMC SPORT 2 (BACKUP) .b" tvg-logo="" group-title="France",RMC SPORT 2 (BACKUP) .b
 vavoo://335631470dc3241eb383f
 #EXTINF:-1 tvg-id="13513667299550ca3c8165" tvg-name="RMC SPORT 2 .b" tvg-logo="" group-title="France",RMC SPORT 2 .b
@@ -7521,6 +7517,8 @@ vavoo://3101417495a5cdb8676d02
 vavoo://3076159608b5a417c45084
 #EXTINF:-1 tvg-id="350896249c8fae8947470" tvg-name="SUNDANCE TV .s" tvg-logo="" group-title="France",SUNDANCE TV .s
 vavoo://350896249c8fae8947470
+#EXTINF:-1 tvg-id="210674861187fc41ac93dc" tvg-name="SYFY .b" tvg-logo="" group-title="France",SYFY .b
+vavoo://210674861187fc41ac93dc
 #EXTINF:-1 tvg-id="303282550000e34f35d8e7" tvg-name="SYFY .c" tvg-logo="https://logo.huhu.to/logo?c=3032825500.png" group-title="France",SYFY .c
 vavoo://303282550000e34f35d8e7
 #EXTINF:-1 tvg-id="388220374408fde152c5ab" tvg-name="T18 .c" tvg-logo="" group-title="France",T18 .c
@@ -7741,6 +7739,8 @@ vavoo://3771449102fc19a88da2e6
 vavoo://3719009982449b22230512
 #EXTINF:-1 tvg-id="258447268668c466e0cfce" tvg-name="DAZN EVENT 12 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 12 .s
 vavoo://258447268668c466e0cfce
+#EXTINF:-1 tvg-id="28088580788088cbe8a38a" tvg-name="DAZN EVENT 13 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 13 .s
+vavoo://28088580788088cbe8a38a
 #EXTINF:-1 tvg-id="357243342d4624562fc17" tvg-name="DAZN EVENT 14 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 14 .s
 vavoo://357243342d4624562fc17
 #EXTINF:-1 tvg-id="673919102173062ee5e19" tvg-name="DAZN EVENT 15 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 15 .s
@@ -7765,16 +7765,12 @@ vavoo://33934238235fad35723bfc
 vavoo://414630719959931d67aa6d
 #EXTINF:-1 tvg-id="1970485166e17793832959" tvg-name="DAZN EVENT 8 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 8 .s
 vavoo://1970485166e17793832959
-#EXTINF:-1 tvg-id="1209212446ec4d790ed478" tvg-name="DAZN EVENT 9 .s" tvg-logo="" group-title="France Sport",DAZN EVENT 9 .s
-vavoo://1209212446ec4d790ed478
 #EXTINF:-1 tvg-id="2520651022e5f24e9e199b" tvg-name="INFO SPORT HD .s" tvg-logo="" group-title="France Sport",INFO SPORT HD .s
 vavoo://2520651022e5f24e9e199b
 #EXTINF:-1 tvg-id="25239712849dacacc41d2a" tvg-name="LEQUIPE 21 HD .s" tvg-logo="" group-title="France Sport",LEQUIPE 21 HD .s
 vavoo://25239712849dacacc41d2a
 #EXTINF:-1 tvg-id="1433004265c1c73a16e0c5" tvg-name="LIGUE 1 FHD .s" tvg-logo="" group-title="France Sport",LIGUE 1 FHD .s
 vavoo://1433004265c1c73a16e0c5
-#EXTINF:-1 tvg-id="324984015762bc72af7e17" tvg-name="LIGUE 10 HD .s" tvg-logo="" group-title="France Sport",LIGUE 10 HD .s
-vavoo://324984015762bc72af7e17
 #EXTINF:-1 tvg-id="2201109794235e674549a" tvg-name="LIGUE 11 HD .s" tvg-logo="" group-title="France Sport",LIGUE 11 HD .s
 vavoo://2201109794235e674549a
 #EXTINF:-1 tvg-id="22073608643e8f252bcd5b" tvg-name="LIGUE 12 HD .s" tvg-logo="" group-title="France Sport",LIGUE 12 HD .s
@@ -7791,8 +7787,6 @@ vavoo://142981605cc34b1d05f30
 vavoo://82264195255d2f8f07dde
 #EXTINF:-1 tvg-id="645108067e12325b04ffb" tvg-name="LIGUE 7 FHD .s" tvg-logo="" group-title="France Sport",LIGUE 7 FHD .s
 vavoo://645108067e12325b04ffb
-#EXTINF:-1 tvg-id="40045964659ffd94d1d457" tvg-name="LIGUE 9 FHD .s" tvg-logo="" group-title="France Sport",LIGUE 9 FHD .s
-vavoo://40045964659ffd94d1d457
 #EXTINF:-1 tvg-id="40045964659ffd94d1d457" tvg-name="LIGUE 9 FHD .s" tvg-logo="" group-title="France Sport",LIGUE 9 FHD .s
 vavoo://40045964659ffd94d1d457
 #EXTINF:-1 tvg-id="410242735467c4d516e15d" tvg-name="1-2-3.TV .c" tvg-logo="https://logo.huhu.to/logo?c=4102427354.png" group-title="Germany",1-2-3.TV .c
@@ -7831,10 +7825,6 @@ vavoo://3702637984909d14077c10
 vavoo://2746922057d8e2a1cf5360
 #EXTINF:-1 tvg-id="2183387385c42f139237" tvg-name="[[[ TELEKOM SPORT ]]] .b" tvg-logo="" group-title="Germany",[[[ TELEKOM SPORT ]]] .b
 vavoo://2183387385c42f139237
-#EXTINF:-1 tvg-id="2183387385c42f139237" tvg-name="[[[ TELEKOM SPORT ]]] .b" tvg-logo="" group-title="Germany",[[[ TELEKOM SPORT ]]] .b
-vavoo://2183387385c42f139237
-#EXTINF:-1 tvg-id="23162310375786f668543c" tvg-name="[KINDER] THE BOSS BABY 7/24 .c" tvg-logo="https://logo.huhu.to/logo?c=2316231037.png" group-title="Germany",[KINDER] THE BOSS BABY 7/24 .c
-vavoo://23162310375786f668543c
 #EXTINF:-1 tvg-id="23162310375786f668543c" tvg-name="[KINDER] THE BOSS BABY 7/24 .c" tvg-logo="https://logo.huhu.to/logo?c=2316231037.png" group-title="Germany",[KINDER] THE BOSS BABY 7/24 .c
 vavoo://23162310375786f668543c
 #EXTINF:-1 tvg-id="293885293633122a31ae84" tvg-name="A&E HD .b" tvg-logo="" group-title="Germany",A&E HD .b
@@ -7905,8 +7895,6 @@ vavoo://38991381222e52aa3f807
 vavoo://177420592600a2e624d998
 #EXTINF:-1 tvg-id="319974039176d79552c719" tvg-name="AUGSBURG .s" tvg-logo="" group-title="Germany",AUGSBURG .s
 vavoo://319974039176d79552c719
-#EXTINF:-1 tvg-id="564036923769ef6c26e03" tvg-name="AUGSBURG TV .c" tvg-logo="https://logo.huhu.to/logo?c=564036923.png" group-title="Germany",AUGSBURG TV .c
-vavoo://564036923769ef6c26e03
 #EXTINF:-1 tvg-id="77775754391079311f8c9" tvg-name="AUTO MOTO SPORT HD .b" tvg-logo="" group-title="Germany",AUTO MOTO SPORT HD .b
 vavoo://77775754391079311f8c9
 #EXTINF:-1 tvg-id="1834925213eda556dc000c" tvg-name="AUTO MOTOR SPORT .c" tvg-logo="https://logo.huhu.to/logo?c=1834925213.png" group-title="Germany",AUTO MOTOR SPORT .c
@@ -7959,8 +7947,6 @@ vavoo://22273545434394a1bce07f
 vavoo://3067259849a9e1fcbfea5d
 #EXTINF:-1 tvg-id="23240170086c1a3025ca41" tvg-name="BILD TV .c" tvg-logo="https://logo.huhu.to/logo?c=2324017008.png" group-title="Germany",BILD TV .c
 vavoo://23240170086c1a3025ca41
-#EXTINF:-1 tvg-id="366403834772536da834db" tvg-name="BLK REGIONAL TV .c" tvg-logo="https://logo.huhu.to/logo?c=3664038347.png" group-title="Germany",BLK REGIONAL TV .c
-vavoo://366403834772536da834db
 #EXTINF:-1 tvg-id="3609692090e7159f687d0d" tvg-name="BLUETV 4K ABENTEUER .b" tvg-logo="" group-title="Germany",BLUETV 4K ABENTEUER .b
 vavoo://3609692090e7159f687d0d
 #EXTINF:-1 tvg-id="324131561107fe341d680b" tvg-name="BLUETV 4K ACTION .b" tvg-logo="" group-title="Germany",BLUETV 4K ACTION .b
@@ -8117,8 +8103,6 @@ vavoo://631726102d42ebd2bc988
 vavoo://41303221460952aae580be
 #EXTINF:-1 tvg-id="34030167547567bef225f1" tvg-name="CINEDOME FILMAX JASON STATHAM .c" tvg-logo="" group-title="Germany",CINEDOME FILMAX JASON STATHAM .c
 vavoo://34030167547567bef225f1
-#EXTINF:-1 tvg-id="35370554570cc2bb6841a1" tvg-name="CINEDOME FILMAX JEAN CLAUDE VAN DAMME .c" tvg-logo="" group-title="Germany",CINEDOME FILMAX JEAN CLAUDE VAN DAMME .c
-vavoo://35370554570cc2bb6841a1
 #EXTINF:-1 tvg-id="32636582734e0110302567" tvg-name="CINEDOME FILMAX KURT RUSSELL .c" tvg-logo="" group-title="Germany",CINEDOME FILMAX KURT RUSSELL .c
 vavoo://32636582734e0110302567
 #EXTINF:-1 tvg-id="138834960225585aeabd0a" tvg-name="CINEDOME FILMAX MARVEL .c" tvg-logo="" group-title="Germany",CINEDOME FILMAX MARVEL .c
@@ -8217,6 +8201,8 @@ vavoo://2913799408bce7ba7e0545
 vavoo://2577751922a57769dee12
 #EXTINF:-1 tvg-id="13464368479556ecce2a7d" tvg-name="DAZN 1 FHD .b" tvg-logo="" group-title="Germany",DAZN 1 FHD .b
 vavoo://13464368479556ecce2a7d
+#EXTINF:-1 tvg-id="5875399993445875d3f81" tvg-name="DAZN 1 FHD .c" tvg-logo="https://logo.huhu.to/logo?c=587539999.png" group-title="Germany",DAZN 1 FHD .c
+vavoo://5875399993445875d3f81
 #EXTINF:-1 tvg-id="1772165478c10056b273e1" tvg-name="DAZN 1 HD (BACKUP) .b" tvg-logo="" group-title="Germany",DAZN 1 HD (BACKUP) .b
 vavoo://1772165478c10056b273e1
 #EXTINF:-1 tvg-id="2267295660ea349d1224ad" tvg-name="DAZN 1 HD .b" tvg-logo="" group-title="Germany",DAZN 1 HD .b
@@ -8395,6 +8381,14 @@ vavoo://1760297915e5ba4716fe34
 vavoo://400786873684e14e8e3e69
 #EXTINF:-1 tvg-id="363887471223954bf3ea94" tvg-name="DELUXE LOUNGE .c" tvg-logo="https://logo.huhu.to/logo?c=3638874712.png" group-title="Germany",DELUXE LOUNGE .c
 vavoo://363887471223954bf3ea94
+#EXTINF:-1 tvg-id="12518882962c9a048fac0" tvg-name="DELUXE LOUNGE [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=125188829.png" group-title="Germany",DELUXE LOUNGE [SAT] [] .c
+vavoo://12518882962c9a048fac0
+#EXTINF:-1 tvg-id="218565287092f719df4d45" tvg-name="DELUXE MUSIC .b" tvg-logo="" group-title="Germany",DELUXE MUSIC .b
+vavoo://218565287092f719df4d45
+#EXTINF:-1 tvg-id="342910896629fc12b5b902" tvg-name="DELUXE MUSIC .c" tvg-logo="https://logo.huhu.to/logo?c=3429108966.png" group-title="Germany",DELUXE MUSIC .c
+vavoo://342910896629fc12b5b902
+#EXTINF:-1 tvg-id="263471499993a94c3cfe8" tvg-name="DELUXE MUSIC .s" tvg-logo="" group-title="Germany",DELUXE MUSIC .s
+vavoo://263471499993a94c3cfe8
 #EXTINF:-1 tvg-id="39622734750c457bca7f36" tvg-name="DELUXE MUSIC HD .b" tvg-logo="" group-title="Germany",DELUXE MUSIC HD .b
 vavoo://39622734750c457bca7f36
 #EXTINF:-1 tvg-id="4006953029baed1c534961" tvg-name="DELUXE MUSIC HEVC .b" tvg-logo="" group-title="Germany",DELUXE MUSIC HEVC .b
@@ -8683,8 +8677,6 @@ vavoo://1222315896dcc6e31f3735
 vavoo://2924660569442cd197c7a9
 #EXTINF:-1 tvg-id="2092513479e79a5733f" tvg-name="EUROSPORT 1 DEUTSCHLAND .b" tvg-logo="" group-title="Germany",EUROSPORT 1 DEUTSCHLAND .b
 vavoo://2092513479e79a5733f
-#EXTINF:-1 tvg-id="2876480347b900ec2a253b" tvg-name="EUROSPORT 1 HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP 2) .b
-vavoo://2876480347b900ec2a253b
 #EXTINF:-1 tvg-id="1613711614ac3af298d871" tvg-name="EUROSPORT 1 HD (BACKUP 3) .b" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP 3) .b
 vavoo://1613711614ac3af298d871
 #EXTINF:-1 tvg-id="1988924073cc27ed47d566" tvg-name="EUROSPORT 1 HD (BACKUP) .b" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP) .b
@@ -8719,8 +8711,6 @@ vavoo://2981865552370a7654e2c4
 vavoo://1935446329ce80a55dd8a9
 #EXTINF:-1 tvg-id="1428325151c4a2bd098056" tvg-name="EUROSPORT 2 XTRA HD (BACKUP) .b" tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD (BACKUP) .b
 vavoo://1428325151c4a2bd098056
-#EXTINF:-1 tvg-id="26744159750b3c9c4197ef" tvg-name="EUROSPORT 2 XTRA HD .b" tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD .b
-vavoo://26744159750b3c9c4197ef
 #EXTINF:-1 tvg-id="161808028305c805272dd2" tvg-name="EUROSPORT 2 XTRA HD+ .b" tvg-logo="" group-title="Germany",EUROSPORT 2 XTRA HD+ .b
 vavoo://161808028305c805272dd2
 #EXTINF:-1 tvg-id="3844032236a6f691189c8c" tvg-name="EUROSPORT 360 HD 10 .b" tvg-logo="" group-title="Germany",EUROSPORT 360 HD 10 .b
@@ -8825,8 +8815,6 @@ vavoo://117403637621159b2b271
 vavoo://10002939574db4f8bf465f
 #EXTINF:-1 tvg-id="23110354772e95dc6164f3" tvg-name="GERMANY KIDS FILME 4 .b" tvg-logo="" group-title="Germany",GERMANY KIDS FILME 4 .b
 vavoo://23110354772e95dc6164f3
-#EXTINF:-1 tvg-id="303455946171bbda26a0ca" tvg-name="GERMANY KIDS FILME 5 .b" tvg-logo="" group-title="Germany",GERMANY KIDS FILME 5 .b
-vavoo://303455946171bbda26a0ca
 #EXTINF:-1 tvg-id="4085238069ab98a8ce37b1" tvg-name="GERMANY KIDS FILME 6 .b" tvg-logo="" group-title="Germany",GERMANY KIDS FILME 6 .b
 vavoo://4085238069ab98a8ce37b1
 #EXTINF:-1 tvg-id="3458195589d6044188e69b" tvg-name="GERMANY KIDS FILME 7 .b" tvg-logo="" group-title="Germany",GERMANY KIDS FILME 7 .b
@@ -8877,6 +8865,8 @@ vavoo://4013755273ab95a769b587
 vavoo://666069046fad37e19c4b6
 #EXTINF:-1 tvg-id="32912428634316f9c796f3" tvg-name="HISTORY HEVC .b" tvg-logo="" group-title="Germany",HISTORY HEVC .b
 vavoo://32912428634316f9c796f3
+#EXTINF:-1 tvg-id="2297575371f87f472018d5" tvg-name="HISTORY RAW .b" tvg-logo="" group-title="Germany",HISTORY RAW .b
+vavoo://2297575371f87f472018d5
 #EXTINF:-1 tvg-id="448280054330fba0cd721" tvg-name="HOPE TV [SAT] [] .c" tvg-logo="" group-title="Germany",HOPE TV [SAT] [] .c
 vavoo://448280054330fba0cd721
 #EXTINF:-1 tvg-id="180120911ffa0f3e073a7" tvg-name="HR .b" tvg-logo="" group-title="Germany",HR .b
@@ -9055,8 +9045,12 @@ vavoo://3776562763698bcb6f91c8
 vavoo://29877107783b4250f220de
 #EXTINF:-1 tvg-id="1020726248edda85e629b7" tvg-name="LG 221 CRIMESTAR .c" tvg-logo="" group-title="Germany",LG 221 CRIMESTAR .c
 vavoo://1020726248edda85e629b7
+#EXTINF:-1 tvg-id="316196725602f650ae5864" tvg-name="LG 222 DEUTSCHE FILME .c" tvg-logo="" group-title="Germany",LG 222 DEUTSCHE FILME .c
+vavoo://316196725602f650ae5864
 #EXTINF:-1 tvg-id="2626647773d4e86fb22c1b" tvg-name="LG 225 NETZKINO .c" tvg-logo="" group-title="Germany",LG 225 NETZKINO .c
 vavoo://2626647773d4e86fb22c1b
+#EXTINF:-1 tvg-id="373480177391cc3cec6259" tvg-name="LG 226 FABELLA .c" tvg-logo="" group-title="Germany",LG 226 FABELLA .c
+vavoo://373480177391cc3cec6259
 #EXTINF:-1 tvg-id="16335549591b3b5114d779" tvg-name="LG 227 HEIMATKINO .c" tvg-logo="" group-title="Germany",LG 227 HEIMATKINO .c
 vavoo://16335549591b3b5114d779
 #EXTINF:-1 tvg-id="32098981468da0e95e82d" tvg-name="LG 228 FANTASJA .c" tvg-logo="" group-title="Germany",LG 228 FANTASJA .c
@@ -9085,8 +9079,6 @@ vavoo://400782129834988b5c61cf
 vavoo://3960344458648d7e945eab
 #EXTINF:-1 tvg-id="268439919792bb1afeb19f" tvg-name="LG 306 SONY ONE COMEDY TV .c" tvg-logo="" group-title="Germany",LG 306 SONY ONE COMEDY TV .c
 vavoo://268439919792bb1afeb19f
-#EXTINF:-1 tvg-id="136465280576913931e8cf" tvg-name="LG 307 SONY ONE BEST OF .c" tvg-logo="" group-title="Germany",LG 307 SONY ONE BEST OF .c
-vavoo://136465280576913931e8cf
 #EXTINF:-1 tvg-id="3078277168b612ed00e136" tvg-name="LG 310 FILMRISE SERIEN .c" tvg-logo="" group-title="Germany",LG 310 FILMRISE SERIEN .c
 vavoo://3078277168b612ed00e136
 #EXTINF:-1 tvg-id="34271889774327bf63e8f5" tvg-name="LG 315 NASHVILLE .c" tvg-logo="" group-title="Germany",LG 315 NASHVILLE .c
@@ -9149,8 +9141,6 @@ vavoo://30706219146944e1f597d7
 vavoo://408996114581a868119538
 #EXTINF:-1 tvg-id="3695996192d5af1fe31e21" tvg-name="LG 412 IST DOCH NUR SPASS GAGS .c" tvg-logo="" group-title="Germany",LG 412 IST DOCH NUR SPASS GAGS .c
 vavoo://3695996192d5af1fe31e21
-#EXTINF:-1 tvg-id="3868921262504857b2b300" tvg-name="LG 416 BEST OF STANDUP COMEDY .c" tvg-logo="" group-title="Germany",LG 416 BEST OF STANDUP COMEDY .c
-vavoo://3868921262504857b2b300
 #EXTINF:-1 tvg-id="10567429277f9b37efd23c" tvg-name="LG 427 THE PET COLLECTIVE .c" tvg-logo="" group-title="Germany",LG 427 THE PET COLLECTIVE .c
 vavoo://10567429277f9b37efd23c
 #EXTINF:-1 tvg-id="6226982959c581f96356c" tvg-name="LG 510 TOP TRUE CRIME .c" tvg-logo="" group-title="Germany",LG 510 TOP TRUE CRIME .c
@@ -9199,6 +9189,8 @@ vavoo://394016260519a3a98557a0
 vavoo://3012893674150be8a38f6f
 #EXTINF:-1 tvg-id="2383985925be09df429edd" tvg-name="LG 661 SPIEGEL TV KONFLIKTE .c" tvg-logo="" group-title="Germany",LG 661 SPIEGEL TV KONFLIKTE .c
 vavoo://2383985925be09df429edd
+#EXTINF:-1 tvg-id="1678026987be696cbe91ac" tvg-name="LG 662 TEMPORA TV .c" tvg-logo="" group-title="Germany",LG 662 TEMPORA TV .c
+vavoo://1678026987be696cbe91ac
 #EXTINF:-1 tvg-id="1225519741eb444a528a44" tvg-name="LG 663 ROYAL WORLD ADEL & DYNASTIEN .c" tvg-logo="" group-title="Germany",LG 663 ROYAL WORLD ADEL & DYNASTIEN .c
 vavoo://1225519741eb444a528a44
 #EXTINF:-1 tvg-id="2230661150d80d770f8277" tvg-name="LG 670 TIER WELT .c" tvg-logo="" group-title="Germany",LG 670 TIER WELT .c
@@ -9263,8 +9255,6 @@ vavoo://1397659546a97e96cb92f5
 vavoo://1485537504e92490f16cd
 #EXTINF:-1 tvg-id="1448505046e9a1d092c507" tvg-name="LG 906 TELE TUBBIES .c" tvg-logo="" group-title="Germany",LG 906 TELE TUBBIES .c
 vavoo://1448505046e9a1d092c507
-#EXTINF:-1 tvg-id="377178380062f99d4af414" tvg-name="LG 908 EMILY ERDBEER .c" tvg-logo="" group-title="Germany",LG 908 EMILY ERDBEER .c
-vavoo://377178380062f99d4af414
 #EXTINF:-1 tvg-id="567351877fbb0a5f640d1" tvg-name="LG 910 FAMILY RAKUTEN TV .c" tvg-logo="" group-title="Germany",LG 910 FAMILY RAKUTEN TV .c
 vavoo://567351877fbb0a5f640d1
 #EXTINF:-1 tvg-id="2214606372e49c49cfd4fa" tvg-name="LG 911 BABY EIN STEIN .c" tvg-logo="" group-title="Germany",LG 911 BABY EIN STEIN .c
@@ -9363,14 +9353,10 @@ vavoo://3785336451afe8ffb5c81
 vavoo://2404758736277745762b89
 #EXTINF:-1 tvg-id="370347648843db6b7dc5aa" tvg-name="LG 999 LG 1+1 .c" tvg-logo="" group-title="Germany",LG 999 LG 1+1 .c
 vavoo://370347648843db6b7dc5aa
-#EXTINF:-1 tvg-id="225783359081398f52f86a" tvg-name="LG: 102 LG 1 SPOTLIGHT .c" tvg-logo="" group-title="Germany",LG: 102 LG 1 SPOTLIGHT .c
-vavoo://225783359081398f52f86a
 #EXTINF:-1 tvg-id="35771770749678cc26a97b" tvg-name="LIGHT CHANNEL .c" tvg-logo="https://logo.huhu.to/logo?c=3577177074.png" group-title="Germany",LIGHT CHANNEL .c
 vavoo://35771770749678cc26a97b
 #EXTINF:-1 tvg-id="4264490284e47ee0937d0f" tvg-name="LIGHT CHANNEL .s" tvg-logo="" group-title="Germany",LIGHT CHANNEL .s
 vavoo://4264490284e47ee0937d0f
-#EXTINF:-1 tvg-id="308087522944e8479451de" tvg-name="LUXE TV (LUXEMBOURG) .c" tvg-logo="https://logo.huhu.to/logo?c=3080875229.png" group-title="Germany",LUXE TV (LUXEMBOURG) .c
-vavoo://308087522944e8479451de
 #EXTINF:-1 tvg-id="3136042538a868c016427c" tvg-name="MAGENTA FUSSBALL 1 HD .b" tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 1 HD .b
 vavoo://3136042538a868c016427c
 #EXTINF:-1 tvg-id="3229308951b558ce2c8a2f" tvg-name="MAGENTA FUSSBALL 10 HD .b" tvg-logo="" group-title="Germany",MAGENTA FUSSBALL 10 HD .b
@@ -9447,6 +9433,8 @@ vavoo://263619247831a32a5a85a5
 vavoo://8387171288aebd8cb6c92
 #EXTINF:-1 tvg-id="366591182267fb49b0ba99" tvg-name="MAGENTA SPORT 16 .c" tvg-logo="https://logo.huhu.to/logo?c=3665911822.png" group-title="Germany",MAGENTA SPORT 16 .c
 vavoo://366591182267fb49b0ba99
+#EXTINF:-1 tvg-id="3211970859d3ea1ffadc00" tvg-name="MAGENTA SPORT 16 HD .b" tvg-logo="" group-title="Germany",MAGENTA SPORT 16 HD .b
+vavoo://3211970859d3ea1ffadc00
 #EXTINF:-1 tvg-id="3890301374bb35aed1dbc5" tvg-name="MAGENTA SPORT 17 .c" tvg-logo="https://logo.huhu.to/logo?c=3890301374.png" group-title="Germany",MAGENTA SPORT 17 .c
 vavoo://3890301374bb35aed1dbc5
 #EXTINF:-1 tvg-id="19435872538fbe17cd8dc0" tvg-name="MAGENTA SPORT 17 HD .b" tvg-logo="" group-title="Germany",MAGENTA SPORT 17 HD .b
@@ -9469,6 +9457,8 @@ vavoo://38448401058066b4e83ced
 vavoo://3059390165e8da43c8870c
 #EXTINF:-1 tvg-id="287978760d084d97c8959" tvg-name="MAGENTA SPORT 3 .s" tvg-logo="" group-title="Germany",MAGENTA SPORT 3 .s
 vavoo://287978760d084d97c8959
+#EXTINF:-1 tvg-id="1460356793a876677947a7" tvg-name="MAGENTA SPORT 4 .b" tvg-logo="" group-title="Germany",MAGENTA SPORT 4 .b
+vavoo://1460356793a876677947a7
 #EXTINF:-1 tvg-id="75123397177af67c06f5" tvg-name="MAGENTA SPORT 4 .c" tvg-logo="https://logo.huhu.to/logo?c=75123397.png" group-title="Germany",MAGENTA SPORT 4 .c
 vavoo://75123397177af67c06f5
 #EXTINF:-1 tvg-id="273540124065012822dc63" tvg-name="MAGENTA SPORT 4 .s" tvg-logo="" group-title="Germany",MAGENTA SPORT 4 .s
@@ -9479,6 +9469,8 @@ vavoo://178542567386200fdc66b5
 vavoo://958030709ce51a4c1eb0c
 #EXTINF:-1 tvg-id="2657796264bdb87c7b7d2e" tvg-name="MAGENTA SPORT 5 .s" tvg-logo="" group-title="Germany",MAGENTA SPORT 5 .s
 vavoo://2657796264bdb87c7b7d2e
+#EXTINF:-1 tvg-id="768284121965d97f6be4d" tvg-name="MAGENTA SPORT 6 .b" tvg-logo="" group-title="Germany",MAGENTA SPORT 6 .b
+vavoo://768284121965d97f6be4d
 #EXTINF:-1 tvg-id="21261254776f2e028c1d41" tvg-name="MAGENTA SPORT 6 .c" tvg-logo="https://logo.huhu.to/logo?c=2126125477.png" group-title="Germany",MAGENTA SPORT 6 .c
 vavoo://21261254776f2e028c1d41
 #EXTINF:-1 tvg-id="3653941880fc2dbbc4b55c" tvg-name="MAGENTA SPORT 6 .s" tvg-logo="" group-title="Germany",MAGENTA SPORT 6 .s
@@ -9547,8 +9539,6 @@ vavoo://59053323173ac5db5c840
 vavoo://1587310395d97eb41cef46
 #EXTINF:-1 tvg-id="33058454118d60fe5c08e" tvg-name="MOTORVISION TV .b" tvg-logo="" group-title="Germany",MOTORVISION TV .b
 vavoo://33058454118d60fe5c08e
-#EXTINF:-1 tvg-id="9252598ae0d942a10a" tvg-name="MOTORVISION TV .c" tvg-logo="https://logo.huhu.to/logo?c=925259.png" group-title="Germany",MOTORVISION TV .c
-vavoo://9252598ae0d942a10a
 #EXTINF:-1 tvg-id="3821257483f5289e39bb59" tvg-name="MOTORVISION TV HD .b" tvg-logo="" group-title="Germany",MOTORVISION TV HD .b
 vavoo://3821257483f5289e39bb59
 #EXTINF:-1 tvg-id="2881146903ee2af394ffb6" tvg-name="MOVIEDOME .c" tvg-logo="" group-title="Germany",MOVIEDOME .c
@@ -9587,18 +9577,10 @@ vavoo://2351226396fa0665100fb
 vavoo://2254834664b142e17d435c
 #EXTINF:-1 tvg-id="3021144168d81a681fd877" tvg-name="MUENCHEN .b" tvg-logo="" group-title="Germany",MUENCHEN .b
 vavoo://3021144168d81a681fd877
-#EXTINF:-1 tvg-id="3021144168d81a681fd877" tvg-name="MUENCHEN .b" tvg-logo="" group-title="Germany",MUENCHEN .b
-vavoo://3021144168d81a681fd877
-#EXTINF:-1 tvg-id="3030555861082b425cf549" tvg-name="MUSIK .b" tvg-logo="" group-title="Germany",MUSIK .b
-vavoo://3030555861082b425cf549
 #EXTINF:-1 tvg-id="3030555861082b425cf549" tvg-name="MUSIK .b" tvg-logo="" group-title="Germany",MUSIK .b
 vavoo://3030555861082b425cf549
 #EXTINF:-1 tvg-id="463750673e6b5d33be02e" tvg-name="MYTEAMTV 1 .c" tvg-logo="" group-title="Germany",MYTEAMTV 1 .c
 vavoo://463750673e6b5d33be02e
-#EXTINF:-1 tvg-id="463750673e6b5d33be02e" tvg-name="MYTEAMTV 1 .c" tvg-logo="" group-title="Germany",MYTEAMTV 1 .c
-vavoo://463750673e6b5d33be02e
-#EXTINF:-1 tvg-id="222598268418cbd59f21df" tvg-name="MYTEAMTV 10 .c" tvg-logo="" group-title="Germany",MYTEAMTV 10 .c
-vavoo://222598268418cbd59f21df
 #EXTINF:-1 tvg-id="222598268418cbd59f21df" tvg-name="MYTEAMTV 10 .c" tvg-logo="" group-title="Germany",MYTEAMTV 10 .c
 vavoo://222598268418cbd59f21df
 #EXTINF:-1 tvg-id="311727857220f4328b4f1d" tvg-name="MYTEAMTV 11 .c" tvg-logo="" group-title="Germany",MYTEAMTV 11 .c
@@ -9613,10 +9595,6 @@ vavoo://1898801692482d93bd5cc6
 vavoo://1280132012b5ce9bf99b66
 #EXTINF:-1 tvg-id="20009612487791e4c67e0" tvg-name="MYTEAMTV 16 .c" tvg-logo="" group-title="Germany",MYTEAMTV 16 .c
 vavoo://20009612487791e4c67e0
-#EXTINF:-1 tvg-id="91521454037601a699f02" tvg-name="MYTEAMTV 17 .c" tvg-logo="" group-title="Germany",MYTEAMTV 17 .c
-vavoo://91521454037601a699f02
-#EXTINF:-1 tvg-id="30344169256b55f695d34a" tvg-name="MYTEAMTV 18 .c" tvg-logo="" group-title="Germany",MYTEAMTV 18 .c
-vavoo://30344169256b55f695d34a
 #EXTINF:-1 tvg-id="1633949041d179583cd9bf" tvg-name="MYTEAMTV 3 .c" tvg-logo="" group-title="Germany",MYTEAMTV 3 .c
 vavoo://1633949041d179583cd9bf
 #EXTINF:-1 tvg-id="3544500577b1879f954ffe" tvg-name="MYTEAMTV 4 .c" tvg-logo="" group-title="Germany",MYTEAMTV 4 .c
@@ -9625,8 +9603,6 @@ vavoo://3544500577b1879f954ffe
 vavoo://3995394257fa249273642d
 #EXTINF:-1 tvg-id="735317456b4b76a513440" tvg-name="MYTEAMTV 9 .c" tvg-logo="" group-title="Germany",MYTEAMTV 9 .c
 vavoo://735317456b4b76a513440
-#EXTINF:-1 tvg-id="1640371259cff030dc357a" tvg-name="MÜNCHEN TV .c" tvg-logo="https://logo.huhu.to/logo?c=1640371259.png" group-title="Germany",MÜNCHEN TV .c
-vavoo://1640371259cff030dc357a
 #EXTINF:-1 tvg-id="1640371259cff030dc357a" tvg-name="MÜNCHEN TV .c" tvg-logo="https://logo.huhu.to/logo?c=1640371259.png" group-title="Germany",MÜNCHEN TV .c
 vavoo://1640371259cff030dc357a
 #EXTINF:-1 tvg-id="35524895249f9dd51459ac" tvg-name="N-TV .c" tvg-logo="https://logo.huhu.to/logo?c=3552489524.png" group-title="Germany",N-TV .c
@@ -10165,6 +10141,8 @@ vavoo://11709625666201defdf9b3
 vavoo://42133787714136bbfb99ed
 #EXTINF:-1 tvg-id="2324281646a6c3a182bfa" tvg-name="RTL RAW .b" tvg-logo="" group-title="Germany",RTL RAW .b
 vavoo://2324281646a6c3a182bfa
+#EXTINF:-1 tvg-id="818491155d7cb1a61b831" tvg-name="RTL SAT [] .c" tvg-logo="" group-title="Germany",RTL SAT [] .c
+vavoo://818491155d7cb1a61b831
 #EXTINF:-1 tvg-id="14145816676732236872e3" tvg-name="RTL SHOPPING QUEEN .c" tvg-logo="" group-title="Germany",RTL SHOPPING QUEEN .c
 vavoo://14145816676732236872e3
 #EXTINF:-1 tvg-id="15721447168ef387e5dba0" tvg-name="RTL UP .c" tvg-logo="https://logo.huhu.to/logo?c=1572144716.png" group-title="Germany",RTL UP .c
@@ -10189,8 +10167,6 @@ vavoo://3344915641ef79b26db4c3
 vavoo://39761015397532573b6395
 #EXTINF:-1 tvg-id="41005223345d3c43064d7f" tvg-name="RTL+ LIVE 1 .b" tvg-logo="" group-title="Germany",RTL+ LIVE 1 .b
 vavoo://41005223345d3c43064d7f
-#EXTINF:-1 tvg-id="3016326030e286a931e4af" tvg-name="RTL+ LIVE 2 .b" tvg-logo="" group-title="Germany",RTL+ LIVE 2 .b
-vavoo://3016326030e286a931e4af
 #EXTINF:-1 tvg-id="2393461310c152bff96f35" tvg-name="RTL+ LIVE 3 .b" tvg-logo="" group-title="Germany",RTL+ LIVE 3 .b
 vavoo://2393461310c152bff96f35
 #EXTINF:-1 tvg-id="10156477906a0e7f7acb8f" tvg-name="RTL+ LIVE 4 .b" tvg-logo="" group-title="Germany",RTL+ LIVE 4 .b
@@ -10261,6 +10237,8 @@ vavoo://4256514216771b0ec2610a
 vavoo://1667928415baf9335e8d2a
 #EXTINF:-1 tvg-id="1213678665cc326e411b7b" tvg-name="RTL+ SPORT EVENT 8 .c" tvg-logo="https://logo.huhu.to/logo?c=1213678665.png" group-title="Germany",RTL+ SPORT EVENT 8 .c
 vavoo://1213678665cc326e411b7b
+#EXTINF:-1 tvg-id="2721946647518754ab9fc8" tvg-name="RTL+ SPORT EVENT 8 [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 8 [LIVE DURING EVENTS ONLY] .s
+vavoo://2721946647518754ab9fc8
 #EXTINF:-1 tvg-id="1577761007d7d4999aaf71" tvg-name="RTL+ SPORT EVENT 9 .b" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 9 .b
 vavoo://1577761007d7d4999aaf71
 #EXTINF:-1 tvg-id="1966566905464ef6d66f17" tvg-name="RTL+ SPORT EVENT 9 .c" tvg-logo="" group-title="Germany",RTL+ SPORT EVENT 9 .c
@@ -10325,6 +10303,8 @@ vavoo://2312024953de44a563c1a4
 vavoo://2978752107fef207a14853
 #EXTINF:-1 tvg-id="11642275598cf307c0afd5" tvg-name="S. SPORT 9 HD .b" tvg-logo="" group-title="Germany",S. SPORT 9 HD .b
 vavoo://11642275598cf307c0afd5
+#EXTINF:-1 tvg-id="33366594613ae1c09371da" tvg-name="S. SPORT F1 HD .b" tvg-logo="" group-title="Germany",S. SPORT F1 HD .b
+vavoo://33366594613ae1c09371da
 #EXTINF:-1 tvg-id="119323253140ce8c34846" tvg-name="S. SPORT GOLF FHD .b" tvg-logo="" group-title="Germany",S. SPORT GOLF FHD .b
 vavoo://119323253140ce8c34846
 #EXTINF:-1 tvg-id="3017117912b462055beca8" tvg-name="S. SPORT GOLF HD .b" tvg-logo="" group-title="Germany",S. SPORT GOLF HD .b
@@ -10363,6 +10343,8 @@ vavoo://22992971802333aa843791
 vavoo://33947606675768005e41a2
 #EXTINF:-1 tvg-id="3448764623b4066de903ba" tvg-name="SALVE TV .s" tvg-logo="" group-title="Germany",SALVE TV .s
 vavoo://3448764623b4066de903ba
+#EXTINF:-1 tvg-id="4122072531461dc41e3c84" tvg-name="SAT 1 .c" tvg-logo="https://logo.huhu.to/logo?c=4122072531.png" group-title="Germany",SAT 1 .c
+vavoo://4122072531461dc41e3c84
 #EXTINF:-1 tvg-id="2558350352d9a1672f1963" tvg-name="SAT 1 .s" tvg-logo="" group-title="Germany",SAT 1 .s
 vavoo://2558350352d9a1672f1963
 #EXTINF:-1 tvg-id="59431262259fb202672df" tvg-name="SAT 1 [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=594312622.png" group-title="Germany",SAT 1 [SAT] [] .c
@@ -10373,6 +10355,8 @@ vavoo://15866913763ba3738bf5cf
 vavoo://12945128065e6030487779
 #EXTINF:-1 tvg-id="88401909337a069c86fc1" tvg-name="SAT 1 EMOTIONS .s" tvg-logo="" group-title="Germany",SAT 1 EMOTIONS .s
 vavoo://88401909337a069c86fc1
+#EXTINF:-1 tvg-id="2454124205d6e97c1fe252" tvg-name="SAT 1 EMOTIONS HD .b" tvg-logo="" group-title="Germany",SAT 1 EMOTIONS HD .b
+vavoo://2454124205d6e97c1fe252
 #EXTINF:-1 tvg-id="1813629968603790c9e705" tvg-name="SAT 1 GOLD .c" tvg-logo="https://logo.huhu.to/logo?c=1813629968.png" group-title="Germany",SAT 1 GOLD .c
 vavoo://1813629968603790c9e705
 #EXTINF:-1 tvg-id="1623445374063be582e9e7" tvg-name="SAT 1 GOLD .s" tvg-logo="" group-title="Germany",SAT 1 GOLD .s
@@ -10461,8 +10445,6 @@ vavoo://1018615269527a186c7ec8
 vavoo://3689801660bba8431ec699
 #EXTINF:-1 tvg-id="248247349633e006a08452" tvg-name="SIXX RAW .b" tvg-logo="" group-title="Germany",SIXX RAW .b
 vavoo://248247349633e006a08452
-#EXTINF:-1 tvg-id="1751787800584af96e864c" tvg-name="SKY 1 .s" tvg-logo="" group-title="Germany",SKY 1 .s
-vavoo://1751787800584af96e864c
 #EXTINF:-1 tvg-id="42182405823882c9fb0192" tvg-name="SKY 1 HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY 1 HD (BACKUP) .b
 vavoo://42182405823882c9fb0192
 #EXTINF:-1 tvg-id="2760602887782005e658e3" tvg-name="SKY 1 HD .b" tvg-logo="" group-title="Germany",SKY 1 HD .b
@@ -10525,8 +10507,6 @@ vavoo://3362263722830e7772c3d1
 vavoo://183534979504f587f73a2a
 #EXTINF:-1 tvg-id="82175319122a6ab372acf" tvg-name="SKY BOX DOCU HD .b" tvg-logo="" group-title="Germany",SKY BOX DOCU HD .b
 vavoo://82175319122a6ab372acf
-#EXTINF:-1 tvg-id="3875882152a9584511085" tvg-name="SKY BOX DRAMA .c" tvg-logo="" group-title="Germany",SKY BOX DRAMA .c
-vavoo://3875882152a9584511085
 #EXTINF:-1 tvg-id="37398352478673e421dfd0" tvg-name="SKY BOX DRAMA HD .b" tvg-logo="" group-title="Germany",SKY BOX DRAMA HD .b
 vavoo://37398352478673e421dfd0
 #EXTINF:-1 tvg-id="209415861909fd2a17d37e" tvg-name="SKY BOX FAMILIE .c" tvg-logo="" group-title="Germany",SKY BOX FAMILIE .c
@@ -10551,16 +10531,12 @@ vavoo://3278898614063ce95e9dd
 vavoo://30461687866ca918f67f46
 #EXTINF:-1 tvg-id="1544513871d476307b0b6c" tvg-name="SKY BOX KOMODIE .c" tvg-logo="" group-title="Germany",SKY BOX KOMODIE .c
 vavoo://1544513871d476307b0b6c
-#EXTINF:-1 tvg-id="2149902052f1250c2eea0d" tvg-name="SKY BOX KOMODIE HD .b" tvg-logo="" group-title="Germany",SKY BOX KOMODIE HD .b
-vavoo://2149902052f1250c2eea0d
 #EXTINF:-1 tvg-id="1835191283b2454676c430" tvg-name="SKY BOX KRIEGSFILM .c" tvg-logo="" group-title="Germany",SKY BOX KRIEGSFILM .c
 vavoo://1835191283b2454676c430
 #EXTINF:-1 tvg-id="2307006284b066e9b131d4" tvg-name="SKY BOX KRIEGSFILM HD .b" tvg-logo="" group-title="Germany",SKY BOX KRIEGSFILM HD .b
 vavoo://2307006284b066e9b131d4
 #EXTINF:-1 tvg-id="340976691255d83b7b7552" tvg-name="SKY BOX KRIMI .c" tvg-logo="" group-title="Germany",SKY BOX KRIMI .c
 vavoo://340976691255d83b7b7552
-#EXTINF:-1 tvg-id="18171574713f9e134ac506" tvg-name="SKY BOX KRIMI HD .b" tvg-logo="" group-title="Germany",SKY BOX KRIMI HD .b
-vavoo://18171574713f9e134ac506
 #EXTINF:-1 tvg-id="1940254837720d9321cfcd" tvg-name="SKY BOX LIEBESFILM .c" tvg-logo="" group-title="Germany",SKY BOX LIEBESFILM .c
 vavoo://1940254837720d9321cfcd
 #EXTINF:-1 tvg-id="14350254833031f4d284de" tvg-name="SKY BOX LIEBESFILM HD .b" tvg-logo="" group-title="Germany",SKY BOX LIEBESFILM HD .b
@@ -10577,8 +10553,6 @@ vavoo://161533874538ce15b11567
 vavoo://374941269115f32e75d9d7
 #EXTINF:-1 tvg-id="3324968452d696150ffee" tvg-name="SKY BOX PREMIEREN 11 HD .b" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 11 HD .b
 vavoo://3324968452d696150ffee
-#EXTINF:-1 tvg-id="26402140626dcce209aab0" tvg-name="SKY BOX PREMIEREN 12 HD .b" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 12 HD .b
-vavoo://26402140626dcce209aab0
 #EXTINF:-1 tvg-id="13749761762c15837beffa" tvg-name="SKY BOX PREMIEREN 13 HD .b" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 13 HD .b
 vavoo://13749761762c15837beffa
 #EXTINF:-1 tvg-id="2543546679585c98840582" tvg-name="SKY BOX PREMIEREN 15 HD .b" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 15 HD .b
@@ -10617,10 +10591,10 @@ vavoo://27875792627433aa54027b
 vavoo://21311671868df7785b69c7
 #EXTINF:-1 tvg-id="301446126025b7a1d65ab5" tvg-name="SKY BOX PREMIEREN 9 HD .b" tvg-logo="" group-title="Germany",SKY BOX PREMIEREN 9 HD .b
 vavoo://301446126025b7a1d65ab5
-#EXTINF:-1 tvg-id="401274448214e3a980bcef" tvg-name="SKY BOX SCI-FI .c" tvg-logo="" group-title="Germany",SKY BOX SCI-FI .c
-vavoo://401274448214e3a980bcef
 #EXTINF:-1 tvg-id="2552156126f521ec7b686c" tvg-name="SKY BOX THRILLER .c" tvg-logo="" group-title="Germany",SKY BOX THRILLER .c
 vavoo://2552156126f521ec7b686c
+#EXTINF:-1 tvg-id="207754513015f3e1427f20" tvg-name="SKY BOX THRILLER HD .b" tvg-logo="" group-title="Germany",SKY BOX THRILLER HD .b
+vavoo://207754513015f3e1427f20
 #EXTINF:-1 tvg-id="31279204142f272ebe44c" tvg-name="SKY BOX WESTERN .c" tvg-logo="" group-title="Germany",SKY BOX WESTERN .c
 vavoo://31279204142f272ebe44c
 #EXTINF:-1 tvg-id="50330410e31459b628ef" tvg-name="SKY BOX WESTERN HD .b" tvg-logo="" group-title="Germany",SKY BOX WESTERN HD .b
@@ -10651,6 +10625,8 @@ vavoo://3823922807325fb1419900
 vavoo://454539383638ff85ca423
 #EXTINF:-1 tvg-id="272897243469476bbf42bf" tvg-name="SKY BUNDESLIGA 10 [SPIELTAG] .c" tvg-logo="https://logo.huhu.to/logo?c=2728972434.png" group-title="Germany",SKY BUNDESLIGA 10 [SPIELTAG] .c
 vavoo://272897243469476bbf42bf
+#EXTINF:-1 tvg-id="3142529811d199cfe277a8" tvg-name="SKY BUNDESLIGA 10 [SPIELTAG] [] .c" tvg-logo="https://logo.huhu.to/logo?c=3142529811.png" group-title="Germany",SKY BUNDESLIGA 10 [SPIELTAG] [] .c
+vavoo://3142529811d199cfe277a8
 #EXTINF:-1 tvg-id="3934518884051d64962fbf" tvg-name="SKY BUNDESLIGA 10 HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 10 HD (BACKUP 2) .b
 vavoo://3934518884051d64962fbf
 #EXTINF:-1 tvg-id="31776053118538604d51e4" tvg-name="SKY BUNDESLIGA 10 HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 10 HD (BACKUP) .b
@@ -10719,6 +10695,8 @@ vavoo://33190920032eab813d5a5
 vavoo://3809463127c429545acf5
 #EXTINF:-1 tvg-id="1032745969b0a3cea67a75" tvg-name="SKY BUNDESLIGA 5 HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD (BACKUP 2) .b
 vavoo://1032745969b0a3cea67a75
+#EXTINF:-1 tvg-id="379358662360e8b38bdef2" tvg-name="SKY BUNDESLIGA 5 HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD (BACKUP) .b
+vavoo://379358662360e8b38bdef2
 #EXTINF:-1 tvg-id="25847512893300a8132b78" tvg-name="SKY BUNDESLIGA 5 HD .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD .b
 vavoo://25847512893300a8132b78
 #EXTINF:-1 tvg-id="18838973c4f198e334f5" tvg-name="SKY BUNDESLIGA 5 HD+ .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 5 HD+ .b
@@ -10745,8 +10723,6 @@ vavoo://2547193477b9eb4a5b5371
 vavoo://13902707329b1f4331ed50
 #EXTINF:-1 tvg-id="487466796fba0e8760edf" tvg-name="SKY BUNDESLIGA 7 .s" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 7 .s
 vavoo://487466796fba0e8760edf
-#EXTINF:-1 tvg-id="2489888051d8f2c9a8ed67" tvg-name="SKY BUNDESLIGA 7 [SPIELTAG] .c" tvg-logo="https://logo.huhu.to/logo?c=2489888051.png" group-title="Germany",SKY BUNDESLIGA 7 [SPIELTAG] .c
-vavoo://2489888051d8f2c9a8ed67
 #EXTINF:-1 tvg-id="1644216697f57bbe434e70" tvg-name="SKY BUNDESLIGA 7 [SPIELTAG] [] .c" tvg-logo="https://logo.huhu.to/logo?c=1644216697.png" group-title="Germany",SKY BUNDESLIGA 7 [SPIELTAG] [] .c
 vavoo://1644216697f57bbe434e70
 #EXTINF:-1 tvg-id="1228567808382a1554e77a" tvg-name="SKY BUNDESLIGA 7 HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 7 HD (BACKUP 2) .b
@@ -10813,12 +10789,22 @@ vavoo://16176487994ddd2af48e9a
 vavoo://3129337035089b5b0d918c
 #EXTINF:-1 tvg-id="363251895e59eb93e4a81" tvg-name="SKY CINEMA ACTION [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=363251895.png" group-title="Germany",SKY CINEMA ACTION [SAT] [] .c
 vavoo://363251895e59eb93e4a81
+#EXTINF:-1 tvg-id="363251895e59eb93e4a81" tvg-name="SKY CINEMA ACTION [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=363251895.png" group-title="Germany",SKY CINEMA ACTION [SAT] [] .c
+vavoo://363251895e59eb93e4a81
+#EXTINF:-1 tvg-id="22171411489f84ed3ff7c4" tvg-name="SKY CINEMA ACTION HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD (BACKUP) .b
+vavoo://22171411489f84ed3ff7c4
 #EXTINF:-1 tvg-id="22171411489f84ed3ff7c4" tvg-name="SKY CINEMA ACTION HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD (BACKUP) .b
 vavoo://22171411489f84ed3ff7c4
 #EXTINF:-1 tvg-id="41403985348c9b135459db" tvg-name="SKY CINEMA ACTION HD .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD .b
 vavoo://41403985348c9b135459db
+#EXTINF:-1 tvg-id="41403985348c9b135459db" tvg-name="SKY CINEMA ACTION HD .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD .b
+vavoo://41403985348c9b135459db
 #EXTINF:-1 tvg-id="3251224651e0552e67f539" tvg-name="SKY CINEMA ACTION HD+ .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD+ .b
 vavoo://3251224651e0552e67f539
+#EXTINF:-1 tvg-id="3251224651e0552e67f539" tvg-name="SKY CINEMA ACTION HD+ .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD+ .b
+vavoo://3251224651e0552e67f539
+#EXTINF:-1 tvg-id="393413178212a6df0757ae" tvg-name="SKY CINEMA ACTION HEVC .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HEVC .b
+vavoo://393413178212a6df0757ae
 #EXTINF:-1 tvg-id="393413178212a6df0757ae" tvg-name="SKY CINEMA ACTION HEVC .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HEVC .b
 vavoo://393413178212a6df0757ae
 #EXTINF:-1 tvg-id="18544475423371ce1e1608" tvg-name="SKY CINEMA ACTION RAW .b" tvg-logo="" group-title="Germany",SKY CINEMA ACTION RAW .b
@@ -11061,6 +11047,8 @@ vavoo://1218120111071a7582a300
 vavoo://4101674354c9f1f56f608e
 #EXTINF:-1 tvg-id="15131838968a694dd75044" tvg-name="SKY REPLAY HEVC .b" tvg-logo="" group-title="Germany",SKY REPLAY HEVC .b
 vavoo://15131838968a694dd75044
+#EXTINF:-1 tvg-id="12894766218294fede5ad1" tvg-name="SKY REPLAY RAW (FOX) .b" tvg-logo="" group-title="Germany",SKY REPLAY RAW (FOX) .b
+vavoo://12894766218294fede5ad1
 #EXTINF:-1 tvg-id="2835102095dbd0a6a34da" tvg-name="SKY SELECT .b" tvg-logo="" group-title="Germany",SKY SELECT .b
 vavoo://2835102095dbd0a6a34da
 #EXTINF:-1 tvg-id="18702577591f274c7ad589" tvg-name="SKY SELECT .s" tvg-logo="" group-title="Germany",SKY SELECT .s
@@ -11305,6 +11293,8 @@ vavoo://2353380835657a79821d9a
 vavoo://299153937799a255084575
 #EXTINF:-1 tvg-id="13816956759d45612328d0" tvg-name="SKY SPORT 6 HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",SKY SPORT 6 HD (BACKUP 2) .b
 vavoo://13816956759d45612328d0
+#EXTINF:-1 tvg-id="1450154471bf23820b345b" tvg-name="SKY SPORT 6 HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY SPORT 6 HD (BACKUP) .b
+vavoo://1450154471bf23820b345b
 #EXTINF:-1 tvg-id="463237157314e6d840607" tvg-name="SKY SPORT 6 HD .b" tvg-logo="" group-title="Germany",SKY SPORT 6 HD .b
 vavoo://463237157314e6d840607
 #EXTINF:-1 tvg-id="4163315342e3dfa44378db" tvg-name="SKY SPORT 6 HD+ .b" tvg-logo="" group-title="Germany",SKY SPORT 6 HD+ .b
@@ -11407,16 +11397,6 @@ vavoo://2649186974fc3623dd20b1
 vavoo://23884710486e836a3b7760
 #EXTINF:-1 tvg-id="41568543313e885fb5b976" tvg-name="SKY SPORT NEWS .s" tvg-logo="" group-title="Germany",SKY SPORT NEWS .s
 vavoo://41568543313e885fb5b976
-#EXTINF:-1 tvg-id="2620616081c34fd9f15dd7" tvg-name="SKY SPORT NEWS [] [] .c" tvg-logo="https://logo.huhu.to/logo?c=2620616081.png" group-title="Germany",SKY SPORT NEWS [] [] .c
-vavoo://2620616081c34fd9f15dd7
-#EXTINF:-1 tvg-id="2332872870080d9ab39548" tvg-name="SKY SPORT NEWS HD (BACKUP 2) .b" tvg-logo="" group-title="Germany",SKY SPORT NEWS HD (BACKUP 2) .b
-vavoo://2332872870080d9ab39548
-#EXTINF:-1 tvg-id="16562742272f88ca3563a5" tvg-name="SKY SPORT NEWS HD (BACKUP) .b" tvg-logo="" group-title="Germany",SKY SPORT NEWS HD (BACKUP) .b
-vavoo://16562742272f88ca3563a5
-#EXTINF:-1 tvg-id="2534839650df1f2665f900" tvg-name="SKY SPORT NEWS HD .b" tvg-logo="" group-title="Germany",SKY SPORT NEWS HD .b
-vavoo://2534839650df1f2665f900
-#EXTINF:-1 tvg-id="1846644000adea388f6e78" tvg-name="SKY SPORT NEWS HEVC .b" tvg-logo="" group-title="Germany",SKY SPORT NEWS HEVC .b
-vavoo://1846644000adea388f6e78
 #EXTINF:-1 tvg-id="221390283794a927a8264e" tvg-name="SKY SPORT PREMIER LEAGUE .c" tvg-logo="https://logo.huhu.to/logo?c=2213902837.png" group-title="Germany",SKY SPORT PREMIER LEAGUE .c
 vavoo://221390283794a927a8264e
 #EXTINF:-1 tvg-id="1922768904de41a23ad006" tvg-name="SKY SPORT PREMIER LEAGUE .s" tvg-logo="" group-title="Germany",SKY SPORT PREMIER LEAGUE .s
@@ -11753,6 +11733,8 @@ vavoo://19255601676ed5bc9f9a16
 vavoo://13362541672de01f4ec000
 #EXTINF:-1 tvg-id="134603783562c726b4960" tvg-name="TELEKOM 3 BUNDESLIGA 6 .b" tvg-logo="" group-title="Germany",TELEKOM 3 BUNDESLIGA 6 .b
 vavoo://134603783562c726b4960
+#EXTINF:-1 tvg-id="895864247c4768e9e9512" tvg-name="TELEKOM 3 BUNDESLIGA 7 .b" tvg-logo="" group-title="Germany",TELEKOM 3 BUNDESLIGA 7 .b
+vavoo://895864247c4768e9e9512
 #EXTINF:-1 tvg-id="30737270789289ac9cd906" tvg-name="TELEKOM 3 BUNDESLIGA 8 .b" tvg-logo="" group-title="Germany",TELEKOM 3 BUNDESLIGA 8 .b
 vavoo://30737270789289ac9cd906
 #EXTINF:-1 tvg-id="7822243719f3be1711bc7" tvg-name="TELEKOM BBL SPORT 1 .b" tvg-logo="" group-title="Germany",TELEKOM BBL SPORT 1 .b
@@ -11995,6 +11977,14 @@ vavoo://41014061740745c3fd5767
 vavoo://2500471981d26e478920f
 #EXTINF:-1 tvg-id="211227261842f18c982f31" tvg-name="WARNER FILM RAW .b" tvg-logo="https://logo.huhu.to/logo?c=2112272618.png" group-title="Germany",WARNER FILM RAW .b
 vavoo://211227261842f18c982f31
+#EXTINF:-1 tvg-id="1686078417bea2fb9ca490" tvg-name="WARNER SERIE HD .b" tvg-logo="" group-title="Germany",WARNER SERIE HD .b
+vavoo://1686078417bea2fb9ca490
+#EXTINF:-1 tvg-id="13651979007239e8940f76" tvg-name="WARNER SERIE RAW (BACKUP) .b" tvg-logo="" group-title="Germany",WARNER SERIE RAW (BACKUP) .b
+vavoo://13651979007239e8940f76
+#EXTINF:-1 tvg-id="398941709338697a6c55bd" tvg-name="WARNER SERIE RAW .b" tvg-logo="https://logo.huhu.to/logo?c=3989417093.png" group-title="Germany",WARNER SERIE RAW .b
+vavoo://398941709338697a6c55bd
+#EXTINF:-1 tvg-id="367385397325c640f7c34d" tvg-name="WARNER TV COMEDY .c" tvg-logo="https://logo.huhu.to/logo?c=3673853973.png" group-title="Germany",WARNER TV COMEDY .c
+vavoo://367385397325c640f7c34d
 #EXTINF:-1 tvg-id="9601263410de91b73f298" tvg-name="WARNER TV COMEDY [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=960126341.png" group-title="Germany",WARNER TV COMEDY [SAT] [] .c
 vavoo://9601263410de91b73f298
 #EXTINF:-1 tvg-id="282498318448f8718cc1f8" tvg-name="WARNER TV FILM .c" tvg-logo="https://logo.huhu.to/logo?c=2824983184.png" group-title="Germany",WARNER TV FILM .c
@@ -12003,8 +11993,14 @@ vavoo://282498318448f8718cc1f8
 vavoo://35227196518179aced1976
 #EXTINF:-1 tvg-id="358018741778ba38d189a1" tvg-name="WARNER TV FILM [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=3580187417.png" group-title="Germany",WARNER TV FILM [SAT] [] .c
 vavoo://358018741778ba38d189a1
+#EXTINF:-1 tvg-id="358018741778ba38d189a1" tvg-name="WARNER TV FILM [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=3580187417.png" group-title="Germany",WARNER TV FILM [SAT] [] .c
+vavoo://358018741778ba38d189a1
 #EXTINF:-1 tvg-id="8406555416d9f8422b664" tvg-name="WARNER TV SERIE .c" tvg-logo="https://logo.huhu.to/logo?c=840655541.png" group-title="Germany",WARNER TV SERIE .c
 vavoo://8406555416d9f8422b664
+#EXTINF:-1 tvg-id="8406555416d9f8422b664" tvg-name="WARNER TV SERIE .c" tvg-logo="https://logo.huhu.to/logo?c=840655541.png" group-title="Germany",WARNER TV SERIE .c
+vavoo://8406555416d9f8422b664
+#EXTINF:-1 tvg-id="2506867048283ac0f991d9" tvg-name="WARNER TV SERIE .s" tvg-logo="" group-title="Germany",WARNER TV SERIE .s
+vavoo://2506867048283ac0f991d9
 #EXTINF:-1 tvg-id="2506867048283ac0f991d9" tvg-name="WARNER TV SERIE .s" tvg-logo="" group-title="Germany",WARNER TV SERIE .s
 vavoo://2506867048283ac0f991d9
 #EXTINF:-1 tvg-id="1058076690a82cdf8cfc5c" tvg-name="WARNER TV SERIE [SAT] [] .c" tvg-logo="https://logo.huhu.to/logo?c=1058076690.png" group-title="Germany",WARNER TV SERIE [SAT] [] .c
@@ -12123,8 +12119,6 @@ vavoo://17486531855cb3fa3f8635
 vavoo://2259597478205b9aafbf8c
 #EXTINF:-1 tvg-id="93943991b3713da2b64a" tvg-name="ZDF RAW .b" tvg-logo="" group-title="Germany",ZDF RAW .b
 vavoo://93943991b3713da2b64a
-#EXTINF:-1 tvg-id="6902781834593c1e4b35e" tvg-name="✦ ✦ NETFLIX STORE ✦ ✦ .b" tvg-logo="" group-title="Germany",✦ ✦ NETFLIX STORE ✦ ✦ .b
-vavoo://6902781834593c1e4b35e
 #EXTINF:-1 tvg-id="6902781834593c1e4b35e" tvg-name="✦ ✦ NETFLIX STORE ✦ ✦ .b" tvg-logo="" group-title="Germany",✦ ✦ NETFLIX STORE ✦ ✦ .b
 vavoo://6902781834593c1e4b35e
 #EXTINF:-1 tvg-id="160013981909ce6c338fef" tvg-name="111 TV .c" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png" group-title="Italy",111 TV .c
@@ -12271,6 +12265,8 @@ vavoo://21132730647ae733a10331
 vavoo://3037871903561253a95659
 #EXTINF:-1 tvg-id="1574591400f5a3b24c62fc" tvg-name="DISCOVERY NOVE .s" tvg-logo="" group-title="Italy",DISCOVERY NOVE .s
 vavoo://1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="1264775727d4145aa36927" tvg-name="DISNEY+ FILM .c" tvg-logo="https://logo.huhu.to/logo?c=1264775727.png" group-title="Italy",DISNEY+ FILM .c
+vavoo://1264775727d4145aa36927
 #EXTINF:-1 tvg-id="3008151733b9915486ff45" tvg-name="DMAX .c" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" group-title="Italy",DMAX .c
 vavoo://3008151733b9915486ff45
 #EXTINF:-1 tvg-id="3803638765756268d23edc" tvg-name="DMAX .s" tvg-logo="" group-title="Italy",DMAX .s
@@ -12589,10 +12585,6 @@ vavoo://1070290151a2161042a11a
 vavoo://3351863213ae83540f4e1e
 #EXTINF:-1 tvg-id="36929275131676477efa1e" tvg-name="RETE SOLE .c" tvg-logo="https://logo.huhu.to/logo?c=3692927513.png" group-title="Italy",RETE SOLE .c
 vavoo://36929275131676477efa1e
-#EXTINF:-1 tvg-id="36929275131676477efa1e" tvg-name="RETE SOLE .c" tvg-logo="https://logo.huhu.to/logo?c=3692927513.png" group-title="Italy",RETE SOLE .c
-vavoo://36929275131676477efa1e
-#EXTINF:-1 tvg-id="413105501853266fc8e1b9" tvg-name="RETE TV ITALIA .c" tvg-logo="https://logo.huhu.to/logo?c=4131055018.png" group-title="Italy",RETE TV ITALIA .c
-vavoo://413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="413105501853266fc8e1b9" tvg-name="RETE TV ITALIA .c" tvg-logo="https://logo.huhu.to/logo?c=4131055018.png" group-title="Italy",RETE TV ITALIA .c
 vavoo://413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="10944791346b08a647fce" tvg-name="RETEBIELLA TV .c" tvg-logo="https://logo.huhu.to/logo?c=109447913.png" group-title="Italy",RETEBIELLA TV .c
@@ -12605,6 +12597,10 @@ vavoo://2209352147379c000ac415
 vavoo://2209352147379c000ac415
 #EXTINF:-1 tvg-id="24556102030a38fc13c387" tvg-name="RSI LA 1 .c" tvg-logo="" group-title="Italy",RSI LA 1 .c
 vavoo://24556102030a38fc13c387
+#EXTINF:-1 tvg-id="24556102030a38fc13c387" tvg-name="RSI LA 1 .c" tvg-logo="" group-title="Italy",RSI LA 1 .c
+vavoo://24556102030a38fc13c387
+#EXTINF:-1 tvg-id="22903950460d6b257bf610" tvg-name="RSI LA 1 .s" tvg-logo="" group-title="Italy",RSI LA 1 .s
+vavoo://22903950460d6b257bf610
 #EXTINF:-1 tvg-id="22903950460d6b257bf610" tvg-name="RSI LA 1 .s" tvg-logo="" group-title="Italy",RSI LA 1 .s
 vavoo://22903950460d6b257bf610
 #EXTINF:-1 tvg-id="3590183307ca309aa6be37" tvg-name="RSI LA 2 .c" tvg-logo="" group-title="Italy",RSI LA 2 .c
@@ -12725,8 +12721,6 @@ vavoo://213025533947852942a90f
 vavoo://14407790614bc8041c450d
 #EXTINF:-1 tvg-id="113411388318bf0ef81722" tvg-name="SKY PRIMAFILA 9 .c" tvg-logo="https://logo.huhu.to/logo?c=1134113883.png" group-title="Italy",SKY PRIMAFILA 9 .c
 vavoo://113411388318bf0ef81722
-#EXTINF:-1 tvg-id="17532606771304e2497369" tvg-name="SKY PRIMAFILA 9 .s" tvg-logo="" group-title="Italy",SKY PRIMAFILA 9 .s
-vavoo://17532606771304e2497369
 #EXTINF:-1 tvg-id="83668011205f936fa3b65" tvg-name="SKY SERIE .c" tvg-logo="https://logo.huhu.to/logo?c=836680112.png" group-title="Italy",SKY SERIE .c
 vavoo://83668011205f936fa3b65
 #EXTINF:-1 tvg-id="92466165981ba6f81de20" tvg-name="SKY SPORT .c" tvg-logo="https://logo.huhu.to/logo?c=924661659.png" group-title="Italy",SKY SPORT .c
@@ -12787,8 +12781,6 @@ vavoo://287379323134c651595371
 vavoo://288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="83094948658201829f87a" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Italy",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s
 vavoo://83094948658201829f87a
-#EXTINF:-1 tvg-id="33428493134b007f2ed197" tvg-name="SPORTITALIA PLUS .c" tvg-logo="https://logo.huhu.to/logo?c=3342849313.png" group-title="Italy",SPORTITALIA PLUS .c
-vavoo://33428493134b007f2ed197
 #EXTINF:-1 tvg-id="21984103395cacdfaf1d34" tvg-name="SPORTITALIA SOLOCALCIO .c" tvg-logo="" group-title="Italy",SPORTITALIA SOLOCALCIO .c
 vavoo://21984103395cacdfaf1d34
 #EXTINF:-1 tvg-id="2356295928676bcb269bb3" tvg-name="ST EUROPE CHANNEL .c" tvg-logo="https://logo.huhu.to/logo?c=2356295928.png" group-title="Italy",ST EUROPE CHANNEL .c
@@ -12803,14 +12795,14 @@ vavoo://28436429458ff4e2cc4ae6
 vavoo://3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="88205050e85664590a6b" tvg-name="STEREO 5 TV .c" tvg-logo="https://logo.huhu.to/logo?c=88205050.png" group-title="Italy",STEREO 5 TV .c
 vavoo://88205050e85664590a6b
-#EXTINF:-1 tvg-id="3213195143c3be65cec024" tvg-name="SUPER TENNIS .c" tvg-logo="https://logo.huhu.to/logo?c=3213195143.png" group-title="Italy",SUPER TENNIS .c
-vavoo://3213195143c3be65cec024
 #EXTINF:-1 tvg-id="300937751365646200d097" tvg-name="SUPER TENNIS .s" tvg-logo="" group-title="Italy",SUPER TENNIS .s
 vavoo://300937751365646200d097
 #EXTINF:-1 tvg-id="11653719d8ef305a8c92" tvg-name="SUPER TV ARISTANIS .c" tvg-logo="https://logo.huhu.to/logo?c=11653719.png" group-title="Italy",SUPER TV ARISTANIS .c
 vavoo://11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="2061826034c5ac3b5d7306" tvg-name="SUPER TV BRESCIA .c" tvg-logo="https://logo.huhu.to/logo?c=2061826034.png" group-title="Italy",SUPER TV BRESCIA .c
 vavoo://2061826034c5ac3b5d7306
+#EXTINF:-1 tvg-id="3550030443fb56cbe586ef" tvg-name="SUPER! .c" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" group-title="Italy",SUPER! .c
+vavoo://3550030443fb56cbe586ef
 #EXTINF:-1 tvg-id="2900362153b8a056cb86c0" tvg-name="SUPER! .s" tvg-logo="" group-title="Italy",SUPER! .s
 vavoo://2900362153b8a056cb86c0
 #EXTINF:-1 tvg-id="8491244640295fc9ea282" tvg-name="SUPERSIX LOMBARDIA .c" tvg-logo="https://logo.huhu.to/logo?c=849124464.png" group-title="Italy",SUPERSIX LOMBARDIA .c
@@ -12991,6 +12983,8 @@ vavoo://3127261334b758be1ffb15
 vavoo://226214567e0c20bf9460f
 #EXTINF:-1 tvg-id="855410063ef385532c012" tvg-name="DUCK TV .c" tvg-logo="https://logo.huhu.to/logo?c=855410063.png" group-title="Netherlands",DUCK TV .c
 vavoo://855410063ef385532c012
+#EXTINF:-1 tvg-id="486015393b8b7743096c9" tvg-name="E! .c" tvg-logo="https://logo.huhu.to/logo?c=486015393.png" group-title="Netherlands",E! .c
+vavoo://486015393b8b7743096c9
 #EXTINF:-1 tvg-id="14844944587896c4c82c76" tvg-name="ESPN .c" tvg-logo="https://logo.huhu.to/logo?c=1484494458.png" group-title="Netherlands",ESPN .c
 vavoo://14844944587896c4c82c76
 #EXTINF:-1 tvg-id="4054737359693cab8d561" tvg-name="ESPN 2 .c" tvg-logo="https://logo.huhu.to/logo?c=405473735.png" group-title="Netherlands",ESPN 2 .c
@@ -13297,8 +13291,6 @@ vavoo://3410155067024b69a40261
 vavoo://1134500053abda82773dc4
 #EXTINF:-1 tvg-id="3422335766cfd7fc036788" tvg-name="AXN WHITE .c" tvg-logo="https://logo.huhu.to/logo?c=3422335766.png" group-title="Poland",AXN WHITE .c
 vavoo://3422335766cfd7fc036788
-#EXTINF:-1 tvg-id="3503957951297a67bc2d2b" tvg-name="BABY TV .c" tvg-logo="https://logo.huhu.to/logo?c=3503957951.png" group-title="Poland",BABY TV .c
-vavoo://3503957951297a67bc2d2b
 #EXTINF:-1 tvg-id="3946902235d104900eddd2" tvg-name="BBC BRIT POLSKA .c" tvg-logo="https://logo.huhu.to/logo?c=3946902235.png" group-title="Poland",BBC BRIT POLSKA .c
 vavoo://3946902235d104900eddd2
 #EXTINF:-1 tvg-id="4493189536774ba85abf" tvg-name="BBC EARTH HD .b" tvg-logo="" group-title="Poland",BBC EARTH HD .b
@@ -13311,8 +13303,6 @@ vavoo://16361249632f511761cfb
 vavoo://520666681b1b6f8360d71
 #EXTINF:-1 tvg-id="14674255689f025ea0982c" tvg-name="BBC WORLD NEWS .c" tvg-logo="" group-title="Poland",BBC WORLD NEWS .c
 vavoo://14674255689f025ea0982c
-#EXTINF:-1 tvg-id="2539427397f9d3edcbd18e" tvg-name="BIZNES 24 .c" tvg-logo="https://logo.huhu.to/logo?c=2539427397.png" group-title="Poland",BIZNES 24 .c
-vavoo://2539427397f9d3edcbd18e
 #EXTINF:-1 tvg-id="18632499891077921f24af" tvg-name="BOOMERANG .c" tvg-logo="https://logo.huhu.to/logo?c=1863249989.png" group-title="Poland",BOOMERANG .c
 vavoo://18632499891077921f24af
 #EXTINF:-1 tvg-id="2261418068992355fd5c4a" tvg-name="BOOMERANG HD .b" tvg-logo="" group-title="Poland",BOOMERANG HD .b
@@ -13329,6 +13319,8 @@ vavoo://192645230664acfa58faa7
 vavoo://8671852307094ad4ebd22
 #EXTINF:-1 tvg-id="391805483dd8e472fc149" tvg-name="CANAL NOW .b" tvg-logo="" group-title="Poland",CANAL NOW .b
 vavoo://391805483dd8e472fc149
+#EXTINF:-1 tvg-id="624101167a683f2b8ab42" tvg-name="CANAL SERIALE HD .b" tvg-logo="" group-title="Poland",CANAL SERIALE HD .b
+vavoo://624101167a683f2b8ab42
 #EXTINF:-1 tvg-id="3232832013cd6ada2e2316" tvg-name="CANAL SPORT 1 HD .b" tvg-logo="" group-title="Poland",CANAL SPORT 1 HD .b
 vavoo://3232832013cd6ada2e2316
 #EXTINF:-1 tvg-id="28755174678071a266e452" tvg-name="CANAL SPORT 2 HD (BACKUP) .b" tvg-logo="" group-title="Poland",CANAL SPORT 2 HD (BACKUP) .b
@@ -13381,8 +13373,6 @@ vavoo://22799504535bdefe43c9c1
 vavoo://41803423298f18b92da6d1
 #EXTINF:-1 tvg-id="42755822772b0785da795e" tvg-name="CANAL+ SPORT 2 .c" tvg-logo="https://logo.huhu.to/logo?c=4275582277.png" group-title="Poland",CANAL+ SPORT 2 .c
 vavoo://42755822772b0785da795e
-#EXTINF:-1 tvg-id="3293241225da191d1bbed6" tvg-name="CANAL+ SPORT 3 .b" tvg-logo="" group-title="Poland",CANAL+ SPORT 3 .b
-vavoo://3293241225da191d1bbed6
 #EXTINF:-1 tvg-id="32836231570e5d35807626" tvg-name="CANAL+ SPORT 3 .c" tvg-logo="https://logo.huhu.to/logo?c=3283623157.png" group-title="Poland",CANAL+ SPORT 3 .c
 vavoo://32836231570e5d35807626
 #EXTINF:-1 tvg-id="198665922526f9ffb85846" tvg-name="CANAL+ SPORT 4 .b" tvg-logo="" group-title="Poland",CANAL+ SPORT 4 .b
@@ -13799,6 +13789,20 @@ vavoo://4262766972fa0b1f30c61
 vavoo://302042965832d39e3b28e3
 #EXTINF:-1 tvg-id="2086273015d548a81a1ac5" tvg-name="POLSAT JIM JAM .b" tvg-logo="" group-title="Poland",POLSAT JIM JAM .b
 vavoo://2086273015d548a81a1ac5
+#EXTINF:-1 tvg-id="1416917628ac520c5a0197" tvg-name="POLSAT MUSIC .c" tvg-logo="https://logo.huhu.to/logo?c=1416917628.png" group-title="Poland",POLSAT MUSIC .c
+vavoo://1416917628ac520c5a0197
+#EXTINF:-1 tvg-id="4033823883148cc3ea262a" tvg-name="POLSAT MUSIC HD .b" tvg-logo="" group-title="Poland",POLSAT MUSIC HD .b
+vavoo://4033823883148cc3ea262a
+#EXTINF:-1 tvg-id="219927567805fd63350d3b" tvg-name="POLSAT NEWS .c" tvg-logo="" group-title="Poland",POLSAT NEWS .c
+vavoo://219927567805fd63350d3b
+#EXTINF:-1 tvg-id="2254760810a60b477d4a2" tvg-name="POLSAT NEWS 2 .b" tvg-logo="" group-title="Poland",POLSAT NEWS 2 .b
+vavoo://2254760810a60b477d4a2
+#EXTINF:-1 tvg-id="1129454481219bfb3c344b" tvg-name="POLSAT NEWS 2 .c" tvg-logo="" group-title="Poland",POLSAT NEWS 2 .c
+vavoo://1129454481219bfb3c344b
+#EXTINF:-1 tvg-id="33609529492b0cc342df9a" tvg-name="POLSAT NEWS HD .b" tvg-logo="" group-title="Poland",POLSAT NEWS HD .b
+vavoo://33609529492b0cc342df9a
+#EXTINF:-1 tvg-id="1513427389de1d984cd388" tvg-name="POLSAT NEWS POLITYKA .c" tvg-logo="https://logo.huhu.to/logo?c=1513427389.png" group-title="Poland",POLSAT NEWS POLITYKA .c
+vavoo://1513427389de1d984cd388
 #EXTINF:-1 tvg-id="37665401474a1320a99ea7" tvg-name="POLSAT PLAY .c" tvg-logo="https://logo.huhu.to/logo?c=3766540147.png" group-title="Poland",POLSAT PLAY .c
 vavoo://37665401474a1320a99ea7
 #EXTINF:-1 tvg-id="22625610894b6a8b183e3e" tvg-name="POLSAT PLAY HD .b" tvg-logo="" group-title="Poland",POLSAT PLAY HD .b
@@ -13873,6 +13877,8 @@ vavoo://813080830a2a80d16fde
 vavoo://4029165915a1dcab5f5530
 #EXTINF:-1 tvg-id="172785184596caa7d4747f" tvg-name="POLSAT VIASAT HISTORY HD .b" tvg-logo="" group-title="Poland",POLSAT VIASAT HISTORY HD .b
 vavoo://172785184596caa7d4747f
+#EXTINF:-1 tvg-id="3569434675187461df6422" tvg-name="POLSAT VIASAT NATURE HD .b" tvg-logo="" group-title="Poland",POLSAT VIASAT NATURE HD .b
+vavoo://3569434675187461df6422
 #EXTINF:-1 tvg-id="56668129337851bd8d582" tvg-name="POWER TV .c" tvg-logo="https://logo.huhu.to/logo?c=566681293.png" group-title="Poland",POWER TV .c
 vavoo://56668129337851bd8d582
 #EXTINF:-1 tvg-id="2969548400adabacd7d43c" tvg-name="PULS .c" tvg-logo="https://logo.huhu.to/logo?c=2969548400.png" group-title="Poland",PULS .c
@@ -13915,6 +13921,8 @@ vavoo://1291874011cd56ad8f451e
 vavoo://525621074e6d5ed182a2
 #EXTINF:-1 tvg-id="228966158057aeaeda8cfc" tvg-name="STUDIOMED TV .c" tvg-logo="https://logo.huhu.to/logo?c=2289661580.png" group-title="Poland",STUDIOMED TV .c
 vavoo://228966158057aeaeda8cfc
+#EXTINF:-1 tvg-id="16016051826cc408276480" tvg-name="STUDIOMED TV HD .b" tvg-logo="" group-title="Poland",STUDIOMED TV HD .b
+vavoo://16016051826cc408276480
 #EXTINF:-1 tvg-id="31657506084a105ba11151" tvg-name="SUNDANCE HD .b" tvg-logo="" group-title="Poland",SUNDANCE HD .b
 vavoo://31657506084a105ba11151
 #EXTINF:-1 tvg-id="27137381460102d31e1dcc" tvg-name="SUNDANCE TV .c" tvg-logo="https://logo.huhu.to/logo?c=2713738146.png" group-title="Poland",SUNDANCE TV .c
@@ -14093,6 +14101,8 @@ vavoo://3476526393a83adff7b1f0
 vavoo://1540833853784f4b9e3b15
 #EXTINF:-1 tvg-id="4266072851a2fd6cd54822" tvg-name="TVP ROZRYWKA .b" tvg-logo="" group-title="Poland",TVP ROZRYWKA .b
 vavoo://4266072851a2fd6cd54822
+#EXTINF:-1 tvg-id="1598537178c6f6de6a7a4" tvg-name="TVP ROZRYWKA .c" tvg-logo="https://logo.huhu.to/logo?c=159853717.png" group-title="Poland",TVP ROZRYWKA .c
+vavoo://1598537178c6f6de6a7a4
 #EXTINF:-1 tvg-id="1463467003938f48194736" tvg-name="TVP SERIALE .b" tvg-logo="" group-title="Poland",TVP SERIALE .b
 vavoo://1463467003938f48194736
 #EXTINF:-1 tvg-id="612328203f5ce7db9053c" tvg-name="TVP SERIALE .c" tvg-logo="https://logo.huhu.to/logo?c=612328203.png" group-title="Poland",TVP SERIALE .c
@@ -14103,8 +14113,6 @@ vavoo://385437754454d0d7037a32
 vavoo://1843300747c5b755585f7c
 #EXTINF:-1 tvg-id="170846911107179f07fade" tvg-name="TVP SPORT HD .b" tvg-logo="" group-title="Poland",TVP SPORT HD .b
 vavoo://170846911107179f07fade
-#EXTINF:-1 tvg-id="33992833037c909ab63abb" tvg-name="TVP WORLD .c" tvg-logo="" group-title="Poland",TVP WORLD .c
-vavoo://33992833037c909ab63abb
 #EXTINF:-1 tvg-id="70116450872e039e89480" tvg-name="TVR .b" tvg-logo="" group-title="Poland",TVR .b
 vavoo://70116450872e039e89480
 #EXTINF:-1 tvg-id="2667518075eb9615562843" tvg-name="TVS .c" tvg-logo="https://logo.huhu.to/logo?c=2667518075.png" group-title="Poland",TVS .c
@@ -14193,6 +14201,8 @@ vavoo://47702122617bfc7ea0a24
 vavoo://328698532772b83e8ca83a
 #EXTINF:-1 tvg-id="111671916207b28b428915" tvg-name="BABY TV .b" tvg-logo="" group-title="Portugal",BABY TV .b
 vavoo://111671916207b28b428915
+#EXTINF:-1 tvg-id="3404489721c363c3c29596" tvg-name="BABY TV .c" tvg-logo="https://logo.huhu.to/logo?c=3404489721.png" group-title="Portugal",BABY TV .c
+vavoo://3404489721c363c3c29596
 #EXTINF:-1 tvg-id="1059923452c630d2b84864" tvg-name="BENFICA TV (BACKUP) .b" tvg-logo="" group-title="Portugal",BENFICA TV (BACKUP) .b
 vavoo://1059923452c630d2b84864
 #EXTINF:-1 tvg-id="153111452837f69b803b96" tvg-name="BENFICA TV .b" tvg-logo="" group-title="Portugal",BENFICA TV .b
@@ -14285,8 +14295,6 @@ vavoo://27356210168e6ecb966170
 vavoo://78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="57570103360bc951258fe" tvg-name="DISCOVERY WORLD .c" tvg-logo="https://logo.huhu.to/logo?c=575701033.png" group-title="Portugal",DISCOVERY WORLD .c
 vavoo://57570103360bc951258fe
-#EXTINF:-1 tvg-id="1668808212073ea3ac1de7" tvg-name="DISNEY CHANNEL .b" tvg-logo="" group-title="Portugal",DISNEY CHANNEL .b
-vavoo://1668808212073ea3ac1de7
 #EXTINF:-1 tvg-id="7711415421c705f6ba5dd" tvg-name="DISNEY JUNIOR .b" tvg-logo="" group-title="Portugal",DISNEY JUNIOR .b
 vavoo://7711415421c705f6ba5dd
 #EXTINF:-1 tvg-id="2551829420791b5b928702" tvg-name="DISNEY+ .c" tvg-logo="https://logo.huhu.to/logo?c=2551829420.png" group-title="Portugal",DISNEY+ .c
@@ -14337,8 +14345,6 @@ vavoo://23613437464af854e58e92
 vavoo://19859372356f23a09d89b7
 #EXTINF:-1 tvg-id="1075134364cad87b8f672e" tvg-name="ELEVEN SPORTS 5 HD .b" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 5 HD .b
 vavoo://1075134364cad87b8f672e
-#EXTINF:-1 tvg-id="178311678567a225e74dff" tvg-name="ELEVEN SPORTS 6 HD (BACKUP) .b" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 6 HD (BACKUP) .b
-vavoo://178311678567a225e74dff
 #EXTINF:-1 tvg-id="34662135034440faed2387" tvg-name="ELEVEN SPORTS 6 HD .b" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 6 HD .b
 vavoo://34662135034440faed2387
 #EXTINF:-1 tvg-id="2842227117aaf7e860f895" tvg-name="EURONEWS .c" tvg-logo="https://logo.huhu.to/logo?c=2842227117.png" group-title="Portugal",EURONEWS .c
@@ -14385,36 +14391,14 @@ vavoo://4138844993f9f6ab3175df
 vavoo://3934395114e54c2b884854
 #EXTINF:-1 tvg-id="3701688c92f60856b71" tvg-name="HBO PORTUGAL .c" tvg-logo="https://logo.huhu.to/logo?c=3701688.png" group-title="Portugal",HBO PORTUGAL .c
 vavoo://3701688c92f60856b71
-#EXTINF:-1 tvg-id="3701688c92f60856b71" tvg-name="HBO PORTUGAL .c" tvg-logo="https://logo.huhu.to/logo?c=3701688.png" group-title="Portugal",HBO PORTUGAL .c
-vavoo://3701688c92f60856b71
-#EXTINF:-1 tvg-id="310002268589f0484d477b" tvg-name="HGTV .c" tvg-logo="" group-title="Portugal",HGTV .c
-vavoo://310002268589f0484d477b
 #EXTINF:-1 tvg-id="310002268589f0484d477b" tvg-name="HGTV .c" tvg-logo="" group-title="Portugal",HGTV .c
 vavoo://310002268589f0484d477b
 #EXTINF:-1 tvg-id="1471702249632c76c543a9" tvg-name="HISTORIA .b" tvg-logo="" group-title="Portugal",HISTORIA .b
 vavoo://1471702249632c76c543a9
-#EXTINF:-1 tvg-id="1471702249632c76c543a9" tvg-name="HISTORIA .b" tvg-logo="" group-title="Portugal",HISTORIA .b
-vavoo://1471702249632c76c543a9
-#EXTINF:-1 tvg-id="52553831439c933d566ef" tvg-name="HISTORIA .c" tvg-logo="https://logo.huhu.to/logo?c=525538314.png" group-title="Portugal",HISTORIA .c
-vavoo://52553831439c933d566ef
 #EXTINF:-1 tvg-id="52553831439c933d566ef" tvg-name="HISTORIA .c" tvg-logo="https://logo.huhu.to/logo?c=525538314.png" group-title="Portugal",HISTORIA .c
 vavoo://52553831439c933d566ef
 #EXTINF:-1 tvg-id="7080840411e9f3bd3b681" tvg-name="HOLLYWOOD .c" tvg-logo="https://logo.huhu.to/logo?c=708084041.png" group-title="Portugal",HOLLYWOOD .c
 vavoo://7080840411e9f3bd3b681
-#EXTINF:-1 tvg-id="7080840411e9f3bd3b681" tvg-name="HOLLYWOOD .c" tvg-logo="https://logo.huhu.to/logo?c=708084041.png" group-title="Portugal",HOLLYWOOD .c
-vavoo://7080840411e9f3bd3b681
-#EXTINF:-1 tvg-id="1181792777fdf3f172d007" tvg-name="INVESTIGATION DISCOVERY .c" tvg-logo="https://logo.huhu.to/logo?c=1181792777.png" group-title="Portugal",INVESTIGATION DISCOVERY .c
-vavoo://1181792777fdf3f172d007
-#EXTINF:-1 tvg-id="39730572654e7aa88778b3" tvg-name="JIM JAM .b" tvg-logo="" group-title="Portugal",JIM JAM .b
-vavoo://39730572654e7aa88778b3
-#EXTINF:-1 tvg-id="39730572654e7aa88778b3" tvg-name="JIM JAM .b" tvg-logo="" group-title="Portugal",JIM JAM .b
-vavoo://39730572654e7aa88778b3
-#EXTINF:-1 tvg-id="3380920371ff40bb686181" tvg-name="JIMJAM .c" tvg-logo="https://logo.huhu.to/logo?c=3380920371.png" group-title="Portugal",JIMJAM .c
-vavoo://3380920371ff40bb686181
-#EXTINF:-1 tvg-id="3380920371ff40bb686181" tvg-name="JIMJAM .c" tvg-logo="https://logo.huhu.to/logo?c=3380920371.png" group-title="Portugal",JIMJAM .c
-vavoo://3380920371ff40bb686181
-#EXTINF:-1 tvg-id="1894635407715cfe3d36ca" tvg-name="KANUCA TV .c" tvg-logo="https://logo.huhu.to/logo?c=1894635407.png" group-title="Portugal",KANUCA TV .c
-vavoo://1894635407715cfe3d36ca
 #EXTINF:-1 tvg-id="1894635407715cfe3d36ca" tvg-name="KANUCA TV .c" tvg-logo="https://logo.huhu.to/logo?c=1894635407.png" group-title="Portugal",KANUCA TV .c
 vavoo://1894635407715cfe3d36ca
 #EXTINF:-1 tvg-id="704666836ccdd94704f0" tvg-name="KOMBAT SPORT (BACKUP) .b" tvg-logo="" group-title="Portugal",KOMBAT SPORT (BACKUP) .b
@@ -14615,8 +14599,6 @@ vavoo://12763267051751832c99d9
 vavoo://34583288246e0a0ec6fc0f
 #EXTINF:-1 tvg-id="9711041268146231bc411" tvg-name="SPORT TV 5 .c" tvg-logo="https://logo.huhu.to/logo?c=971104126.png" group-title="Portugal",SPORT TV 5 .c
 vavoo://9711041268146231bc411
-#EXTINF:-1 tvg-id="1747400167d0a3c0f6bef2" tvg-name="SPORT TV 5 HD .b" tvg-logo="" group-title="Portugal",SPORT TV 5 HD .b
-vavoo://1747400167d0a3c0f6bef2
 #EXTINF:-1 tvg-id="2118231470742cd8dad95f" tvg-name="SPORT TV 6 .c" tvg-logo="https://logo.huhu.to/logo?c=2118231470.png" group-title="Portugal",SPORT TV 6 .c
 vavoo://2118231470742cd8dad95f
 #EXTINF:-1 tvg-id="112627203002ec33f64535" tvg-name="SPORT TV 7 .c" tvg-logo="" group-title="Portugal",SPORT TV 7 .c
@@ -14667,8 +14649,6 @@ vavoo://1966027521cfea3ee092b5
 vavoo://16196976980919a19eb333
 #EXTINF:-1 tvg-id="784576657f26a88c3fce5" tvg-name="TOROS TV (BACKUP) .b" tvg-logo="" group-title="Portugal",TOROS TV (BACKUP) .b
 vavoo://784576657f26a88c3fce5
-#EXTINF:-1 tvg-id="1243809524ae367b5e76b4" tvg-name="TOROS TV .b" tvg-logo="https://logo.huhu.to/logo?c=1243809524.png" group-title="Portugal",TOROS TV .b
-vavoo://1243809524ae367b5e76b4
 #EXTINF:-1 tvg-id="42820236599047952b5dee" tvg-name="TRAVEL CHANNEL .c" tvg-logo="https://logo.huhu.to/logo?c=4282023659.png" group-title="Portugal",TRAVEL CHANNEL .c
 vavoo://42820236599047952b5dee
 #EXTINF:-1 tvg-id="2247442701b34d1b42dae" tvg-name="TRAVEL CHANNEL HD .b" tvg-logo="" group-title="Portugal",TRAVEL CHANNEL HD .b
@@ -14797,6 +14777,8 @@ vavoo://276829064578a1e09c3f74
 vavoo://3213830486b066e7368b98
 #EXTINF:-1 tvg-id="1314204576c29af0e6e638" tvg-name="DIGI SPORT 1 .b" tvg-logo="" group-title="Romania",DIGI SPORT 1 .b
 vavoo://1314204576c29af0e6e638
+#EXTINF:-1 tvg-id="31745299912b6a5b40278b" tvg-name="DIGI SPORT 1 HD .b" tvg-logo="" group-title="Romania",DIGI SPORT 1 HD .b
+vavoo://31745299912b6a5b40278b
 #EXTINF:-1 tvg-id="1670721123f10a076d7b8" tvg-name="DIGI SPORT 2 .b" tvg-logo="" group-title="Romania",DIGI SPORT 2 .b
 vavoo://1670721123f10a076d7b8
 #EXTINF:-1 tvg-id="867728420d13031553a8a" tvg-name="DIGI SPORT 2 HD .b" tvg-logo="" group-title="Romania",DIGI SPORT 2 HD .b
@@ -14885,6 +14867,8 @@ vavoo://21907872120379b72bc4fc
 vavoo://3182795621475083741456
 #EXTINF:-1 tvg-id="1478995347d1f9525dc85a" tvg-name="PRO X HD .b" tvg-logo="" group-title="Romania",PRO X HD .b
 vavoo://1478995347d1f9525dc85a
+#EXTINF:-1 tvg-id="37230983337ba6b040112f" tvg-name="ROMANIA TV .b" tvg-logo="" group-title="Romania",ROMANIA TV .b
+vavoo://37230983337ba6b040112f
 #EXTINF:-1 tvg-id="4067987074517bc00aa9ae" tvg-name="TARAF TV .b" tvg-logo="" group-title="Romania",TARAF TV .b
 vavoo://4067987074517bc00aa9ae
 #EXTINF:-1 tvg-id="20133686724c417a19ece8" tvg-name="TELEKOM SPORT 2 HD .b" tvg-logo="" group-title="Romania",TELEKOM SPORT 2 HD .b
@@ -14905,8 +14889,6 @@ vavoo://1781455170a9b3b72ab40e
 vavoo://764322706711e5eadab9f
 #EXTINF:-1 tvg-id="2840683861c55f35acc54" tvg-name="TVR 3 .b" tvg-logo="" group-title="Romania",TVR 3 .b
 vavoo://2840683861c55f35acc54
-#EXTINF:-1 tvg-id="48338439318b7d34609be" tvg-name="TVR HD .b" tvg-logo="" group-title="Romania",TVR HD .b
-vavoo://48338439318b7d34609be
 #EXTINF:-1 tvg-id="3441791596123ef265f23d" tvg-name="VIASAT EXPORER .b" tvg-logo="" group-title="Romania",VIASAT EXPORER .b
 vavoo://3441791596123ef265f23d
 #EXTINF:-1 tvg-id="311295032940bf58b4807a" tvg-name="VIASAT HISTORY .b" tvg-logo="" group-title="Romania",VIASAT HISTORY .b
@@ -14999,6 +14981,28 @@ vavoo://15929737514e39a4ceec09
 vavoo://76790896b7ebe529115e
 #EXTINF:-1 tvg-id="20925127416dcfde316841" tvg-name="HOLLYWOOD HD .b" tvg-logo="" group-title="Russia",HOLLYWOOD HD .b
 vavoo://20925127416dcfde316841
+#EXTINF:-1 tvg-id="125503784320a11c11f7be" tvg-name="ID .b" tvg-logo="" group-title="Russia",ID .b
+vavoo://125503784320a11c11f7be
+#EXTINF:-1 tvg-id="3609920790c7b8625d6de" tvg-name="JIMJAM .b" tvg-logo="" group-title="Russia",JIMJAM .b
+vavoo://3609920790c7b8625d6de
+#EXTINF:-1 tvg-id="2890854598f5b804149c2" tvg-name="KHL .b" tvg-logo="" group-title="Russia",KHL .b
+vavoo://2890854598f5b804149c2
+#EXTINF:-1 tvg-id="4045527153e90ef006c64a" tvg-name="KHL PRIME .b" tvg-logo="" group-title="Russia",KHL PRIME .b
+vavoo://4045527153e90ef006c64a
+#EXTINF:-1 tvg-id="143019046d836795a1183" tvg-name="LEOMAX24 .b" tvg-logo="" group-title="Russia",LEOMAX24 .b
+vavoo://143019046d836795a1183
+#EXTINF:-1 tvg-id="36962499686bf3c2a15143" tvg-name="MCM TOP .b" tvg-logo="" group-title="Russia",MCM TOP .b
+vavoo://36962499686bf3c2a15143
+#EXTINF:-1 tvg-id="20658380407a63d8366fcd" tvg-name="MEGAHIT HD .b" tvg-logo="" group-title="Russia",MEGAHIT HD .b
+vavoo://20658380407a63d8366fcd
+#EXTINF:-1 tvg-id="20658380407a63d8366fcd" tvg-name="MEGAHIT HD .b" tvg-logo="" group-title="Russia",MEGAHIT HD .b
+vavoo://20658380407a63d8366fcd
+#EXTINF:-1 tvg-id="86247815017bcd61d5dbc" tvg-name="MEZZO .b" tvg-logo="" group-title="Russia",MEZZO .b
+vavoo://86247815017bcd61d5dbc
+#EXTINF:-1 tvg-id="86247815017bcd61d5dbc" tvg-name="MEZZO .b" tvg-logo="" group-title="Russia",MEZZO .b
+vavoo://86247815017bcd61d5dbc
+#EXTINF:-1 tvg-id="22456101875c4e5cb31ecc" tvg-name="MEZZO LIVE HD .b" tvg-logo="" group-title="Russia",MEZZO LIVE HD .b
+vavoo://22456101875c4e5cb31ecc
 #EXTINF:-1 tvg-id="7496911141f9609989a74" tvg-name="MTV .b" tvg-logo="" group-title="Russia",MTV .b
 vavoo://7496911141f9609989a74
 #EXTINF:-1 tvg-id="412055334305df2dc7b7b7" tvg-name="MTV 00S .b" tvg-logo="" group-title="Russia",MTV 00S .b
@@ -15011,6 +15015,8 @@ vavoo://1783586546377487f47eca
 vavoo://39559023796a40e246985c
 #EXTINF:-1 tvg-id="3544884412e324d1673d6c" tvg-name="MUSIC BOX RUSSIA HD .b" tvg-logo="" group-title="Russia",MUSIC BOX RUSSIA HD .b
 vavoo://3544884412e324d1673d6c
+#EXTINF:-1 tvg-id="3212760536770b59dd1bae" tvg-name="M‑1 GLOBAL .b" tvg-logo="" group-title="Russia",M‑1 GLOBAL .b
+vavoo://3212760536770b59dd1bae
 #EXTINF:-1 tvg-id="1850303642a21d4deacb73" tvg-name="NAT GEO WILD HD .b" tvg-logo="" group-title="Russia",NAT GEO WILD HD .b
 vavoo://1850303642a21d4deacb73
 #EXTINF:-1 tvg-id="25783989e9f0fc86d265" tvg-name="NATIONAL GEOGRAPHIC HD .b" tvg-logo="" group-title="Russia",NATIONAL GEOGRAPHIC HD .b
@@ -15141,8 +15147,6 @@ vavoo://320077498ab978524f802
 vavoo://37178665092bb43e4bac2e
 #EXTINF:-1 tvg-id="32221261104d541d73f5ce" tvg-name="КОМЕДИЯ .b" tvg-logo="" group-title="Russia",КОМЕДИЯ .b
 vavoo://32221261104d541d73f5ce
-#EXTINF:-1 tvg-id="1164998411f60634a7c963" tvg-name="КТО ЕСТЬ КТО .b" tvg-logo="" group-title="Russia",КТО ЕСТЬ КТО .b
-vavoo://1164998411f60634a7c963
 #EXTINF:-1 tvg-id="343547806e96477472329" tvg-name="КТОКУДА .b" tvg-logo="" group-title="Russia",КТОКУДА .b
 vavoo://343547806e96477472329
 #EXTINF:-1 tvg-id="35379537069ba01cdfa74e" tvg-name="КУХНЯ ТВ .b" tvg-logo="" group-title="Russia",КУХНЯ ТВ .b
@@ -15259,8 +15263,6 @@ vavoo://7374072166ba0270b9bc0
 vavoo://42541058089c7709e89871
 #EXTINF:-1 tvg-id="66042311743a68bcaf49d" tvg-name="РОССИЯ 1 +2 .b" tvg-logo="" group-title="Russia",РОССИЯ 1 +2 .b
 vavoo://66042311743a68bcaf49d
-#EXTINF:-1 tvg-id="2820519021aaac5c496919" tvg-name="РОССИЯ 1 +4 .b" tvg-logo="" group-title="Russia",РОССИЯ 1 +4 .b
-vavoo://2820519021aaac5c496919
 #EXTINF:-1 tvg-id="35377579659b5d3d399e8d" tvg-name="РОССИЯ 1 +6 .b" tvg-logo="" group-title="Russia",РОССИЯ 1 +6 .b
 vavoo://35377579659b5d3d399e8d
 #EXTINF:-1 tvg-id="1844271468581e6d621a30" tvg-name="РОССИЯ 1 +8 .b" tvg-logo="" group-title="Russia",РОССИЯ 1 +8 .b
@@ -15479,8 +15481,6 @@ vavoo://11117501570608a2d74ffb
 vavoo://1754187427a6aecaaa25c4
 #EXTINF:-1 tvg-id="14753746109c25df46fa0f" tvg-name="CANAL SIERRA DE CADIZ .c" tvg-logo="https://logo.huhu.to/logo?c=1475374610.png" group-title="Spain",CANAL SIERRA DE CADIZ .c
 vavoo://14753746109c25df46fa0f
-#EXTINF:-1 tvg-id="46034662709632fce4484" tvg-name="CANAL SUR A .b" tvg-logo="" group-title="Spain",CANAL SUR A .b
-vavoo://46034662709632fce4484
 #EXTINF:-1 tvg-id="24585398230e547ebb993f" tvg-name="CANAL SUR ANDALUCIA .c" tvg-logo="https://logo.huhu.to/logo?c=2458539823.png" group-title="Spain",CANAL SUR ANDALUCIA .c
 vavoo://24585398230e547ebb993f
 #EXTINF:-1 tvg-id="864327681f476c8a8db29" tvg-name="CANAL SUR ANDALUCIA 2 .c" tvg-logo="https://logo.huhu.to/logo?c=864327681.png" group-title="Spain",CANAL SUR ANDALUCIA 2 .c
@@ -15501,6 +15501,8 @@ vavoo://199548381490413d569533
 vavoo://2747600950db31136b0c1c
 #EXTINF:-1 tvg-id="2838647061dc0ac5a9559a" tvg-name="CLASSICA .b" tvg-logo="" group-title="Spain",CLASSICA .b
 vavoo://2838647061dc0ac5a9559a
+#EXTINF:-1 tvg-id="27037883851d60a4dd0956" tvg-name="CNN EN ESPANOL .c" tvg-logo="https://logo.huhu.to/logo?c=2703788385.png" group-title="Spain",CNN EN ESPANOL .c
+vavoo://27037883851d60a4dd0956
 #EXTINF:-1 tvg-id="37628840931ecfdfdef98e" tvg-name="COMEDIA ESPANOLA .c" tvg-logo="" group-title="Spain",COMEDIA ESPANOLA .c
 vavoo://37628840931ecfdfdef98e
 #EXTINF:-1 tvg-id="3767840195e28bd482c6e0" tvg-name="COSMO HD .b" tvg-logo="" group-title="Spain",COSMO HD .b
@@ -15607,6 +15609,8 @@ vavoo://36204944534de72eaba372
 vavoo://2670144662ab93240c576b
 #EXTINF:-1 tvg-id="4125810523d80a37d3ff1c" tvg-name="FACTORIA DE FICCION/FDF .c" tvg-logo="https://logo.huhu.to/logo?c=4125810523.png" group-title="Spain",FACTORIA DE FICCION/FDF .c
 vavoo://4125810523d80a37d3ff1c
+#EXTINF:-1 tvg-id="26225858313dc1c12ffe85" tvg-name="FDF .b" tvg-logo="" group-title="Spain",FDF .b
+vavoo://26225858313dc1c12ffe85
 #EXTINF:-1 tvg-id="3362806456d3d7dff421d4" tvg-name="FOX .c" tvg-logo="" group-title="Spain",FOX .c
 vavoo://3362806456d3d7dff421d4
 #EXTINF:-1 tvg-id="2656093401067d606e6608" tvg-name="FOX HD .b" tvg-logo="" group-title="Spain",FOX HD .b
@@ -15985,8 +15989,6 @@ vavoo://4288771976ed19ca1898e4
 vavoo://3828793616b62b9cc5834c
 #EXTINF:-1 tvg-id="329569928726734a4497dc" tvg-name="24 KITCHEN .c" tvg-logo="https://logo.huhu.to/logo?c=3295699287.png" group-title="Turkey",24 KITCHEN .c
 vavoo://329569928726734a4497dc
-#EXTINF:-1 tvg-id="42853502477bb17264f322" tvg-name="24 KITCHEN HD .b" tvg-logo="" group-title="Turkey",24 KITCHEN HD .b
-vavoo://42853502477bb17264f322
 #EXTINF:-1 tvg-id="536029186d3e964e7e9db" tvg-name="24 RAW .b" tvg-logo="" group-title="Turkey",24 RAW .b
 vavoo://536029186d3e964e7e9db
 #EXTINF:-1 tvg-id="38229012391e140a7f75ba" tvg-name="24 TV .c" tvg-logo="https://logo.huhu.to/logo?c=3822901239.png" group-title="Turkey",24 TV .c
@@ -16121,8 +16123,6 @@ vavoo://9369082742fdb8ca83c62
 vavoo://8795889605c7795ac9528
 #EXTINF:-1 tvg-id="960578312ee36cc17c5d2" tvg-name="4K TR: SOZCU TV .b" tvg-logo="" group-title="Turkey",4K TR: SOZCU TV .b
 vavoo://960578312ee36cc17c5d2
-#EXTINF:-1 tvg-id="3159604752e1cba547bb" tvg-name="4K TR: SPOR SMART .b" tvg-logo="" group-title="Turkey",4K TR: SPOR SMART .b
-vavoo://3159604752e1cba547bb
 #EXTINF:-1 tvg-id="2429298798dcd505d1ab4b" tvg-name="4K TR: SPORTS TV HD .b" tvg-logo="" group-title="Turkey",4K TR: SPORTS TV HD .b
 vavoo://2429298798dcd505d1ab4b
 #EXTINF:-1 tvg-id="219297129315c074c03f8e" tvg-name="4K TR: STAR TV HD .b" tvg-logo="" group-title="Turkey",4K TR: STAR TV HD .b
@@ -16181,44 +16181,24 @@ vavoo://3766846723a124db6f6244
 vavoo://2511732024145ccd20a5d3
 #EXTINF:-1 tvg-id="8121316298dfb2ba1be71" tvg-name="A NEWS .c" tvg-logo="https://logo.huhu.to/logo?c=812131629.png" group-title="Turkey",A NEWS .c
 vavoo://8121316298dfb2ba1be71
-#EXTINF:-1 tvg-id="3415462105074dc2b1d646" tvg-name="A NEWS RAW .b" tvg-logo="" group-title="Turkey",A NEWS RAW .b
-vavoo://3415462105074dc2b1d646
+#EXTINF:-1 tvg-id="387890889759c06a2c4da1" tvg-name="A NEWS HD .b" tvg-logo="" group-title="Turkey",A NEWS HD .b
+vavoo://387890889759c06a2c4da1
 #EXTINF:-1 tvg-id="3415462105074dc2b1d646" tvg-name="A NEWS RAW .b" tvg-logo="" group-title="Turkey",A NEWS RAW .b
 vavoo://3415462105074dc2b1d646
 #EXTINF:-1 tvg-id="389201701482a8da622d92" tvg-name="A PARA .c" tvg-logo="https://logo.huhu.to/logo?c=3892017014.png" group-title="Turkey",A PARA .c
 vavoo://389201701482a8da622d92
-#EXTINF:-1 tvg-id="389201701482a8da622d92" tvg-name="A PARA .c" tvg-logo="https://logo.huhu.to/logo?c=3892017014.png" group-title="Turkey",A PARA .c
-vavoo://389201701482a8da622d92
-#EXTINF:-1 tvg-id="4202445834678957f05238" tvg-name="A PARA RAW .b" tvg-logo="" group-title="Turkey",A PARA RAW .b
-vavoo://4202445834678957f05238
 #EXTINF:-1 tvg-id="4202445834678957f05238" tvg-name="A PARA RAW .b" tvg-logo="" group-title="Turkey",A PARA RAW .b
 vavoo://4202445834678957f05238
 #EXTINF:-1 tvg-id="81927269637ef82886825" tvg-name="A SPOR .c" tvg-logo="https://logo.huhu.to/logo?c=819272696.png" group-title="Turkey",A SPOR .c
 vavoo://81927269637ef82886825
-#EXTINF:-1 tvg-id="81927269637ef82886825" tvg-name="A SPOR .c" tvg-logo="https://logo.huhu.to/logo?c=819272696.png" group-title="Turkey",A SPOR .c
-vavoo://81927269637ef82886825
-#EXTINF:-1 tvg-id="911836506e50aacc3a9e9" tvg-name="A SPOR FHD .b" tvg-logo="https://logo.huhu.to/logo?c=911836506.png" group-title="Turkey",A SPOR FHD .b
-vavoo://911836506e50aacc3a9e9
 #EXTINF:-1 tvg-id="911836506e50aacc3a9e9" tvg-name="A SPOR FHD .b" tvg-logo="https://logo.huhu.to/logo?c=911836506.png" group-title="Turkey",A SPOR FHD .b
 vavoo://911836506e50aacc3a9e9
 #EXTINF:-1 tvg-id="2556711030587eed1d7123" tvg-name="A SPOR HD .b" tvg-logo="https://logo.huhu.to/logo?c=2556711030.png" group-title="Turkey",A SPOR HD .b
 vavoo://2556711030587eed1d7123
-#EXTINF:-1 tvg-id="2556711030587eed1d7123" tvg-name="A SPOR HD .b" tvg-logo="https://logo.huhu.to/logo?c=2556711030.png" group-title="Turkey",A SPOR HD .b
-vavoo://2556711030587eed1d7123
-#EXTINF:-1 tvg-id="28805292086eedfe83d038" tvg-name="A SPOR HEVC .b" tvg-logo="" group-title="Turkey",A SPOR HEVC .b
-vavoo://28805292086eedfe83d038
 #EXTINF:-1 tvg-id="28805292086eedfe83d038" tvg-name="A SPOR HEVC .b" tvg-logo="" group-title="Turkey",A SPOR HEVC .b
 vavoo://28805292086eedfe83d038
 #EXTINF:-1 tvg-id="2777121053574bf4d1b799" tvg-name="A SPOR RAW .b" tvg-logo="" group-title="Turkey",A SPOR RAW .b
 vavoo://2777121053574bf4d1b799
-#EXTINF:-1 tvg-id="2777121053574bf4d1b799" tvg-name="A SPOR RAW .b" tvg-logo="" group-title="Turkey",A SPOR RAW .b
-vavoo://2777121053574bf4d1b799
-#EXTINF:-1 tvg-id="867875861079562f15007" tvg-name="A2 HD .b" tvg-logo="https://logo.huhu.to/logo?c=867875861.png" group-title="Turkey",A2 HD .b
-vavoo://867875861079562f15007
-#EXTINF:-1 tvg-id="867875861079562f15007" tvg-name="A2 HD .b" tvg-logo="https://logo.huhu.to/logo?c=867875861.png" group-title="Turkey",A2 HD .b
-vavoo://867875861079562f15007
-#EXTINF:-1 tvg-id="128957614556bfb7e20bde" tvg-name="A2 HEVC .b" tvg-logo="https://logo.huhu.to/logo?c=1289576145.png" group-title="Turkey",A2 HEVC .b
-vavoo://128957614556bfb7e20bde
 #EXTINF:-1 tvg-id="19057497795e890277f212" tvg-name="A2 RAW .b" tvg-logo="" group-title="Turkey",A2 RAW .b
 vavoo://19057497795e890277f212
 #EXTINF:-1 tvg-id="1835847966e01d08f3ea1f" tvg-name="A2 TV SD .b" tvg-logo="https://logo.huhu.to/logo?c=1835847966.png" group-title="Turkey",A2 TV SD .b
@@ -16283,8 +16263,6 @@ vavoo://1570235694b073eb3546e5
 vavoo://1443355363db5023a8a584
 #EXTINF:-1 tvg-id="7548683513f8b3f808009" tvg-name="ANLIURFA KANAL URFA .b" tvg-logo="" group-title="Turkey",ANLIURFA KANAL URFA .b
 vavoo://7548683513f8b3f808009
-#EXTINF:-1 tvg-id="19407670052f2ca6260436" tvg-name="ANTALYA KANAL V .b" tvg-logo="" group-title="Turkey",ANTALYA KANAL V .b
-vavoo://19407670052f2ca6260436
 #EXTINF:-1 tvg-id="9314064096e814315889b" tvg-name="APARA HD .b" tvg-logo="https://logo.huhu.to/logo?c=931406409.png" group-title="Turkey",APARA HD .b
 vavoo://9314064096e814315889b
 #EXTINF:-1 tvg-id="5117383846e61d78f1f9a" tvg-name="ARAS TV .c" tvg-logo="https://logo.huhu.to/logo?c=511738384.png" group-title="Turkey",ARAS TV .c
@@ -16323,8 +16301,6 @@ vavoo://64543153093b2057929eb
 vavoo://154080342742a01f2d589
 #EXTINF:-1 tvg-id="40965694547a9def110e6c" tvg-name="BABA RADYO ARABESK .b" tvg-logo="" group-title="Turkey",BABA RADYO ARABESK .b
 vavoo://40965694547a9def110e6c
-#EXTINF:-1 tvg-id="382042085583b289bf81e2" tvg-name="BABY TV .c" tvg-logo="https://logo.huhu.to/logo?c=3820420855.png" group-title="Turkey",BABY TV .c
-vavoo://382042085583b289bf81e2
 #EXTINF:-1 tvg-id="27516589959a967260542d" tvg-name="BABY TV HD .b" tvg-logo="" group-title="Turkey",BABY TV HD .b
 vavoo://27516589959a967260542d
 #EXTINF:-1 tvg-id="10449476678873dec140d6" tvg-name="BAHA .b" tvg-logo="" group-title="Turkey",BAHA .b
@@ -16553,6 +16529,8 @@ vavoo://24628387059d91397376ea
 vavoo://182252574160a3b3c54187
 #EXTINF:-1 tvg-id="37370371587d37e629c448" tvg-name="CANIM KARDESIM TV .b" tvg-logo="" group-title="Turkey",CANIM KARDESIM TV .b
 vavoo://37370371587d37e629c448
+#EXTINF:-1 tvg-id="16965737237b7911f24b84" tvg-name="CARTOON NETWORK .c" tvg-logo="https://logo.huhu.to/logo?c=1696573723.png" group-title="Turkey",CARTOON NETWORK .c
+vavoo://16965737237b7911f24b84
 #EXTINF:-1 tvg-id="13136008519d72a40b3d39" tvg-name="CARTOON NETWORK HD .b" tvg-logo="" group-title="Turkey",CARTOON NETWORK HD .b
 vavoo://13136008519d72a40b3d39
 #EXTINF:-1 tvg-id="178755989915511fee27c" tvg-name="CARTOONITO .c" tvg-logo="" group-title="Turkey",CARTOONITO .c
@@ -16619,8 +16597,6 @@ vavoo://306993094f3cd5715860a
 vavoo://3331045719b0c99b128adf
 #EXTINF:-1 tvg-id="7269150727f343c6d0f13" tvg-name="DINAMIK WESTERN .b" tvg-logo="" group-title="Turkey",DINAMIK WESTERN .b
 vavoo://7269150727f343c6d0f13
-#EXTINF:-1 tvg-id="10475251689d5a1f09d886" tvg-name="DINAMIK YESILCAM .b" tvg-logo="" group-title="Turkey",DINAMIK YESILCAM .b
-vavoo://10475251689d5a1f09d886
 #EXTINF:-1 tvg-id="6957057788f10364acdac" tvg-name="DISCOVERY CHANNEL HD+ .b" tvg-logo="" group-title="Turkey",DISCOVERY CHANNEL HD+ .b
 vavoo://6957057788f10364acdac
 #EXTINF:-1 tvg-id="20954040600611bde9e160" tvg-name="DISCOVERY ID .b" tvg-logo="" group-title="Turkey",DISCOVERY ID .b
@@ -16671,8 +16647,6 @@ vavoo://896813028168206a0e06b
 vavoo://151464353675c87d7e86f2
 #EXTINF:-1 tvg-id="3968360733afa6795a0a87" tvg-name="DREAM ANIMASYON .b" tvg-logo="" group-title="Turkey",DREAM ANIMASYON .b
 vavoo://3968360733afa6795a0a87
-#EXTINF:-1 tvg-id="2759159211bf8b5c4a304d" tvg-name="DREAM BEIN OFFICE 1 .b" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 1 .b
-vavoo://2759159211bf8b5c4a304d
 #EXTINF:-1 tvg-id="385304349522b5e6fe1462" tvg-name="DREAM BEIN OFFICE 10 .b" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 10 .b
 vavoo://385304349522b5e6fe1462
 #EXTINF:-1 tvg-id="382239321182403c667cfc" tvg-name="DREAM BEIN OFFICE 2 .b" tvg-logo="" group-title="Turkey",DREAM BEIN OFFICE 2 .b
@@ -16797,16 +16771,32 @@ vavoo://3793200644fd418f955402
 vavoo://1821942247abefa6aae14b
 #EXTINF:-1 tvg-id="21476140819198063bb491" tvg-name="EUROSTAR .c" tvg-logo="https://logo.huhu.to/logo?c=2147614081.png" group-title="Turkey",EUROSTAR .c
 vavoo://21476140819198063bb491
+#EXTINF:-1 tvg-id="20245689820af9ca3911b8" tvg-name="EXXEN SPOR 1 SD .b" tvg-logo="" group-title="Turkey",EXXEN SPOR 1 SD .b
+vavoo://20245689820af9ca3911b8
+#EXTINF:-1 tvg-id="11882580665f12f932d6c9" tvg-name="EXXEN SPORTS 1 .c" tvg-logo="" group-title="Turkey",EXXEN SPORTS 1 .c
+vavoo://11882580665f12f932d6c9
+#EXTINF:-1 tvg-id="24320962ff3ce3209657" tvg-name="EXXEN SPORTS 2 .c" tvg-logo="" group-title="Turkey",EXXEN SPORTS 2 .c
+vavoo://24320962ff3ce3209657
+#EXTINF:-1 tvg-id="2426097659dac0cbc72851" tvg-name="EXXEN TV .c" tvg-logo="https://logo.huhu.to/logo?c=2426097659.png" group-title="Turkey",EXXEN TV .c
+vavoo://2426097659dac0cbc72851
+#EXTINF:-1 tvg-id="1208369995ee56db60c6cb" tvg-name="EXXEN TV SPOR 1 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 .b
+vavoo://1208369995ee56db60c6cb
+#EXTINF:-1 tvg-id="3333902867e8eeb6c13355" tvg-name="EXXEN TV SPOR 1 720P .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 720P .b
+vavoo://3333902867e8eeb6c13355
+#EXTINF:-1 tvg-id="10914039127b6d2cb4f9b1" tvg-name="EXXEN TV SPOR 1 FEED .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 1 FEED .b
+vavoo://10914039127b6d2cb4f9b1
+#EXTINF:-1 tvg-id="3377046146a9c27858fc04" tvg-name="EXXEN TV SPOR 2 HD .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 HD .b
+vavoo://3377046146a9c27858fc04
+#EXTINF:-1 tvg-id="3673037054bbf23da360dd" tvg-name="EXXEN TV SPOR 2 UHD .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 2 UHD .b
+vavoo://3673037054bbf23da360dd
+#EXTINF:-1 tvg-id="851841067026eb6346001" tvg-name="EXXEN TV SPOR 3 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 3 .b
+vavoo://851841067026eb6346001
 #EXTINF:-1 tvg-id="21626092115c96093842ed" tvg-name="EXXEN TV SPOR 4 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 4 .b
 vavoo://21626092115c96093842ed
 #EXTINF:-1 tvg-id="3179734411cc8e59810aba" tvg-name="EXXEN TV SPOR 5 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 5 .b
 vavoo://3179734411cc8e59810aba
 #EXTINF:-1 tvg-id="4196835163f7f34378737d" tvg-name="EXXEN TV SPOR 6 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 6 .b
 vavoo://4196835163f7f34378737d
-#EXTINF:-1 tvg-id="3343300331c5663b93a430" tvg-name="EXXEN TV SPOR 7 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 7 .b
-vavoo://3343300331c5663b93a430
-#EXTINF:-1 tvg-id="11590782026618befbb16b" tvg-name="EXXEN TV SPOR 8 .b" tvg-logo="" group-title="Turkey",EXXEN TV SPOR 8 .b
-vavoo://11590782026618befbb16b
 #EXTINF:-1 tvg-id="348214914537ec7e902850" tvg-name="FASHION TV .c" tvg-logo="" group-title="Turkey",FASHION TV .c
 vavoo://348214914537ec7e902850
 #EXTINF:-1 tvg-id="3597878428da15fa9fa57e" tvg-name="FASIL NEVIZADE GECELERI .b" tvg-logo="" group-title="Turkey",FASIL NEVIZADE GECELERI .b
@@ -17021,8 +17011,6 @@ vavoo://38723286086ff52dd7cac
 vavoo://1781656098069f8c014f2b
 #EXTINF:-1 tvg-id="13713062708ede849035ef" tvg-name="KANAL D HD (H265) .b" tvg-logo="https://logo.huhu.to/logo?c=1371306270.png" group-title="Turkey",KANAL D HD (H265) .b
 vavoo://13713062708ede849035ef
-#EXTINF:-1 tvg-id="113044193323e36b85a648" tvg-name="KANAL D HD .b" tvg-logo="" group-title="Turkey",KANAL D HD .b
-vavoo://113044193323e36b85a648
 #EXTINF:-1 tvg-id="41138222975f1bf462585f" tvg-name="KANAL D HEVC .b" tvg-logo="" group-title="Turkey",KANAL D HEVC .b
 vavoo://41138222975f1bf462585f
 #EXTINF:-1 tvg-id="4193250917a1b264cec859" tvg-name="KANAL D RAW .b" tvg-logo="" group-title="Turkey",KANAL D RAW .b
@@ -17093,8 +17081,6 @@ vavoo://3295096268eab2a5c02580
 vavoo://3808834024146c898b2ca8
 #EXTINF:-1 tvg-id="1505032467d0e227960a29" tvg-name="KRAL TV .c" tvg-logo="https://logo.huhu.to/logo?c=1505032467.png" group-title="Turkey",KRAL TV .c
 vavoo://1505032467d0e227960a29
-#EXTINF:-1 tvg-id="2879812830599c43994d1e" tvg-name="KRAL TV HD .b" tvg-logo="" group-title="Turkey",KRAL TV HD .b
-vavoo://2879812830599c43994d1e
 #EXTINF:-1 tvg-id="331685130407411552595" tvg-name="KRT .c" tvg-logo="https://logo.huhu.to/logo?c=331685130.png" group-title="Turkey",KRT .c
 vavoo://331685130407411552595
 #EXTINF:-1 tvg-id="14328530251177683d27e4" tvg-name="KRT HD+ SD .b" tvg-logo="" group-title="Turkey",KRT HD+ SD .b
@@ -17343,6 +17329,8 @@ vavoo://1299417291527618a1ccab
 vavoo://23667904081b95cae45de4
 #EXTINF:-1 tvg-id="178350880905c3993617e6" tvg-name="POWER LOVE .c" tvg-logo="https://logo.huhu.to/logo?c=1783508809.png" group-title="Turkey",POWER LOVE .c
 vavoo://178350880905c3993617e6
+#EXTINF:-1 tvg-id="2703806315a67a7c89a263" tvg-name="POWER T RK T RK E POP .b" tvg-logo="" group-title="Turkey",POWER T RK T RK E POP .b
+vavoo://2703806315a67a7c89a263
 #EXTINF:-1 tvg-id="714196738c6888433546f" tvg-name="POWER TURK HD .b" tvg-logo="" group-title="Turkey",POWER TURK HD .b
 vavoo://714196738c6888433546f
 #EXTINF:-1 tvg-id="17666236897fc019f2aef" tvg-name="POWER TURK TV .c" tvg-logo="https://logo.huhu.to/logo?c=176662368.png" group-title="Turkey",POWER TURK TV .c
@@ -17405,8 +17393,14 @@ vavoo://327670923957be380e0892
 vavoo://20587004472af839207827
 #EXTINF:-1 tvg-id="403604621968c940720735" tvg-name="S-SPORT PLUS FHD .b" tvg-logo="" group-title="Turkey",S-SPORT PLUS FHD .b
 vavoo://403604621968c940720735
+#EXTINF:-1 tvg-id="403604621968c940720735" tvg-name="S-SPORT PLUS FHD .b" tvg-logo="" group-title="Turkey",S-SPORT PLUS FHD .b
+vavoo://403604621968c940720735
 #EXTINF:-1 tvg-id="2559756791dcf166140367" tvg-name="S-SPORT+1 MAC SAATI .b" tvg-logo="https://logo.huhu.to/logo?c=2559756791.png" group-title="Turkey",S-SPORT+1 MAC SAATI .b
 vavoo://2559756791dcf166140367
+#EXTINF:-1 tvg-id="2559756791dcf166140367" tvg-name="S-SPORT+1 MAC SAATI .b" tvg-logo="https://logo.huhu.to/logo?c=2559756791.png" group-title="Turkey",S-SPORT+1 MAC SAATI .b
+vavoo://2559756791dcf166140367
+#EXTINF:-1 tvg-id="2314183566dbbab2892d05" tvg-name="S-SPORT+2 MAC SAATI .b" tvg-logo="https://logo.huhu.to/logo?c=2314183566.png" group-title="Turkey",S-SPORT+2 MAC SAATI .b
+vavoo://2314183566dbbab2892d05
 #EXTINF:-1 tvg-id="2314183566dbbab2892d05" tvg-name="S-SPORT+2 MAC SAATI .b" tvg-logo="https://logo.huhu.to/logo?c=2314183566.png" group-title="Turkey",S-SPORT+2 MAC SAATI .b
 vavoo://2314183566dbbab2892d05
 #EXTINF:-1 tvg-id="3202905239f7c8981cff1" tvg-name="S-SPORTS 1 SD .b" tvg-logo="https://logo.huhu.to/logo?c=320290523.png" group-title="Turkey",S-SPORTS 1 SD .b
@@ -17591,6 +17585,8 @@ vavoo://24901653728e4a187da4c4
 vavoo://21594692318c346548c2be
 #EXTINF:-1 tvg-id="10013463414fd5f0938a50" tvg-name="TABII SPOR 3 .c" tvg-logo="" group-title="Turkey",TABII SPOR 3 .c
 vavoo://10013463414fd5f0938a50
+#EXTINF:-1 tvg-id="1489430754b4fd6e6dc327" tvg-name="TABII SPOR 3 HD .b" tvg-logo="https://logo.huhu.to/logo?c=1489430754.png" group-title="Turkey",TABII SPOR 3 HD .b
+vavoo://1489430754b4fd6e6dc327
 #EXTINF:-1 tvg-id="2546857708611b47e42ecf" tvg-name="TABII SPOR 3 UHD .b" tvg-logo="https://logo.huhu.to/logo?c=2546857708.png" group-title="Turkey",TABII SPOR 3 UHD .b
 vavoo://2546857708611b47e42ecf
 #EXTINF:-1 tvg-id="2307885365b7f1828e97ba" tvg-name="TABII SPOR 4 .c" tvg-logo="" group-title="Turkey",TABII SPOR 4 .c
@@ -17839,8 +17835,6 @@ vavoo://1662562034e8a914e62dce
 vavoo://1376775989e84fdc9d4aa
 #EXTINF:-1 tvg-id="3546432682c60db460810f" tvg-name="TV 8 INTERNATIONAL .c" tvg-logo="https://logo.huhu.to/logo?c=3546432682.png" group-title="Turkey",TV 8 INTERNATIONAL .c
 vavoo://3546432682c60db460810f
-#EXTINF:-1 tvg-id="369538998733b793a5838a" tvg-name="TV 8 SD .b" tvg-logo="https://logo.huhu.to/logo?c=3695389987.png" group-title="Turkey",TV 8 SD .b
-vavoo://369538998733b793a5838a
 #EXTINF:-1 tvg-id="140923760a991ad56397" tvg-name="TV 8.5 .c" tvg-logo="https://logo.huhu.to/logo?c=14092376.png" group-title="Turkey",TV 8.5 .c
 vavoo://140923760a991ad56397
 #EXTINF:-1 tvg-id="19082658164debc10cdc44" tvg-name="TV 8.5 FHD .b" tvg-logo="https://logo.huhu.to/logo?c=1908265816.png" group-title="Turkey",TV 8.5 FHD .b
@@ -17981,44 +17975,26 @@ vavoo://36316286826ea80c5a5527
 vavoo://299196087964a920b40aa7
 #EXTINF:-1 tvg-id="342644836842053c6d31a1" tvg-name="5STAR .s" tvg-logo="" group-title="United Kingdom",5STAR .s
 vavoo://342644836842053c6d31a1
-#EXTINF:-1 tvg-id="342644836842053c6d31a1" tvg-name="5STAR .s" tvg-logo="" group-title="United Kingdom",5STAR .s
-vavoo://342644836842053c6d31a1
-#EXTINF:-1 tvg-id="4022654243eb9e572b714b" tvg-name="5STAR+1 .b" tvg-logo="" group-title="United Kingdom",5STAR+1 .b
-vavoo://4022654243eb9e572b714b
 #EXTINF:-1 tvg-id="4022654243eb9e572b714b" tvg-name="5STAR+1 .b" tvg-logo="" group-title="United Kingdom",5STAR+1 .b
 vavoo://4022654243eb9e572b714b
 #EXTINF:-1 tvg-id="320098161161105270f592" tvg-name="5USA .s" tvg-logo="" group-title="United Kingdom",5USA .s
 vavoo://320098161161105270f592
-#EXTINF:-1 tvg-id="320098161161105270f592" tvg-name="5USA .s" tvg-logo="" group-title="United Kingdom",5USA .s
-vavoo://320098161161105270f592
-#EXTINF:-1 tvg-id="2657840577e2397a34c3d" tvg-name="5USA+1 .b" tvg-logo="" group-title="United Kingdom",5USA+1 .b
-vavoo://2657840577e2397a34c3d
 #EXTINF:-1 tvg-id="2657840577e2397a34c3d" tvg-name="5USA+1 .b" tvg-logo="" group-title="United Kingdom",5USA+1 .b
 vavoo://2657840577e2397a34c3d
 #EXTINF:-1 tvg-id="24662433362d90e00309b2" tvg-name="92 NEWS .b" tvg-logo="" group-title="United Kingdom",92 NEWS .b
 vavoo://24662433362d90e00309b2
-#EXTINF:-1 tvg-id="24662433362d90e00309b2" tvg-name="92 NEWS .b" tvg-logo="" group-title="United Kingdom",92 NEWS .b
-vavoo://24662433362d90e00309b2
-#EXTINF:-1 tvg-id="417517201313bcf7a4caf2" tvg-name="92 NEWS .s" tvg-logo="" group-title="United Kingdom",92 NEWS .s
-vavoo://417517201313bcf7a4caf2
 #EXTINF:-1 tvg-id="417517201313bcf7a4caf2" tvg-name="92 NEWS .s" tvg-logo="" group-title="United Kingdom",92 NEWS .s
 vavoo://417517201313bcf7a4caf2
 #EXTINF:-1 tvg-id="177707452498892a486a66" tvg-name="ACTIO .s" tvg-logo="" group-title="United Kingdom",ACTIO .s
 vavoo://177707452498892a486a66
-#EXTINF:-1 tvg-id="177707452498892a486a66" tvg-name="ACTIO .s" tvg-logo="" group-title="United Kingdom",ACTIO .s
-vavoo://177707452498892a486a66
-#EXTINF:-1 tvg-id="27480838925141e65704e1" tvg-name="ADVENTURE .s" tvg-logo="" group-title="United Kingdom",ADVENTURE .s
-vavoo://27480838925141e65704e1
 #EXTINF:-1 tvg-id="27480838925141e65704e1" tvg-name="ADVENTURE .s" tvg-logo="" group-title="United Kingdom",ADVENTURE .s
 vavoo://27480838925141e65704e1
 #EXTINF:-1 tvg-id="3806225604e351ddd1669f" tvg-name="AHLULBAYT TV .b" tvg-logo="" group-title="United Kingdom",AHLULBAYT TV .b
 vavoo://3806225604e351ddd1669f
-#EXTINF:-1 tvg-id="3806225604e351ddd1669f" tvg-name="AHLULBAYT TV .b" tvg-logo="" group-title="United Kingdom",AHLULBAYT TV .b
-vavoo://3806225604e351ddd1669f
 #EXTINF:-1 tvg-id="937337463bdc41111006" tvg-name="AL JAZEERA .s" tvg-logo="" group-title="United Kingdom",AL JAZEERA .s
 vavoo://937337463bdc41111006
-#EXTINF:-1 tvg-id="937337463bdc41111006" tvg-name="AL JAZEERA .s" tvg-logo="" group-title="United Kingdom",AL JAZEERA .s
-vavoo://937337463bdc41111006
+#EXTINF:-1 tvg-id="324389451118ae1dee5691" tvg-name="AL JAZEERA FHD .s" tvg-logo="https://logo.huhu.to/logo?c=3243894511.png" group-title="United Kingdom",AL JAZEERA FHD .s
+vavoo://324389451118ae1dee5691
 #EXTINF:-1 tvg-id="15056796381235e0980b2d" tvg-name="AL JAZEERA HD .b" tvg-logo="https://logo.huhu.to/logo?c=1505679638.png" group-title="United Kingdom",AL JAZEERA HD .b
 vavoo://15056796381235e0980b2d
 #EXTINF:-1 tvg-id="139689462111d50893bd12" tvg-name="ALIBI .s" tvg-logo="" group-title="United Kingdom",ALIBI .s
@@ -18131,6 +18107,8 @@ vavoo://2407028793070ec5c7c71a
 vavoo://162737830593efb99a48e9
 #EXTINF:-1 tvg-id="112674534562021fe9d11a" tvg-name="BBC ONE SCOTHD .b" tvg-logo="" group-title="United Kingdom",BBC ONE SCOTHD .b
 vavoo://112674534562021fe9d11a
+#EXTINF:-1 tvg-id="24632363480299a9c9539a" tvg-name="BBC ONE W MID .b" tvg-logo="" group-title="United Kingdom",BBC ONE W MID .b
+vavoo://24632363480299a9c9539a
 #EXTINF:-1 tvg-id="40704241029b772da1d9f3" tvg-name="BBC ONE WAL HD .b" tvg-logo="" group-title="United Kingdom",BBC ONE WAL HD .b
 vavoo://40704241029b772da1d9f3
 #EXTINF:-1 tvg-id="23806690604a4220040145" tvg-name="BBC ONE WALES .b" tvg-logo="" group-title="United Kingdom",BBC ONE WALES .b
@@ -18183,12 +18161,12 @@ vavoo://466198071fcd96c9ab5b8
 vavoo://648656775881cd0f0740e
 #EXTINF:-1 tvg-id="3620837545480805b3318c" tvg-name="BEIN SPORTS ENGLISH 2 .s" tvg-logo="" group-title="United Kingdom",BEIN SPORTS ENGLISH 2 .s
 vavoo://3620837545480805b3318c
+#EXTINF:-1 tvg-id="13386460690b72b50b0839" tvg-name="BEIN SPORTS LA LIGA .b" tvg-logo="" group-title="United Kingdom",BEIN SPORTS LA LIGA .b
+vavoo://13386460690b72b50b0839
 #EXTINF:-1 tvg-id="240472529623ba039f17e9" tvg-name="BEIN SPORTS USA .s" tvg-logo="" group-title="United Kingdom",BEIN SPORTS USA .s
 vavoo://240472529623ba039f17e9
 #EXTINF:-1 tvg-id="442195939edb562f8130b" tvg-name="BEST OF DOCUMENTARY 1 .s" tvg-logo="" group-title="United Kingdom",BEST OF DOCUMENTARY 1 .s
 vavoo://442195939edb562f8130b
-#EXTINF:-1 tvg-id="157674014730e4909c82fe" tvg-name="BEST OF DOCUMENTARY 2 .s" tvg-logo="" group-title="United Kingdom",BEST OF DOCUMENTARY 2 .s
-vavoo://157674014730e4909c82fe
 #EXTINF:-1 tvg-id="1620774019fb353a3e5753" tvg-name="BEST OF DOCUMENTARY 3 .s" tvg-logo="" group-title="United Kingdom",BEST OF DOCUMENTARY 3 .s
 vavoo://1620774019fb353a3e5753
 #EXTINF:-1 tvg-id="40241707870a412e154da3" tvg-name="BEST OF DOCUMENTARY 5 .s" tvg-logo="" group-title="United Kingdom",BEST OF DOCUMENTARY 5 .s
@@ -18197,8 +18175,6 @@ vavoo://40241707870a412e154da3
 vavoo://3670867308731f4b7cba7d
 #EXTINF:-1 tvg-id="271579238146e2d67b6a63" tvg-name="BFBS RADIO .b" tvg-logo="" group-title="United Kingdom",BFBS RADIO .b
 vavoo://271579238146e2d67b6a63
-#EXTINF:-1 tvg-id="2049823508bccf86c16aa4" tvg-name="BIOGRAPHY .s" tvg-logo="" group-title="United Kingdom",BIOGRAPHY .s
-vavoo://2049823508bccf86c16aa4
 #EXTINF:-1 tvg-id="13350452495a96700b08d3" tvg-name="BLACKPOOL F.C. .s" tvg-logo="" group-title="United Kingdom",BLACKPOOL F.C. .s
 vavoo://13350452495a96700b08d3
 #EXTINF:-1 tvg-id="21538296205e32e97c630f" tvg-name="BLAX PLOTATION .s" tvg-logo="" group-title="United Kingdom",BLAX PLOTATION .s
@@ -18377,8 +18353,6 @@ vavoo://30730039139f8c853a7789
 vavoo://1155012716cc9f7b46eef7
 #EXTINF:-1 tvg-id="26802901761e0506357269" tvg-name="CHANNEL 5 HD .b" tvg-logo="https://logo.huhu.to/logo?c=2680290176.png" group-title="United Kingdom",CHANNEL 5 HD .b
 vavoo://26802901761e0506357269
-#EXTINF:-1 tvg-id="26169088986ac24f4c367f" tvg-name="CHANNEL 5 HD .s" tvg-logo="https://logo.huhu.to/logo?c=2616908898.png" group-title="United Kingdom",CHANNEL 5 HD .s
-vavoo://26169088986ac24f4c367f
 #EXTINF:-1 tvg-id="37126900704341da58a29d" tvg-name="CHANNEL 5+1 .b" tvg-logo="" group-title="United Kingdom",CHANNEL 5+1 .b
 vavoo://37126900704341da58a29d
 #EXTINF:-1 tvg-id="3454665449f40603d54bfb" tvg-name="CHANNEL 7 .b" tvg-logo="" group-title="United Kingdom",CHANNEL 7 .b
@@ -18423,8 +18397,6 @@ vavoo://191216932724ed58e3bc9
 vavoo://372604944000c6712f479e
 #EXTINF:-1 tvg-id="3076266170bfe0a1ca0913" tvg-name="COLORS EUROPE .s" tvg-logo="" group-title="United Kingdom",COLORS EUROPE .s
 vavoo://3076266170bfe0a1ca0913
-#EXTINF:-1 tvg-id="3013480760d01b55c3577e" tvg-name="COMEDY CENTRAL (BACKUP) .s" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL (BACKUP) .s
-vavoo://3013480760d01b55c3577e
 #EXTINF:-1 tvg-id="6127866053a0bdbe1f0e8" tvg-name="COMEDY CENTRAL .s" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL .s
 vavoo://6127866053a0bdbe1f0e8
 #EXTINF:-1 tvg-id="2042207801ef8796cfb8c1" tvg-name="COMEDY CENTRAL HD .s" tvg-logo="" group-title="United Kingdom",COMEDY CENTRAL HD .s
@@ -18461,8 +18433,6 @@ vavoo://85263780203a8bbb82728
 vavoo://31695155317c263d82d050
 #EXTINF:-1 tvg-id="1060350297ec72d74a0196" tvg-name="DESI RADIO .b" tvg-logo="" group-title="United Kingdom",DESI RADIO .b
 vavoo://1060350297ec72d74a0196
-#EXTINF:-1 tvg-id="4238102676112912675d7" tvg-name="DISCOVERY CHANNEL (BACKUP) .s" tvg-logo="https://logo.huhu.to/logo?c=423810267.png" group-title="United Kingdom",DISCOVERY CHANNEL (BACKUP) .s
-vavoo://4238102676112912675d7
 #EXTINF:-1 tvg-id="415538164205e5902b4d99" tvg-name="DISCOVERY CHANNEL .b" tvg-logo="https://logo.huhu.to/logo?c=4155381642.png" group-title="United Kingdom",DISCOVERY CHANNEL .b
 vavoo://415538164205e5902b4d99
 #EXTINF:-1 tvg-id="3783739771303538919cc6" tvg-name="DISCOVERY CHANNEL .s" tvg-logo="https://logo.huhu.to/logo?c=3783739771.png" group-title="United Kingdom",DISCOVERY CHANNEL .s
@@ -18577,8 +18547,6 @@ vavoo://30582390907cd684b4592b
 vavoo://2334732226c51a311a64a8
 #EXTINF:-1 tvg-id="174271140991cded06c41" tvg-name="EPL 06 17:30 MANCHESTER UNITED VS CHELSEA .s" tvg-logo="" group-title="United Kingdom",EPL 06 17:30 MANCHESTER UNITED VS CHELSEA .s
 vavoo://174271140991cded06c41
-#EXTINF:-1 tvg-id="389963165994c8e967fdd6" tvg-name="EPL 07 20:00 FULHAM VS BRENTFORD .s" tvg-logo="" group-title="United Kingdom",EPL 07 20:00 FULHAM VS BRENTFORD .s
-vavoo://389963165994c8e967fdd6
 #EXTINF:-1 tvg-id="194156427548848c256722" tvg-name="EPL 08 .s" tvg-logo="" group-title="United Kingdom",EPL 08 .s
 vavoo://194156427548848c256722
 #EXTINF:-1 tvg-id="1322894019c20f299adc37" tvg-name="EPL 09 .s" tvg-logo="" group-title="United Kingdom",EPL 09 .s
@@ -18597,8 +18565,34 @@ vavoo://2909580639033f3926fa29
 vavoo://31019731570aefc97f8f26
 #EXTINF:-1 tvg-id="18459860014a4e14255cf" tvg-name="EURONEWS .s" tvg-logo="" group-title="United Kingdom",EURONEWS .s
 vavoo://18459860014a4e14255cf
+#EXTINF:-1 tvg-id="253587623137402c8b9664" tvg-name="EUROSPORT 1 (BACKUP) .s" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 (BACKUP) .s
+vavoo://253587623137402c8b9664
 #EXTINF:-1 tvg-id="22908047229b55a4696c9a" tvg-name="EUROSPORT 1 .b" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 .b
 vavoo://22908047229b55a4696c9a
+#EXTINF:-1 tvg-id="36187716557d268bc20a9f" tvg-name="EUROSPORT 1 .s" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 .s
+vavoo://36187716557d268bc20a9f
+#EXTINF:-1 tvg-id="2737624792dea68aab9be4" tvg-name="EUROSPORT 1 HD .b" tvg-logo="" group-title="United Kingdom",EUROSPORT 1 HD .b
+vavoo://2737624792dea68aab9be4
+#EXTINF:-1 tvg-id="39473160609f874c3d9fb1" tvg-name="EUROSPORT 2 (BACKUP) .s" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 (BACKUP) .s
+vavoo://39473160609f874c3d9fb1
+#EXTINF:-1 tvg-id="3475676450e1ab57de5c62" tvg-name="EUROSPORT 2 .b" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 .b
+vavoo://3475676450e1ab57de5c62
+#EXTINF:-1 tvg-id="241712539942169ffac25d" tvg-name="EUROSPORT 2 .s" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 .s
+vavoo://241712539942169ffac25d
+#EXTINF:-1 tvg-id="765710651582e3e457cd8" tvg-name="EUROSPORT 2 HD .b" tvg-logo="" group-title="United Kingdom",EUROSPORT 2 HD .b
+vavoo://765710651582e3e457cd8
+#EXTINF:-1 tvg-id="556602175c675fb92be1f" tvg-name="EXETER CITY F.C. .s" tvg-logo="" group-title="United Kingdom",EXETER CITY F.C. .s
+vavoo://556602175c675fb92be1f
+#EXTINF:-1 tvg-id="67405134386ec8423aa01" tvg-name="FANSTASTIC BEASTS .s" tvg-logo="" group-title="United Kingdom",FANSTASTIC BEASTS .s
+vavoo://67405134386ec8423aa01
+#EXTINF:-1 tvg-id="36846798589debca3add63" tvg-name="FARGO FINISHED ꜱᴇƦꞮᴇ .s" tvg-logo="" group-title="United Kingdom",FARGO FINISHED ꜱᴇƦꞮᴇ .s
+vavoo://36846798589debca3add63
+#EXTINF:-1 tvg-id="1433927321d79d585662ea" tvg-name="FC LIVERPOOL TV .b" tvg-logo="" group-title="United Kingdom",FC LIVERPOOL TV .b
+vavoo://1433927321d79d585662ea
+#EXTINF:-1 tvg-id="31845928794e6cc2b87599" tvg-name="FIGHT BOX .b" tvg-logo="" group-title="United Kingdom",FIGHT BOX .b
+vavoo://31845928794e6cc2b87599
+#EXTINF:-1 tvg-id="303106634171bacef168dd" tvg-name="FILM 4 .s" tvg-logo="" group-title="United Kingdom",FILM 4 .s
+vavoo://303106634171bacef168dd
 #EXTINF:-1 tvg-id="20579432851bc44eb82027" tvg-name="FILM 4 HD .s" tvg-logo="" group-title="United Kingdom",FILM 4 HD .s
 vavoo://20579432851bc44eb82027
 #EXTINF:-1 tvg-id="1344084529b20090fb7fd4" tvg-name="FILM4 .b" tvg-logo="" group-title="United Kingdom",FILM4 .b
@@ -18645,8 +18639,6 @@ vavoo://396403956814224e542dce
 vavoo://11260643310e14cbfb298d
 #EXTINF:-1 tvg-id="1851372565a23874d78087" tvg-name="GODFATHER OF HARLEM ꜱᴇƦꞮᴇ .s" tvg-logo="" group-title="United Kingdom",GODFATHER OF HARLEM ꜱᴇƦꞮᴇ .s
 vavoo://1851372565a23874d78087
-#EXTINF:-1 tvg-id="2347323001b43505ef9323" tvg-name="GODZILLA .s" tvg-logo="" group-title="United Kingdom",GODZILLA .s
-vavoo://2347323001b43505ef9323
 #EXTINF:-1 tvg-id="638398233c3fbf810f594" tvg-name="GOLD (BACKUP) .s" tvg-logo="" group-title="United Kingdom",GOLD (BACKUP) .s
 vavoo://638398233c3fbf810f594
 #EXTINF:-1 tvg-id="2742752002f145006bf612" tvg-name="GOOD FOOD .s" tvg-logo="" group-title="United Kingdom",GOOD FOOD .s
@@ -18915,6 +18907,8 @@ vavoo://347287580520c8c124386c
 vavoo://32313013924ab2de828f15
 #EXTINF:-1 tvg-id="18595404443b237767936b" tvg-name="NDTV 24X7 .b" tvg-logo="https://logo.huhu.to/logo?c=1859540444.png" group-title="United Kingdom",NDTV 24X7 .b
 vavoo://18595404443b237767936b
+#EXTINF:-1 tvg-id="22464850170fe128fcc323" tvg-name="NEW VISION TV .b" tvg-logo="" group-title="United Kingdom",NEW VISION TV .b
+vavoo://22464850170fe128fcc323
 #EXTINF:-1 tvg-id="2570176350069a6e02896b" tvg-name="NEW VISION TV .s" tvg-logo="https://logo.huhu.to/logo?c=2570176350.png" group-title="United Kingdom",NEW VISION TV .s
 vavoo://2570176350069a6e02896b
 #EXTINF:-1 tvg-id="1433631141ebef14cd2cfe" tvg-name="NFL NETWORK .s" tvg-logo="" group-title="United Kingdom",NFL NETWORK .s
@@ -19007,8 +19001,6 @@ vavoo://327703488c50e26648501
 vavoo://826945096dab2f32d2c16
 #EXTINF:-1 tvg-id="3043026085a967c1c2ea5f" tvg-name="PLYMOUTH ARGYLE F.C. .s" tvg-logo="" group-title="United Kingdom",PLYMOUTH ARGYLE F.C. .s
 vavoo://3043026085a967c1c2ea5f
-#EXTINF:-1 tvg-id="928380798db3c1a72f6ec" tvg-name="POP (BACKUP) .s" tvg-logo="" group-title="United Kingdom",POP (BACKUP) .s
-vavoo://928380798db3c1a72f6ec
 #EXTINF:-1 tvg-id="23877775862cfdca3ab66d" tvg-name="POP +1 .s" tvg-logo="" group-title="United Kingdom",POP +1 .s
 vavoo://23877775862cfdca3ab66d
 #EXTINF:-1 tvg-id="9101707996a011f807e97" tvg-name="POP .b" tvg-logo="" group-title="United Kingdom",POP .b
@@ -19151,8 +19143,6 @@ vavoo://2338440606177da976beaa
 vavoo://1716764664c6926f59762a
 #EXTINF:-1 tvg-id="2454851673c43bbea1a542" tvg-name="SKY ARTS .s" tvg-logo="https://logo.huhu.to/logo?c=2454851673.png" group-title="United Kingdom",SKY ARTS .s
 vavoo://2454851673c43bbea1a542
-#EXTINF:-1 tvg-id="378844835643399ed09fc" tvg-name="SKY ATLANTIC (BACKUP) .s" tvg-logo="https://logo.huhu.to/logo?c=378844835.png" group-title="United Kingdom",SKY ATLANTIC (BACKUP) .s
-vavoo://378844835643399ed09fc
 #EXTINF:-1 tvg-id="26740224556181385ada2" tvg-name="SKY ATLANTIC .b" tvg-logo="https://logo.huhu.to/logo?c=267402245.png" group-title="United Kingdom",SKY ATLANTIC .b
 vavoo://26740224556181385ada2
 #EXTINF:-1 tvg-id="1978603272ea7c48dc1d6" tvg-name="SKY ATLANTIC .s" tvg-logo="https://logo.huhu.to/logo?c=197860327.png" group-title="United Kingdom",SKY ATLANTIC .s
@@ -19199,14 +19189,18 @@ vavoo://172892897983fd32a0df7f
 vavoo://1482967190134b30b895f9
 #EXTINF:-1 tvg-id="89366923c728d20afdb5" tvg-name="SKY CINEMA SELECT .b" tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT .b
 vavoo://89366923c728d20afdb5
-#EXTINF:-1 tvg-id="89366923c728d20afdb5" tvg-name="SKY CINEMA SELECT .b" tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT .b
-vavoo://89366923c728d20afdb5
 #EXTINF:-1 tvg-id="326827898399339025566" tvg-name="SKY CINEMA SELECT .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT .s
 vavoo://326827898399339025566
+#EXTINF:-1 tvg-id="2864096280bf5af61a07c3" tvg-name="SKY CINEMA SELECT HD .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA SELECT HD .s
+vavoo://2864096280bf5af61a07c3
 #EXTINF:-1 tvg-id="14073364521ceb6967f195" tvg-name="SKY CINEMA THRILLER .b" tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER .b
 vavoo://14073364521ceb6967f195
 #EXTINF:-1 tvg-id="27120769207d4e2fe1aee2" tvg-name="SKY CINEMA THRILLER .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER .s
 vavoo://27120769207d4e2fe1aee2
+#EXTINF:-1 tvg-id="27120769207d4e2fe1aee2" tvg-name="SKY CINEMA THRILLER .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER .s
+vavoo://27120769207d4e2fe1aee2
+#EXTINF:-1 tvg-id="40308739492e68215717c0" tvg-name="SKY CINEMA THRILLER HD .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER HD .s
+vavoo://40308739492e68215717c0
 #EXTINF:-1 tvg-id="40308739492e68215717c0" tvg-name="SKY CINEMA THRILLER HD .s" tvg-logo="" group-title="United Kingdom",SKY CINEMA THRILLER HD .s
 vavoo://40308739492e68215717c0
 #EXTINF:-1 tvg-id="180519229614efbf424894" tvg-name="SKY COMEDY HD .s" tvg-logo="https://logo.huhu.to/logo?c=1805192296.png" group-title="United Kingdom",SKY COMEDY HD .s
@@ -19303,6 +19297,8 @@ vavoo://384026718771a3e2288b9
 vavoo://171223833393cfb1598a8
 #EXTINF:-1 tvg-id="22482667679c82d752c5fb" tvg-name="SKY SPORTS F1 FHD .s" tvg-logo="https://logo.huhu.to/logo?c=2248266767.png" group-title="United Kingdom",SKY SPORTS F1 FHD .s
 vavoo://22482667679c82d752c5fb
+#EXTINF:-1 tvg-id="14300333636d715d1c9a70" tvg-name="SKY SPORTS F1 HD .b" tvg-logo="" group-title="United Kingdom",SKY SPORTS F1 HD .b
+vavoo://14300333636d715d1c9a70
 #EXTINF:-1 tvg-id="29457217916f76ebf16de7" tvg-name="SKY SPORTS F1 HD .s" tvg-logo="https://logo.huhu.to/logo?c=2945721791.png" group-title="United Kingdom",SKY SPORTS F1 HD .s
 vavoo://29457217916f76ebf16de7
 #EXTINF:-1 tvg-id="19787614617963f9d0e91e" tvg-name="SKY SPORTS FOOTBALL .b" tvg-logo="https://logo.huhu.to/logo?c=1978761461.png" group-title="United Kingdom",SKY SPORTS FOOTBALL .b
@@ -19357,8 +19353,6 @@ vavoo://82465017775fdddbe1db5
 vavoo://23375999090838fb1dfa8a
 #EXTINF:-1 tvg-id="8988622344a295ba1ed61" tvg-name="SKY SPORTS PREMIER LEAGUE .b" tvg-logo="https://logo.huhu.to/logo?c=898862234.png" group-title="United Kingdom",SKY SPORTS PREMIER LEAGUE .b
 vavoo://8988622344a295ba1ed61
-#EXTINF:-1 tvg-id="37916456256c45785adb63" tvg-name="SKY SPORTS PREMIER LEAGUE .s" tvg-logo="https://logo.huhu.to/logo?c=3791645625.png" group-title="United Kingdom",SKY SPORTS PREMIER LEAGUE .s
-vavoo://37916456256c45785adb63
 #EXTINF:-1 tvg-id="1051570868f92684379708" tvg-name="SKY SPORTS PREMIER LEAGUE [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="United Kingdom",SKY SPORTS PREMIER LEAGUE [LIVE DURING EVENTS ONLY] .s
 vavoo://1051570868f92684379708
 #EXTINF:-1 tvg-id="126506577600afd406040" tvg-name="SKY SPORTS PREMIER LEAGUE HD .b" tvg-logo="" group-title="United Kingdom",SKY SPORTS PREMIER LEAGUE HD .b
@@ -19415,8 +19409,6 @@ vavoo://4219098935ffac66aeed7d
 vavoo://10607913372ace1ef3549a
 #EXTINF:-1 tvg-id="16107809566667fbacbd44" tvg-name="SKY WITNESS .s" tvg-logo="https://logo.huhu.to/logo?c=1610780956.png" group-title="United Kingdom",SKY WITNESS .s
 vavoo://16107809566667fbacbd44
-#EXTINF:-1 tvg-id="1770964081fbddf605065b" tvg-name="SKYS PORTS ARENA .b" tvg-logo="" group-title="United Kingdom",SKYS PORTS ARENA .b
-vavoo://1770964081fbddf605065b
 #EXTINF:-1 tvg-id="34562830327e28c806dd3d" tvg-name="SKYS PORTS FOOTBALL .b" tvg-logo="" group-title="United Kingdom",SKYS PORTS FOOTBALL .b
 vavoo://34562830327e28c806dd3d
 #EXTINF:-1 tvg-id="325190310529f5ca3880c1" tvg-name="SKYS PORTS MAIN EVENT .b" tvg-logo="" group-title="United Kingdom",SKYS PORTS MAIN EVENT .b

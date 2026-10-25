@@ -1,4 +1,4 @@
-name: Générateur M3U Automatique
+name: Générateur M3U Automatique — 4 domaines
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - name: Générer la playlist VAVOO depuis MediaHubMX
+      - name: Générer les quatre playlists VAVOO depuis MediaHubMX
         run: python generate_m3u.py
       - name: Publier la playlist générée
         run: |

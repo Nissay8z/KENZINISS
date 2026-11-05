@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
-"""
-Generate four domain-named VAVOO M3U lists using MediaHubMX.
+""""""
+Generate VAVOO catalogue playlists directly from the live MediaHubMX API.
 
-Each playlist URL is vavoo://<upstream-id>. The matching Android resolver
-rebuilds https://vavoo.to/vavoo-iptv/play/<upstream-id> before calling
-mediahubmx-resolve.json.
+The four historic file names are compatibility aliases, NOT independent
+sources. They all contain the latest successfully retrieved real VAVOO
+catalogue, preserving every upstream variant and group. There is no
+"Doublons" drawer or synthetic group.
+
+The entries are vavoo:// references, NOT direct .m3u8 streams: the
+VavooProvider running in the player must call mediahubmx-resolve.json
+at playback time. Resolved stream links are short lived and must never
+be baked into a public GitHub M3U.
 """
 from __future__ import annotations
 
@@ -23,12 +29,17 @@ PING_URLS = (
     "https://www.vavoo.tv/api/app/ping",
     "https://vavoo.tv/api/app/ping",
 )
-BASE_URLS = (
-    "https://vavoo.to",
-    "https://kool.to",
-    "https://vavoo.top",
-    "https://vavoo.net",
+# Try current VAVOO cluster endpoints first; legacy paths only as fallback.
+# A response is usable only if a complete, non-empty IPTV catalog is returned.
+CATALOG_ENDPOINTS = (
+    ("https://vavoo.to/vto-cluster", "vto-iptv"),
+    ("https://vavoo.net/vto-cluster", "vto-iptv"),
+    ("https://vavoo.top/vto-cluster", "vto-iptv"),
+    ("https://kool.to/kool-cluster", "kool-iptv"),
+    ("https://vavoo.to", "iptv"),
+    ("https://vavoo.net", "iptv"),
 )
+
 
 LANGUAGE = "fr"
 REGION = "US"
@@ -37,7 +48,7 @@ USER_AGENT = "VAVOO/2.6"
 MEDIAHUB_USER_AGENT = "MediaHubMX/2"
 MAX_PAGES = 300
 REQUEST_TIMEOUT = (15, 30)
-# Exactly four entries are exposed in Shamel's Playlist screen.
+# Historic file names remain for compatibility. These are aliases of ONE VAVOO catalogue.
 OUTPUTS = {
     "vavoo.to": Path("playlist/vavoo-to.m3u"),
     "kool.to": Path("playlist/kool-to.m3u"),
@@ -149,22 +160,23 @@ def get_addon_signature() -> str:
 
 
 def fetch_catalog(signature: str) -> list[dict]:
-    """Same MediaHubMX paging payload as VavooProvider.loadCatalogFromBase()."""
+    """Fetch and paginate a real VAVOO catalog, trying documented cluster routes."""
     last_error: Exception | None = None
 
-    for base in BASE_URLS:
+    for base, catalog_id in CATALOG_ENDPOINTS:
         channels: list[dict] = []
         cursor = None
+        seen_cursors = set()
         try:
             for page_number in range(1, MAX_PAGES + 1):
                 payload = {
                     "language": LANGUAGE,
                     "region": REGION,
-                    "catalogId": "iptv",
-                    "id": "iptv",
+                    "catalogId": catalog_id,
+                    "id": catalog_id,
                     "adult": False,
                     "search": "",
-                    "sort": "",
+                    "sort": "name",
                     "filter": {},
                     "cursor": cursor,
                     "clientVersion": CLIENT_VERSION,
@@ -175,31 +187,34 @@ def fetch_catalog(signature: str) -> list[dict]:
                     signature=signature,
                     mediahub=True,
                 )
-                if not isinstance(body, dict):
-                    raise ValueError(f"Format catalogue inattendu depuis {base}.")
-                items = body.get("items") or []
-                for item in items:
+                if not isinstance(body, dict) or not isinstance(body.get("items"), list):
+                    raise ValueError(f"Format de catalogue inattendu : {base}")
+                for item in body["items"]:
                     if not isinstance(item, dict):
                         continue
-                    if str(item.get("type", "")).lower() != "iptv":
+                    if str(item.get("type", "iptv")).lower() != "iptv":
                         continue
-                    if not str(item.get("url") or "").strip():
-                        continue
-                    channels.append(item)
+                    if str(item.get("url") or "").strip():
+                        channels.append(item)
 
                 next_cursor = body.get("nextCursor")
-                if next_cursor is None or str(next_cursor).strip() == "":
-                    print(f"Catalogue reçu via {urlparse(base).netloc}: {len(channels)} chaînes, {page_number} page(s).")
-                    if channels:
-                        return channels
-                    raise ValueError(f"Le catalogue VAVOO reçu depuis {base} est vide.")
+                if next_cursor is None or str(next_cursor).strip() in ("", "null"):
+                    if not channels:
+                        raise ValueError(f"Catalogue vide : {base}")
+                    print(f"Catalogue VAVOO réel reçu de {base} : {len(channels)} références en {page_number} pages.")
+                    return channels
+
+                marker = json.dumps(next_cursor, sort_keys=True)
+                if marker in seen_cursors:
+                    raise RuntimeError("Curseur de pagination répété")
+                seen_cursors.add(marker)
                 cursor = next_cursor
-            raise RuntimeError(f"Le catalogue dépasse la limite de {MAX_PAGES} pages.")
+            raise RuntimeError(f"Plus de {MAX_PAGES} pages de catalogue : {base}")
         except Exception as exc:
             last_error = exc
-            print(f"Source {urlparse(base).netloc} indisponible: {exc}", file=sys.stderr)
+            print(f"Source VAVOO indisponible ({base}): {exc}", file=sys.stderr)
 
-    raise RuntimeError(f"Tous les serveurs catalogue VAVOO ont échoué: {last_error}")
+    raise RuntimeError(f"Aucun catalogue VAVOO valide. Dernière erreur : {last_error}")
 
 
 def extract_country(group: str) -> str:
@@ -308,92 +323,53 @@ def candidate_rank(entry: tuple[str, str, str, str]) -> tuple:
 
 
 def build_playlist(items: list[dict]) -> list[str]:
-    # Keep a best candidate for each (exact group, normalized station name).
-    # Variants go into a separate "Doublons" category instead of being mixed with
-    # the preferred version in France, France Sport, Arabia, etc.
-    winners: dict[tuple[str, str], tuple[str, str, str, str]] = {}
-    alternatives: list[tuple[str, str, str, str]] = []
-    skipped_no_id = 0
-    duplicate_count = 0
+    """Preserve every real source and its exact original category.
+
+    We only collapse byte-for-byte repeated source URLs within the same
+    category. HD/FHD/4K, .c/.s/.b and fallback streams remain in the
+    original VAVOO categories, never in a drawer.
+    """
+    entries: list[tuple[str, str, str, str, str]] = []
+    seen: set[tuple[str, str]] = set()
+    invalid = 0
 
     for item in items:
-        raw_name = str(item.get("name") or "Chaîne VAVOO").strip()
         source_url = str(item.get("url") or "").strip()
         channel_id = extract_stream_id(source_url)
         if not channel_id:
-            skipped_no_id += 1
+            invalid += 1
             continue
 
         group = channel_group(item)
+        name = str(item.get("name") or "Chaîne VAVOO").strip()
         logo = str(item.get("logo") or "").strip()
-        entry = (group, raw_name, channel_id, logo)
-        key = (group.casefold(), canonical_channel_name(raw_name))
-        if not key[1]:
-            key = (group.casefold(), raw_name.casefold())
-
-        previous = winners.get(key)
-        if previous is None:
-            winners[key] = entry
+        key = (group, source_url)
+        if key in seen:
             continue
-        if previous[2] == channel_id:
-            # Same upstream stream repeated in the catalog; do not create an
-            # alternative row that would open the exact same ID.
-            continue
+        seen.add(key)
+        entries.append((group, name, channel_id, logo, source_url))
 
-        duplicate_count += 1
-        if candidate_rank(entry) > candidate_rank(previous):
-            alternatives.append(previous)
-            winners[key] = entry
-        else:
-            alternatives.append(entry)
-
-    primary: list[tuple[str, str, str, str]] = []
-    for group, name, channel_id, logo in winners.values():
-        # Strip only the provider's internal suffix, retaining real HD/4K labels.
-        primary.append((group, strip_internal_variant(name), channel_id, logo))
-
-    drawer: list[tuple[str, str, str, str]] = []
-    seen_alternative_ids: set[str] = set()
-    for original_group, name, channel_id, logo in alternatives:
-        if channel_id in seen_alternative_ids:
-            continue
-        seen_alternative_ids.add(channel_id)
-        drawer.append(("Doublons", f"{name} — {original_group}", channel_id, logo))
-
-    entries = primary + drawer
-    # Put the alternative drawer last in category order; keep all other groups intact.
-    entries.sort(key=lambda row: (
-        1 if row[0].casefold() == "doublons" else 0,
-        row[0].casefold(),
-        row[1].casefold(),
-        row[2],
-    ))
+    entries.sort(key=lambda row: (row[0].casefold(), row[1].casefold(), row[2], row[4]))
     if not entries:
-        raise RuntimeError(
-            "Aucune chaîne n'a fourni un ID reconnaissable dans son URL catalogue. "
-            "Le fichier existant n'a pas été remplacé."
-        )
+        raise RuntimeError("Aucune chaîne VAVOO exploitable : les fichiers existants restent inchangés.")
 
     lines = ["#EXTM3U"]
-    for group, name, channel_id, logo in entries:
-        group_attr = safe_attribute(group)
-        name_attr = safe_attribute(name)
-        logo_attr = safe_attribute(logo)
-        id_attr = safe_attribute(channel_id)
+    for group, name, channel_id, logo, source_url in entries:
+        # Store the actual catalogue reference for native app resolvers.
+        # vavoo:// remains a virtual URI; it requires a playback-time provider.
         lines.append(
-            f'#EXTINF:-1 tvg-id="{id_attr}" tvg-name="{name_attr}" '
-            f'tvg-logo="{logo_attr}" group-title="{group_attr}",{name_attr}'
+            f'#EXTINF:-1 tvg-id="{safe_attribute(channel_id)}" '
+            f'tvg-name="{safe_attribute(name)}" tvg-logo="{safe_attribute(logo)}" '
+            f'group-title="{safe_attribute(group)}" '
+            f'vavoo-source-url="{safe_attribute(source_url)}",{safe_attribute(name)}'
         )
         lines.append(f"vavoo://{channel_id}")
 
     from collections import Counter
-    groups = Counter(group for group, _name, _id, _logo in entries)
-    print(
-        f"Chaînes principales: {len(primary)}; alternatives dans Doublons: {len(drawer)}; "
-        f"doublons détectés: {duplicate_count}; IDs invalides ignorés: {skipped_no_id}."
-    )
-    print("Groupes M3U: " + ", ".join(
-        f"{name} ({count})" for name, count in groups.most_common(30)
+    groups = Counter(row[0] for row in entries)
+    print(f"VAVOO : {len(entries)} sources, {len(groups)} catégories, {invalid} URLs sans identifiant.")
+    print("Principales catégories : " + ", ".join(
+        f"{key} ({count})" for key, count in groups.most_common(20)
     ))
     return lines
 

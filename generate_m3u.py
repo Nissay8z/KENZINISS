@@ -326,11 +326,48 @@ def build_playlist(items: list[dict]) -> list[str]:
 
 
 
+
+def probe_resolver(signature: str, catalog: list[dict]) -> bool:
+    """Check actual stream resolution without publishing short-lived stream URLs.
+
+    A successful catalogue does not by itself prove that playback works.
+    """
+    candidates = [c for c in catalog if str(c.get("url") or "").strip()][:5]
+    resolve_paths = [
+        "https://vavoo.to/vto-cluster/mediahubmx-resolve.json",
+        "https://vavoo.net/vto-cluster/mediahubmx-resolve.json",
+        "https://vavoo.to/mediahubmx-resolve.json",
+    ]
+    for endpoint in resolve_paths:
+        for item in candidates:
+            payload = {
+                "language": LANGUAGE,
+                "region": REGION,
+                "url": str(item["url"]),
+                "clientVersion": CLIENT_VERSION,
+            }
+            try:
+                answer = post_json(endpoint, payload, signature=signature, mediahub=True)
+                choices = answer if isinstance(answer, list) else [answer]
+                for choice in choices:
+                    if isinstance(choice, dict):
+                        link = str(choice.get("url") or choice.get("streamUrl") or "")
+                        if link.startswith(("https://", "http://")):
+                            print(f"Résolveur VAVOO OK via {urlparse(endpoint).netloc} ({urlparse(endpoint).path}).")
+                            return True
+            except Exception as exc:
+                # Do not print ephemeral stream addresses or sensitive query parameters.
+                print(f"Résolveur non disponible via {urlparse(endpoint).netloc} : {type(exc).__name__}", file=sys.stderr)
+    print("ATTENTION : aucun vrai flux n'a été confirmé par le test de résolution.", file=sys.stderr)
+    return False
+
+
 def main() -> None:
     print("Obtention de la signature VAVOO…")
     signature = get_addon_signature()
     print("Chargement du catalogue MediaHubMX…")
     catalog = fetch_catalog(signature)
+    probe_resolver(signature, catalog)
     lines = build_playlist(catalog)
 
     payload = "\n".join(lines) + "\n"

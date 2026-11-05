@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""""""
+"""
 Generate VAVOO catalogue playlists directly from the live MediaHubMX API.
 
 The four historic file names are compatibility aliases, NOT independent
@@ -16,8 +16,6 @@ from __future__ import annotations
 
 import json
 import platform
-import re
-import unicodedata
 import sys
 import uuid
 from pathlib import Path
@@ -273,53 +271,6 @@ def channel_group(item: dict) -> str:
         or ""
     ).strip()
     return country if country and country.lower() not in {"default", "vavoo live"} else "Autres"
-
-
-def strip_internal_variant(name: str) -> str:
-    """Remove VAVOO's technical .c/.s/.b suffix from the displayed station name."""
-    return re.sub(r"\\s+\\.[csb]$", "", (name or "").strip(), flags=re.IGNORECASE).strip()
-
-
-def canonical_channel_name(name: str) -> str:
-    """Normalize obvious stream variants but never remove the country/group key."""
-    value = strip_internal_variant(name)
-    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
-    value = value.casefold()
-    value = re.sub(r"\\b(full\\s*hd|uhd|fhd|2160p|1440p|1080p|720p|576p|480p|4320p|2160|1080|720|4k|8k|hevc|h\\.?265|h\\.?264|hd|sd)\\b", " ", value)
-    value = re.sub(r"[^a-z0-9]+", " ", value)
-    return " ".join(value.split())
-
-
-def quality_score(name: str) -> int:
-    """Use explicit quality tokens only; the upstream catalog provides no bitrate field."""
-    value = (name or "").casefold().replace("_", " ")
-    if re.search(r"\\b(8k|4320p|uhd|2160p|2160)\\b", value):
-        return 90
-    if re.search(r"\\b(4k)\\b", value):
-        return 88
-    if re.search(r"\\b(full\\s*hd|fhd|1080p|1080)\\b", value):
-        return 78
-    if re.search(r"\\b(hd|720p|720)\\b", value):
-        return 62
-    if re.search(r"\\b(576p|480p|sd)\\b", value):
-        return 35
-    return 50
-
-
-def candidate_rank(entry: tuple[str, str, str, str]) -> tuple:
-    group, name, channel_id, logo = entry
-    # Explicit resolution wins first, a usable logo is the next tie-breaker.
-    # If the catalog does not expose quality metadata, choose a stable deterministic
-    # candidate rather than claiming an unverified bitrate/stream-health result.
-    suffix = bool(re.search(r"\\s+\\.[csb]$", name, flags=re.IGNORECASE))
-    return (
-        quality_score(name),
-        1 if logo.strip() else 0,
-        0 if suffix else 1,
-        -len(name),
-        name.casefold(),
-        channel_id,
-    )
 
 
 def build_playlist(items: list[dict]) -> list[str]:

@@ -109,6 +109,12 @@ jobs:
                                     'keys':list(obj)[:25] if isinstance(obj,dict) else None,
                                     'length':len(obj) if isinstance(obj,(list,dict)) else None,
                                     'preview':cleanse(obj)}
+                      if name.startswith('vegeta_') and isinstance(obj,dict):
+                          entries=obj.get('list',[])
+                          if isinstance(entries,list):
+                              report[name]['server_count']=len(entries)
+                              report[name]['server_fields']=dict(collections.Counter(k for x in entries if isinstance(x,dict) for k in x).most_common(35))
+                              report[name]['server_sample']=[cleanse(x) for x in entries[:2]]
                   except:
                       report[name]={'status':status,'bytes_sample':len(raw),'content_type':'non-json'}
               except urllib.error.HTTPError as ex:

@@ -69,6 +69,23 @@ jobs:
                                           except:pass
                                   if len(sample_streams)<3:
                                       sample_streams.append({k:('[URL redacted]' if isinstance(v,str) and '://' in v else str(v)[:80]) for k,v in st.items()})
+                      # Count stream URL shapes without emitting the URLs themselves
+                      from urllib.parse import urlparse
+                      formats=collections.Counter();strict_count=0
+                      for ch in channels.values():
+                          if not isinstance(ch,dict):continue
+                          for st in ch.get('streams',[]):
+                              if not isinstance(st,dict):continue
+                              url=st.get('url','')
+                              if not isinstance(url,str) or not url.startswith(('http://','https://')):continue
+                              parsed=urlparse(url);path=parsed.path.lower()
+                              fmt='m3u8' if '.m3u8' in path else 'ts' if path.endswith('.ts') else 'mpd' if '.mpd' in path else 'other'
+                              formats[fmt]+=1
+                              sensitive=bool(re.search(r'(?i)user(name)?=|pass(word)?=|token=|access_token=|api_key=|/live/[^/]+/[^/]+/',url))
+                              strict=fmt=='m3u8' and not parsed.query and not parsed.username and not parsed.password and not sensitive
+                              if strict:strict_count+=1
+                      report[name]['url_formats']=dict(formats)
+                      report[name]['strict_plain_hls_urls']=strict_count
                       report[name]['statistics']=dict(counts)
                       report[name]['stream_field_counts']=dict(fieldsets.most_common(30))
                       report[name]['host_count']=len(hostnames)

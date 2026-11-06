@@ -1,0 +1,58 @@
+name: Audit Vstro Vegeta and OZTV public catalog
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/vstro-v23-source-audit.yml'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read public catalog shapes without exporting credentials
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, urllib.error, pathlib, re, collections
+          dest=pathlib.Path('vstro_source_audit')
+          dest.mkdir(exist_ok=True)
+          report={}
+          urls={
+            'vegeta':'https://raw.githubusercontent.com/rikital/onyxia-data/main/data/vegetatv/vegeta-fr.json',
+            'oztv':'https://api.apioztv.online/api/v2/config'
+          }
+          def cleanse(v, depth=0):
+              if depth>3:return '[nested]'
+              if isinstance(v,list):return [cleanse(x,depth+1) for x in v[:2]]
+              if isinstance(v,dict):
+                  return {k:cleanse(x,depth+1) for k,x in list(v.items())[:15] if not re.search('pass|user|token|key|auth|cookie|secret|license',k,re.I)}
+              if isinstance(v,str):
+                  if re.search(r'https?://|[?&](?:user|pass|token|auth|key)=',v,re.I):return '[URL redacted]'
+                  return v[:100]
+              return v
+          for name,url in urls.items():
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'Vstro-Catalog-Audit/1.0','Accept':'application/json,*/*'})
+                  with urllib.request.urlopen(req,timeout=25) as r:
+                      body=r.read(10_000_000)
+                      code=r.status
+                  data=json.loads(body)
+                  report[name]={'http':code,'bytes':len(body),'root_type':type(data).__name__,
+                                'keys':list(data)[:40] if isinstance(data,dict) else None,
+                                'count':len(data) if isinstance(data,(list,dict)) else None,
+                                'sample':cleanse(data)}
+                  if name=='vegeta':
+                      # Keep raw only as private local process input; do not upload catalog with possible credentials
+                      pass
+              except Exception as e:
+                  report[name]={'error':str(e)[:300]}
+          (dest/'source_report.json').write_text(json.dumps(report,indent=2,ensure_ascii=False),encoding='utf-8')
+          for key,val in report.items():
+              print(key, {k:v for k,v in val.items() if k not in ('sample',)})
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vstro-source-audit
+          path: vstro_source_audit/source_report.json
+          retention-days: 2

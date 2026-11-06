@@ -92,6 +92,37 @@ jobs:
                       report[name]['sample_streams']=sample_streams
               except Exception as e:
                   report[name]={'error':str(e)[:300]}
+          more={
+             'vegeta_v2_bootstrap':'http://vegetatvv2.duckdns.org/bootstrap.php?v=114',
+             'vegeta_v2_status':'http://vegetatvv2.duckdns.org/data/server_status.json',
+             'vegeta_onyx_status':'http://vegetatv.duckdns.org/data/server_status.json',
+             'oztv_live_public':'https://api.apioztv.online/api/v1/live/channels/list'
+          }
+          for name,url in more.items():
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'Vstro-Catalog-Audit/1.0','Accept':'application/json,*/*'})
+                  with urllib.request.urlopen(req,timeout=10) as res:
+                      raw=res.read(1000000);status=res.status
+                  try:
+                      obj=json.loads(raw)
+                      report[name]={'status':status,'bytes_sample':len(raw),'type':type(obj).__name__,
+                                    'keys':list(obj)[:25] if isinstance(obj,dict) else None,
+                                    'length':len(obj) if isinstance(obj,(list,dict)) else None,
+                                    'preview':cleanse(obj)}
+                  except:
+                      report[name]={'status':status,'bytes_sample':len(raw),'content_type':'non-json'}
+              except urllib.error.HTTPError as ex:
+                  report[name]={'http_status':ex.code}
+              except Exception as ex:
+                  report[name]={'error_type':type(ex).__name__}
+          try:
+              body=b'{}';req=urllib.request.Request('https://api.apioztv.online/api/v2/config',data=body,method='POST',headers={'User-Agent':'Vstro-Catalog-Audit/1.0','Content-Type':'application/json'})
+              with urllib.request.urlopen(req,timeout=10) as res:
+                  raw=res.read(500000);status=res.status
+              try:ob=json.loads(raw);report['oztv_post']={'http':status,'root_keys':list(ob)[:20] if isinstance(ob,dict) else [],'kind':type(ob).__name__}
+              except:report['oztv_post']={'http':status,'kind':'not-json'}
+          except urllib.error.HTTPError as ex:report['oztv_post']={'http_status':ex.code}
+          except Exception as ex:report['oztv_post']={'error_type':type(ex).__name__}
           (dest/'source_report.json').write_text(json.dumps(report,indent=2,ensure_ascii=False),encoding='utf-8')
           for key,val in report.items():
               print(key, {k:v for k,v in val.items() if k not in ('sample',)})

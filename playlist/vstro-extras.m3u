@@ -1,86 +1,4 @@
 #EXTM3U
-#EXTINF:-1 provider="vstroextras" tvg-name="124. 16E, 8E ET QUARTS DE FINALE [1080p-france.tv]" tvg-logo="" group-title="France",124. 16E, 8E ET QUARTS DE FINALE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/16e-8e-et-quarts-de-finale.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. 1ER TOUR [1080p-france.tv]" tvg-logo="" group-title="France",124. 1ER TOUR [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/1er-tour.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. 1ER TOUR : NUNO BORGES VS MOÏSE KOUAMÉ [1080p-france.tv]" tvg-logo="" group-title="France",124. 1ER TOUR : NUNO BORGES VS MOÏSE KOUAMÉ [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/1er-tour-nuno-borges-vs-moïse-kouamé.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. 4E TOUR [1080p-france.tv]" tvg-logo="" group-title="France",124. 4E TOUR [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/4e-tour.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. 5E ET 6E TOUR [1080p-france.tv]" tvg-logo="" group-title="France",124. 5E ET 6E TOUR [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/5e-et-6e-tour.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. CONTRE-LA-MONTRE U23 HOMMES [1080p-france.tv]" tvg-logo="" group-title="France",124. CONTRE-LA-MONTRE U23 HOMMES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/contre-la-montre-u23-hommes.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. DEMI-FINALE ET FINALE [1080p-france.tv]" tvg-logo="" group-title="France",124. DEMI-FINALE ET FINALE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/demi-finale-et-finale.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. FESTIVAL D'AMBRONAY 2026 [1080p-france.tv]" tvg-logo="" group-title="France",124. FESTIVAL D'AMBRONAY 2026 [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-dambronay-2026.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. FINALE JUNIORS ENTRE DELATTRE ET GUINTRAND [1080p-france.tv]" tvg-logo="" group-title="France",124. FINALE JUNIORS ENTRE DELATTRE ET GUINTRAND [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finale-juniors-entre-delattre-et-guintrand.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. FINALE PAR AGRÈS HOMMES [1080p-france.tv]" tvg-logo="" group-title="France",124. FINALE PAR AGRÈS HOMMES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finale-par-agrès-hommes.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. FINALES DE LONDRES [1080p-france.tv]" tvg-logo="" group-title="France",124. FINALES DE LONDRES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finales-de-londres.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. FINALES DE MILAN [1080p-france.tv]" tvg-logo="" group-title="France",124. FINALES DE MILAN [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/finales-de-milan.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. LA CHAÎNE DES MATERNELLES [1080p-france.tv]" tvg-logo="" group-title="France",124. LA CHAÎNE DES MATERNELLES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-chaine-des-maternelles.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. LES VIEILLES CHARRUES 2026 [1080p-france.tv]" tvg-logo="" group-title="France",124. LES VIEILLES CHARRUES 2026 [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/les-vieilles-charrues-2026.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. LES VIEILLES CHARRUES [1080p-france.tv]" tvg-logo="" group-title="France",124. LES VIEILLES CHARRUES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/les-vieilles-charrues.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="124. MAIN SQUARE FESTIVAL 2026 [1080p-france.tv]" tvg-logo="" group-title="France",124. MAIN SQUARE FESTIVAL 2026 [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/main-square-festival-2026.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 16ÈMES DE FINALE : PUCCINELLI ET GALLEAU [1080p-france.tv]" tvg-logo="" group-title="France",125. 16ÈMES DE FINALE : PUCCINELLI ET GALLEAU [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/16èmes-de-finale-puccinelli-et-galleau.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 1ER TOUR : SUIVEZ LA RENCONTRE RAKOTOARISOA - BOSSARD [1080p-france.tv]" tvg-logo="" group-title="France",125. 1ER TOUR : SUIVEZ LA RENCONTRE RAKOTOARISOA - BOSSARD [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/1er-tour-suivez-la-rencontre-rakotoarisoa-bossard.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 32ÈMES DE FINALES : MOLINAS CONTRE CANO [1080p-france.tv]" tvg-logo="" group-title="France",125. 32ÈMES DE FINALES : MOLINAS CONTRE CANO [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/32èmes-de-finales-molinas-contre-cano.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 4E TOUR : LAUR CONTRE CANO [1080p-france.tv]" tvg-logo="" group-title="France",125. 4E TOUR : LAUR CONTRE CANO [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/4e-tour-laur-contre-cano.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 5E TOUR : ESCACHO CONTRE RAKOTONIAINA [1080p-france.tv]" tvg-logo="" group-title="France",125. 5E TOUR : ESCACHO CONTRE RAKOTONIAINA [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/5e-tour-escacho-contre-rakotoniaina.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. 8ÈMES DE FINALE : MESSONNIER CONTRE BATISTA [1080p-france.tv]" tvg-logo="" group-title="France",125. 8ÈMES DE FINALE : MESSONNIER CONTRE BATISTA [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/8èmes-de-finale-messonnier-contre-batista.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. LA QUOTIDIENNE J.01 : LUNDI 2 NOVEMBRE [1080p-france.tv]" tvg-logo="" group-title="France",125. LA QUOTIDIENNE J.01 : LUNDI 2 NOVEMBRE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-quotidienne-j01-lundi-2-novembre.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. LA QUOTIDIENNE J.02 : MARDI 3 NOVEMBRE [1080p-france.tv]" tvg-logo="" group-title="France",125. LA QUOTIDIENNE J.02 : MARDI 3 NOVEMBRE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-quotidienne-j02-mardi-3-novembre.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. LA QUOTIDIENNE J.03 : MERCREDI 4 NOVEMBRE [1080p-france.tv]" tvg-logo="" group-title="France",125. LA QUOTIDIENNE J.03 : MERCREDI 4 NOVEMBRE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-quotidienne-j03-mercredi-4-novembre.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. LA QUOTIDIENNE J.05 : VENDREDI 6 NOVEMBRE [1080p-france.tv]" tvg-logo="" group-title="France",125. LA QUOTIDIENNE J.05 : VENDREDI 6 NOVEMBRE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-quotidienne-j05-vendredi-6-novembre.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. PROGRAMME LIBRE MESSIEURS [1080p-france.tv]" tvg-logo="" group-title="France",125. PROGRAMME LIBRE MESSIEURS [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/programme-libre-messieurs.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. QUART DE FINALE : LAUR ET COUDENE [1080p-france.tv]" tvg-logo="" group-title="France",125. QUART DE FINALE : LAUR ET COUDENE [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/quart-de-finale-laur-et-coudene.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. ROUTE DU RHUM 2026. SPECTACLE AUX ÉCLUSES : LA SORTIE DES ULTIM [1080p-france.tv]" tvg-logo="" group-title="France",125. ROUTE DU RHUM 2026. SPECTACLE AUX ÉCLUSES : LA SORTIE DES ULTIM [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/route-du-rhum-2026-spectacle-aux-écluses-la-sortie-des-ultim.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. SPECTACLE AUX ÉCLUSES : L'ARRIVÉE DES BATEAUX [1080p-france.tv]" tvg-logo="" group-title="France",125. SPECTACLE AUX ÉCLUSES : L'ARRIVÉE DES BATEAUX [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spectacle-aux-écluses-larrivée-des-bateaux.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="125. SUIVEZ LES DEMI-FINALES FEMMES [1080p-france.tv]" tvg-logo="" group-title="France",125. SUIVEZ LES DEMI-FINALES FEMMES [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/suivez-les-demi-finales-femmes.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="126. SUIVEZ LE TOURNOI DES CÉLÉBRITÉS [1080p-france.tv]" tvg-logo="" group-title="France",126. SUIVEZ LE TOURNOI DES CÉLÉBRITÉS [1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/suivez-le-tournoi-des-célébrités.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="151. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",151. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="151. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",151. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="152. GUYANE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",152. GUYANE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guyane-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="152. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",152. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="152. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",152. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="153. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",153. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="153. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",153. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="154. SAINT-PIERRE ET MIQUELON 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",154. SAINT-PIERRE ET MIQUELON 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/saint-pierre-et-miquelon-1ere.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="154. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]" tvg-logo="https://i.imgur.com/M4mQ8iG.png" group-title="France",154. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="20 Minutes TV (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",20 Minutes TV (1080p) [iptv-org-fr] [Onyxia Live]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="20 Minutes TV (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",20 Minutes TV (1080p) [iptv-org-fr] [Onyxia Live]
@@ -89,8 +7,6 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="20 Minutes TV (1080p) [kilirushi]" tvg-logo="" group-title="France",20 Minutes TV (1080p) [kilirushi] [Onyxia Live]
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="33. Sport en France [1080p-dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" group-title="France",33. Sport en France [1080p-dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/sport-en-france-dm.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="3ABN French" tvg-logo="" group-title="France",3ABN French [Onyxia Live]
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="6ter [iptv-org-fr]" tvg-logo="" group-title="France",6ter [iptv-org-fr] [Onyxia Live]
@@ -597,46 +513,14 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TRT Spor (Turquie)" tvg-logo="" group-title="Sport International",TRT Spor (Turquie) [Onyxia Live]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="18. T18 [1080p-dailymotion.com]" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" group-title="TV International",18. T18 [1080p-dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="19. NOVO19" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" group-title="TV International",19. NOVO19 [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/K97DSABC6zyh/H4SADCBQe7yG0prO.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="20 Minutes TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="TV International",20 Minutes TV (1080p) [Onyxia Live]
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="207. EN DIRECT DU CHÂTEAU" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-30c14d-021c3c-0@3x.png" group-title="TV International",207. EN DIRECT DU CHÂTEAU [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RQBeKOWdAj15/JXPJ4solDudRsAM.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="208. CONNEXION AVEC LA MAISON" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story_v2-9397a2-e8f250-0@3x.png" group-title="TV International",208. CONNEXION AVEC LA MAISON [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3h60F7d8Uq8/0ULyMP5TKuUqeEyl.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="210. NOVO19" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" group-title="TV International",210. NOVO19 [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/K97DSABC6zyh/H4SADCBQe7yG0prO.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="2M Monde (1080p)" tvg-logo="" group-title="TV International",2M Monde (1080p) [Onyxia Live]
 https://stream-lb.livemediama.com/2m/hls/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="2STV (720p)" tvg-logo="" group-title="TV International",2STV (720p) [Onyxia Live]
 http://69.64.57.208/2stv/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="32. Canal 32 [1080p-canal32.fr]" tvg-logo="https://zupimages.net/up/26/11/8c0t.jpeg" group-title="TV International",32. Canal 32 [1080p-canal32.fr] [Onyxia Live]
-https://canal32-lineaire.b-cdn.net/master.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="53. Europe 1 TV [1080p-dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/1W-uR1gZDowPnQR9s/60x60" group-title="TV International",53. Europe 1 TV [1080p-dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/europe-1-tv-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="67. Europe 1 TV [1080p-canalplus.com]" tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60" group-title="TV International",67. Europe 1 TV [1080p-canalplus.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="7 Info" tvg-logo="" group-title="TV International",7 Info [Onyxia Live]
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="80. Journal du Golf [dailymotion.com]" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gke6_PyauFK/60x60" group-title="TV International",80. Journal du Golf [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="81. L'Équipe live  4 [dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkgetSir_Pl/60x60" group-title="TV International",81. L'Équipe live  4 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-4-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="81. L'Équipe live 1 [dailymotion.com]" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gkeTQt2ZwWp/60x60" group-title="TV International",81. L'Équipe live 1 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-1-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="82. L'Équipe live 2 [dailymotion.com]" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gkeTQt2ZwWp/60x60" group-title="TV International",82. L'Équipe live 2 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-2-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="83. L'Équipe live 3 [dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkzfNXl9viB/60x60" group-title="TV International",83. L'Équipe live 3 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-3-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="83. L'Équipe live 5 [dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gkgetSir_Pl/60x60" group-title="TV International",83. L'Équipe live 5 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-5-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="83. L'Équipe live 7 [dailymotion.com]" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gmcxW1ZtYsh/60x60" group-title="TV International",83. L'Équipe live 7 [dailymotion.com] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-7-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="85. L'Équipe Live 6" tvg-logo="" group-title="TV International",85. L'Équipe Live 6 [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-6-dm.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="A+ Ivoire (720p)" tvg-logo="" group-title="TV International",A+ Ivoire (720p) [Onyxia Live]
 http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="A12 TV" tvg-logo="" group-title="TV International",A12 TV [Onyxia Live]

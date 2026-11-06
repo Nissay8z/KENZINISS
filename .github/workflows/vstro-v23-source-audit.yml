@@ -43,8 +43,36 @@ jobs:
                                 'count':len(data) if isinstance(data,(list,dict)) else None,
                                 'sample':cleanse(data)}
                   if name=='vegeta':
-                      # Keep raw only as private local process input; do not upload catalog with possible credentials
-                      pass
+                      channels=data.get('channels',{})
+                      counts=collections.Counter()
+                      fieldsets=collections.Counter()
+                      hostnames=collections.Counter()
+                      sample_streams=[]
+                      for key,ch in channels.items():
+                          streams=ch.get('streams',[]) if isinstance(ch,dict) else []
+                          counts['channels']+=1
+                          counts['streams']+=len(streams)
+                          counts['channels_with_streams']+=bool(streams)
+                          if isinstance(ch,dict) and ch.get('category'):counts['category_set']+=1
+                          for st in streams:
+                              if isinstance(st,dict):
+                                  for fld in st:fieldsets[fld]+=1
+                                  # URLs are not exported; count potential credentials or query keys only
+                                  for val in st.values():
+                                      if not isinstance(val,str):continue
+                                      if re.search(r'https?://',val):
+                                          counts['url_fields']+=1
+                                          if re.search(r'(?i)user(name)?=|pass(word)?=|token=|access_token=|api_key=|/live/[^/]+/[^/]+/',val):counts['credential_or_token_url_fields']+=1
+                                          try:
+                                              from urllib.parse import urlparse
+                                              u=urlparse(val);hostnames[u.netloc.split(':')[0]]+=1
+                                          except:pass
+                                  if len(sample_streams)<3:
+                                      sample_streams.append({k:('[URL redacted]' if isinstance(v,str) and '://' in v else str(v)[:80]) for k,v in st.items()})
+                      report[name]['statistics']=dict(counts)
+                      report[name]['stream_field_counts']=dict(fieldsets.most_common(30))
+                      report[name]['host_count']=len(hostnames)
+                      report[name]['sample_streams']=sample_streams
               except Exception as e:
                   report[name]={'error':str(e)[:300]}
           (dest/'source_report.json').write_text(json.dumps(report,indent=2,ensure_ascii=False),encoding='utf-8')

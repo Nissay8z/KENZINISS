@@ -1,0 +1,52 @@
+name: Vstro Next — Android TV native providers
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/build-vstro-next.yml'
+      - 'vstro-next/patch_upstream.py'
+permissions:
+  contents: read
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get upstream real Kotlin providers (Apache-2.0)
+        run: git clone --depth 1 https://github.com/linkinep61/projet-nx.git source
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Adapt native Onyx engine into Vstro Next
+        run: python3 vstro-next/patch_upstream.py
+      - name: Configure Android Studio build
+        shell: bash
+        run: |
+          printf 'APP_LAYOUT=tv\nABI_TARGET=arm32\nTMDB_API_KEY=\nSUBDL_API_KEY=\nRABBITSTREAM_SOURCE_API=\nOPENSUBTITLES_API_KEY=\nVOE_API_KEY=\nVIDARA_API_KEY=\n' > source/local.properties
+          echo 'org.gradle.jvmargs=-Xmx3g -XX:MaxMetaspaceSize=512m' >> source/gradle.properties
+          echo 'kotlin.daemon.jvmargs=-Xmx3g -XX:MaxMetaspaceSize=512m' >> source/gradle.properties
+          chmod +x source/gradlew
+      - name: Compile REAL Android TV APK (Kotlin)
+        working-directory: source
+        run: ./gradlew :app:assembleDebug --no-daemon --stacktrace --max-workers=2
+      - name: Verify generated APK
+        shell: bash
+        run: |
+          set -euo pipefail
+          APK=$(find source/app/build/outputs/apk/debug -name '*.apk' | head -1)
+          test -n "$APK"
+          test "$(stat -c%s "$APK")" -gt 1000000
+          unzip -t "$APK" | tail -2
+          mkdir -p artifacts
+          cp "$APK" artifacts/Vstro-Next-20.0-AndroidTV-TEST.apk
+          cp source/LICENSE artifacts/ONYX-UPSTREAM-LICENSE.txt
+          sha256sum artifacts/Vstro-Next-20.0-AndroidTV-TEST.apk > artifacts/SHA256.txt
+      - name: Upload actually compiled APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Vstro-Next-20-AndroidTV-TEST
+          path: artifacts/
+          retention-days: 7
+          if-no-files-found: error

@@ -49,7 +49,7 @@ def add(name,category,logo,url,origin):
     if not name or BLOCK.search(name) or BLOCK.search(category):
         rejected["category"]+=1;return
     # Onyxia also lists event recordings and concert clips; TV Live only.
-    if re.match(r"^\\d+\\.\\s",name) or re.search(r"\\[(?:720p|1080p)-france\\.tv\\]",name,re.I) or re.search(r"\\b(?:concert|festival|replay|rediffusion)\\b",name,re.I):
+    if re.match(r"^\d+\.\s",name) or re.search(r"\[(?:720p|1080p)-france\.tv\]",name,re.I) or re.search(r"\b(?:concert|festival|replay|rediffusion)\b",name,re.I):
         rejected["event_or_replay"]+=1;return
     if not safe(url):
         rejected["unsafe_or_unplayable_url"]+=1;return

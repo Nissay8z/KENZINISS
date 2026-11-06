@@ -13,7 +13,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Download only Algeria Morocco Tunisia from official IPTV-org
+      - name: Download public country M3Us from official IPTV-org
         shell: bash
         run: |
           python3 - <<'PY'
@@ -21,7 +21,7 @@ jobs:
           dest = pathlib.Path('iptvorg')
           dest.mkdir(exist_ok=True)
           data = {}
-          for code, country in [('dz','Algerie'),('ma','Maroc'),('tn','Tunisie'),('fr','France'),('be','Belgique'),('gb','Royaume-Uni'),('es','Espagne'),('de','Allemagne'),('it','Italie')]:
+          for code, country in [('dz','Algerie'),('ma','Maroc'),('tn','Tunisie'),('fr','France'),('be','Belgique'),('uk','Royaume-Uni'),('es','Espagne'),('de','Allemagne'),('it','Italie')]:
               url = 'https://iptv-org.github.io/iptv/countries/' + code + '.m3u'
               req = urllib.request.Request(url, headers={'User-Agent':'Vstro-Maghreb-Playlist/1.0','Accept':'audio/x-mpegurl,text/plain,*/*'})
               with urllib.request.urlopen(req, timeout=35) as response:

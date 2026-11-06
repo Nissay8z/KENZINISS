@@ -1,0 +1,45 @@
+{
+  "generated_utc": "2026-11-06T20:33:57.159545+00:00",
+  "sources": {
+    "Onyxia Live": {
+      "status": "ok",
+      "accepted": 674,
+      "bytes": 1058955
+    },
+    "Onyxia Fast": {
+      "status": "ok",
+      "accepted": 54,
+      "bytes": 409892
+    },
+    "Onyx World Live": {
+      "status": "unavailable",
+      "reason": "Expecting value: line 1 column 2 (char 1)"
+    }
+  },
+  "total_entries": 728,
+  "groups": {
+    "France": 258,
+    "France Sport": 5,
+    "Maroc": 5,
+    "Sport International": 31,
+    "TV International": 429
+  },
+  "rejected": {
+    "unsafe_or_unplayable_url": 2013,
+    "drm_or_headers": 215,
+    "category": 879,
+    "duplicate": 569
+  },
+  "result": "updated",
+  "excluded": [
+    "Pluto",
+    "Samsung",
+    "music/radio",
+    "DRM",
+    "Xtream/Stalker credentials"
+  ],
+  "reference": [
+    "linkinep61/projet-nx",
+    "rikital/onyxia-data"
+  ]
+}

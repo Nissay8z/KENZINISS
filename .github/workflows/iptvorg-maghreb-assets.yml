@@ -1,4 +1,4 @@
-name: Build IPTV-org Maghreb assets for Vstro
+name: Build IPTV-org Vstro V20 public TV catalog
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
           dest = pathlib.Path('iptvorg')
           dest.mkdir(exist_ok=True)
           data = {}
-          for code, country in [('dz','Algerie'),('ma','Maroc'),('tn','Tunisie')]:
+          for code, country in [('dz','Algerie'),('ma','Maroc'),('tn','Tunisie'),('fr','France'),('be','Belgique'),('gb','Royaume-Uni'),('es','Espagne'),('de','Allemagne'),('it','Italie')]:
               url = 'https://iptv-org.github.io/iptv/countries/' + code + '.m3u'
               req = urllib.request.Request(url, headers={'User-Agent':'Vstro-Maghreb-Playlist/1.0','Accept':'audio/x-mpegurl,text/plain,*/*'})
               with urllib.request.urlopen(req, timeout=35) as response:
@@ -38,7 +38,7 @@ jobs:
       - name: Upload offline M3U catalog files
         uses: actions/upload-artifact@v4
         with:
-          name: iptvorg-maghreb-3-countries
+          name: iptvorg-vstro-v20-public-countries
           path: iptvorg/
           retention-days: 2
           if-no-files-found: error

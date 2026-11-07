@@ -1113,8 +1113,6 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Motus La Chaîne (1080p)" tvg-logo="" group-title="TV International",Motus La Chaîne (1080p) [Onyxia Fast]
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="MTV" tvg-logo="" group-title="TV International",MTV [Onyxia Live]
-http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="My TV Channel (720p) [Not 24/7]" tvg-logo="" group-title="TV International",My TV Channel (720p) [Not 24/7] [Onyxia Live]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="MyCamTV Anal" tvg-logo="" group-title="TV International",MyCamTV Anal [Onyxia Live]

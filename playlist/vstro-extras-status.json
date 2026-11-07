@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-07T00:04:02.766703+00:00",
+  "generated_utc": "2026-11-07T00:05:13.744425+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
-      "accepted": 616,
+      "accepted": 615,
       "bytes": 1059346
     },
     "Onyxia Fast": {
       "status": "ok",
       "accepted": 54,
-      "bytes": 409038
+      "bytes": 409586
     },
     "Onyx Dric4rTV": {
       "status": "ok",
@@ -27,7 +27,7 @@
       "reason": "Expecting value: line 1 column 2 (char 1)"
     }
   },
-  "total_entries": 770,
+  "total_entries": 769,
   "groups": {
     "Documentaire": 2,
     "France": 248,
@@ -36,12 +36,12 @@
     "France Sport": 35,
     "Maroc": 5,
     "Sport International": 63,
-    "TV International": 413
+    "TV International": 412
   },
   "rejected": {
     "unsafe_or_unplayable_url": 2016,
     "drm_or_headers": 215,
-    "category": 875,
+    "category": 876,
     "duplicate": 569,
     "event_or_replay": 59
   },

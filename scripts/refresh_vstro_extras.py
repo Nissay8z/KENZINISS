@@ -165,6 +165,37 @@ except Exception as e:
     sources["Onyx Dric4rTV"]={"status":"unavailable","reason":type(e).__name__}
 
 
+
+# Port des sources TV ReneVeo incluses dans projet-nx/assets/reneveo_channels.json.
+# Seule la liste publique de chaînes est importée, pas la clé Supabase.
+def sync_reneveo():
+    origin="https://raw.githubusercontent.com/linkinep61/projet-nx/main/app/src/main/assets/reneveo_channels.json"
+    body=json.loads(fetch(origin,1000000))
+    channels=body.get("channels",[])
+    if isinstance(channels,dict):channels=list(channels.values())
+    before=len(entries)
+    categories={"generaliste":"France","cinema":"France","sport":"France Sport",
+      "information":"France Info","jeunesse":"France Enfants",
+      "documentaire":"Documentaire","divers":"France"}
+    for channel in channels[:300]:
+        if not isinstance(channel,dict):continue
+        name=str(channel.get("name") or "").strip()
+        c=str(channel.get("category") or "").lower()
+        if c not in categories or not name or BLOCK.search(name):continue
+        logo=str(channel.get("logo") or "")
+        for url in channel.get("sources",[])[:8]:
+            if not isinstance(url,str) or not safe(url):continue
+            key=(name.casefold(),url)
+            if key in seen:continue
+            seen.add(key)
+            entries.append((name,categories[c],logo,url,"Onyx ReneVeo"))
+    return {"status":"ok","catalogue_channels":len(channels),"accepted":len(entries)-before}
+
+try:
+    sources["Onyx ReneVeo"]=sync_reneveo()
+except Exception as e:
+    sources["Onyx ReneVeo"]={"status":"unavailable","reason":type(e).__name__}
+
 try:
     directories=list(find_directories(json.loads(fetch(WORLD,3000000))))
     n=0

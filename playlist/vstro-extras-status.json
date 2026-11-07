@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-07T00:05:13.744425+00:00",
+  "generated_utc": "2026-11-07T00:05:34.811486+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
-      "accepted": 615,
+      "accepted": 608,
       "bytes": 1059346
     },
     "Onyxia Fast": {
       "status": "ok",
-      "accepted": 54,
+      "accepted": 53,
       "bytes": 409586
     },
     "Onyx Dric4rTV": {
@@ -27,21 +27,21 @@
       "reason": "Expecting value: line 1 column 2 (char 1)"
     }
   },
-  "total_entries": 769,
+  "total_entries": 761,
   "groups": {
     "Documentaire": 2,
-    "France": 248,
+    "France": 241,
     "France Enfants": 2,
     "France Info": 2,
     "France Sport": 35,
     "Maroc": 5,
     "Sport International": 63,
-    "TV International": 412
+    "TV International": 411
   },
   "rejected": {
-    "unsafe_or_unplayable_url": 2016,
+    "unsafe_or_unplayable_url": 1981,
     "drm_or_headers": 215,
-    "category": 876,
+    "category": 919,
     "duplicate": 569,
     "event_or_replay": 59
   },

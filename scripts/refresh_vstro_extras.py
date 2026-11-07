@@ -9,7 +9,7 @@ SOURCES = [
 ]
 WORLD = "https://box.xtemus.com/?playlist=u256y494u21596x2"
 BLOCK = re.compile("pluto|samsung|musique|music|radio|vevo|spotify|deezer|adult|porn|xxx",re.I)
-MUSIC_TV = re.compile(r"(?i)(?:^|\\b)(?:MTV|MCM|MEZZO|TRACE URBAN|TRACE LATINA|TRACE TROPICAL|TRACE AFRICA|NRJ HITS|KERRANG|VH1|M6 MUSIC|FUN RADIO TV)(?:\\b|$)")
+MUSIC_TV = re.compile(r"(?i)(?:^|\b)(?:MTV|MCM|MEZZO|TRACE URBAN|TRACE LATINA|TRACE TROPICAL|TRACE AFRICA|NRJ HITS|KERRANG|VH1|M6 MUSIC|FUN RADIO TV)(?:\b|$)")
 PROTECTED = re.compile(r"/(?:live|movie|series)/[^/]+/[^/]+/|/portal\.php|/get\.php|/player_api\.php|stalker|token|access_key|auth|jwt|signature|key=",re.I)
 ATTR = re.compile(r'\b([a-zA-Z][a-zA-Z0-9_-]*)="([^"]*)"')
 entries=[]; seen=set();rejected=collections.Counter();sources={}

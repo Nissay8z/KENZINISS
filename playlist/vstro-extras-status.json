@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-07T00:00:35.246276+00:00",
+  "generated_utc": "2026-11-07T00:04:02.766703+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
@@ -17,15 +17,23 @@
       "accepted": 34,
       "errors": []
     },
+    "Onyx ReneVeo": {
+      "status": "ok",
+      "catalogue_channels": 39,
+      "accepted": 66
+    },
     "Onyx World Live": {
       "status": "unavailable",
       "reason": "Expecting value: line 1 column 2 (char 1)"
     }
   },
-  "total_entries": 704,
+  "total_entries": 770,
   "groups": {
-    "France": 218,
-    "France Sport": 5,
+    "Documentaire": 2,
+    "France": 248,
+    "France Enfants": 2,
+    "France Info": 2,
+    "France Sport": 35,
     "Maroc": 5,
     "Sport International": 63,
     "TV International": 413

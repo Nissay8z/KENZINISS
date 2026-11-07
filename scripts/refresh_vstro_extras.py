@@ -9,6 +9,7 @@ SOURCES = [
 ]
 WORLD = "https://box.xtemus.com/?playlist=u256y494u21596x2"
 BLOCK = re.compile("pluto|samsung|musique|music|radio|vevo|spotify|deezer|adult|porn|xxx",re.I)
+MUSIC_TV = re.compile(r"(?i)(?:^|\\b)(?:MTV|MCM|MEZZO|TRACE URBAN|TRACE LATINA|TRACE TROPICAL|TRACE AFRICA|NRJ HITS|KERRANG|VH1|M6 MUSIC|FUN RADIO TV)(?:\\b|$)")
 PROTECTED = re.compile(r"/(?:live|movie|series)/[^/]+/[^/]+/|/portal\.php|/get\.php|/player_api\.php|stalker|token|access_key|auth|jwt|signature|key=",re.I)
 ATTR = re.compile(r'\b([a-zA-Z][a-zA-Z0-9_-]*)="([^"]*)"')
 entries=[]; seen=set();rejected=collections.Counter();sources={}
@@ -46,7 +47,7 @@ def group(name,origin):
     return "TV International"
 
 def add(name,category,logo,url,origin):
-    if not name or BLOCK.search(name) or BLOCK.search(category):
+    if not name or BLOCK.search(name) or BLOCK.search(category) or MUSIC_TV.search(name):
         rejected["category"]+=1;return
     # Onyxia also lists event recordings and concert clips; TV Live only.
     if re.match(r"^\d+\.\s",name) or re.search(r"\[(?:720p|1080p)-france\.tv\]",name,re.I) or re.search(r"\b(?:concert|festival|replay|rediffusion)\b",name,re.I):
@@ -181,7 +182,7 @@ def sync_reneveo():
         if not isinstance(channel,dict):continue
         name=str(channel.get("name") or "").strip()
         c=str(channel.get("category") or "").lower()
-        if c not in categories or not name or BLOCK.search(name):continue
+        if c not in categories or not name or BLOCK.search(name) or MUSIC_TV.search(name):continue
         logo=str(channel.get("logo") or "")
         for url in channel.get("sources",[])[:8]:
             if not isinstance(url,str) or not safe(url):continue

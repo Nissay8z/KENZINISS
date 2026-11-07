@@ -91,6 +91,80 @@ for label,url in SOURCES:
         sources[label]={"status":"ok","accepted":parse_m3u(content,label),"bytes":len(content.encode("utf8"))}
     except Exception as e:sources[label]={"status":"unavailable","reason":str(e)[:140]}
 
+
+# Port du Dric4rTvProvider.kt de projet-nx : source JSON -> catégories Live natives Vstro.
+# Ni musique, ni radio, ni films/series mal classés en Live, ni liens protégés.
+def dric_json(body):
+    try:return json.loads(body)
+    except json.JSONDecodeError:
+        # Réparation ciblée de DricJson.kt : accolade manquante avant ].
+        # N'essaye qu'un seul candidat pour éviter de masquer d'autres anomalies.
+        candidates=list(re.finditer(r'"(?:[^"\\]|\\.)*"\s*]',body))
+        for m in reversed(candidates[:1000]):
+            pos=m.end()-1
+            repaired=body[:pos]+'}'+body[pos:]
+            try:return json.loads(repaired)
+            except json.JSONDecodeError:pass
+        raise
+
+def dric_add_station(st, category, title=None):
+    if not isinstance(st,dict):return
+    if st.get("headers") or st.get("referer") or st.get("userAgent"):
+        rejected["dric_requires_custom_headers"]+=1
+        return
+    url=str(st.get("url") or "").strip()
+    name=str(title or st.get("name") or "").strip()
+    if not name or not safe(url):return
+    if category=="Ligue1+":
+        cat="France Sport"
+    elif category in ("US Sports & NBA","Horse"):
+        cat="Sport International"
+    elif category=="Nature & Découverte":
+        cat="Documentaire"
+    else:
+        cat="France"
+    # The group() classifier uses title and category, but not the category's
+    # original taxonomy. Explicit country/sport group is retained here.
+    k=(name.casefold(),url)
+    if k in seen:return
+    seen.add(k)
+    entries.append((name,cat,str(st.get("image") or ""),url,"Onyx Dric4rTV"))
+
+def sync_dric4r():
+    origin="http://dric4rt.free.fr/1.json"
+    kept={"Ligue1+","US Sports & NBA","Horse","Nature & Découverte","Locales TV"}
+    source={"status":"ok","groups_seen":0,"accepted":0,"errors":[]}
+    before=len(entries)
+    idx=dric_json(fetch(origin,2500000))
+    groups=idx.get("groups",[])
+    source["groups_seen"]=len(groups)
+    for group_item in groups[:80]:
+        if not isinstance(group_item,dict):continue
+        name=str(group_item.get("name") or "").strip()
+        if name not in kept:continue
+        url=str(group_item.get("url") or "").strip()
+        if not url.startswith(("http://","https://")) or "rebrand.ly" in url:continue
+        try:
+            cat=dric_json(fetch(url,2500000))
+            stations=cat.get("stations",[])
+            if isinstance(stations,list):
+                for st in stations[:2000]:dric_add_station(st,name)
+            else:
+                for sub in cat.get("groups",[])[:120]:
+                    if not isinstance(sub,dict):continue
+                    for st in sub.get("stations",[])[:100]:
+                        dric_add_station(st,name,str(sub.get("name") or ""))
+        except Exception as e:
+            source["errors"].append({"category":name,"error":type(e).__name__})
+    source["accepted"]=len(entries)-before
+    return source
+
+try:
+    sources["Onyx Dric4rTV"]=sync_dric4r()
+except Exception as e:
+    sources["Onyx Dric4rTV"]={"status":"unavailable","reason":type(e).__name__}
+
+
 try:
     directories=list(find_directories(json.loads(fetch(WORLD,3000000))))
     n=0

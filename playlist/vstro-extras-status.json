@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-13T19:53:48.253071+00:00",
+  "generated_utc": "2026-11-14T06:45:28.950971+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
       "accepted": 623,
-      "bytes": 1077133
+      "bytes": 1080076
     },
     "Onyxia Fast": {
       "status": "ok",
       "accepted": 53,
-      "bytes": 409560
+      "bytes": 410056
     },
     "Onyx Dric4rTV": {
       "status": "ok",
@@ -35,11 +35,11 @@
     "TV International": 416
   },
   "rejected": {
-    "unsafe_or_unplayable_url": 1993,
+    "unsafe_or_unplayable_url": 1997,
     "drm_or_headers": 215,
     "category": 921,
-    "duplicate": 598,
-    "event_or_replay": 66
+    "duplicate": 599,
+    "event_or_replay": 69
   },
   "result": "updated",
   "excluded": [

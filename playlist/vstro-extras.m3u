@@ -81,6 +81,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Blue Bloods [iptv-org-fr]" tvg-logo="" group-title="France",Blue Bloods [iptv-org-fr] [Onyxia Live]
 https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="Boomerang (France) HD (720p)" tvg-logo="" group-title="France",Boomerang (France) HD (720p) [Onyxia Live]
+http://41.205.93.154/BOOMERANG/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="BX1 (504p) [iptv-org-fra]" tvg-logo="" group-title="France",BX1 (504p) [iptv-org-fra] [Onyxia Live]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="C Star (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",C Star (1080p) [iptv-org-fr] [Onyxia Live]
@@ -315,8 +317,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Nature Time France (1080p)" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="France",Nature Time France (1080p) [Onyxia Live]
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Nicktoons (France) (1080p)" tvg-logo="" group-title="France",Nicktoons (France) (1080p) [Onyxia Live]
-http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NOVO19" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" group-title="France",NOVO19 [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/drRNOzJ8SiuPKHh9.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NOVO19 (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",NOVO19 (1080p) [iptv-org-fr] [Onyxia Live]
@@ -389,6 +389,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Vok3otx5yNvz/9K0Rg5Ar2rZiIVTK.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]
@@ -1049,10 +1051,6 @@ https://watch.haitilive.net/naktvhd/index.m3u8
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NEXT TV" tvg-logo="https://nexttvgroup.com/api/media/file/ChatGPT%20Image%2010%20juil.%202026%2C%2003_44_53.png" group-title="TV International",NEXT TV [Onyxia Live]
 https://video1.getstreamhosting.com:1936/8312/8312/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Nickelodeon (1080p)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="TV International",Nickelodeon (1080p) [Onyxia Live]
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Nickelodeon Junior (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="TV International",Nickelodeon Junior (1080p) [Onyxia Live]
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Nickelodeon Teen (720p)" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="TV International",Nickelodeon Teen (720p) [Onyxia Live]
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Nieta TV (576p)" tvg-logo="" group-title="TV International",Nieta TV (576p) [Onyxia Live]

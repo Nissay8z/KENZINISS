@@ -181,6 +181,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="France 3 Cote d'Azur (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",France 3 Cote d'Azur (1080p) [iptv-org-fr] [Onyxia Live]
 http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="France 3 Cote d'Azur (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",France 3 Cote d'Azur (1080p) [iptv-org-fr] [Onyxia Live]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="France 3 Cote d'Azur [iptv-org-fr]" tvg-logo="" group-title="France",France 3 Cote d'Azur [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="France 3 Lorraine (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",France 3 Lorraine (1080p) [iptv-org-fr] [Onyxia Live]
@@ -392,7 +394,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/SulhDa9Yadmb/mhiA2NuPJk0BLqV7.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TrF1EWLOAoxS/gyEOdIpgywrSKG8.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]

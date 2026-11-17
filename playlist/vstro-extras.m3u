@@ -327,8 +327,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/d
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/drRNOzJ8SiuPKHh9.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NOVO19 [iptv-org-fr]" tvg-logo="" group-title="France",NOVO19 [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/drRNOzJ8SiuPKHh9.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Paris Premiere (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Paris Premiere (1080p) [iptv-org-fr] [Onyxia Live]
-http://193.254.245.162/PARIS-PREMIERE/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Passion Novelas (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Passion Novelas (1080p) [iptv-org-fra] [Onyxia Live]
 http://41.223.30.230/PASSIONTV/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Press TV French (1080p)" tvg-logo="" group-title="France",Press TV French (1080p) [Onyxia Live]
@@ -349,14 +347,10 @@ http://41.205.77.102/CHERIE25/index.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="RTL TVI [schumijo]" tvg-logo="" group-title="France",RTL TVI [schumijo] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="RTL9 (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",RTL9 (1080p) [iptv-org-fr] [Onyxia Live]
-http://145.239.5.177/308/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="SCREAM'IN [schumijo]" tvg-logo="" group-title="France",SCREAM'IN [schumijo] [Onyxia Live]
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Teen Mom (720p) [iptv-org-fra]" tvg-logo="" group-title="France",Teen Mom (720p) [iptv-org-fra] [Onyxia Live]
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Teva (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Teva (1080p) [iptv-org-fr] [Onyxia Live]
-http://145.239.5.177/356/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TF1" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png" group-title="France",TF1 [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/etDgvzLTD8WIy0w.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TF1 (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",TF1 (1080p) [iptv-org-fr] [Onyxia Live]
@@ -394,7 +388,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TrF1EWLOAoxS/gyEOdIpgywrSKG8.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IkPucMEwm4/jQoJQ19Xbn4jUMa.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]
@@ -433,8 +427,6 @@ http://5.180.164.197:8080/TV5MONDE/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TV5Monde France Belgique Suisse Monaco (1080p)" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="France",TV5Monde France Belgique Suisse Monaco (1080p) [Onyxia Live]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="TV5Monde France Belgium Switzerland Monaco" tvg-logo="" group-title="France",TV5Monde France Belgium Switzerland Monaco [Onyxia Live]
-http://5.78.65.164/TV5Monde/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TVR" tvg-logo="https://dric4rt.pages-perso.free.fr/IMG/TVR.png" group-title="France",TVR [Onyx Dric4rTV]
 https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/corp/54_tvr_vtucuxt_1080p/chunks.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="W9 (1086p) [iptv-org-fr]" tvg-logo="" group-title="France",W9 (1086p) [iptv-org-fr] [Onyxia Live]
@@ -611,8 +603,6 @@ https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="A2i TV (1080p)" tvg-logo="" group-title="TV International",A2i TV (1080p) [Onyxia Live]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="AB1 (720p)" tvg-logo="" group-title="TV International",AB1 (720p) [Onyxia Live]
-http://145.239.5.177/332/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Acerfi TV" tvg-logo="" group-title="TV International",Acerfi TV [Onyxia Live]
 https://streamtv.acerfi.net/hls/acerfitv/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Activa TV (ES)" tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="TV International",Activa TV (ES) [Onyxia Live]
@@ -803,6 +793,8 @@ http://69.64.57.208/equinoxtv/playlist.m3u8
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Espace TV (1080p)" tvg-logo="" group-title="TV International",Espace TV (1080p) [Onyxia Live]
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="Espoir TV (720p)" tvg-logo="" group-title="TV International",Espoir TV (720p) [Onyxia Live]
+https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="ETV (1080p)" tvg-logo="" group-title="TV International",ETV (1080p) [Onyxia Live]
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Euronews Français (720p)" tvg-logo="" group-title="TV International",Euronews Français (720p) [Onyxia Fast]
@@ -1045,8 +1037,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiao
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Myzen" tvg-logo="" group-title="TV International",Myzen [Onyxia Live]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="MyZen TV (1080p)" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="TV International",MyZen TV (1080p) [Onyxia Live]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="National Geographic Wild (720p)" tvg-logo="" group-title="TV International",National Geographic Wild (720p) [Onyxia Live]
 http://41.205.77.102/NATGEO-WILD/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NETALKOLE TV (720p) [Not 24/7]" tvg-logo="" group-title="TV International",NETALKOLE TV (720p) [Not 24/7] [Onyxia Live]
@@ -1169,8 +1159,6 @@ http://69.64.57.208:8080/rti2/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="RTL Zwee (1080p)" tvg-logo="" group-title="TV International",RTL Zwee (1080p) [Onyxia Live]
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="RTL9 (720p)" tvg-logo="" group-title="TV International",RTL9 (720p) [Onyxia Live]
-http://145.239.5.177/308/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="RTNB Divertissement" tvg-logo="" group-title="TV International",RTNB Divertissement [Onyxia Live]
 https://tv2-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="RTNB TV" tvg-logo="" group-title="TV International",RTNB TV [Onyxia Live]
@@ -1195,8 +1183,6 @@ http://69.64.57.208/sentv/playlist.m3u8
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="SenJeunes TV (480p) [Not 24/7]" tvg-logo="" group-title="TV International",SenJeunes TV (480p) [Not 24/7] [Onyxia Live]
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Serie Club (720p)" tvg-logo="" group-title="TV International",Serie Club (720p) [Onyxia Live]
-http://145.239.5.177/355/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Serie Max" tvg-logo="" group-title="TV International",Serie Max [Onyxia Live]
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="soap" tvg-logo="http://img.platform.wurl.dev/channel/2186/lg/6eed76/LG-Logo-PNG-100x100_v2.png" group-title="TV International",soap [Onyxia Live]
@@ -1283,8 +1269,6 @@ https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Tennis Channel" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tennischannel/400%20x%20200%20px%20Logo2%20(1).png" group-title="TV International",Tennis Channel [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Teva (720p)" tvg-logo="" group-title="TV International",Teva (720p) [Onyxia Live]
-http://145.239.5.177/356/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TFM (720p)" tvg-logo="" group-title="TV International",TFM (720p) [Onyxia Live]
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="The Asylum" tvg-logo="" group-title="TV International",The Asylum [Onyxia Live]
@@ -1315,8 +1299,6 @@ https://stream.it-innov.com/tr24/index.m3u8
 https://6ae962e6e964478e89e91d8c96e555c4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-fr_TravelXP/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TV Al Bayane (360p)" tvg-logo="" group-title="TV International",TV Al Bayane (360p) [Onyxia Live]
 http://69.64.57.208/albayanetv/index.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="TV Breizh (1080p)" tvg-logo="" group-title="TV International",TV Breizh (1080p) [Onyxia Live]
-http://145.239.5.177/318/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TV Famille (720p)" tvg-logo="" group-title="TV International",TV Famille (720p) [Onyxia Live]
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TV La Capitale" tvg-logo="" group-title="TV International",TV La Capitale [Onyxia Live]

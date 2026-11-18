@@ -72,8 +72,6 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="BBLACK! CARIBBEAN [schumijo]" tvg-logo="" group-title="France",BBLACK! CARIBBEAN [schumijo] [Onyxia Live]
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Bblack! Classik (1080p) [kilirushi]" tvg-logo="" group-title="France",Bblack! Classik (1080p) [kilirushi] [Onyxia Live]
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Bblack! Classik (1080p) [kilirushi]" tvg-logo="" group-title="France",Bblack! Classik (1080p) [kilirushi] [Onyxia Live]
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Bel RTL (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Bel RTL (1080p) [iptv-org-fra] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
@@ -388,7 +386,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/FIpqwk2AIzcw/O4pWPNKezZ7Nrvvc.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/N3bTBm3ZxNK/QrmOzVkxvH9u3Q4.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]

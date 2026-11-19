@@ -28,13 +28,13 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africa 24 Sport (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Africa 24 Sport (1080p) [iptv-org-fr] [Onyxia Live]
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africa 24 Sport (1080p) [kilirushi]" tvg-logo="" group-title="France",Africa 24 Sport (1080p) [kilirushi] [Onyxia Live]
-https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africanews English (720p) [kilirushi]" tvg-logo="" group-title="France",Africanews English (720p) [kilirushi] [Onyxia Live]
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Alpe d’Huez TV (720p) [Not 24/7] [iptv-org-fr]" tvg-logo="" group-title="France",Alpe d’Huez TV (720p) [Not 24/7] [iptv-org-fr] [Onyxia Live]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Alpe d’Huez TV (720p) [Not 24/7] [iptv-org-fra]" tvg-logo="" group-title="France",Alpe d’Huez TV (720p) [Not 24/7] [iptv-org-fra] [Onyxia Live]
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Alpe d’Huez TV (720p) [Not 24/7] [kilirushi]" tvg-logo="" group-title="France",Alpe d’Huez TV (720p) [Not 24/7] [kilirushi] [Onyxia Live]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="ARTE" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" group-title="France",ARTE [Onyxia Live]
@@ -232,9 +232,7 @@ https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p) [iptv-org-fr]" tvg-logo="" group-title="France",Generations TV (576p) [iptv-org-fr] [Onyxia Live]
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p) [iptv-org-fra]" tvg-logo="" group-title="France",Generations TV (576p) [iptv-org-fra] [Onyxia Live]
-https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p) [kilirushi]" tvg-logo="" group-title="France",Generations TV (576p) [kilirushi] [Onyxia Live]
-https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p) [kilirushi]" tvg-logo="" group-title="France",Generations TV (576p) [kilirushi] [Onyxia Live]
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p) [kilirushi]" tvg-logo="" group-title="France",Generations TV (576p) [kilirushi] [Onyxia Live]
@@ -386,7 +384,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/N3bTBm3ZxNK/QrmOzVkxvH9u3Q4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HstjVIDdHNPs/SG8Vw20mYOcuPXPF.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]
@@ -612,9 +610,9 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 provider="vstroextras" tvg-name="ADO TV (720p)" tvg-logo="" group-title="TV International",ADO TV (720p) [Onyxia Live]
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africa 24 (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="TV International",Africa 24 (1080p) [Onyxia Live]
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africa 24 English (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="TV International",Africa 24 English (1080p) [Onyxia Live]
-https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Africable TV (360p)" tvg-logo="" group-title="TV International",Africable TV (360p) [Onyxia Live]
 http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Afrik Info TV" tvg-logo="" group-title="TV International",Afrik Info TV [Onyxia Live]
@@ -632,7 +630,7 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_
 #EXTINF:-1 provider="vstroextras" tvg-name="Alerte à Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="TV International",Alerte à Malibu [Onyxia Live]
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Alpe d’Huez TV (720p)" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="TV International",Alpe d’Huez TV (720p) [Onyxia Live]
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Amou Yazid TV (576p)" tvg-logo="" group-title="TV International",Amou Yazid TV (576p) [Onyxia Live]
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Angers Tele (180p)" tvg-logo="https://i.imgur.com/CMKKbaP.png" group-title="TV International",Angers Tele (180p) [Onyxia Live]
@@ -844,7 +842,7 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Generation Sitcoms (1080p)" tvg-logo="" group-title="TV International",Generation Sitcoms (1080p) [Onyxia Fast]
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Generations TV (576p)" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="TV International",Generations TV (576p) [Onyxia Live]
-https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="GLORY Kickboxing" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1360-LG-Logo-PNG-100x100_v4.png" group-title="TV International",GLORY Kickboxing [Onyxia Live]
 https://3afbdc65.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="GMS TV" tvg-logo="" group-title="TV International",GMS TV [Onyxia Live]

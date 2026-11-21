@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-20T20:33:59.216136+00:00",
+  "generated_utc": "2026-11-21T07:26:21.481739+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
       "accepted": 613,
-      "bytes": 1100473
+      "bytes": 1104712
     },
     "Onyxia Fast": {
       "status": "ok",
       "accepted": 53,
-      "bytes": 409790
+      "bytes": 410343
     },
     "Onyx Dric4rTV": {
       "status": "ok",
@@ -18,31 +18,27 @@
       "errors": []
     },
     "Onyx ReneVeo": {
-      "status": "ok",
-      "catalogue_channels": 39,
-      "accepted": 66
+      "status": "unavailable",
+      "reason": "HTTPError"
     },
     "Onyx World Live": {
       "status": "unavailable",
       "reason": "Expecting value: line 1 column 2 (char 1)"
     }
   },
-  "total_entries": 766,
+  "total_entries": 700,
   "groups": {
-    "Documentaire": 2,
-    "France": 248,
-    "France Enfants": 2,
-    "France Info": 2,
-    "France Sport": 35,
+    "France": 220,
+    "France Sport": 5,
     "Maroc": 5,
     "Sport International": 63,
-    "TV International": 409
+    "TV International": 407
   },
   "rejected": {
-    "unsafe_or_unplayable_url": 2053,
+    "unsafe_or_unplayable_url": 2067,
     "drm_or_headers": 215,
-    "category": 926,
-    "duplicate": 623,
+    "category": 923,
+    "duplicate": 625,
     "event_or_replay": 70
   },
   "result": "updated",

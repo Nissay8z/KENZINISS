@@ -40,11 +40,11 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="ARTE" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" group-title="France",ARTE [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Arte (720p)" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="France",Arte (720p) [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Arte (720p)" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="France",Arte (720p) [Onyxia Live]
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="arte (720p) [iptv-org-fr]" tvg-logo="" group-title="France",arte (720p) [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="arte (720p) [iptv-org-fr]" tvg-logo="" group-title="France",arte (720p) [iptv-org-fr] [Onyxia Live]
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="arte (France) (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",arte (France) (1080p) [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="arte (France) (720p) [iptv-org-fr]" tvg-logo="" group-title="France",arte (France) (720p) [iptv-org-fr] [Onyxia Live]
@@ -90,7 +90,7 @@ https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CANAL+ EN CLAIR [schumijo]" tvg-logo="" group-title="France",CANAL+ EN CLAIR [schumijo] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Carac 1 (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Carac 1 (1080p) [iptv-org-fra] [Onyxia Live]
-http://145.239.5.177/371/index.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CATFISH TV (720p) [iptv-org-fr]" tvg-logo="" group-title="France",CATFISH TV (720p) [iptv-org-fr] [Onyxia Live]
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CGTN Français (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",CGTN Français (1080p) [iptv-org-fra] [Onyxia Live]
@@ -184,8 +184,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 provider="vstroextras" tvg-name="France 3 Lorraine (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",France 3 Lorraine (1080p) [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="France 4 (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",France 4 (1080p) [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="France 4 [iptv-org-fr]" tvg-logo="" group-title="France",France 4 [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="France 4 [iptv-org-fr]" tvg-logo="" group-title="France",France 4 [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8
@@ -382,9 +380,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DVtzBFcSS7U9/mAzsGHIWTKtWu930.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3UtyuzS6y0q/pY2ygoVD5qygTSd.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pqHXy7NpSGtu/chpiTF2PiTBv3iVC.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DVtzBFcSS7U9/mAzsGHIWTKtWu930.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]

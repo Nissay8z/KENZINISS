@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-21T19:30:48.932621+00:00",
+  "generated_utc": "2026-11-22T07:08:03.091135+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
-      "accepted": 612,
-      "bytes": 1110488
+      "accepted": 611,
+      "bytes": 1113040
     },
     "Onyxia Fast": {
       "status": "ok",
       "accepted": 53,
-      "bytes": 410343
+      "bytes": 409795
     },
     "Onyx Dric4rTV": {
       "status": "ok",
@@ -26,19 +26,19 @@
       "reason": "Expecting value: line 1 column 2 (char 1)"
     }
   },
-  "total_entries": 699,
+  "total_entries": 698,
   "groups": {
-    "France": 219,
+    "France": 218,
     "France Sport": 5,
     "Maroc": 5,
     "Sport International": 63,
     "TV International": 407
   },
   "rejected": {
-    "unsafe_or_unplayable_url": 2084,
+    "unsafe_or_unplayable_url": 2088,
     "drm_or_headers": 215,
-    "category": 925,
-    "duplicate": 626,
+    "category": 924,
+    "duplicate": 629,
     "event_or_replay": 70
   },
   "result": "updated",

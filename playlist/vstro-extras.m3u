@@ -380,9 +380,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/3UtyuzS6y0q/pY2ygoVD5qygTSd.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DVtzBFcSS7U9/mAzsGHIWTKtWu930.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fhF0Ctw9fE7r/09R1kCc2tuJj2ni.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]
@@ -793,10 +793,6 @@ https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Euronews Français (720p)" tvg-logo="" group-title="TV International",Euronews Français (720p) [Onyxia Fast]
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Euronews Hungarian" tvg-logo="" group-title="TV International",Euronews Hungarian [Onyxia Live]
-https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Euronews Hungarian (720p)" tvg-logo="" group-title="TV International",Euronews Hungarian (720p) [Onyxia Live]
-https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Euronews Spanish (1080p)" tvg-logo="" group-title="TV International",Euronews Spanish (1080p) [Onyxia Live]
 https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Euronews Spanish (720p)" tvg-logo="" group-title="TV International",Euronews Spanish (720p) [Onyxia Live]

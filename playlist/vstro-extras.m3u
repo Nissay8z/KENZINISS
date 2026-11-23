@@ -97,6 +97,8 @@ https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CGTN French (1080p)" tvg-logo="" group-title="France",CGTN French (1080p) [Onyxia Live]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="CGTN French (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",CGTN French (1080p) [iptv-org-fra] [Onyxia Live]
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cheers [iptv-org-fra]" tvg-logo="" group-title="France",Cheers [iptv-org-fra] [Onyxia Live]
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CNews (1080p)" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="France",CNews (1080p) [Onyxia Live]
@@ -129,6 +131,8 @@ http://192.99.186.30/stream/68/index.m3u8
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="ENQUÊTES DE CHOC [schumijo]" tvg-logo="" group-title="France",ENQUÊTES DE CHOC [schumijo] [Onyxia Live]
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="Euronews Hungarian [kilirushi]" tvg-logo="" group-title="France",Euronews Hungarian [kilirushi] [Onyxia Live]
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Euronews Russian [kilirushi]" tvg-logo="" group-title="France",Euronews Russian [kilirushi] [Onyxia Live]
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Europe 1 TV (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Europe 1 TV (1080p) [iptv-org-fr] [Onyxia Live]
@@ -382,7 +386,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DVtzBFcSS7U9/mAzsGHIWTKtWu930.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fhF0Ctw9fE7r/09R1kCc2tuJj2ni.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/YMPKKKywFv/YRtMNMfHO7hE1U.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]
@@ -394,7 +398,7 @@ https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-
 #EXTINF:-1 provider="vstroextras" tvg-name="TRACE BRASIL [schumijo]" tvg-logo="" group-title="France",TRACE BRASIL [schumijo] [Onyxia Live]
 https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Trace Brazuca (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Trace Brazuca (1080p) [iptv-org-fr] [Onyxia Live]
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Trace Brazuca (1090p) [iptv-org-fr]" tvg-logo="" group-title="France",Trace Brazuca (1090p) [iptv-org-fr] [Onyxia Live]
 https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Trace Gospel Southern Africa (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Trace Gospel Southern Africa (1080p) [iptv-org-fra] [Onyxia Live]
@@ -709,8 +713,6 @@ https://vdo2.pro-fhi.net:3290/live/grfoywfflive.m3u8
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Canal Savoir (360p)" tvg-logo="" group-title="TV International",Canal Savoir (360p) [Onyxia Live]
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Canal+ (1080p)" tvg-logo="" group-title="TV International",Canal+ (1080p) [Onyxia Live]
-http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Canal+ Cinemas (720p)" tvg-logo="" group-title="TV International",Canal+ Cinemas (720p) [Onyxia Live]
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Canal+ Family (720p)" tvg-logo="" group-title="TV International",Canal+ Family (720p) [Onyxia Live]

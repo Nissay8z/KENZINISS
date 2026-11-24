@@ -101,6 +101,8 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cheers [iptv-org-fra]" tvg-logo="" group-title="France",Cheers [iptv-org-fra] [Onyxia Live]
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="Cine+ Classic [kilirushi]" tvg-logo="" group-title="France",Cine+ Classic [kilirushi] [Onyxia Live]
+http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CNews (1080p)" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="France",CNews (1080p) [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="CNews (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",CNews (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
@@ -328,7 +330,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/d
 #EXTINF:-1 provider="vstroextras" tvg-name="NOVO19 (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",NOVO19 (1080p) [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/drRNOzJ8SiuPKHh9.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="NOVO19 [iptv-org-fr]" tvg-logo="" group-title="France",NOVO19 [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/drRNOzJ8SiuPKHh9.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/V8iiW9DORMw/ySJAYA9zx3RfwzR.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Passion Novelas (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Passion Novelas (1080p) [iptv-org-fra] [Onyxia Live]
 http://41.223.30.230/PASSIONTV/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Press TV French (1080p)" tvg-logo="" group-title="France",Press TV French (1080p) [Onyxia Live]
@@ -392,7 +394,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DVtzBFcSS7U9/mAzsGHIWTKtWu930.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [iptv-org-fr] [Onyxia Live]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/EZBcioW93kd/d3qWDW8RJBhDIb1l.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/V8iiW9DORMw/GARI93CvIbxFxNcj.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD (1080p) [Geo-blocked] [kilirushi]" tvg-logo="" group-title="France",TMC HD (1080p) [Geo-blocked] [kilirushi] [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i06F85kKWySNiw6Z.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TMC HD [iptv-org-fr]" tvg-logo="" group-title="France",TMC HD [iptv-org-fr] [Onyxia Live]

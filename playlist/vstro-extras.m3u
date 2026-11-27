@@ -469,8 +469,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/i
 https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="TRACE BRASIL [schumijo]" tvg-logo="" group-title="France",TRACE BRASIL [schumijo] [Onyxia Live]
 https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Trace Brazuca (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",Trace Brazuca (1080p) [iptv-org-fr] [Onyxia Live]
-https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Trace Brazuca (1090p) [iptv-org-fr]" tvg-logo="" group-title="France",Trace Brazuca (1090p) [iptv-org-fr] [Onyxia Live]
 https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Trace Gospel Southern Africa (1080p) [iptv-org-fra]" tvg-logo="" group-title="France",Trace Gospel Southern Africa (1080p) [iptv-org-fra] [Onyxia Live]

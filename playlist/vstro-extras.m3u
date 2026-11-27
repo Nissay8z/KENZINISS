@@ -117,8 +117,6 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cheers [iptv-org-fra]" tvg-logo="" group-title="France",Cheers [iptv-org-fra] [Onyxia Live]
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Cine+ Classic [kilirushi]" tvg-logo="" group-title="France",Cine+ Classic [kilirushi] [Onyxia Live]
-http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Ciné+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cin%C3%A9%2B%C3%89motion2024.svg/330px-Cin%C3%A9%2B%C3%89motion2024.svg.png" group-title="France",Ciné+ Emotion [Onyx ReneVeo]
 https://live.reneveo.store/live/4799.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Ciné+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cin%C3%A9%2B%C3%89motion2024.svg/330px-Cin%C3%A9%2B%C3%89motion2024.svg.png" group-title="France",Ciné+ Emotion [Onyx ReneVeo]
@@ -331,6 +329,8 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="LCI HD (1080p) [iptv-org-fr]" tvg-logo="" group-title="France",LCI HD (1080p) [iptv-org-fr] [Onyxia Live]
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
+#EXTINF:-1 provider="vstroextras" tvg-name="LCP (720p) [iptv-org-fr]" tvg-logo="" group-title="France",LCP (720p) [iptv-org-fr] [Onyxia Live]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="LCP - PUBLIC SÉNAT" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png" group-title="France",LCP - PUBLIC SÉNAT [Onyxia Live]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/ExBJ03WxnQWi5AZ6.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="LCP [schumijo]" tvg-logo="" group-title="France",LCP [schumijo] [Onyxia Live]
@@ -883,8 +883,6 @@ https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cine Western" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/cinewestern_logo.png" group-title="TV International",Cine Western [Onyxia Live]
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 provider="vstroextras" tvg-name="Cine+ Classic" tvg-logo="" group-title="TV International",Cine+ Classic [Onyxia Live]
-http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cine+ Emotion (720p)" tvg-logo="" group-title="TV International",Cine+ Emotion (720p) [Onyxia Live]
 http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 provider="vstroextras" tvg-name="Cine+ Frisson (1080p)" tvg-logo="" group-title="TV International",Cine+ Frisson (1080p) [Onyxia Live]

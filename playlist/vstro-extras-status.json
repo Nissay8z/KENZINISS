@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-11-27T21:29:04.940200+00:00",
+  "generated_utc": "2026-11-28T08:07:03.338963+00:00",
   "sources": {
     "Onyxia Live": {
       "status": "ok",
       "accepted": 625,
-      "bytes": 1125921
+      "bytes": 1126228
     },
     "Onyxia Fast": {
       "status": "ok",
@@ -39,10 +39,10 @@
     "TV International": 416
   },
   "rejected": {
-    "unsafe_or_unplayable_url": 2103,
+    "unsafe_or_unplayable_url": 2100,
     "drm_or_headers": 215,
-    "category": 931,
-    "duplicate": 652,
+    "category": 933,
+    "duplicate": 653,
     "event_or_replay": 71
   },
   "result": "updated",
